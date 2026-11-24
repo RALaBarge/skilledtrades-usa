@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://skilledtrades-usa.com/sitemap.xml

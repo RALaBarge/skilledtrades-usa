@@ -1,0 +1,1010 @@
+[
+ {
+  "state": "Alabama",
+  "college": "Jefferson State Community College",
+  "college_home_url": "https://www.jeffersonstate.edu/",
+  "trades_page_url": "https://www.jeffersonstate.edu/academics/programs/welding-technology/about-welding-technology/",
+  "programs": [
+   "Welding Technology",
+   "HVAC (non-credit, Workforce Center)",
+   "Electrical circuits/industrial training (Workforce Center, non-credit)",
+   "Manufacturing and Technology"
+  ],
+  "credentials": "Welding: certificate and AAS; NCCER industry welding certificates; non-credit workforce certificates",
+  "city": "Birmingham",
+  "state_workforce_url": "https://workforce.alabama.gov/",
+  "notes": "Welding labs at Jefferson, Shelby, St. Clair/Pell City and Clanton campuses; day and evening welding classes; Women in Welding scholarship course. Free tuition/grant not confirmed. HVAC and electrical offerings found via search only, not on the welding page.",
+  "verified": true
+ },
+ {
+  "state": "Alaska",
+  "college": "Alaska Vocational Technical Center (AVTEC)",
+  "college_home_url": "https://avtec.edu/",
+  "trades_page_url": "https://avtec.edu/about/general-information",
+  "programs": [
+   "Construction Technology",
+   "Diesel/Heavy Equipment Technologies",
+   "Industrial Electricity",
+   "Industrial Machine and Maintenance",
+   "Industrial Welding",
+   "Plumbing and Heating",
+   "Refrigeration"
+  ],
+  "credentials": "AVTEC certificate; industry-recognized credentials and licenses (e.g., EPA refrigerant certification)",
+  "city": "Seward",
+  "state_workforce_url": "https://labor.alaska.gov/home.htm",
+  "notes": "State-owned and operated post-secondary career/technical center (Dept. of Labor and Workforce Development). Hands-on lab is over 70% of learning time; 8-16 students per instructor. Industrial Machine and Maintenance (CNC/machining) launched 2024. Admissions (907) 224-3322.",
+  "verified": true
+ },
+ {
+  "state": "Arizona",
+  "college": "Mesa Community College (Maricopa Community Colleges)",
+  "college_home_url": "https://www.mesacc.edu/",
+  "trades_page_url": "https://www.mesacc.edu/programs/welding",
+  "programs": [
+   "Welding (multiple certificates: fundamentals, GMAW/FCAW, GTAW, SMAW pipe/plate)",
+   "Applied Science in Welding"
+  ],
+  "credentials": "Certificates of Completion; AAS in Welding",
+  "city": "Mesa",
+  "state_workforce_url": "https://www.azdes.gov/",
+  "notes": "Campuses at Southern/Dobson and Red Mountain. Maricopa district-wide: HVAC-R at GateWay (Phoenix, Washington Campus, AAS and certificates) and Construction Trades: Electrical at Mesa, Rio Salado and South Mountain per the district field-of-interest matrix (2022-23 catalog). Maricopa district trades pages returned 403 to fetch, so only the Mesa welding page was verified directly. Free tuition not confirmed.",
+  "verified": true
+ },
+ {
+  "state": "Arkansas",
+  "college": "University of Arkansas Pulaski Technical College (UA-PTC)",
+  "college_home_url": "https://uaptc.edu/",
+  "trades_page_url": "https://uaptc.edu/welding",
+  "programs": [
+   "Welding Technology",
+   "HVACR",
+   "Electrical Lineworker Technology",
+   "Advanced Manufacturing Technology",
+   "Automotive",
+   "Diesel",
+   "Collision Repair",
+   "Construction",
+   "Aviation Maintenance",
+   "Professional Truck Driver Training"
+  ],
+  "credentials": "Technical Certificate in Welding Technology (two semesters); Certificate of Proficiency in Welding Technology (one semester)",
+  "city": "North Little Rock",
+  "state_workforce_url": "https://dws.arkansas.gov/",
+  "notes": "Welding program WIOA-approved; 2025 American Welding Society Foundation grant of about $44K. Campus: School of Technical and Professional Studies, 3000 W. Scenic Dr. Free tuition not confirmed on the page.",
+  "verified": true
+ },
+ {
+  "state": "California",
+  "college": "Long Beach City College",
+  "college_home_url": "https://www.lbcc.edu/",
+  "trades_page_url": "https://lbcc.edu/program-electrical-technology",
+  "programs": [
+   "Electrical Technology (Electrical Apprenticeship Preparation, General Industrial Electrician, Automation Technician, High Voltage Test Technician, Solar Installation and Maintenance, Traffic Signal Technician)"
+  ],
+  "credentials": "Certificates of Achievement and Completion; AS degrees for several tracks",
+  "city": "Long Beach",
+  "state_workforce_url": "https://www.dir.ca.gov/das/",
+  "notes": "Approved California Division of Apprenticeship Standards school (#101); prep program aligned with state electrician certification testing. Program length and free tuition not stated on the page. Foothill College (Los Altos Hills) also runs DAS-registered HVAC and inside-wireman apprenticeships, but its pages would not load for verification.",
+  "verified": true
+ },
+ {
+  "state": "Colorado",
+  "college": "Red Rocks Community College",
+  "college_home_url": "https://www.rrcc.edu/",
+  "trades_page_url": "https://www.rrcc.edu/career-and-technical-education",
+  "programs": [
+   "Electrical",
+   "Air Conditioning, Heating & Refrigeration",
+   "Carpentry",
+   "Welding (taught at Warren Tech)",
+   "Precision Machining (taught at Warren Tech)",
+   "Automotive Service Technology (taught at Warren Tech)",
+   "Auto Collision Repair (taught at Warren Tech)",
+   "Automotive Customization (taught at Warren Tech)",
+   "Construction Electrician",
+   "Maintenance Electrician",
+   "Power Line Technician",
+   "Industrial Control and Instrumentation Technology"
+  ],
+  "credentials": "AAS, AS, and certificates (per the Electrical program page; the Career and Technical Education page does not state credential types)",
+  "city": "Lakewood",
+  "state_workforce_url": "https://cdle.colorado.gov/",
+  "notes": "Career and Technical Education page covers electrical, HVAC, carpentry, welding, machining and automotive, plus Power Line Technician (lineworker) on the electrical page. No plumbing program appears on any fetched RRCC page, so plumbing is missing. Welding, machining and automotive are delivered through partner Warren Tech. Campus city is from a search snippet (Arvada/Lakewood), not a fetched page. The state workforce URL returned 403 to WebFetch, so it is unverified.",
+  "verified": true
+ },
+ {
+  "state": "Connecticut",
+  "college": "Connecticut State Community College (unresolved)",
+  "college_home_url": "https://ctstate.edu/",
+  "trades_page_url": "https://ctstate.edu/programs/welding",
+  "programs": [],
+  "credentials": "Non-credit certificates (welding, 100-130 hrs); credit AS degree and certificate in Welding and Fabrication Technologies (Asnuntuck, AWS accredited test facility)",
+  "city": "Waterbury",
+  "state_workforce_url": "https://portal.ct.gov/DOL",
+  "notes": "UNRESOLVED. No CT State page fetched lists a broad trades set. The Find a Program page (ctstate.edu/academics/programs, page 1 of about 24) lists only Architecture: Construction Technology Certificate and Automotive Technology Certificate options. The Manufacturing page lists only generic Advanced Manufacturing. The Eversource Lineworker Program (ctstate.edu/programs/lineworker, CT State Capital) is verified but is a single-trade page. Welding at Naugatuck Valley (ctstate.edu/programs/welding) was seen only in search results, not fetched. Electrical, HVAC and plumbing programs at CT State were not found on any fetched page. The catalog PDF and catalog program index returned 403. Quinebaug Valley (qvcc.ctstate.edu) returned a certificate-expired error. The CT Dept. of Labor page loaded and is verified.",
+  "verified": false
+ },
+ {
+  "state": "Delaware",
+  "college": "Delaware Technical Community College (DTCC)",
+  "college_home_url": "https://www.dtcc.edu/",
+  "trades_page_url": "https://www.dtcc.edu/academics/programs-study/",
+  "programs": [
+   "Construction Technology (Certificate; Middletown, New Castle, Seaford)",
+   "General Carpentry (Certificate; Middletown, Seaford)",
+   "Construction Management (AAS; Stanton)",
+   "Heating, Ventilation, and Air Conditioning (HVAC) (Certificate; Dover, New Castle, Seaford)",
+   "Refrigeration, Heating, and Air Conditioning (AAS; Georgetown)",
+   "Refrigeration, Heating, and Air Conditioning Studies (Diploma; Georgetown)",
+   "Welding Technician (Certificate; New Castle, Seaford)",
+   "Welding Apprenticeship (Certificate; Seaford)",
+   "Automotive Technology Level I and Level II (Certificate; Georgetown, Stanton)",
+   "Diesel Technology (Certificate; Georgetown, Stanton)",
+   "Heavy Equipment Operator (Certificate; Georgetown, Middletown)",
+   "Electronics Engineering Technology (AAS; Dover, Georgetown, Stanton)",
+   "Electrical and Computer Engineering Transfer Option (AAS; Stanton)"
+  ],
+  "credentials": "Certificates (CER), Diplomas (DIP), and AAS as listed per program on the fetched page.",
+  "city": "Dover, DE (main campus; not stated on the fetched page)",
+  "state_workforce_url": "https://dol.delaware.gov/",
+  "notes": "Electrical gap confirmed: the fetched DTCC programs page has no electrical trades certificate. The only electrical-named programs are Electronics Engineering Technology and an Electrical and Computer Engineering transfer option, which are not electrical trades. No plumbing or machining program is on the page. The Delaware Skills Center (not a community college) runs an Electrical Trades Training Program, 12 weeks/420 hours, 500 Ships Landing Way, New Castle, DE, per joblink.delaware.gov (fetched, program 2182) as the state electrical-trades alternative. Polytech Adult Education offers a four-year electrical program per search results (not fetched).",
+  "verified": true
+ },
+ {
+  "state": "Florida",
+  "college": "Eastern Florida State College",
+  "college_home_url": "https://www.easternflorida.edu/",
+  "trades_page_url": "https://easternflorida.edu/academics/welding-technology",
+  "programs": [
+   "Welding Technology (CTC)",
+   "HVAC (CTC, from program search results; page not fetched)"
+  ],
+  "credentials": "Career and Technical Certificate (CTC)",
+  "city": "Cocoa",
+  "state_workforce_url": "",
+  "notes": "Welding CTC is 1,050 clock hours, two 20-week terms, Cocoa campus, about $2,690 in-state tuition before lab/material fees. Federal aid eligible; limited-access point-system admission, Fall 2027 deadline listed June 10. Page does not mention free tuition. Florida College System has similar CTC welding/HVAC/electrical at Florida State College at Jacksonville and Broward College if an electrical program is required.",
+  "verified": true
+ },
+ {
+  "state": "Georgia",
+  "college": "Gwinnett Technical College",
+  "college_home_url": "https://gwinnetttech.edu/",
+  "trades_page_url": "https://gwinnetttech.edu/programs/",
+  "programs": [
+   "Automotive Technology",
+   "Air Conditioning Technology (HVAC)",
+   "Refrigeration System Service Technician",
+   "Welding & Joining Technology",
+   "Electrical Systems Technology",
+   "Commercial Construction Management",
+   "Carpentry & Construction Management",
+   "Heavy Diesel Technician",
+   "Mechatronics",
+   "Engineering Technology"
+  ],
+  "credentials": "Diploma, certificate, AAS (technical college)",
+  "city": "Lawrenceville",
+  "state_workforce_url": "https://www.tcsg.edu/",
+  "notes": "Technical College System of Georgia school. Registered apprenticeships and customized training offered (economic development pages). Links to HOPE Career Grant and GEORGIA MATCH pages; HOPE eligibility not confirmed on the program page. Homepage shows 'Apply for FREE in November' promo, which is application-fee related, not confirmed tuition.",
+  "verified": true
+ },
+ {
+  "state": "Hawaii",
+  "college": "Hawaii Community College (University of Hawaii System)",
+  "college_home_url": "https://www.hawcc.hawaii.edu/",
+  "trades_page_url": "https://www.hawcc.hawaii.edu/mwim",
+  "programs": [
+   "Machine, Welding and Industrial Mechanics Technologies"
+  ],
+  "credentials": "Certificate of Achievement, Certificate of Achievement, AAS degree",
+  "city": "Hilo",
+  "state_workforce_url": "https://labor.hawaii.gov/wdc/",
+  "notes": "Single-campus page on Hilo campus; links a Cost of Attendance PDF for tuition. Honolulu CC (honolulu.hawaii.edu) also runs welding and non-credit trades courses, but its welding page failed to load with a certificate error, so it was not used. UH community colleges list free/grant-funded short-term training through Good Jobs Hawaii.",
+  "verified": true
+ },
+ {
+  "state": "Idaho",
+  "college": "College of Western Idaho",
+  "college_home_url": "https://cwi.edu/",
+  "trades_page_url": "https://cwi.edu/programs-degrees/industrial-technology-trades",
+  "programs": [
+   "Electrical Apprenticeship",
+   "HVAC Apprenticeship",
+   "Plumbing Apprenticeship",
+   "Welding and Metals Fabrication",
+   "Welding - Short-Term Training",
+   "Automotive Technology",
+   "Heavy Equipment Technician",
+   "Machine Tool Technology",
+   "Collision Repair Technology"
+  ],
+  "credentials": "Apprenticeship (electrical, HVAC, plumbing), short-term certificates, EPA 608 certification",
+  "city": "Nampa",
+  "state_workforce_url": "https://idahoworks.gov/",
+  "notes": "Main campus in Nampa, serves the Boise metro. Includes upgrade-training tracks for electricians, HVAC and plumbers. Idaho LAUNCH free-tuition program is a state option (per Idaho Next Steps materials; not checked against CWI eligibility). Credential details listed on the page are sparse.",
+  "verified": true
+ },
+ {
+  "state": "Illinois",
+  "college": "Elgin Community College",
+  "college_home_url": "https://www.elgin.edu/",
+  "trades_page_url": "https://elgin.edu/areas-of-study/career-and-technical-programs/",
+  "programs": [
+   "Automotive",
+   "Heating, Vent, A/C, and Refrigeration",
+   "Welding",
+   "Automation, Robotics, and Maintenance Technology",
+   "Advanced Manufacturing",
+   "CNC Operator",
+   "CNC Programmer",
+   "Tool and Die Making",
+   "Light Commercial HVAC Service Technician",
+   "Arc Welding",
+   "Pipe Welding",
+   "Refrigeration Service Technician"
+  ],
+  "credentials": "AAS degrees and certificates",
+  "city": "Elgin",
+  "state_workforce_url": "https://apps.illinoisworknet.com/cis/wioatraining/program/371_1013321",
+  "notes": "About 40 career-technical programs in total. The state page linked is an Illinois WIOA training listing that rendered with unfilled template text, so it was not confirmed as a usable board page; an official IDES/WIOA home page was not verified.",
+  "verified": true
+ },
+ {
+  "state": "Indiana",
+  "college": "Ivy Tech Community College",
+  "college_home_url": "https://www.ivytech.edu/",
+  "trades_page_url": "https://www.ivytech.edu/industrial-technology/index.html",
+  "programs": [
+   "Industrial Electrical Technology",
+   "Welding Technology",
+   "Structural Welding",
+   "Industrial Mechanical Technology",
+   "Building and Property Maintenance Technician",
+   "Quality Assurance Technology"
+  ],
+  "credentials": "AAS in Industrial Technology, Technical Certificates (TC), Short-Term Certificates (CT), AWS and MSSC workforce certifications",
+  "city": "Statewide (HQ Indianapolis)",
+  "state_workforce_url": "https://www.in.gov/dwd/workforce-ready-grant/workforce-ready-grant/available-job-training/",
+  "notes": "19 campuses statewide. Page does not list a standalone HVAC program (HVAC appears only inside the Building and Property Maintenance certificate). Indiana Workforce Ready Grant lists Ivy Tech among providers for high-demand certificates; FAFSA required, not income-based per the state page.",
+  "verified": true
+ },
+ {
+  "state": "Iowa",
+  "college": "Kirkwood Community College",
+  "college_home_url": "https://www.kirkwood.edu/",
+  "trades_page_url": "https://www.kirkwood.edu/programs/degrees/industrial-tech/index",
+  "programs": [
+   "Advanced Welding",
+   "HVAC Installer",
+   "Industrial Maintenance Technology",
+   "CNC Machining Technology",
+   "Diesel Technologies",
+   "Automotive Technology",
+   "Automotive Collision Repair",
+   "Carpentry",
+   "Plumbing Pre-Apprenticeship",
+   "Construction Management"
+  ],
+  "credentials": "1-year diplomas (HVAC Installer, Carpentry, Collision Repair, Plumbing Pre-Apprenticeship); two-year AAS-style programs",
+  "city": "Cedar Rapids",
+  "state_workforce_url": "https://workforce.iowa.gov/",
+  "notes": "Iowa Last-Dollar Scholarship covers some technical programs; eligibility of each Kirkwood program not confirmed. state_workforce_url is the workforce.iowa.gov root and was not fetched (the sub-page returned 403 to the fetch tool).",
+  "verified": true
+ },
+ {
+  "state": "Kansas",
+  "college": "Kansas City Kansas Community College",
+  "college_home_url": "https://www.kckcc.edu/",
+  "trades_page_url": "https://www.kckcc.edu/academics/explore-programs/programs/welding-technology.html",
+  "programs": [
+   "Welding Technology"
+  ],
+  "credentials": "Welding Technology Certificate A and Certificate B (19 credit hours, about 5-12 months)",
+  "city": "Kansas City, KS",
+  "state_workforce_url": "https://www.kansasworks.com",
+  "notes": "Page names no other trades programs; references industrial machinery mechanic and structural metal fabricator career paths and Construction Apprenticeship Tech Prep Consortium apprenticeships. Other Kansas options from search (not verified in detail): WSU Tech (Wichita, HVAC and electrical), Pratt CC (welding, electrical). Kansas Promise scholarship eligibility is listed for some WSU Tech and Pratt programs.",
+  "verified": true
+ },
+ {
+  "state": "Kentucky",
+  "college": "Jefferson Community and Technical College (KCTCS)",
+  "college_home_url": "https://jefferson.kctcs.edu/",
+  "trades_page_url": "https://jefferson.kctcs.edu/education-training/program-finder/welding-technology.aspx",
+  "programs": [
+   "Welding Technology",
+   "HVAC (per JCTC AOSEM materials, not verified on an official page)",
+   "Electrical Technology (aggregator only, not verified)"
+  ],
+  "credentials": "Welding: AAS (about 2 years full-time), Combination Welder Diploma, and 8 certificates",
+  "city": "Louisville, KY",
+  "state_workforce_url": "https://workreadykentucky.com",
+  "notes": "Welding page verified. HVAC and electrical are from secondary sources only. Louisville is a major metro. KCTCS statewide system has tuition-free short-term Work Ready Kentucky training (https://workreadykentucky.com, linked from kctcs.edu, not fetched).",
+  "verified": true
+ },
+ {
+  "state": "Louisiana",
+  "college": "SOWELA Technical Community College",
+  "college_home_url": "https://www.sowela.edu/",
+  "trades_page_url": "https://www.sowela.edu/programs/tat/welding/",
+  "programs": [
+   "Welding (diploma; loads, title 'Welding - SOWELA Technical Community College'). Includes Welders Helper and SMAW Pipe Welder stages.",
+   "Industrial Electrical Technology (AAS; loads) https://www.sowela.edu/programs/indt/electrician/",
+   "Electrical Construction (apprenticeship) https://www.sowela.edu/programs/tat/electrical-construction/",
+   "Residential Electrician (short-term) https://www.sowela.edu/programs/workforce/residential-electrician/",
+   "HVAC Training (short-term) https://www.sowela.edu/programs/workforce/hvac/",
+   "Plumbing Construction (apprenticeship) https://www.sowela.edu/programs/tat/plumbing-construction/",
+   "Pipefitting (short-term) https://www.sowela.edu/programs/workforce/pipefitting/",
+   "Carpentry https://www.sowela.edu/programs/tat/carpentry/",
+   "Industrial Mechanics for Millwrights and Machinists https://www.sowela.edu/programs/tat/industrial-mechanics/",
+   "Vehicle Maintenance and Repair Technology https://www.sowela.edu/programs/tat/vehicle/"
+  ],
+  "credentials": "Welding: diploma (61 semester credit hours, 1,155 clock hours total program; stackable Welders Helper and SMAW Pipe Welder). Industrial Electrical Technology: AAS (60 credit hours, 1,125 clock hours) plus a 45-credit-hour diploma option (TD). Other programs' credentials not checked.",
+  "city": "Lake Charles, LA (main campus; Jennings and Oakdale campuses also listed for electrical)",
+  "state_workforce_url": "https://www.laworks.net/",
+  "notes": "Dedicated trades pages verified for welding and industrial electrical; program links listed on SOWELA homepage (https://www.sowela.edu/) for the rest, not individually fetched. Welding page loads, lists coursework and AWS Entry Level Welder Test prep. Lineworker not offered per homepage. Industrial maintenance/millwright covered by Industrial Mechanics page.",
+  "verified": true
+ },
+ {
+  "state": "Maine",
+  "college": "Southern Maine Community College",
+  "college_home_url": "https://www.smccme.edu/",
+  "trades_page_url": "https://www.smccme.edu/academics/pathways/industrial-technology-transportation/",
+  "programs": [
+   "Automotive Technology",
+   "Construction Technology",
+   "Electrical Engineering Technologies / Electrician Technology",
+   "Heating, Air Conditioning & Refrigeration (HVAC)",
+   "Precision Machining & Manufacturing",
+   "CNC Machine Operator",
+   "Plumbing",
+   "Welding (Welding Academy short-term)",
+   "Electric Vehicle & Hybrid Repair",
+   "Oil Burner Technician"
+  ],
+  "credentials": "Associate degrees, certificates, and short-term workforce training",
+  "city": "South Portland, ME",
+  "state_workforce_url": "https://joblink.maine.gov/",
+  "notes": "Portland metro reach. Maine JobLink lists SMCC programs with State Approved WIOA status. Alternate verified option: Washington County CC (https://wccc.me.edu/academics/pathways/industrial-technology-transportation/) if a northern/eastern location is preferred.",
+  "verified": true
+ },
+ {
+  "state": "Maryland",
+  "college": "Cecil College",
+  "college_home_url": "https://www.cecil.edu/",
+  "trades_page_url": "https://www.cecil.edu/programs-courses/cewd/workforce-training/skilled-trades",
+  "programs": [
+   "Automotive Repair",
+   "Construction",
+   "Diesel Technology",
+   "Electrical",
+   "HVAC/R",
+   "Welding",
+   "Marine Service Technology",
+   "Utility Training",
+   "Certified Manufacturing Associate",
+   "Pest Management",
+   "CDL (linked)"
+  ],
+  "credentials": "Workforce training and apprenticeships (Electrical and HVAC/R apprenticeship programs linked)",
+  "city": "North East, MD",
+  "state_workforce_url": "https://labor.maryland.gov/",
+  "notes": "Utility Training is a tuition-free program offered with Delmarva Power. Electrical and HVAC/R apprenticeships are linked. Cecil is in northeast Maryland, not Baltimore or DC metro; CCBC (Baltimore) is building a $13.3M Welding and Trades Center if metro reach matters. Maryland Works for Wind grant funds Anne Arundel CC welding training (tuition-free, 5 or 15 week cohorts).",
+  "verified": true
+ },
+ {
+  "state": "Massachusetts",
+  "college": "Quinsigamond Community College (QCC)",
+  "college_home_url": "https://www.qcc.edu/",
+  "trades_page_url": "https://www.qcc.edu/installation-maintenance-and-repair-technologies",
+  "programs": [
+   "HVAC/R (Heating Ventilation Air Conditioning) Certificate",
+   "Automotive Technology (AAS)",
+   "Advanced Automotive Certificate",
+   "Automotive Technology - Ford Maintenance and Light Repair Certificate",
+   "Utility Technology Certificate (utility line/meter work)"
+  ],
+  "credentials": "Associate in Applied Science (AAS); Certificates",
+  "city": "Worcester, MA",
+  "state_workforce_url": "https://www.mass.gov/orgs/executive-office-of-labor-and-workforce-development (not fetched: returned 403)",
+  "notes": "Public community college, Worcester campus at 670 West Boylston Street. The trades page loaded and lists HVAC/R and automotive programs plus a utility technology certificate. It does not list welding, electrical (building), plumbing, carpentry or machining; the utility certificate is the closest electrical match. Page is the Installation, Maintenance and Repair Technologies category. Fallback if a building-electrical or welding page is needed: none verified yet at QCC.",
+  "verified": true
+ },
+ {
+  "state": "Minnesota",
+  "college": "Minneapolis College (Minnesota State)",
+  "college_home_url": "https://www.minneapolis.edu",
+  "trades_page_url": "https://www.minneapolis.edu/welding",
+  "programs": [
+   "Welding and Metal Fabrication"
+  ],
+  "credentials": "Certificate (27 credits, about 1 year); Diploma (45 credits); A.A.S. (60 credits)",
+  "city": "Minneapolis",
+  "state_workforce_url": "",
+  "notes": "Page confirms AWS-standard welder certifications, AWS scholarships, and transfer agreements. Search results also say the college runs HVAC/refrigeration and CNC machining programs, but those were not verified on a fetched page. Part of Minnesota State system.",
+  "verified": true
+ },
+ {
+  "state": "Mississippi",
+  "college": "Hinds Community College",
+  "college_home_url": "https://www.hindscc.edu",
+  "trades_page_url": "https://www.hindscc.edu/welding",
+  "programs": [
+   "Welding and Cutting Technology"
+  ],
+  "credentials": "A.A.S. (60-63 hours); Career Certificate (30 hours); Technical Certificate (45-46 hours)",
+  "city": "Jackson",
+  "state_workforce_url": "",
+  "notes": "Offered at Jackson, Rankin, Raymond, Utica and Vicksburg campuses, mainly face-to-face. Search results (not fetched) also list electrical and HVAC courses in its catalog. Mississippi Gulf Coast CC (MGCCC) also has electrical and HVAC programs, and its news page says it launched an evening Electrical Technology program in January 2026, but that page did not give credentials. Its career-tech index URL returned 403.",
+  "verified": true
+ },
+ {
+  "state": "Missouri",
+  "college": "St. Louis Community College (STLCC)",
+  "college_home_url": "https://www.stlcc.edu",
+  "trades_page_url": "https://www.stlcc.edu/programs-academics/pathways/a-m-i-o-t/skilled-trades-industrial-occupations-technology/index.aspx",
+  "programs": [
+   "Skilled Trades Industrial Occupations Technology (carpentry, electrical systems, PLC and robotics, sheet metal manufacturing)"
+  ],
+  "credentials": "A.A.S. (60 credit hours); Certificate of Specialization (12-15 credit hours)",
+  "city": "St. Louis (Florissant Valley campus)",
+  "state_workforce_url": "",
+  "notes": "Page confirms the program at Florissant Valley. Search results (not fetched) say STLCC has apprenticeship-linked associate degree agreements for electrical workers and carpenters, plus a separate welding technology program in its catalog. The skilled-trades catalog URL returned 403.",
+  "verified": true
+ },
+ {
+  "state": "Montana",
+  "college": "Flathead Valley Community College (FVCC)",
+  "college_home_url": "https://www.fvcc.edu",
+  "trades_page_url": "https://www.fvcc.edu/?p=45135",
+  "programs": [
+   "Electrical Technology",
+   "Electrical Apprentice",
+   "Electronics Technician",
+   "HVAC Apprentice",
+   "Heavy Equipment Operator",
+   "Industrial Machine Technology",
+   "Welding and Fabrication Technology",
+   "Welding Technology",
+   "Firearms Technologies",
+   "Surveying"
+  ],
+  "credentials": "A.A.S. (2 years); C.A.S. and C.T.S. (2 semesters); apprenticeship certificates",
+  "city": "Kalispell",
+  "state_workforce_url": "",
+  "notes": "Trades Institute. Search results (not fetched) say the Gianforte Trade Tech scholarship covers FVCC's electrical, HVAC and welding programs. Also has short HVAC Fundamentals and HVAC Installation Technician courses. Montana's other trades options include Missoula College (UM) welding with CAS/AAS.",
+  "verified": true
+ },
+ {
+  "state": "Nebraska",
+  "college": "Central Community College",
+  "college_home_url": "https://www.cccneb.edu/",
+  "trades_page_url": "https://www.cccneb.edu/weld",
+  "programs": [
+   "Welding Technology",
+   "Heavy Equipment Operator Technician",
+   "Diesel Technology",
+   "Auto Body Technology",
+   "Advanced Manufacturing Design Technology"
+  ],
+  "credentials": "Certificate (1 semester), Diploma (up to 1 year), AAS (2 years)",
+  "city": "Hastings",
+  "state_workforce_url": "https://dol.nebraska.gov/ReemploymentServices/EmployerResources/RegisteredApprenticeship",
+  "notes": "Campuses in Columbus, Grand Island, Hastings, Holdrege, Kearney, Lexington, Ord. Nebraska DOL Registered Apprenticeship page is the state entry point. HQ city is from general knowledge, not stated on the fetched page.",
+  "verified": true
+ },
+ {
+  "state": "Nevada",
+  "college": "College of Southern Nevada",
+  "college_home_url": "https://www.csn.edu/",
+  "trades_page_url": "https://www.csn.edu/imctarea",
+  "programs": [
+   "Welding Technology",
+   "Air Conditioning (HVAC)",
+   "Automotive and collision repair",
+   "Diesel and heavy equipment",
+   "Advanced manufacturing (automation and machining)",
+   "Construction management and estimating",
+   "Building inspection",
+   "Water/wastewater treatment"
+  ],
+  "credentials": "Certificates of Achievement, Skills Certificates, AAS",
+  "city": "Las Vegas",
+  "state_workforce_url": "https://owinn.nv.gov/",
+  "notes": "Electrical is not on the IMCT page but CSN's accelerated training catalog lists electrical technician and HVAC installer courses. Partnership with Southern Nevada Building Trades Union for apprenticeships. Campuses in Las Vegas, Henderson, North Las Vegas. OWINN is the state apprenticeship agency (reporting line reportedly changed; verify).",
+  "verified": true
+ },
+ {
+  "state": "New Hampshire",
+  "college": "Lakes Region Community College (Laconia, NH; part of the Community College System of New Hampshire)",
+  "college_home_url": "https://www.lrcc.edu/",
+  "trades_page_url": "https://www.lrcc.edu/programs/",
+  "programs": [
+   "Electrical Power and Control Technologies (Associate Degree and Certificate)",
+   "Electrical Systems Installation and Maintenance (Associate Degree and Certificate)",
+   "Automotive - General Motors ASEP (Associate Degree)",
+   "Automotive - Toyota/Lexus T-TEN (Associate Degree and Certificate)"
+  ],
+  "credentials": "Associate Degree; Certificate",
+  "city": "Laconia, NH",
+  "state_workforce_url": "https://www.nh.gov/ (not fetched: returned 403); NH Employment Security is the state workforce agency",
+  "notes": "Public community college. The programs page loaded and lists two electrical programs and two automotive programs. The page is titled 'Programs Archive' and does not list welding, HVAC, plumbing, carpentry or lineworker programs. Workforce training page (https://www.lrcc.edu/workforce-development/) was linked from the homepage but not fetched. NHTI (Concord) was not chosen because its programs page (https://www.nhti.edu/programs/) showed only engineering programs on page 1 of 4, and its trades page (careertraining.nhti.edu) returned 403.",
+  "verified": true
+ },
+ {
+  "state": "New Jersey",
+  "college": "Camden County College",
+  "college_home_url": "https://www.camdencc.edu/",
+  "trades_page_url": "https://www.camdencc.edu/academics-1/trade-careers",
+  "programs": [
+   "Apprenticeship Programs (Electrical, HVAC, Plumbing)",
+   "Welding Technology",
+   "Electrical Residential",
+   "HVAC",
+   "Hydro Technology (Plumbing)",
+   "Carpentry Technology",
+   "Automotive Technology",
+   "Manufacturing Technology (CNC)",
+   "Building, Electrical, Fire, Plumbing inspector programs"
+  ],
+  "credentials": "Certificates; registered apprentices can earn up to 30 college credits toward an AAS in technical studies",
+  "city": "Blackwood",
+  "state_workforce_url": "https://www.nj.gov/labor/career-services/apprenticeship/aboutus.shtml",
+  "notes": "Foundation for Trades Scholarship (per search snippet) covers carpentry, electrical, HVAC, plumbing, welding. Grant Funded Training link on the site, no details fetched. City is from general knowledge, not on the fetched page.",
+  "verified": true
+ },
+ {
+  "state": "New Mexico",
+  "college": "Central New Mexico Community College (CNM)",
+  "college_home_url": "https://www.cnm.edu/",
+  "trades_page_url": "https://www.cnm.edu/programs/skilled-trades-arts",
+  "programs": [
+   "Electrical Trades",
+   "Heating, Ventilating, Air Conditioning & Refrigeration (HVACR)",
+   "Welding",
+   "Machine Tool Technology",
+   "Mechatronics (Industrial Automation)",
+   "Plumbing and Gas Fitting",
+   "Automotive Technology",
+   "Electric Vehicle Technology",
+   "Diesel Equipment Technology",
+   "Carpentry and Construction"
+  ],
+  "credentials": "Certificates and AAS degrees; over 100 industry certifications in EV Technology",
+  "city": "Albuquerque",
+  "state_workforce_url": null,
+  "notes": "School of Skilled Trades & Arts. Ted Chavez Trades and Technologies Center opened August 2025 and houses most trades programs (per search result, not on the fetched page). NM DWS apprenticeship pages (dws.nm.gov, dws.state.nm.us) returned Request Rejected, so no state workforce URL verified. Northern New Mexico College (Espanola) also runs HVAC, welding, and electrical programs.",
+  "verified": true
+ },
+ {
+  "state": "New York",
+  "college": "Mohawk Valley Community College",
+  "college_home_url": "https://www.mvcc.edu/",
+  "trades_page_url": "https://www.mvcc.edu/academics/programs",
+  "programs": [
+   "Electrical Service Technician",
+   "HVACR Programs",
+   "Carpentry and Masonry",
+   "Welding",
+   "Computer Numeric Controlled (CNC) Machinist Technology",
+   "Metal Fabrication",
+   "Mechatronics"
+  ],
+  "credentials": "Not stated on the fetched programs page (the page lists names only)",
+  "city": "Utica",
+  "state_workforce_url": "https://dol.ny.gov/",
+  "notes": "Programs page lists electrical, HVAC/R, carpentry/masonry, welding, CNC machining, metal fabrication and mechatronics. No automotive, plumbing, or lineworker/utility program appears on the fetched page, so those trades are missing. Campuses are Utica (main) and Rome, per the home page. The Hudson Valley/SUNY search snippets were not used because they were not fetched.",
+  "verified": true
+ },
+ {
+  "state": "North Carolina",
+  "college": "Wake Technical Community College",
+  "college_home_url": "https://www.waketech.edu/",
+  "trades_page_url": "https://www.waketech.edu/programs-courses/field/construction-maintenance",
+  "programs": [
+   "Welding",
+   "Electrical Wiring",
+   "HVAC Technician",
+   "Plumbing & Pipefitting",
+   "Carpentry & Construction",
+   "Diesel & Heavy Equipment Technology",
+   "Manufacturing Production",
+   "Forklift Operations & Maintenance",
+   "Building Code Inspection"
+  ],
+  "credentials": "Non-degree certificates plus credit programs (credential type not stated on the page)",
+  "city": "Raleigh",
+  "state_workforce_url": "https://www.ncworks.gov/",
+  "notes": "Construction & Maintenance career field lists 24 programs, split into non-degree and credit tracks. Free-tuition or Wake Tech Promise info not checked. State workforce page is NCWorks; its apprenticeship page was not located.",
+  "verified": true
+ },
+ {
+  "state": "North Dakota",
+  "college": "Bismarck State College",
+  "college_home_url": "https://www.bismarckstate.edu/",
+  "trades_page_url": "https://bismarckstate.edu/academics/programs/careertechnicalprograms/limited/",
+  "programs": [
+   "Welding",
+   "Plumbing",
+   "Heating, Ventilation and Air Conditioning (HVAC)",
+   "Carpentry (Residential)",
+   "Electrician Technician",
+   "Lineworker (Electrical)",
+   "Automotive Technology",
+   "Automotive Collision Technology",
+   "Diesel Technology",
+   "Mechanic I (Certificate)",
+   "Mechanical Maintenance Technology (AAS)",
+   "Electronics (AAS)"
+  ],
+  "credentials": "Welding: AAS and Program Certificate (diploma option ends Fall 2026). Plumbing: Program Certificate (Certificates list). Mechanic I: Certificate. Other programs: credential not shown on the fetched list page.",
+  "city": "Bismarck, ND",
+  "state_workforce_url": "https://www.jobs.nd.gov/",
+  "notes": "Limited-enrollment list page covers welding, plumbing, HVAC, residential carpentry, electrician technician, lineworker, automotive and diesel. No machining program named. The Plumbing page lists 'Plumbing (Fall 2027)' start, while BSC's expansion timeline (search result, not fetched) shows a June 2026 date; flagged as conflicting. NDSCS was not usable: its programs page returned 403 and the ndscs.edu root returned 301 via curl. Limited-enrollment programs require separate admission.",
+  "verified": true
+ },
+ {
+  "state": "Ohio",
+  "college": "Columbus State Community College",
+  "college_home_url": "https://www.cscc.edu/",
+  "trades_page_url": "https://www.cscc.edu/academics/departments/skilled-trades/",
+  "programs": [
+   "Electrical",
+   "Plumbing",
+   "Sheet Metal",
+   "Carpentry",
+   "Welding (multiple intermediate and pipe/plate TIG certificates)",
+   "Facilities Maintenance"
+  ],
+  "credentials": "AAS (Welding, Facilities Maintenance), certificates, apprenticeship readiness certificates, registered apprenticeship partnerships (AAS / Associate of Technical Science)",
+  "city": "Columbus",
+  "state_workforce_url": null,
+  "notes": "Choose Ohio First full-tuition scholarship for students entering welding and other in-demand fields: https://www.cscc.edu/services/financial-aid/choose-ohio-first/index.shtml. The department page loaded; the root homepage was not fetched. Ohio apprenticeship site (apprenticeship.ohio.gov) did not resolve and JFS homepage returned 404, so no Ohio state workforce URL.",
+  "verified": true
+ },
+ {
+  "state": "Oklahoma",
+  "college": "Oklahoma City Community College (OCCC)",
+  "college_home_url": "https://www.occc.edu/",
+  "trades_page_url": "https://www.occc.edu/academics/areas-of-study/auto-tech/index.html",
+  "programs": [
+   "Automotive Technology (program page; loads, title 'Automotive Technology')",
+   "Automotive Technology - Vehicle Service Advisor",
+   "Automotive Service Educational Program (ASEP)",
+   "Automotive Technology Internship Program (ATIP)",
+   "Maintenance and Light Vehicle Repair Program (MLRP)",
+   "Alt Fuels (auto-related course/offering)"
+  ],
+  "credentials": "Certificates (Automotive Technology; Automotive Technology - Vehicle Service Advisor). No AAS named on the page.",
+  "city": "Oklahoma City, OK",
+  "state_workforce_url": "https://oklahoma.gov/careertech.html",
+  "notes": "Only auto trades found on OCCC's Areas of Study index (https://www.occc.edu/academics/areas-of-study/index.html). Index has no welding, electrical, HVAC, plumbing, construction, or machining programs. Auto is an accepted trade per brief. Campus address on program page: 7777 S. May Ave., Oklahoma City, OK 73159. Homepage at https://www.occc.edu/ loads; program page loads. Other OK candidates checked, none gave a multi-trade listing (see attempted).",
+  "verified": true
+ },
+ {
+  "state": "Oregon",
+  "college": "Portland Community College",
+  "college_home_url": "https://www.pcc.edu",
+  "trades_page_url": "https://www.pcc.edu/programs/welding/",
+  "programs": [
+   "Welding Technology",
+   "Maritime Welding",
+   "Maritime Pipe Welding",
+   "Pipe Welding Certification Preparation",
+   "Electrical Apprenticeship Technologies",
+   "Electrician Apprenticeship",
+   "Facilities Maintenance Technology (HVAC/R, HVAC Installers)",
+   "Fiber Optics",
+   "Pre-Trades for Advanced Manufacturing"
+  ],
+  "credentials": "AAS (Welding Technology, Electrical Apprenticeship Technologies); certificates; career pathway certificates (under 1 year); registered apprenticeship",
+  "city": "Portland",
+  "state_workforce_url": "https://www.oregon.gov/boli/apprenticeship",
+  "notes": "Trades mostly run through the Apprenticeship and Trades department at the Swan Island Trades Center (North Portland) and OMIC Training Center (Scappoose). Welding also at Rock Creek and a mobile welding unit. Trades page verified for welding only; HVAC/electrical details come from search snippets and fact sheets dated 2014-2016, so confirm current offerings. Financial aid eligibility not confirmed on the page.",
+  "verified": true
+ },
+ {
+  "state": "Pennsylvania",
+  "college": "Community College of Allegheny County (CCAC)",
+  "college_home_url": "https://ccac.edu",
+  "trades_page_url": "https://www.ccac.edu/academics/programs/industrial-technology-trades-and-transportation",
+  "programs": [
+   "Automotive Technology",
+   "Building Automation Systems",
+   "Building Construction",
+   "Electrical Construction Technology",
+   "Facilities Maintenance",
+   "Heating & Air Conditioning",
+   "Mechatronics Technology",
+   "Plumbing",
+   "Welding Technology",
+   "Bricklayers Apprenticeship",
+   "Carpentry Apprenticeship",
+   "Heavy Equipment Operating Engineers Apprenticeship",
+   "Ironworker Apprenticeship",
+   "Sheet Metal Worker Apprenticeship"
+  ],
+  "credentials": "Certificates and degrees; union/JATC registered apprenticeships",
+  "city": "Pittsburgh",
+  "state_workforce_url": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/home----------/services.html",
+  "notes": "West Hills Center (Oakdale) is the main skilled-trades site. Metallica Skilled Trades Academy is a free program for high school students ages 14-17 (welding, electrical, HVAC, solar, commercial vehicle). The old /manufacturing-skilled-trades-and-transportation/ URL returned 404, so use the page above. Pennsylvania apprenticeship support is limited to registered programs.",
+  "verified": true
+ },
+ {
+  "state": "Rhode Island",
+  "college": "Community College of Rhode Island (CCRI)",
+  "college_home_url": "https://www.ccri.edu",
+  "trades_page_url": "https://www.ccri.edu/programs/construction-trades-readiness-certificate/",
+  "programs": [
+   "Construction Trades Readiness",
+   "Electrical Apprenticeship",
+   "Maritime Electrical",
+   "Welding Training Program (with Senesco Marine)",
+   "Marine Trades & Manufacturing"
+  ],
+  "credentials": "Certificate; registered apprenticeship",
+  "city": "Warwick",
+  "state_workforce_url": "https://dlt.ri.gov/regulation-and-safety/apprenticeship",
+  "notes": "The Manufacturing and Trades overview page did not load its program list (Loading programs...), so the verified page is the Construction Trades Readiness certificate. HVAC not confirmed for CCRI. Rhode Island Promise covers tuition for associate degrees, not confirmed for certificates. Lowe's Foundation grant of $1M is for skilled trades training. The Rhode Island Makers free 5-week welding program lists CCRI, but delivery is unclear.",
+  "verified": true
+ },
+ {
+  "state": "South Carolina",
+  "college": "Greenville Technical College",
+  "college_home_url": "https://www.gvltec.edu",
+  "trades_page_url": "https://www.gvltec.edu/welding/",
+  "programs": [
+   "Welding and Robotic Technology",
+   "Welding, Specialized",
+   "Air Conditioning/Refrigeration Technician (HVAC Excellence)",
+   "Beginning Electricity & Refrigeration (HVAC Excellence)",
+   "Electrician",
+   "Upstate Electrical Apprenticeship (with ABC Carolinas and Upstate Electrical Contractors)"
+  ],
+  "credentials": "Certificates in Applied Science; apprenticeship",
+  "city": "Greenville",
+  "state_workforce_url": "https://www.dew.sc.gov/employers/find-employee/employee-training-programs",
+  "notes": "Welding page verified (Brashier Campus). Career Pathways Scholarship may cover tuition, fees and books for qualifying programs. HVAC and electrical details are from search snippets; a new HVAC and Industrial Electricity space opened Sept 2025. Registered Apprenticeship in SC is run by Apprenticeship Carolina (SC Technical College System), 803-896-5287.",
+  "verified": true
+ },
+ {
+  "state": "South Dakota",
+  "college": "Southeast Technical College (formerly Southeast Technical Institute)",
+  "college_home_url": "https://www.southeasttech.edu",
+  "trades_page_url": "https://www.southeasttech.edu/programs/industrial/",
+  "programs": [
+   "Electrician",
+   "HVAC/R Technology",
+   "Welding",
+   "Construction Programs",
+   "Mechanical Systems",
+   "Plumbing Technology"
+  ],
+  "credentials": "Two-year AAS degree, one-year diploma, or one-semester certificate",
+  "city": "Sioux Falls",
+  "state_workforce_url": "https://dlr.sd.gov",
+  "notes": "Programs are Build Dakota eligible. The Build Dakota Scholarship covers 100% of program costs, tuition, fees and books (check eligibility criteria on the college page). SD Dept. of Labor and Regulation runs apprenticeships under StartTodaySD.com; SB 63 (2026) created a State Office of Apprenticeship.",
+  "verified": true
+ },
+ {
+  "state": "Tennessee",
+  "college": "Chattanooga State Community College (incl. Tennessee College of Applied Technology, TCAT Chattanooga)",
+  "college_home_url": "https://chattanoogastate.edu/",
+  "trades_page_url": "https://chattanoogastate.edu/sites/default/files/tcat_program_pathways.pdf",
+  "programs": [
+   "Automotive Technology",
+   "Collision Repair Technology",
+   "Diesel Equipment Technology",
+   "HVAC/R Technician",
+   "HVAC/Refrigeration Technician",
+   "Residential and Commercial Electricity",
+   "Industrial Electricity",
+   "Electrical Vehicle Technology",
+   "Machine Tool Technology",
+   "Welding Technology",
+   "Welding Engineering Technology (concentration)",
+   "Building Construction Technology",
+   "Industrial Automation and Robotics",
+   "Tool and Die Maintenance Technician",
+   "Road Building Equipment Service Technician"
+  ],
+  "credentials": "A.A.S. degree pathways (Engineering Systems Technology with Industrial Technology, Construction Systems, or Welding Engineering concentrations; Electrical Vehicle Technology A.A.S., 15 credits; Building Construction Technology A.A.S., 32 credits). Each pathway is credit toward an A.A.S. per the document; individual TCAT certificate levels are not shown on the fetched page.",
+  "city": "Chattanooga, TN",
+  "state_workforce_url": "https://www.tn.gov/workforce.html",
+  "notes": "The fetched pathway PDF lists welding, electrical, HVAC/R, automotive, machine tool and building construction. It does not list a plumbing program; a Tennessee Board of Regents campus table found in search (not fetched) lists HVAC/Plumbing as one combined TCAT Chattanooga offering. No carpentry-specific title beyond Building Construction Technology. Curl and WebFetch on the college HTML pages were blocked (403 or rate-limited), so the PDF is the verified source. tn.gov returned 403 to automated checks, so the workforce URL is unverified.",
+  "verified": true
+ },
+ {
+  "state": "Texas",
+  "college": "Lone Star College",
+  "college_home_url": "https://www.lonestar.edu/",
+  "trades_page_url": "https://www.lonestar.edu/Construction-Trades.htm",
+  "programs": [
+   "Electrical Technology",
+   "HVAC-R",
+   "Welding",
+   "Pipefitting",
+   "Inspection",
+   "Construction Supervision",
+   "Mechanical Design",
+   "Architectural Design"
+  ],
+  "credentials": "Academic certificates (first and second level, stackable to AAS); AAS degrees; FastTrack non-credit certificates",
+  "city": "The Woodlands",
+  "state_workforce_url": "https://www.twc.texas.gov/programs/apprenticeship",
+  "notes": "Large Houston-metro district with many campuses. Separate Pathways Energy page exists at lonestar.edu/Pathways-Energy (not fetched). Houston Community College (hccs.edu/welding) was considered but its page header read Houston City College, so it was not used. Texas Workforce Commission apprenticeship page: https://www.twc.texas.gov/programs/apprenticeship",
+  "verified": true
+ },
+ {
+  "state": "Utah",
+  "college": "Mountainland Technical College (MTEC)",
+  "college_home_url": "https://www.mtec.edu/",
+  "trades_page_url": "https://www.mtec.edu/programs",
+  "programs": [
+   "Pipe Welding",
+   "Welding Technology",
+   "Precision and Automated Welding",
+   "Fabrication and Fitting",
+   "Electrical Apprenticeship",
+   "HVACR Technician",
+   "Plumbing Apprenticeship",
+   "Civil Construction I",
+   "Machining Technology",
+   "Automotive Technology",
+   "Automotive Maintenance and Light Repair",
+   "Diesel Technology",
+   "Automation Technology"
+  ],
+  "credentials": "Not shown on the fetched programs page (it groups programs under Trades and Apprenticeship categories only).",
+  "city": "Not confirmed on a fetched page (MTEC has a Lehi campus; unverified)",
+  "state_workforce_url": "https://jobs.utah.gov/",
+  "notes": "Mountainland is a technical college, not a community college; the task allowed it. The fetched page lists welding, electrical, HVAC, plumbing, construction, machining and automotive, so it meets the broad-trades bar. Alternative: Salt Lake Community College's Salt Lake Technical College page (https://www.slcc.edu/thatsslcc/slcctech.aspx, fetched) lists Electrical Apprenticeship, Plumbing Apprenticeship, HVACR Technician, Welding Technology, Welding Fabrication and Inspection, Low-Voltage Tech Apprenticeship and Brick Mason, but no carpentry, machining or automotive title, so it is narrower. Utah State University Eastern (Utah Career Center) was not usable: the host failed DNS.",
+  "verified": true
+ },
+ {
+  "state": "Vermont",
+  "college": "River Valley Technical Center (Springfield, VT) - no public community college in Vermont lists trades programs; this is a regional technical center",
+  "college_home_url": "https://rvtc.org/",
+  "trades_page_url": "https://rvtc.org/day-time-programs",
+  "programs": [
+   "Carpentry (construction; students build a shed, then a full-size house in year 2)",
+   "Advanced Manufacturing / Engineering (CNC machining and manual precision machining)"
+  ],
+  "credentials": "Not stated on the page (high school day programs; check for adult/certificate options)",
+  "city": "Springfield, VT",
+  "state_workforce_url": "https://labor.vermont.gov/ (not fetched: returned 403)",
+  "notes": "Vermont does not have a public community college that lists trades programs: Community College of Vermont homepage has no trades programs and Vermont Technical College now redirects into Vermont State University, a four-year system. The chosen page is a regional technical center (not a community college) and lists carpentry/construction and machining; it does NOT list welding, electrical, HVAC or plumbing. Those appear at other centers per a 2025 legislative reference (Stafford Technical Center electrical; Hartford Area CTC welding; Green Mountain Technology and Career Center HVAC) but the Stafford and Hartford URLs did not resolve or were not fetched. Essex Center for Technology's Building Systems page loaded but its content was truncated (no program list captured). Verify before relying on it for weld or electrical. Vermont State University homepage has no trades named on the homepage.",
+  "verified": true
+ },
+ {
+  "state": "Virginia",
+  "college": "Southwest Virginia Community College",
+  "college_home_url": "https://www.sw.edu/",
+  "trades_page_url": "https://www.sw.edu/academics/programs/index",
+  "programs": [
+   "Welding",
+   "Advanced Welding and Fabrication",
+   "Electrical Installation",
+   "Electricity Fundamentals",
+   "HVAC",
+   "Automotive Diagnostics and Repair",
+   "Advanced Automotive Technology",
+   "Diesel Repair",
+   "CNC and Machine Operations",
+   "Precision Machining",
+   "Industrial Maintenance",
+   "Heavy Equipment Operations",
+   "Skilled Trades and General Contracting (FastForward)",
+   "Building Trades"
+  ],
+  "credentials": "Career Studies Certificates; AAS (Advanced Manufacturing, Electrical Electronics); HVAC certificate; welding diploma; FastForward credentials",
+  "city": "Richlands",
+  "state_workforce_url": "",
+  "notes": "Rural southwest Virginia. Programs page filters by Advanced Manufacturing & Skill Trades. Virginia Works workforce site redirects to virginiaworks.gov (not fetched), so no state workforce URL given. Blue Ridge CC (brcc.edu/explore-programs/advanced-manufacturing-and-skilled-trades/) is an alternative in the Shenandoah Valley, but its page did not name specific trades.",
+  "verified": true
+ },
+ {
+  "state": "Washington",
+  "college": "Renton Technical College",
+  "college_home_url": "https://www.rtc.edu",
+  "trades_page_url": "https://www.rtc.edu/welding",
+  "programs": [
+   "Welding (certificate, AAS)",
+   "Welder helper certificate",
+   "HVAC-R Technician",
+   "Industrial Engineering Technology (electrical skills, PLC, maintenance)"
+  ],
+  "credentials": "certificate, AAS",
+  "city": "Renton",
+  "state_workforce_url": "https://lni.wa.gov/apprenticeship",
+  "notes": "Trades page loads and lists welding certificates (Arc Welding, Certificate of Completion, AAS). HVAC-R certificate and AAS come from the CareerBridge listing, not the fetched page. No standalone electrical program found. Washington community and technical college apprentices get a 50% tuition waiver. State board: WTB and L&I apprenticeship (lni.wa.gov).",
+  "verified": true
+ },
+ {
+  "state": "West Virginia",
+  "college": "West Virginia Northern Community College",
+  "college_home_url": "https://wvncc.edu",
+  "trades_page_url": "https://wvncc.edu/offices-and-services/division-of-applied-technology/6211",
+  "programs": [
+   "Welding Technology",
+   "Refrigeration, Air Conditioning and Heating",
+   "Advanced Manufacturing",
+   "Instrumentation Process Technology",
+   "Petroleum Technology"
+  ],
+  "credentials": "one-year welding certificate, welding AAS, RAC&H (credential not confirmed)",
+  "city": "Wheeling",
+  "state_workforce_url": "https://workforcewv.org/",
+  "notes": "Division page loads and lists the applied technology departments. Electrical and automotive are not listed on this page. Summer Welding Institute is a 10-week program. Welding is an AWS-accredited test facility. Electro Mechanical Technologies AAS is in the catalog but was not verified. Ed2go trade courses are non-college.",
+  "verified": true
+ },
+ {
+  "state": "Wisconsin",
+  "college": "Milwaukee Area Technical College (MATC)",
+  "college_home_url": "https://www.matc.edu",
+  "trades_page_url": "https://www.matc.edu/course-catalog/manufacturing-construction-transportation/index.html",
+  "programs": [
+   "Welding",
+   "Electrical Power Distribution / Line Mechanic",
+   "Electricity",
+   "Air Conditioning and Refrigeration",
+   "Automotive Technology",
+   "Industrial Maintenance",
+   "CNC Technician",
+   "Machine Tool Operations",
+   "Construction Electrician apprenticeship",
+   "Steamfitter, Industrial Pipefitter and other apprenticeships",
+   "Carpentry",
+   "Bricklaying",
+   "Power Engineering and Boiler Operator"
+  ],
+  "credentials": "associate degree, technical diploma, certificate, apprenticeship",
+  "city": "Milwaukee",
+  "state_workforce_url": "https://www.dwd.wisconsin.gov/apprenticeship/ra/",
+  "notes": "Trades page loads and lists the MCT pathway. Apprenticeships are employer-paid earn-while-you-learn. Electrical Power Distribution training center is in Metcalfe Park. The page does not say any trades program is free. Grants and employer sponsorship options are linked. Tuition figure ($4,984) is from a secondary site and was not verified on matc.edu.",
+  "verified": true
+ },
+ {
+  "state": "Wyoming",
+  "college": "Laramie County Community College (LCCC)",
+  "college_home_url": "https://www.lccc.wy.edu",
+  "trades_page_url": "https://lccc.wy.edu/admissions/blog/trades_tech.aspx",
+  "programs": [
+   "Welding",
+   "Electrical Technology",
+   "Industrial Maintenance",
+   "Industrial Systems Technology",
+   "Automotive Technology",
+   "Diesel Technology",
+   "Wind Energy",
+   "HVAC/R (from directory listings)"
+  ],
+  "credentials": "certificate, credit diploma, AAS (HVAC/R confirmed by directory listings only)",
+  "city": "Cheyenne",
+  "state_workforce_url": "https://dws.wyo.gov/dws-division/business-training-support-unit/wyapprenticeship/",
+  "notes": "Trades page loads and lists the Trades and Technical Studies pathway. Union Pacific grant of about $300,000 for welding tools and a mobile welding lab (2026, from news). Metallica Scholars offers HVAC and electrical lessons to seniors and adults. A $50,000 grant funds entry-level plumbing, electrical and HVAC training. One news snippet says the college may be renamed Wyoming State College; not verified.",
+  "verified": true
+ },
+ {
+  "state": "District of Columbia",
+  "college": "University of the District of Columbia (UDC), Workforce Development and Lifelong Learning (WDLL); UDC Community College is the parent division",
+  "college_home_url": "https://www.udc.edu/",
+  "trades_page_url": "https://www.udc.edu/workforce-development/pathway",
+  "programs": [
+   "Construction and Property Management pathway (page title 'Pathways | University of the District of Columbia')",
+   "Apartment Maintenance",
+   "Construction Craft Skills and Carpentry I-A",
+   "Carpentry 1-B",
+   "Construction Craft Skills and Application (CORE)",
+   "Construction Craft Skills and Electrical I-A",
+   "Electrical 1-B",
+   "Construction Craft Skills and NCCER HVAC Level 1-A",
+   "Construction Craft Skills and NCCER HVAC Level 1-B"
+  ],
+  "credentials": "Not stated on the pathway page; courses are NCCER-style levels (I-A, 1-B, Level 1-A/1-B). Program flyer: https://docs.udc.edu/wd/Final-Construction-Flyer-2024.pdf",
+  "city": "Washington, DC (UDC main campus, 4200 Connecticut Ave. NW, Washington, DC 20008)",
+  "state_workforce_url": "https://does.dc.gov/",
+  "notes": "The pathway page loads and lists the trades courses, but it is run by UDC's Workforce Development and Lifelong Learning division, not the Community College's own workforce page (UDC-CC's homepage and cc/workforce-development pages list no trades). Plumbing and OSHA courses are NOT on this page; an earlier search snippet mentioned OSHA-10 as a carpentry prerequisite from a secondary source and DC Infrastructure Academy lists OSHA-10/30, but neither is confirmed as a UDC course. Flyer is dated 2024; confirm current offerings and schedule. Enrollment application: https://www.udc.edu/wdll-app . Free to DC residents 18+ for most WDLL courses, with a few exceptions. Phone 202-274-5000.",
+  "verified": true
+ }
+]
