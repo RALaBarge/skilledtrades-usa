@@ -45,66 +45,26 @@ const frag = readFileSync(join(root, 'build', 'michigan.fragment.html'), 'utf8')
 writeFileSync(join(out, 'michigan.html'), a11y(frag));
 
 // ---- Home ----
-// Reuse the Michigan page's look: its retro style block and its main style block.
+// Reuse the Michigan page's look (its main style block), then fill src/home.html with the data and scripts.
 const styles = [...frag.matchAll(/<style\b[^>]*>[\s\S]*?<\/style>/g)].map((m) => m[0]);
-const retroStyle = styles.find((s) => s.includes('id="retro-page"')) || '';
 const pageStyle = styles.find((s) => !s.includes('id="retro-page"')) || '';
 const retroSnippet = readFileSync(join(root, 'shared', 'retro-snippet.html'), 'utf8').split('\r').join('');
 const retroSwitch = readFileSync(join(root, 'shared', 'retro-switch.html'), 'utf8').trim();
-
-const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
-const colleges = JSON.parse(readFileSync(join(root, 'data', 'colleges.json'), 'utf8'));
-colleges.sort((a, b) => a.state.localeCompare(b.state));
-
-const items = colleges.map((c) => {
-  const isMI = false;
-  const progs = (c.programs || []).slice(0, 6).map(esc).join(', ');
-  return `<li class="st"><h3>${esc(c.state)}</h3>
-<p><a href="${esc(c.trades_page_url)}" rel="noopener">${esc(c.college)}</a>${c.city ? ' &middot; ' + esc(c.city) : ''}</p>
-${progs ? `<p class="sub">${progs}</p>` : ''}</li>`;
-}).join('\n');
-
-const homeStyle = `<style>
-.states{list-style:none;margin:1rem 0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(17rem,1fr));gap:.8rem}
-.st{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:.8rem 1rem}
-.st h3{margin:0 0 .3rem;font-size:1.05rem}.st p{margin:.2rem 0}.st .sub{color:var(--muted);font-size:.9rem}
-.feature{background:var(--soft);border:1px solid var(--line);border-radius:10px;padding:1rem 1.2rem;margin:1rem 0}
-</style>`;
-
-const home = `<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Skilled Trades USA: community college trades programs by state</title>
-${retroSnippet}
-<meta name="description" content="A free guide to skilled-trades careers, with a community college trades program to start from in every state. No ads, no tracking.">
-${pageStyle}
-${homeStyle}
-</head>
-<body>
-<div class="wrap">
-${retroSwitch}
-<p class="kicker">Careers &middot; United States</p>
-<h1>Skilled Trades USA</h1>
-<p class="lede">Hands-on careers that do not depend on a screen. Pick your state to find a community college with trades programs such as welding, electrical, HVAC, plumbing, machining and construction. Free, no ads, no tracking.</p>
-<div class="feature"><strong>Michigan:</strong> the full guide has 306 occupations with worker counts, wages and growth, fifteen trades in depth, and what Washtenaw Community College offers. <a href="michigan.html">Read the Michigan guide</a>.</div>
-<h2 id="states">Every state</h2>
-<p>One college per state to start from. Each link goes to the college's own trades-program page. Other colleges in your state may offer more, so also ask your school counselor and your state's apprenticeship office.</p>
-<ul class="states">
-${items}
-</ul>
-<footer>
-<p>College pages were checked when the list was built; programs change, so confirm with the college. Michigan figures are from the U.S. Bureau of Labor Statistics. Free to use, MIT licensed.</p>
-</footer>
-</div>
-</body>
-</html>
-`;
+const colleges = JSON.parse(readFileSync(join(root, 'data', 'colleges.json'), 'utf8'))
+  .map((c) => Object.fromEntries(Object.entries(c).filter(([k, v]) => v != null && v !== '' && k !== 'notes' && k !== 'verified')));
+const occ = JSON.parse(readFileSync(join(root, 'data', 'michigan', 'occupations.json'), 'utf8'));
+const safe = (v) => JSON.stringify(v).replace(/<\//g, '<\\/');
+const js = (f) => readFileSync(join(root, 'src', f), 'utf8').replace(/<\/script/gi, '<\\/script');
+const fill = {
+  __RETRO_SNIPPET__: retroSnippet, __PAGE_STYLE__: pageStyle, __HOME_CSS__: readFileSync(join(root, 'src', 'home.css'), 'utf8'),
+  __RETRO_SWITCH__: retroSwitch, __COLLEGES__: safe(colleges), __OCC__: safe(occ), __QUIZ_JS__: js('quiz.js'), __HOME_JS__: js('home.js'),
+};
+let home = readFileSync(join(root, 'src', 'home.html'), 'utf8');
+for (const [k, v] of Object.entries(fill)) home = home.split(k).join(v);
 writeFileSync(join(out, 'index.html'), a11y(home));
 
 // ---- sitemap / robots ----
 const urls = ['', 'michigan.html'].map((p) => `<url><loc>${SITE}/${p}</loc></url>`).join('');
 writeFileSync(join(out, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls}</urlset>\n`);
 writeFileSync(join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
-console.log('built dist/: index.html michigan.html', colleges.length, 'states');
+console.log('built dist/: index.html michigan.html', colleges.length + 1, 'states');

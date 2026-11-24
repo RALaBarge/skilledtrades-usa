@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Skilled Trades USA: find a trade and a college near you</title>
+__RETRO_SNIPPET__
+<meta name="description" content="Free and ad-free. Pick your state to find a community college with trades programs, browse hands-on careers, or take a short quiz that suggests trades that fit you.">
+__PAGE_STYLE__
+<style>
+__HOME_CSS__
+</style>
+</head>
+<body>
+<div class="wrap">
+__RETRO_SWITCH__
+<p class="kicker">Careers &middot; United States</p>
+<h1>Skilled Trades USA</h1>
+<p class="lede">Hands-on careers that do not depend on a screen. Pick your state to find a community college with trades programs, browse the careers, or take a short quiz that suggests trades that fit what you like. Free, no ads, no tracking.</p>
+<nav class="jump" aria-label="Sections"><a href="#state">Find a college</a><a href="#quiz">Find your fit</a><a href="#browse">Browse careers</a><a href="michigan.html">Michigan guide</a></nav>
+
+<section id="state" class="blk" aria-labelledby="state-h">
+<h2 id="state-h">Find a college near you</h2>
+<p>Choose your state. We show one community college with trades programs to start from. Other colleges in your state may offer more, so also ask your school counselor and your state's apprenticeship office.</p>
+<label class="fl" for="statesel">Your state</label>
+<select id="statesel"><option value="">Choose a state&hellip;</option></select>
+<div id="statecard" aria-live="polite"></div>
+</section>
+
+<section id="quiz" class="blk" aria-labelledby="quiz-h">
+<h2 id="quiz-h">Find your fit</h2>
+<p>Eight quick questions about what you like. You get five careers that fit, with the reasons. It never asks who you are, only what you enjoy. Nothing leaves your device.</p>
+<div id="quizbox"></div>
+</section>
+
+<section id="browse" class="blk" aria-labelledby="browse-h">
+<h2 id="browse-h">Browse careers</h2>
+<p>Hands-on careers, with what the work is like and how people get in. Worker counts, wages and growth are Michigan figures for now, from the U.S. Bureau of Labor Statistics; pay elsewhere differs, but the work and the way in are much the same.</p>
+<div class="filters">
+<label>Search<input id="q" type="search" placeholder="electrician, outdoors, fix&hellip;" autocomplete="off"></label>
+<label>Field<select id="fam"><option value="">All fields</option></select></label>
+<label>Way in<select id="path"><option value="">Any</option></select></label>
+<label>Setting<select id="set"><option value="">Any</option><option>outdoors</option><option>indoors</option><option>mixed</option><option>vehicle</option></select></label>
+</div>
+<p id="count" aria-live="polite"></p>
+<ul id="cards" class="cards"></ul>
+<p><button id="more" type="button" class="btn">Show more</button></p>
+</section>
+
+<footer>
+<p>Colleges were checked when the list was built; programs change, so confirm with the college. Career numbers: BLS Employment Projections 2025&ndash;35 and Occupational Employment and Wage Statistics. Free to use, MIT licensed.</p>
+</footer>
+</div>
+<script>window.COLLEGES=__COLLEGES__;window.OCC=__OCC__;</script>
+<script>
+__QUIZ_JS__
+</script>
+<script>
+__HOME_JS__
+</script>
+</body>
+</html>
