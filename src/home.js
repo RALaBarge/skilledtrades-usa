@@ -24,9 +24,39 @@
   var sel = document.getElementById('statesel'), card = document.getElementById('statecard');
   states.forEach(function (s) { sel.appendChild(el('option', { value: s.state, text: s.state })); });
 
+  /* state figures: BLS OEWS May 2025, [jobs, median pay, location quotient] by state and SOC code */
+  var SO = window.STATE_OEWS || {}, curState = '';
+  function stat(soc) { var t = SO[curState]; return t && t[soc] ? t[soc] : null; }
+  function stateLine(soc) {
+    var v = stat(soc);
+    if (!v || (v[0] == null && v[1] == null)) return '';
+    return 'In ' + curState + ': ' + (v[0] != null ? v[0].toLocaleString('en-US') + ' jobs' : 'jobs not reported') + (v[1] != null ? ', median ' + money(v[1]) : '') + '.';
+  }
+  function concentration(lq) {
+    if (lq == null) return '';
+    if (lq >= 1.25) return lq.toFixed(1) + '× the national share';
+    if (lq <= 0.75) return lq.toFixed(1) + '× the national share';
+    return 'average';
+  }
+  function stateTable(name) {
+    var rows = OCC.filter(function (o) { return o.deepDive && stat(o.soc) && stat(o.soc)[0] != null; })
+      .sort(function (a, b) { return stat(b.soc)[0] - stat(a.soc)[0]; });
+    if (!rows.length) return null;
+    var tb = el('tbody');
+    rows.forEach(function (o) {
+      var v = stat(o.soc);
+      tb.appendChild(el('tr', {}, [el('th', { scope: 'row', text: o.name }), el('td', { 'class': 'num', text: v[0].toLocaleString('en-US') }),
+        el('td', { 'class': 'num', text: money(v[1]) }), el('td', { 'class': 'num', text: money(o.wage) }), el('td', { text: concentration(v[2]) })]));
+    });
+    var head = el('thead', {}, [el('tr', {}, ['Trade', 'Jobs in ' + name, 'Median pay here', 'Median pay US', 'How common here'].map(function (h, i) { return el('th', { scope: 'col', text: h }); }))]);
+    return el('div', { 'class': 'tw' }, [el('table', { 'class': 'stt' }, [el('caption', { text: 'Fifteen trades in ' + name + ' (BLS, May 2025)' }), head, tb])]);
+  }
+
   function showState() {
     card.textContent = '';
     var s = states.filter(function (x) { return x.state === sel.value; })[0];
+    curState = s ? s.state : '';
+    renderBrowse(true);
     if (!s) return;
     var kids = [el('h3', { text: s.college }), el('p', { 'class': 'meta', text: [s.city, s.credentials].filter(Boolean).join(' · ') })];
     if (s.programs && s.programs.length) {
@@ -41,6 +71,12 @@
     kids.push(el('div', { 'class': 'actions' }, acts));
     kids.push(el('p', { 'class': 'note', text: 'One college to start from. Others in ' + s.state + ' may offer more, and many trades also train through paid apprenticeships.' }));
     card.appendChild(el('div', { 'class': 'card' }, kids));
+    var tbl = stateTable(s.state);
+    if (tbl) {
+      card.appendChild(el('h3', { text: 'Trades in ' + s.state }));
+      card.appendChild(tbl);
+      card.appendChild(el('p', { 'class': 'note', text: '"How common here" compares the share of all jobs in ' + s.state + ' with the national share: 1.0× is the national average, 2.0× means twice as common. Blank pay means BLS does not publish it for this state. Source: U.S. Bureau of Labor Statistics, Occupational Employment and Wage Statistics, May 2025.' }));
+    }
   }
   sel.addEventListener('change', showState);
 
@@ -87,6 +123,7 @@
       var kids = [el('h3', { text: r.name }), el('p', { 'class': 'meta', text: r.family }), el('p', { text: r.blurb })];
       if (r.because.length) kids.push(el('ul', { 'class': 'why' }, r.because.map(function (b) { return el('li', { text: b }); })));
       kids.push(el('p', { 'class': 'sub note', text: 'Way in: ' + (PATHS[o.path] || 'Varies') + '. US median pay ' + money(o.wage) + '.' }));
+      var sl = stateLine(r.soc); if (sl) kids.push(el('p', { 'class': 'sub note', text: sl }));
       ul.appendChild(el('li', {}, [el('div', { 'class': 'card' }, kids)]));
     });
     box.appendChild(ul);
@@ -120,7 +157,8 @@
     });
     cards.textContent = '';
     rows.slice(0, shown).forEach(function (o) {
-      cards.appendChild(el('li', {}, [el('h3', { text: o.name }), el('p', { 'class': 'sub', text: o.family }), el('p', { text: o.blurb }),
+      var sl = stateLine(o.soc);
+      cards.appendChild(el('li', {}, [el('h3', { text: o.name }), el('p', { 'class': 'sub', text: o.family }), el('p', { text: o.blurb }), sl ? el('p', { 'class': 'sub', text: sl }) : null,
         el('p', { 'class': 'sub', text: (PATHS[o.path] || 'Varies') + ' · US median ' + money(o.wage) + (o.growth != null ? ' · ' + (o.growth > 0 ? '+' : '') + o.growth + '% growth' : '') })]));
     });
     count.textContent = 'Showing ' + Math.min(shown, rows.length) + ' of ' + rows.length + ' careers';
