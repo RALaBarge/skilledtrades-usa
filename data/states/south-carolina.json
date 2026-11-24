@@ -237,6 +237,28 @@
     "Building Construction Management, AAS"
    ],
    "credentials": "Certificates and AAS"
+  },
+  {
+   "name": "Arclabs",
+   "type": "for-profit school",
+   "city": "Piedmont",
+   "home_url": "https://www.arclabs.edu/",
+   "trades_url": "https://www.arclabs.edu/",
+   "programs": [
+    "Welding (Advanced Welder Program)",
+    "Welding (Master Welder Program)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Fortis College-Columbia",
+   "type": "private for-profit college",
+   "city": "Columbia",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/campuses/south-carolina/columbia.html",
+   "programs": [
+    "HVAC"
+   ]
   }
  ],
  "unions": [
@@ -285,6 +307,30 @@
    "url": "https://ibewlocal776.org/",
    "apprenticeship_url": "https://ibewlocal776.org/apprenticeship/",
    "description": "Join our union to access training, representation, and resources. We champion the rights and success of electrical pros."
+  },
+  {
+   "name": "UA Local 421",
+   "kind": "union local",
+   "city": "North Charleston",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://ualocal421.org/training",
+   "description": "Training | UA Local 421 Contact Us (704) 721-0517 --> Login Home ▼ About Us About Section About Local 421 Members Leadership Contractors Territorial History Member Benefits Information Section Organizing Wage Rates Government Info."
+  },
+  {
+   "name": "IUOE Local 470 (Hoisting & Portable)",
+   "kind": "union local",
+   "city": "Graniteville",
+   "trades": "Operating engineers (heavy equipment)",
+   "url": "http://local470.net/?zone=%2Funionactive%2Fcontact.cfm",
+   "description": "Graniteville, South Carolina 29829 Phone: 803.663.6027 Fax: 803.663.1870 Email Contact Form Your Full Name: * Contact Phone Number: Contact Email Address: * Email Message: * Submit Email * Required Fields Member Login Username: Password: Not registered yet?"
+  },
+  {
+   "name": "Building and construction trades council, South Carolina (not verified)",
+   "kind": "building trades council",
+   "trades": "Multi-trade building trades council",
+   "url": "https://acba.edu/",
+   "description": "Educating Today's Artisans The American College of Building Arts is the only college in the United States that fully integrates professional training in the traditional building trades with a liberal arts core curriculum.",
+   "how_to_apply": "American College of the Building Arts | Only Building Arts Degree in the USA 0 APPLICATIONS FOR ADMISSIONS FOR FALL 2027 ARE NOW OPEN."
   }
  ],
  "licensing": [

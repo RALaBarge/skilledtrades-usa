@@ -73,6 +73,13 @@
    "city": "Wilmington",
    "url": "https://map.carpenters.org/?councils=council-4025",
    "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Building and construction trades council, Delaware (not verified)",
+   "kind": "building trades council",
+   "trades": "building and construction trades",
+   "url": "https://delawarebuildingtrades.com/",
+   "description": "We are a professional organization advocating for the use of local, skilled tradesmen, builders, contractors and Delaware’s business community."
   }
  ],
  "licensing": [

@@ -249,6 +249,343 @@
     "CDL Truck Driving Academy",
     "CDL Testing"
    ]
+  },
+  {
+   "name": "Buckeye Joint Vocational School",
+   "type": "career/technical center",
+   "city": "New Philadelphia",
+   "home_url": "https://www.buckeyecareercenter.org/",
+   "trades_url": "https://www.buckeyecareercenter.org/",
+   "programs": [
+    "Agriculture & Diesel Technology",
+    "Auto Collision Repair",
+    "Auto Technology",
+    "Commercial Truck Technology",
+    "Construction Technology",
+    "Electrical Systems Technology",
+    "HVACR",
+    "Masonry",
+    "Precision Machining",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Career and Technology Education Centers of Licking County",
+   "type": "career/technical center",
+   "city": "Newark",
+   "home_url": "https://www.c-tec.edu/o/ctec/page/ps",
+   "trades_url": "https://www.c-tec.edu/o/ctec/page/ps",
+   "programs": [
+    "Welding (postsecondary)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Collins Career Technical Center",
+   "type": "career/technical center",
+   "city": "Chesapeake",
+   "home_url": "https://www.collins-cc.edu/",
+   "trades_url": "https://highschool.collins-cc.edu/programs",
+   "programs": [
+    "Carpentry",
+    "Electricity",
+    "Heating and Air (HVAC)",
+    "Heavy Equipment Operation and Repair",
+    "Auto Collision",
+    "Auto Mechanics",
+    "Industrial Machining",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Columbus State Community College",
+   "type": "community college",
+   "city": "Columbus",
+   "home_url": "https://www.cscc.edu/",
+   "trades_url": "https://www.cscc.edu/academics/construction-skilled-trades/",
+   "programs": [
+    "Carpentry",
+    "Electrician Apprenticeship Readiness",
+    "Plumbing Apprenticeship Readiness",
+    "Sheet Metal Apprenticeship Readiness",
+    "Construction Management"
+   ],
+   "credentials": "certificate, associate (AAS)"
+  },
+  {
+   "name": "ETI Technical College of Niles",
+   "type": "for-profit school",
+   "city": "Niles",
+   "home_url": "https://eticollege.edu/",
+   "trades_url": "https://eticollege.edu/",
+   "programs": [
+    "Combination Welding and Fitting",
+    "Facilities Maintenance Technician",
+    "HVAC/R",
+    "CDL Training Class A",
+    "CDL Training Class B"
+   ],
+   "credentials": "diploma"
+  },
+  {
+   "name": "Elite Welding Academy LLC",
+   "type": "for-profit school",
+   "city": "Cincinnati",
+   "home_url": "https://eliteweldingacademy.com/",
+   "trades_url": "https://eliteweldingacademy.com/",
+   "programs": [
+    "Structural Welding Program",
+    "Structural & Pipe Welding Training Program"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Great Oaks Career Campuses",
+   "type": "career/technical center",
+   "city": "Cincinnati",
+   "home_url": "https://www.greatoaks.com/",
+   "trades_url": "https://hs.greatoaks.com/career-programs",
+   "programs": [
+    "Automotive Service Technician",
+    "Automotive Refinishing & Collision Repair",
+    "Alternative/Electric Vehicle Technician",
+    "Commercial & Residential Electricity",
+    "Construction Technologies",
+    "Heating, Ventilating & Air Conditioning",
+    "Heavy Equipment Operations & Engineering",
+    "Industrial Diesel Mechanics",
+    "Manufacturing Engineering Technology",
+    "Welding & Fabrication"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Hobart Institute of Welding Technology",
+   "type": "technical college",
+   "city": "Troy",
+   "home_url": "https://www.welding.org/",
+   "trades_url": "https://www.welding.org/welding-programs/",
+   "programs": [
+    "Pathways Welding Program (40 weeks)",
+    "Structural Welding Program (24 weeks)",
+    "AWS Certified Welding Inspector exam prep"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Mahoning County Career and Technical Center",
+   "type": "career/technical center",
+   "city": "Canfield",
+   "home_url": "https://otc.mahoningctc.com/",
+   "trades_url": "https://otc.mahoningctc.com/programs/courses/automotive-technology",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Systems",
+    "Hydraulics",
+    "Basic Mechanical Systems",
+    "Welding"
+   ],
+   "credentials": "not stated on page (adult courses)"
+  },
+  {
+   "name": "Miami Valley Career Technology Center (Adult Education)",
+   "type": "career/technical center",
+   "city": "Englewood",
+   "home_url": "https://ae.mvctc.com/",
+   "trades_url": "https://ae.mvctc.com/short-term-courses",
+   "programs": [
+    "Electrician Level 1",
+    "Machine Shop 1 with Blueprint Reading and Math 1"
+   ],
+   "credentials": "short-term course, not stated"
+  },
+  {
+   "name": "Mid-EastCTC-Adult Education",
+   "type": "career/technical center",
+   "city": "Zanesville",
+   "home_url": "https://adulted.mideastctc.org/",
+   "trades_url": "https://adulted.mideastctc.org/",
+   "programs": [
+    "Electrical Technologies",
+    "Heavy Equipment Operations",
+    "Truck Driver Training",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Ohio Technical College",
+   "type": "for-profit school",
+   "city": "Cleveland",
+   "home_url": "https://www.ohiotech.edu/",
+   "trades_url": "https://www.ohiotech.edu/",
+   "programs": [
+    "Complete Automotive Technology",
+    "Collision Repair & Refinishing Technology",
+    "Diesel Equipment Technology",
+    "PowerSport Technology",
+    "High Performance Motorsports & Racing Technology",
+    "Welding & Fabrication Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Pickaway Ross Joint Vocational School District",
+   "type": "career/technical center",
+   "city": "Chillicothe",
+   "home_url": "https://www.pickawayross.com/",
+   "trades_url": "https://www.pickawayross.com/",
+   "programs": [
+    "Diesel & Heavy Truck",
+    "Auto Collision Repair",
+    "Automotive Technologies",
+    "Commercial Carpentry",
+    "Construction Technologies",
+    "Outdoor Power Technologies",
+    "Precision Welding",
+    "RAMTEC (advanced manufacturing, CNC machining)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Remington College-Cleveland Campus",
+   "type": "for-profit school",
+   "city": "Cleveland",
+   "home_url": "https://remingtoncollege.edu/locations/cleveland-ohio/",
+   "trades_url": "https://remingtoncollege.edu/locations/cleveland-ohio/",
+   "programs": [
+    "Heating, Air Conditioning, and Refrigeration with Smart Technology",
+    "Heating, Ventilation, and Conditioning",
+    "Construction and Building Maintenance Technology",
+    "Combination Welding",
+    "Process Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Scioto County Career Technical Center",
+   "type": "career/technical center",
+   "city": "Lucasville",
+   "home_url": "https://www.sciototech.org/",
+   "trades_url": "https://www.sciototech.org/",
+   "programs": [
+    "Industrial Maintenance",
+    "Industrial/Constructional Electricity",
+    "Power Line Mechanic",
+    "Construction",
+    "Manufacturing",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Sinclair Community College",
+   "type": "community college",
+   "city": "Dayton",
+   "home_url": "https://www.sinclair.edu/",
+   "trades_url": "https://www.sinclair.edu/academics/all-programs/",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Electric Vehicle Service Technician",
+    "Advanced PM/CNC Machining",
+    "Precision and CNC Machining",
+    "Manufacturing Technology",
+    "Basic Manufacturing",
+    "Welding, Metal Joining & Fabrication",
+    "Electrical Construction",
+    "HVAC Light Commercial & Residential Service",
+    "Construction Management Technology"
+   ],
+   "credentials": "certificate, short-term certificate, associate (AAS)"
+  },
+  {
+   "name": "Stautzenberger College-Maumee",
+   "type": "for-profit school",
+   "city": "Maumee",
+   "home_url": "https://www.sctoday.edu/",
+   "trades_url": "https://www.sctoday.edu/",
+   "programs": [
+    "Construction Administration",
+    "Heating, Ventilation, Air Conditioning & Refrigeration"
+   ],
+   "credentials": "associate (AAS) for Construction Administration; HVAC credential not stated"
+  },
+  {
+   "name": "University of Cincinnati-Clermont College",
+   "type": "university",
+   "city": "Batavia",
+   "home_url": "https://www.ucclermont.edu/",
+   "trades_url": "https://www.ucclermont.edu/academics/majors-programs.html",
+   "programs": [
+    "Aviation Technology",
+    "Computer Aided Manufacturing",
+    "Manufacturing Engineering Technology",
+    "Building & Industrial Technology (One-Year Option)"
+   ],
+   "credentials": "certificate, associate, bachelor"
+  },
+  {
+   "name": "University of Northwestern Ohio",
+   "type": "university",
+   "city": "Lima",
+   "home_url": "https://www.unoh.edu/",
+   "trades_url": "https://www.unoh.edu/academics/college-of-applied-technologies/",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Technology Supervision",
+    "Diesel Technology",
+    "HVAC/R Technology",
+    "Construction Equipment Technology",
+    "Agricultural Equipment Technology",
+    "Hybrid Electric Vehicle Technology",
+    "Alternate Fuels Technology",
+    "Robotics & Automation Technology",
+    "High Performance Motorsports Technology"
+   ],
+   "credentials": "certificate, associate, bachelor"
+  },
+  {
+   "name": "Warren County Career Center",
+   "type": "career/technical center",
+   "city": "Lebanon",
+   "home_url": "https://www.mywccc.org/",
+   "trades_url": "https://www.mywccc.org/high-school/yourfuture/highschoolprograms",
+   "programs": [
+    "Automotive Technology",
+    "Construction Trades",
+    "Electrical Trades",
+    "Heavy Equipment and Site Construction",
+    "Robotics and Manufacturing",
+    "Welding",
+    "HVAC",
+    "Advanced Manufacturing Technology",
+    "Electrical Power Line Mechanic"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Canton City Schools Adult Career and Technical Education",
+   "type": "public district adult CTE",
+   "city": "Canton",
+   "home_url": "https://www.ccsdistrict.org/11392_4",
+   "trades_url": "https://www.ccsdistrict.org/11392_4",
+   "programs": [
+    "Welding"
+   ]
+  },
+  {
+   "name": "Eastland-Fairfield Career and Technical Schools",
+   "type": "public career center (adult workforce)",
+   "city": "Groveport",
+   "home_url": "https://www.eastlandfairfield.com/",
+   "trades_url": "https://www.eastlandfairfield.com/o/aw/page/programs-courses",
+   "programs": [
+    "HVAC",
+    "Industrial Automation",
+    "Welding"
+   ]
   }
  ],
  "unions": [
@@ -783,10 +1120,136 @@
    "description": "Home | Ohio State Building & Construction Trades Council Skip to content Toggle Navigation HOME ABOUT EXECUTIVE BOARD MEMBERS APPRENTICESHIP APPRENTICESHIP READINESS MILITARY/VETERAN NEWS ISSUES PREVAILING WAGE PROJECT LABOR AGREEMENTS “RIGHT TO WORK” CONTACT US Loading..."
   },
   {
-   "name": "Apprenticeship Readiness | Ohio State Building & Construction Trades Council",
-   "kind": "pre-apprenticeship",
-   "url": "https://ohiostatebtc.org/apprenticeship-readiness/",
-   "description": "Apprenticeship Readiness | Ohio State Building & Construction Trades Council Skip to content Toggle Navigation HOME ABOUT EXECUTIVE BOARD MEMBERS APPRENTICESHIP APPRENTICESHIP READINESS MILITARY/VETERAN NEWS ISSUES PREVAILING WAGE PROJECT LABOR AGREEMENTS “RIGHT TO WORK” CONTACT US Loading..."
+   "name": "Mansfield Area JATC for Electricians",
+   "kind": "JATC / training center",
+   "city": "Mansfield",
+   "trades": "IBEW",
+   "description": "Apprenticeship & Training - IBEW Local 688 Mansfield, OH Skip to content IBEW Local 688 Mansfield, OH Home News Members Calendar & Meetings Dues My account Work Outlook Contractors Apprenticeship & Training Join Links Co",
+   "how_to_apply": "35/hr * 1st & 2nd Period Apprentices are ineligible for Pension & Annuity until Period 3 Apprenticeship Opportunities Application to apply here! There is a $25 non-refundable fee to complete the application above that must be paid online wi",
+   "url": "https://ibew688.org/training/"
+  },
+  {
+   "name": "Marietta Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Marietta",
+   "trades": "electrician",
+   "description": "IBEW 972",
+   "how_to_apply": "org Home Photo Gallery About Local 972 About Us History of the IBEW What's New? JOBS - JOBS - JOBS Union Hall Business Manager Michael E Haught Steward Letter Development Coordinator Kyle Blinn Membership Development Business Development Of",
+   "url": "https://www.ibew972.com/apprrenticeshiptraining/"
+  },
+  {
+   "name": "Newark Joint Apprenticeship Training Committee",
+   "kind": "JATC / training center",
+   "city": "Heath",
+   "trades": "electrician",
+   "description": "The Newark Electrical Joint Apprenticeship and Training Committee (NEJATC) is transforming a vacant space into a world-class training center, shaping the next generation of Ohio’s electrical professionals.",
+   "how_to_apply": "Newark Electrical Joint Apprenticeship and Training Committee Newark Electrical Joint Apprenticeship & Training Committee Apply Support We’re not just keeping up with progress.",
+   "url": "https://www.newarkelectricaltraining.com/"
+  },
+  {
+   "name": "Toledo Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Rossford",
+   "trades": "electrician",
+   "description": "The Toledo Electrical Joint Apprenticeship Training Committee or TEJACT is Ohio's oldest IBEW Registered Apprenticeship Program.",
+   "how_to_apply": "Toledo Electrical JATC 419-666-8088 · MON–FRI · 7 AM – 4:30 PM TRADESCHOOL LOGIN home apprenticeship Program overview inside / commercial residential telecommunications (vdv) about about JATC our history our team Industry Partners Apprentic",
+   "url": "https://www.tejatc.org/"
+  },
+  {
+   "name": "Warren JATC",
+   "kind": "JATC / training center",
+   "city": "Warren",
+   "trades": "electrician",
+   "description": "Warren Electrical Joint Apprenticeship Training Committee | Thinking about a career in the electrical trades?",
+   "how_to_apply": "Warren Electrical Joint Apprenticeship Training Committee MENU MENU Home Apprenticeships Inside/Commercial Residential FAQs Video Testimonials How to Apply Qualifications Aptitude Test Apply Now Journeyman Training IBEW – NECA Resources and",
+   "url": "https://warrenjatc.org/"
+  },
+  {
+   "name": "UA Local 120",
+   "kind": "union local",
+   "city": "Cleveland",
+   "trades": "pipefitter",
+   "description": "Pipefitters Local 120 Home About Political Training Center Contractors Members Only Contact Back Officers Our History News Honor Roll Rental Back Endorsement Application Back Training Center Apply Training Center Staff C",
+   "how_to_apply": "Pipefitters Local 120 Home About Political Training Center Contractors Members Only Contact Back Officers Our History News Honor Roll Rental Back Endorsement Application Back Training Center Apply Training Center Staff Class Schedules Welde",
+   "url": "https://pipefitters120.org/"
+  },
+  {
+   "name": "UA Local 162",
+   "kind": "union local",
+   "city": "Dayton",
+   "trades": "plumber, pipefitter, sprinkler",
+   "description": "UA Local 162 – ua162.org Link to Facebook Link to Instagram Link to LinkedIn United Association Local 162 Home About Us General Office Contact History of the UA Officers, Trustees & Committees Apprenticeship Pre-Applicat",
+   "how_to_apply": "org Link to Facebook Link to Instagram Link to LinkedIn United Association Local 162 Home About Us General Office Contact History of the UA Officers, Trustees & Committees Apprenticeship Pre-Application Certifications Contact Us Members Onl",
+   "url": "https://www.ua162.org/"
+  },
+  {
+   "name": "UA Local 168",
+   "kind": "union local",
+   "city": "Marietta",
+   "trades": "plumber, pipefitter",
+   "description": "Training Center – UA Local 168 Skip to content Home About About Us History of UA Local 168 Officers and Staff Photo Gallery Contact Us Member Login Contractors Submit Fringes Training Center About Us Our History JATC Sta",
+   "how_to_apply": "Training Center – UA Local 168 Skip to content Home About About Us History of UA Local 168 Officers and Staff Photo Gallery Contact Us Member Login Contractors Submit Fringes Training Center About Us Our History JATC Staff & Trustees Colleg",
+   "url": "https://ualocal168.org/training-center/"
+  },
+  {
+   "name": "UA Local 189",
+   "kind": "union local",
+   "city": "Columbus",
+   "trades": "plumber, pipefitter",
+   "description": "Homepage - Hiring Event- Heating, Ventilation, and Air Conditioning Thursday, November 19, 2026 Open House 4:00pm - 7:00pm  Local 189 JATC- 4560 Journal Street",
+   "url": "https://ualocal189.com/"
+  },
+  {
+   "name": "UA Local 219",
+   "kind": "union local",
+   "city": "Akron",
+   "trades": "plumber, pipefitter, sprinkler",
+   "description": "Local 219 | Plumbers & Pipefitters JATC of Akron | Local 219 | Plumbers & Pipefitters JATC of Akron Skip to content 330-253-9166 Email Contact Us About Us General Info What is Organizing? Why Union? Training Options Plum",
+   "url": "https://akron219.com/"
+  },
+  {
+   "name": "UA Local 396",
+   "kind": "union local",
+   "city": "Boardman",
+   "trades": "plumber, pipefitter, steamfitter",
+   "description": "UA Local Union No. 396 is part of the United Association of Plumbers, Fitters, Welders, and HVAC Service Techs.",
+   "how_to_apply": "UA Local 396 About Officers Training Center Apprenticeship Application Resources Benefits Office Contractors Events Wage Rate Request Contact Member Login Menu Menu Welcome to UA Local 396 Pride Through Excellence.",
+   "url": "https://ualocal396.org/"
+  },
+  {
+   "name": "UA Local 42",
+   "kind": "union local",
+   "city": "Norwalk",
+   "trades": "plumber, pipefitter, steamfitter",
+   "description": "UA Local 42 | Plumbers & Steamfitters",
+   "how_to_apply": "UA Local 42 – Plumbers & Steamfitters HOME ABOUT About Us Officers and Staff Fringe Benefit Funds Forms and Downloads Apprenticeship Apprenticeship Application MEMBERS ONLY Member Information Hours Jobs Skills Pay Dues Agreements, Wages, & ",
+   "url": "https://ualocal42.com/"
+  },
+  {
+   "name": "UA Local 392",
+   "kind": "union local",
+   "city": "Cincinnati",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://apply.local392.com/",
+   "description": "UA Local 392 --> Already Have Trade Experience?",
+   "how_to_apply": "Apply Now Learn More Apply Now Learn More GET PAID WHILE YOU LEARN You shouldn’t have to choose between getting an education and having an income."
+  },
+  {
+   "name": "UA Local 50",
+   "kind": "union local",
+   "city": "Northwood",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://ualocal50.com/",
+   "description": "We provide plumbing, pipefitting, and HVAC (heating, ventilation, and air conditioning) service for the needs of homeowners, business, industry, and government installations throughout the twelve counties in Northwest Ohio.",
+   "how_to_apply": "Read More Career Paths in Plumbing/Steamfitting/Welding/MES/HVAC Apply Here The Piping Industry wants to lead you to a successful career as a Welder, Pipefitter, Plumber or HVAC Service Technician."
+  },
+  {
+   "name": "UA Local 776",
+   "kind": "union local",
+   "city": "Lima",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://business.limachamber.com/list/member/plumbers-pipefitters-service-technicians-local-776-lima-3052.htm",
+   "description": "We offer a five year apprenticeship training program and continuing education to ensure our members stay trained at the top of their field."
   },
   {
    "name": "LABORERS' LOCAL 500",

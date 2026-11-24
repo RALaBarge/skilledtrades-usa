@@ -326,6 +326,201 @@
    ]
   },
   {
+   "name": "Baker College Owosso",
+   "type": "university",
+   "city": "Owosso",
+   "home_url": "https://www.baker.edu/",
+   "trades_url": "https://www.baker.edu/academics/resources/full-program-list/",
+   "programs": [
+    "Automotive Services Technology",
+    "Diesel Service Technology"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Dorsey College-Madison Heights",
+   "type": "for-profit school",
+   "city": "Madison Heights",
+   "home_url": "https://www.dorsey.edu/",
+   "trades_url": "https://www.dorsey.edu/skilled-trades/",
+   "programs": [
+    "Combination Welding",
+    "HVAC Systems Technician",
+    "Electrical Technician"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Ferris State University",
+   "type": "university",
+   "city": "Big Rapids",
+   "home_url": "https://www.ferris.edu/",
+   "trades_url": "https://www.ferris.edu/programs/index.htm",
+   "programs": [
+    "Automotive",
+    "HVACR",
+    "Welding Engineering Technology",
+    "Manufacturing and Engineering Technology",
+    "Construction Management"
+   ],
+   "credentials": "degree (per program list)"
+  },
+  {
+   "name": "Glen Oaks Community College",
+   "type": "community college",
+   "city": "Centreville",
+   "home_url": "https://www.glenoaks.edu/",
+   "trades_url": "https://www.glenoaks.edu/programs-training/academic-programs/manufacturing-skilled-trades/index.php",
+   "programs": [
+    "Automotive Certificates",
+    "Machine Tool Certificates",
+    "Electrical Technologies Certificate",
+    "Welding Certificate",
+    "Manufacturing technical associate"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Gogebic Community College",
+   "type": "community college",
+   "city": "Ironwood",
+   "home_url": "https://gogebic.edu/",
+   "trades_url": "https://gogebic.edu/academics/program_main.html",
+   "programs": [
+    "Automotive Technology",
+    "Welding",
+    "Electric Line Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Great Lakes Boat Building School",
+   "type": "career/technical center",
+   "city": "Cedarville",
+   "home_url": "https://marinetrades.edu/",
+   "trades_url": "https://marinetrades.edu/programs-training/",
+   "programs": [
+    "Boat Building (marine carpentry, custom boat building)",
+    "Marine Service Technology (marine mechanic/technician)"
+   ],
+   "credentials": "12-month programs (credential not stated)"
+  },
+  {
+   "name": "Kalamazoo Valley Community College",
+   "type": "community college",
+   "city": "Kalamazoo",
+   "home_url": "https://www.kvcc.edu/",
+   "trades_url": "https://www.kvcc.edu/programs/industrial_trades/",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Technology",
+    "Heating, Ventilation & Air Conditioning",
+    "Welding Technologies",
+    "Machine Tool Technology",
+    "Machinist",
+    "CNC Operator",
+    "Maintenance Mechanic - Industrial",
+    "Engineering/Design/Manufacturing Technology"
+   ],
+   "credentials": "certificate, associate, certificate of achievement (COA)"
+  },
+  {
+   "name": "Michigan Career and Technical Institute",
+   "type": "career/technical center",
+   "city": "Plainwell",
+   "home_url": "https://www.michigan.gov/leo/bureaus-agencies/mcti",
+   "trades_url": "https://www.michigan.gov/leo/bureaus-agencies/mcti",
+   "programs": [
+    "Automotive Technology",
+    "Machine Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Northern Michigan University",
+   "type": "university",
+   "city": "Marquette",
+   "home_url": "https://nmu.edu/",
+   "trades_url": "https://nmu.edu/programs",
+   "programs": [
+    "Automotive Service Technology",
+    "Electrical Line Technician",
+    "Electrical Technology (AAS)",
+    "HVACR",
+    "Industrial Maintenance",
+    "CNC Technician",
+    "Manufacturing Production Technician",
+    "Welding Technology (AAS)"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "School of Missionary Aviation Technology",
+   "type": "technical college",
+   "city": "Ionia",
+   "home_url": "https://smat.edu/",
+   "trades_url": "https://smat.edu/maintenance-training-program/",
+   "programs": [
+    "Aviation Maintenance Technician (A&P, FAA Part 147)"
+   ],
+   "credentials": "certificate (FAA Part 147 A&P)"
+  },
+  {
+   "name": "Schoolcraft Community College District",
+   "type": "community college",
+   "city": "Livonia",
+   "home_url": "https://www.schoolcraft.edu/",
+   "trades_url": "https://www.schoolcraft.edu/academics/manufacturing-engineering-technology/",
+   "programs": [
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Universal Technical Institute-Canton",
+   "type": "for-profit school",
+   "city": "Canton",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/programs",
+   "programs": [
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Collision Repair & Refinish",
+    "Electrical & Electronics",
+    "Industrial Maintenance Technician",
+    "Welding Technology",
+    "HVACR Technician",
+    "Aviation Maintenance Technology",
+    "Marine Technician",
+    "Motorcycle Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Bay de Noc Community College",
+   "type": "public community college",
+   "city": "Escanaba",
+   "home_url": "https://www.baycollege.edu/",
+   "trades_url": "https://www.baycollege.edu/academics/programs/",
+   "programs": [
+    "Automotive Technology (AAS)",
+    "Mechatronics & Robotics Systems (AAS)",
+    "Mechatronics (Certificate)",
+    "Welding (Certificate)"
+   ]
+  },
+  {
+   "name": "Lansing Community College",
+   "type": "public community college",
+   "city": "Lansing",
+   "home_url": "https://www.lcc.edu/",
+   "trades_url": "https://www.lcc.edu/academics/electrical-and-manufacturing/welding/index.html",
+   "programs": [
+    "Welding Technology",
+    "Automotive Technologies"
+   ]
+  },
+  {
    "name": "Alpena Community College",
    "type": "community college",
    "home_url": "https://www.alpenacc.edu/",
@@ -732,6 +927,134 @@
    "description": "Home Javascript must be enabled for the correct page display Home About Our Issues Trades Directory News Current News Past Issues MUST Apprenticeship Contact Here are candidates endorsed for the Nov."
   },
   {
+   "name": "Battle Creek Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Battle Creek",
+   "url": "https://www.bcejatc.com/",
+   "description": "Home | BCEJATC",
+   "how_to_apply": "Home | BCEJATC top of page Home About FAQ Apply Resources Contact Now Training Electricians Great Wages and Benefits Apply Now About Us Learn more about the Battle Creek electrical training program and where it can take you."
+  },
+  {
+   "name": "Detroit JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Warren",
+   "url": "https://detroiteitc.org/",
+   "description": "Start a future that you can depend on. Learn more about apprenticeship training opportunities with Detroit Electrical Industry Training Center.",
+   "how_to_apply": "Home - Detroit EITC Apprenticeships Overview Programs How To Apply Test Study Guide Questions Member Training Demonstration Center Our Business Contact MemberLogin Select Page HANDS-ON INSTRUCTION Meets Classroom Education APPLICATIONS OPEN JUNE 15th-19th, 2026 Stru"
+  },
+  {
+   "name": "Escanaba JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Gwinn",
+   "url": "https://www.906jatc.org/about",
+   "description": "ABOUT US | 906JATC"
+  },
+  {
+   "name": "IBEW Local 692",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Bay City",
+   "url": "https://ibew692.net/",
+   "description": "IBEW Local 692 is a union that represents skilled electricians in the Northeast Michigan region. Take the first step toward a rewarding career!",
+   "how_to_apply": "trical Career Today | IBEW Local 692 Skip to content Union Hall (989) 684-4510 Home About History Organizing Jurisdictional Map Document Request Form Important Links Apprenticeship About our Programs How to Apply Find A Contractor Join IBEW Contact Contact Officers Login X IBEW LOCAL 692 BAY CITY, MICHIGAN Learn More Job Calls Job Calls View our list of job calls."
+  },
+  {
+   "name": "Kalamazoo Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Schoolcraft",
+   "url": "https://www.kalamazoojatc.com/",
+   "description": "Your future in the electrical trades starts here! Get paid to learn, gain lifelong skills, and build a solid career as a commercial electrician.",
+   "how_to_apply": "Electrical Apprenticeship Program - Kalamazoo Electrical Training Alliance Skip to content apply now Facebook Home Apprenticeship Program FAQ Contact Home Apprenticeship Program FAQ Contact Commercial and Industrial Electrician Apprenticeship Program in Southwest Michigan Build A Career That Powers"
+  },
+  {
+   "name": "Lansing Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Lansing",
+   "url": "https://www.lejatc.org/",
+   "description": "IBEW and NECA training apprentices and journeyman for the electrical industry",
+   "how_to_apply": "nsing Electrical Joint Apprenticeship and Training Committee Quick Links FAQs Got a question about the interview process? Check here to see if it's been answered already! Join Us Learn more about the application process, when to apply, and what to expect during the program."
+  },
+  {
+   "name": "Saginaw Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Saginaw",
+   "url": "https://www.fsejatc.com/",
+   "description": "Flint / Saginaw Electrical JATC",
+   "how_to_apply": "e Password Login Register an Account Cancel Forgot Login? Latest News Applications Now Being Accepted Applications Are Now Open for 2027! We are pleased to announce the launch of our new and improved application process for the 2027 year."
+  },
+  {
+   "name": "UA Local 111",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Escanaba",
+   "url": "https://lu111.com/",
+   "description": "Local 111 – Plumbers, Pipefitters and HVAC/R"
+  },
+  {
+   "name": "UA Local 174",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Coopersville",
+   "url": "https://ua174.org/",
+   "description": "Home - UA 174"
+  },
+  {
+   "name": "UA Local 190",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Ann Arbor",
+   "url": "https://ua190.org/",
+   "description": "UA Local 190 | Plumbers, Pipefitters, Service Techs & Gas Distro"
+  },
+  {
+   "name": "UA Local 333",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Lansing",
+   "url": "https://ua333.org/",
+   "description": "UA Local 333 proudly represents plumbers, pipefitters, welders, and HVAC service technicians across Mid-Michigan.",
+   "how_to_apply": "Review the requirements to apply for our Apprenticeship."
+  },
+  {
+   "name": "UA Local 357",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Schoolcraft",
+   "url": "https://www.ualocal357.com/",
+   "description": "We promote the highest standards of qualifications and training in the plumbing and pipe fitting industry to help our members have the skills and knowledge they need to be competitive.",
+   "how_to_apply": "Access the Position Details Join us as an Apprentice! Are you interested in joining the Plumbers and Pipefitters HVAC Service Local 357 Joint Apprentice Committee? If so, we encourage you to apply! To access the applicate requirements, documentation needs and deadlines, download the PDF below."
+  },
+  {
+   "name": "UA Local 636",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Farmington Hills",
+   "url": "https://pipefitters636.org/",
+   "description": "Expert Pipefitting & HVAC Technician Services Are Offered Here At Pipefitters 636. Join Our Union For Career Advancement Opportunities."
+  },
+  {
+   "name": "UA Local 671",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Monroe",
+   "url": "https://unitedassociationlocal671.com/",
+   "description": "UA Local 671 – Plumbers-Pipefitters-HVAC-Welders"
+  },
+  {
+   "name": "UA Local 98",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Madison Heights",
+   "url": "https://ualocal98.org/",
+   "description": "Expert Plumbers, UA Local 98 Is A Leading Union Representing Skilled Tradespeople In The Detroit Area."
+  },
+  {
    "name": "I.U.E.C. Local No. 36 (IUEC)",
    "kind": "union local",
    "trades": "Elevator constructors",
@@ -764,6 +1087,24 @@
    ],
    "url": "https://www.michigan.gov/lara/bureau-list/bcc/sections/licensing-section",
    "description": "The Licensing Division of the Bureau of Construction Codes licenses and registers boiler, electrical, elevator, mechanical, plumbing, residential builder and inspector/plan reviewer professionals, and handles renewals. Apply and verify licenses through the Accela portals linked from https://www.michigan.gov/lara/bureau-list/bcc."
+  },
+  {
+   "name": "LARA Bureau of Construction Codes: Electrical examination, licensing and registration",
+   "trades": "electrical",
+   "url": "https://www.michigan.gov/lara/bureau-list/bcc/sections/licensing-section/exam-lic/electrical-examination-licensing-registration-application-information",
+   "description": "Michigan electrical examinations are based on the 2023 National Electrical Code and 2023 Michigan Electrical Code Rules; exams are administered by PSI after the Licensing Section approves the applicant to test. Electrical apprentice registration requires satisfactory proof of participation in a board-approved apprenticeship training program, including related technical instruction; the page says such programs can be submitted to lara-bcc-educational@michigan.gov for review."
+  },
+  {
+   "name": "LARA Bureau of Construction Codes Licensing Section",
+   "trades": "construction, electrical, plumbing, mechanical (licensing contact)",
+   "url": "https://www.michigan.gov/lara/bureau-list/bcc/sections/licensing-section",
+   "description": "Licensing Section of the Bureau of Construction Codes; page lists phone 517-241-9316 (9am-4pm M-F, excluding State holidays) and e-mail lara-bcc-licensing@michigan.gov."
+  },
+  {
+   "name": "LARA Bureau of Construction Codes: Electrical Section (electrical code enforcement)",
+   "trades": "electrical",
+   "url": "https://www.michigan.gov/lara/bureau-list/bcc/sections/electrical-unit",
+   "description": "Administers and enforces the Michigan Electrical Code and electrical provisions of the Michigan Residential Code through wiring and installation inspections, violation follow-up, and permit checks. Contact: 517-241-9320, bccelec@michigan.gov."
   }
  ],
  "funding": [
@@ -795,6 +1136,276 @@
    "provides": "Association site for the Michigan Works! network of local workforce development offices serving job seekers and employers.",
    "audience": "mixed",
    "status": "unknown"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan Reconnect",
+   "url": "https://www.michigan.gov/reconnect",
+   "provider": "MiLEAP (Michigan Department of Lifelong Education, Advancement, and Potential)",
+   "kind": "tuition-free program",
+   "provides": "Tuition-free enrollment at a Michigan public community college or Tribal college in a Pell-eligible skill certificate or associate degree program, after applying and submitting the FAFSA.",
+   "eligibility": "Enroll in a Pell-eligible skill certificate or associate degree program at a Michigan public or Tribal community college. Expanded to Michigan residents age 21 and older: Oakland CC's Aug. 28, 2026 release says the Governor announced on Aug. 26 that ages 21-24 can now apply (the Reconnect page itself states no age).",
+   "how_to_apply": "Apply online for Michigan Reconnect, apply to a Michigan public community college, and submit the FAFSA.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Going PRO Talent Fund",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/programs-services/going-pro-talent-fund",
+   "provider": "Michigan Department of Labor and Economic Opportunity (LEO), with Michigan Works! Agencies",
+   "kind": "grant",
+   "provides": "Competitive awards to employers for short-term, employer-directed workforce training (classroom/customized training, USDOL Registered Apprenticeship, and on-the-job training) that helps develop and retain new and current employees.",
+   "eligibility": "Employers must first be approved by a Michigan Works! Agency after fact-finding; the page describes permanent, full-time workers as the trainees.",
+   "amount": "Page gives 2014-2026 statistics only: 9,064 awards, average award $41,316, average training cost per person $1,619.",
+   "how_to_apply": "Contact a Michigan Works! Talent Fund key contact; after MWA approval, apply through the Work-Based Learning Online Management System (WBLOMS). Contact: LEO-TalentFund@michigan.gov.",
+   "audience": "employer",
+   "status": "closed"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan Achievement Scholarship: Community College Guarantee",
+   "url": "https://www.michigan.gov/mistudentaid/programs/michigan-achievement-scholarship",
+   "provider": "MI Student Aid",
+   "kind": "tuition-free program",
+   "provides": "Helps recent high school graduates earn a skill certificate or associate degree at their local community college tuition-free.",
+   "eligibility": "All recent high school graduates are eligible regardless of family income. Students who receive the federal Pell grant at their community college are eligible for a $1,000 bonus for living expenses.",
+   "amount": "Tuition-free at local community college; $1,000 Pell bonus for Pell recipients.",
+   "how_to_apply": "Sign up for email alerts and informational sessions via the page; the page lists virtual informational sessions.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Futures for Frontliners",
+   "url": "https://www.michigan.gov/mileap/higher-education/sixty-by-30/initiatives/frontliners",
+   "provider": "MiLEAP (Michigan Department of Lifelong Education, Advancement, and Potential)",
+   "kind": "scholarship",
+   "provides": "Was a state scholarship giving tuition-free access to the local community college, full- or part-time, for associate degrees or skills certificates to Michiganders without college degrees who worked in essential industries during the spring 2020 COVID-19 shutdown.",
+   "eligibility": "Michiganders without college degrees who worked in essential industries during the state COVID-19 shutdown (April 1 to June 30, 2020).",
+   "audience": "individual",
+   "status": "closed"
+  },
+  {
+   "state": "MI",
+   "name": "Registered Apprenticeship for Career Seekers",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/apprenticeships/career-seekers",
+   "provider": "Michigan Department of Labor and Economic Opportunity, Workforce Development",
+   "kind": "apprenticeship",
+   "provides": "Earn-and-learn model: paid work experience with a mentor, classroom technical instruction, progressive wage increases as skills grow, and a nationally recognized credential on completion; programs exist in more than 7,200 occupations.",
+   "amount": "Wages increase progressively during the program (no dollar amount stated).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan Apprenticeship Readiness Credential (MARC)",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/apprenticeships/marc",
+   "provider": "Michigan Department of Labor and Economic Opportunity, Workforce Development",
+   "kind": "other",
+   "provides": "Endorses high-quality Apprenticeship Readiness programs that prepare participants to enter and succeed in USDOL Registered Apprenticeship Programs; a searchable database lists MARC-endorsed programs.",
+   "how_to_apply": "Search the MARC database by occupation, training provider, partner or MARC ID to find a MARC-endorsed training program.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Registered Apprenticeship Michigan Performance Stipends 2027 (RAMPS 2027)",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/apprenticeships",
+   "provider": "Michigan Department of Labor and Economic Opportunity, Workforce Development",
+   "kind": "grant",
+   "provides": "Grants to develop and expand Registered Apprenticeship Programs in high-wage, high-placement occupations and sectors critical to Michigan; funds employer engagement, apprentice enrollment, training and supportive services.",
+   "eligibility": "Eligible organizations (page does not list the full eligibility rules on this page; see the RAMPS 2027 RFP link).",
+   "amount": "$3.8 million total available; awards from $250,000 to $1 million.",
+   "how_to_apply": "Submit a proposal under the RAMPS 2027 RFP; the deadline is Friday, Dec. 11, 2026, 11:59 p.m. EST.",
+   "audience": "employer",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "WIOA Adult Program (Michigan Works! Agencies)",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/programs-services/workforce-innovation-and-opportunity-act-wioa-adult-program",
+   "provider": "Michigan Department of Labor and Economic Opportunity, delivered by local Michigan Works! Agencies (MWAs)",
+   "kind": "other",
+   "provides": "Basic, individualized and training services for adults that increase employment, earnings and occupational skill attainment; training services may include occupational skills training, on-the-job training, registered apprenticeship and pre-apprenticeship, and incumbent worker training.",
+   "eligibility": "Age 18 or older; U.S. citizen or eligible non-citizen; registered with Selective Service if applicable. Priority to veterans, public assistance recipients, other low-income individuals, and individuals who are basic skills deficient.",
+   "how_to_apply": "Contact your local Michigan Works! Agency (MWA); the page does not give a separate application step.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Early Middle College High School Opportunities",
+   "url": "https://www.michigan.gov/mde/services/flexible-learning/middle-colleges",
+   "provider": "Michigan Department of Education, Office of Career and Technical Education",
+   "kind": "tuition-free program",
+   "provides": "Allows students to stay enrolled in high school for a fifth year to take college classes, with up to 60 college credits, an associate degree or other approved credentials; outcomes include a technical certificate, a professional certification, or participation in a registered apprenticeship.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Dual Enrollment (Postsecondary Enrollment Options Act and Career and Technical Preparation Act)",
+   "url": "https://www.michigan.gov/mde/services/flexible-learning/dual-enroll",
+   "provider": "Michigan Department of Education",
+   "kind": "other",
+   "provides": "Lets high school students enroll in college courses, including career and technical preparation programs, that lead to postsecondary credit, accreditation, certification and/or licensing; school districts must provide the opportunity to eligible students.",
+   "eligibility": "Courses must not be offered by the high school or PSA; English and math courses require a qualifying score unless the district elects otherwise.",
+   "how_to_apply": "Through the student's school district or public school academy; MDE contact listed on the page.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan National Guard State Tuition Assistance Program (MINGSTAP)",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/veterans/education-and-training",
+   "provider": "Michigan Department of Labor and Economic Opportunity, Veterans' Employment Services",
+   "kind": "grant",
+   "provides": "Tuition assistance for Michigan National Guard members attending any public or private college, university, vocational school, technical school or trade school located in Michigan (established by Public Act 259 of 2014).",
+   "eligibility": "Members of the Michigan National Guard.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan Rehabilitation Services (MRS)",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/mrs",
+   "provider": "Michigan Department of Labor and Economic Opportunity",
+   "kind": "supportive services",
+   "provides": "Helps people with disabilities prepare for, find, keep or advance in work through an individualized plan with services such as counseling, training, job supports and assistive technology.",
+   "eligibility": "People with disabilities seeking work (the page describes the individualized plan; formal eligibility is in the MRS application process).",
+   "how_to_apply": "Submit the MRS Online Application; contact LEO-MRS-CustomerAssistance@michigan.gov or 800-605-6722.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Bureau of Services for Blind Persons (BSBP)",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/bureau-of-services-for-blind-persons",
+   "provider": "Michigan Department of Labor and Economic Opportunity",
+   "kind": "supportive services",
+   "provides": "For Michigan residents who are blind or visually impaired: vocational skills training, daily living skills training, and possibly adaptive equipment, computer software and postsecondary education depending on needs and eligibility.",
+   "eligibility": "Michigan residents who are blind or visually impaired; specific services depend on needs and eligibility.",
+   "how_to_apply": "Complete the BSBP Services Referral Application (page also lists a general inquiry form).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "MIOSHA Consultation Education and Training (CET) grants (free safety training)",
+   "url": "https://www.michigan.gov/leo/news/2026/11/12/miosha-2027-workplace-safety-training-grants",
+   "provider": "Michigan Occupational Safety and Health Administration (MIOSHA), LEO",
+   "kind": "grant",
+   "provides": "Free workplace safety and health training for Michigan workers and employers in 2027, including Spanish-language instruction, construction fall prevention and farm safety programs, with emphasis on small and midsize employers.",
+   "amount": "$900,000 in CET grants awarded to 16 organizations for 2027.",
+   "how_to_apply": "Training is delivered by the 16 grantee organizations; the page does not describe a request process.",
+   "audience": "mixed",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "MIOSHA Workplace Improvement to Safety and Health (MIWISH) grant",
+   "url": "https://www.michigan.gov/leo/bureaus-agencies/miosha/employer-assistance/grants",
+   "provider": "Michigan Occupational Safety and Health Administration (MIOSHA), LEO",
+   "kind": "grant",
+   "provides": "Dollar-for-dollar match for employers to buy safety and health equipment and equipment-related training to create a safer workplace.",
+   "eligibility": "Qualifying employers (see the MIWISH FAQ on the page).",
+   "amount": "Dollar-for-dollar match up to $5,000.",
+   "how_to_apply": "Submit the MIWISH Grant Application linked on the page; grant administrator LEO-CETGrants@michigan.gov, 517-647-3155.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan Works! network (local Michigan Works! Agencies)",
+   "url": "https://www.michiganworks.org/michigan-works-network",
+   "provider": "Michigan Works! Association (member local agencies listed)",
+   "kind": "other",
+   "provides": "Local Michigan Works! offices help with registering for work, job search, training assistance and business services; the network page lists these member agencies: Capital Area, Detroit Employment Solutions Corporation, Great Lakes Bay, GST, Macomb/St. Clair, Berrien/Cass/Van Buren, Northeast Consortium, Region 7B, Southeast, Southwest, West Central Northwest, Oakland County, SEMCA, Upper Peninsula, and West Michigan Works!.",
+   "how_to_apply": "Call the One-Stop Service Center at 800-285-WORKS (9675) or use the links on the page to find the nearest Michigan Works! office.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Marshall Plan for Talent (state talent-pipeline investment)",
+   "url": "https://www.naswa.org/naswa-awards/michigans-marshall-plan-for-talent",
+   "provider": "Talent and Economic Development Department of Michigan (TED), Michigan Department of Education (MDE), Governor's office (per the NASWA award nomination page)",
+   "kind": "grant",
+   "provides": "A $100 million investment in a partnership of educators, employers and other stakeholders to redesign Michigan's talent pipeline, including Talent Consortia, competency-based learning, and stackable credentials for high-demand, high-wage occupations.",
+   "amount": "$100 million (program-level investment, per the page).",
+   "audience": "school",
+   "status": "unknown"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan Indian Employment and Training Services, Inc. (MIETS)",
+   "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/tribal-government-services-and-policy/native/native-american-resources/michigan-indian-employment-and-training-services-inc-",
+   "provider": "Michigan Indian Employment and Training Services, Inc. (listed on MDHHS Native American Outreach Services page)",
+   "kind": "other",
+   "provides": "Regional office network for Native American employment and training services in Michigan; the page says to call the office in your county for information about eligibility requirements and placement.",
+   "eligibility": "Page says to call for eligibility requirements; no criteria stated.",
+   "how_to_apply": "Call the regional office for your county for an appointment (Muskegon, Grand Rapids/Portage, Lansing offices listed with phone numbers on the page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "MiCareerQuest (West Michigan)",
+   "url": "https://www.micareerquest.org/",
+   "provider": "West Michigan Works! (division of ACSET)",
+   "kind": "other",
+   "provides": "Career exploration event where West Michigan middle and high school students meet local employers and learn about careers in the region's high-demand industries through interactive experiences; the page lists March 31, 2027 as the event date. This is not a funding program.",
+   "eligibility": "Middle and high school students in West Michigan (page lists students, educators/parents and exhibitors).",
+   "how_to_apply": "Use the For students / For educators or parents / For exhibitors links on the page.",
+   "audience": "school",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Skilled Trades Training Fund (STTF)",
+   "url": "https://www.mwse.org/skill-trade-training-fund-grant-awards/",
+   "provider": "Michigan Talent Investment Agency (state fund), reported by Michigan Works! Southeast",
+   "kind": "grant",
+   "provides": "Competitive awards for employer training that enhances talent, productivity and employee retention; the page says the state Skilled Trades Training Fund was in its fourth year and that Michigan Works! Southeast received more than $1.4 million to train workers at 27 companies in its region.",
+   "eligibility": "Employers (companies) that apply for and receive the grant; training benefits new and existing employees.",
+   "amount": "Michigan Works! Southeast regional total: more than $1.4 million across 27 companies (page figure).",
+   "how_to_apply": "Work with the local Michigan Works! business services team; the page says MWSE staff helped companies apply.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "state": "MI",
+   "name": "Pathways to Potential (MDHHS school-based success coaches)",
+   "url": "https://www.michigan.gov/mdhhs/inside-mdhhs/newsroom/2018/08/29/report-pathways-to-potential-helps-students-attend-school-by-removing-barriers-encouraging-family-s",
+   "provider": "Michigan Department of Health and Human Services (MDHHS)",
+   "kind": "supportive services",
+   "provides": "MDHHS caseworkers ('success coaches') placed in schools to remove barriers to student and family success across five outcome areas (attendance, education, health, safety, self-sufficiency), including donations of basic needs. The page is an August 2018 report covering the 2016-17 school year and the 2017-18 program reach (300 schools in 41 counties).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "state": "MI",
+   "name": "MI Apprenticeship: Become an Apprentice",
+   "url": "https://www.miapprenticeship.org/become_an_apprentice/index.php",
+   "provider": "MI Apprenticeship website (sponsoring organization not named in the page text)",
+   "kind": "apprenticeship",
+   "provides": "Guide to Registered Apprenticeship: paid learning on the job, with the page citing more than 14,000 registered apprenticeships; it suggests building an online profile, contacting your local Michigan Works! Agency, and starting a pre-apprenticeship through an employer or union.",
+   "how_to_apply": "Contact your local Michigan Works! Agency; build an online profile; connect with an employer or union. Page also links an apprenticeship job finder at apprenticeship.gov.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MI",
+   "name": "Michigan Member Benefits Program (DMVA): MINGSTAP, Childcare Assistance, TRICARE premium reimbursement",
+   "url": "https://www.michigan.gov/dmva/quality-of-life/member-benefits-program",
+   "provider": "Michigan Department of Military and Veterans Affairs (DMVA)",
+   "kind": "grant",
+   "provides": "Lists three benefits for Michigan National Guard members: MINGSTAP tuition assistance for attending Michigan colleges and trade or technical schools, a Childcare Assistance Program for weekend drill and annual training, and TRICARE premium reimbursement for the member-only premium.",
+   "eligibility": "Michigan National Guard members (the page describes eligible single-soldier or dual-military members for childcare and eligible service members for TRICARE).",
+   "how_to_apply": "Office hours are listed on the page for help with the MINGSTAP, childcare and TRICARE application or reimbursement process.",
+   "audience": "individual",
+   "status": "open"
   }
  ]
 }

@@ -231,6 +231,49 @@
     "CDL / heavy equipment operator training"
    ],
    "credentials": "Welding certificate; noncredit"
+  },
+  {
+   "name": "All-State Career-Baltimore",
+   "type": "for-profit school",
+   "city": "Baltimore",
+   "home_url": "https://www.allstatecareer.edu/",
+   "trades_url": "https://www.allstatecareer.edu/programs/skilled-trades.html",
+   "programs": [
+    "HVAC",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Lincoln College of Technology-Columbia",
+   "type": "for-profit school",
+   "city": "Columbia",
+   "home_url": "https://www.lincolntech.edu/",
+   "trades_url": "https://www.lincolntech.edu/campus/columbia-md",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "North American Trade Schools",
+   "type": "for-profit school",
+   "city": "Baltimore",
+   "home_url": "https://natradeschools.edu/",
+   "trades_url": "https://natradeschools.edu/programs/",
+   "programs": [
+    "Building Technology (Building Construction Technology)",
+    "Combination Welding",
+    "Commercial Truck Driving (Class A and Class B CDL)",
+    "Diesel Technology",
+    "Electrical Technology",
+    "HRVAC Technology"
+   ]
   }
  ],
  "unions": [
@@ -389,6 +432,62 @@
    "city": "West Patapsco Baltimore",
    "url": "https://map.carpenters.org/?councils=council-4085",
    "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Building and construction trades council, Maryland (not verified)",
+   "kind": "building trades council",
+   "trades": "construction trades (council)",
+   "url": "https://bdcbt.org/",
+   "description": "Standing up for Good Jobs and Strong Communities across the District of Columbia, Maryland and Virginia. More…"
+  },
+  {
+   "name": "Baltimore Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Baltimore",
+   "url": "https://jatc24.org/",
+   "description": "Home - Baltimore Electrical - JATC",
+   "how_to_apply": "Apply Today Class of 2022 Congratulations Class of 2022 Congratulations Class of 2022 Baltimore Electrical JATC is Accepting Applications Start training for a rewarding career as a union electrician or technicia"
+  },
+  {
+   "name": "IBEW Local 410",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Baltimore",
+   "url": "https://ibew410.com/",
+   "description": "IBEW Local 410"
+  },
+  {
+   "name": "Western Maryland JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Cumberland",
+   "url": "https://www.ibew307.org/wmd-jatc",
+   "description": "WMD JATC | mysite"
+  },
+  {
+   "name": "UA Local 486",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Baltimore",
+   "url": "https://ualocal486.com/",
+   "description": "Welcome to Plumbers & Steamfitters Local Union 486"
+  },
+  {
+   "name": "UA Local 5",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Lanham",
+   "url": "https://www.local5plumbers.org/contact",
+   "description": "Plumbers & Gasfitters Local Union 5"
+  },
+  {
+   "name": "UA Local 602",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Capitol Heights",
+   "url": "https://www.steamfitters-602.org/",
+   "description": "Steamfitters Local 602 | Union Journeymen, Apprentices and Helpers"
   },
   {
    "name": "Baltimore-DC Metro Building Trades Council",

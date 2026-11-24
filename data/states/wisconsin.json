@@ -266,6 +266,19 @@
     "CNC Setup and Operations Certificate",
     "Welding Fundamentals"
    ]
+  },
+  {
+   "name": "College of Menominee Nation",
+   "type": "community college",
+   "city": "Keshena",
+   "home_url": "https://www.menominee.edu/",
+   "trades_url": "https://www.menominee.edu/academic-catalog",
+   "programs": [
+    "CNC Machinist",
+    "Electricity",
+    "Welding"
+   ],
+   "credentials": "not stated on page read"
   }
  ],
  "unions": [
@@ -596,6 +609,46 @@
    "city": "LaCrosse",
    "url": "https://map.carpenters.org/?councils=council-4085",
    "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "UA Local 400",
+   "kind": "union local",
+   "city": "Kaukauna",
+   "trades": "plumber, pipefitter, steamfitter",
+   "description": "UA Local 400 |",
+   "how_to_apply": "Plumbers and Steamfitters | UA Local 400 About UA Local 400 Organizing Community Involvement Health & Safety Contractors News Our Facility Training Canvas Sign In Blackboard Sign In Certifications Class Sign-Up My Schedule Training Opportun",
+   "url": "https://ua400.org/"
+  },
+  {
+   "name": "UA Local 434",
+   "kind": "union local",
+   "city": "Mosinee",
+   "trades": "plumber, pipefitter, steamfitter",
+   "description": "UA Local 434",
+   "url": "https://www.ualocal434.org/"
+  },
+  {
+   "name": "UA Local 601",
+   "kind": "union local",
+   "city": "Milwaukee",
+   "trades": "steamfitter",
+   "description": "Steamfitters build and maintain the infrastructure of cities, residential and industrial facilities. We are the Keepers of the Craft.",
+   "url": "https://steam601.org/"
+  },
+  {
+   "name": "UA Local 75",
+   "kind": "union local",
+   "city": "Milwaukee",
+   "trades": "plumber",
+   "description": "Plumbers Union Local 75 represents over 1,500 plumbers in 14 counties in Southeastern Wisconsin.",
+   "url": "https://www.plumbers75.com/"
+  },
+  {
+   "name": "Building and construction trades council, Wisconsin (not verified)",
+   "kind": "building trades council",
+   "trades": "electrician, plumber, sprinkler, steamfitter",
+   "description": "Wisconsin Building Trades Council - Wisconsin Building Trades Council Hit enter to search or ESC to close About The Value of WBTC Mission The Contributions of Unions Member Unions Regional Councils Leadership WBTC Brochu",
+   "url": "https://wisconsinbuildingtrades.org/"
   },
   {
    "name": "WISCONSIN LABORERS' APPRENTICESHIP AND TRAINING FUND",

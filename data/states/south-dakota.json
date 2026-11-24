@@ -103,6 +103,19 @@
    ]
   },
   {
+   "name": "Sisseton Wahpeton College",
+   "type": "community college",
+   "city": "Sisseton",
+   "home_url": "https://www.swcollege.edu/newswcollege/",
+   "trades_url": "https://www.swcollege.edu/newswcollege/",
+   "programs": [
+    "Carpentry Technology",
+    "General Building Trades Technology",
+    "Plumbing Certification"
+   ],
+   "credentials": "associate of applied science; certificate"
+  },
+  {
    "name": "Southeast Technical College",
    "type": "public two-year",
    "city": "Sioux Falls",

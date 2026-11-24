@@ -94,6 +94,39 @@
     "Welding Technology"
    ],
    "credentials": "AAS, ATC, ITC (per program listing)"
+  },
+  {
+   "name": "Brigham Young University-Idaho",
+   "type": "university",
+   "city": "Rexburg",
+   "home_url": "https://www.byui.edu/",
+   "trades_url": "https://www.byui.edu/majors/",
+   "programs": [
+    "Automotive Technology (A.A.S.)",
+    "Automotive Engineering Technology (B.S.)",
+    "Automotive Technology Management (B.S.)",
+    "Construction Superintendency (A.A.S.)",
+    "Construction Management (B.S.)",
+    "Architectural Technology (A.A.S.)"
+   ],
+   "credentials": "A.A.S., B.S."
+  },
+  {
+   "name": "Idaho State University",
+   "type": "university",
+   "city": "Pocatello",
+   "home_url": "https://www.isu.edu/",
+   "trades_url": "https://www.isu.edu/majors/",
+   "programs": [
+    "Automotive Technology, A.A.S.",
+    "Automotive Technology, A.T.C.",
+    "Automotive Collision Repair and Refinishing, A.A.S.",
+    "Automotive Collision Repair, I.T.C.",
+    "Automotive Refinishing, I.T.C.",
+    "Automotive Repair and Refinishing, A.T.C.",
+    "Architectural Drafting, I.T.C."
+   ],
+   "credentials": "A.A.S., A.T.C., I.T.C."
   }
  ],
  "unions": [

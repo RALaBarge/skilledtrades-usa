@@ -107,6 +107,19 @@
     "Plumbing (tentative)",
     "Refrigeration and Heating"
    ]
+  },
+  {
+   "name": "Charter College",
+   "type": "for-profit school",
+   "city": "Anchorage",
+   "home_url": "https://chartercollege.edu/",
+   "trades_url": "https://chartercollege.edu/programs/trades-vocation/",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Welding",
+    "Associate of Applied Science in Applied Technology"
+   ],
+   "credentials": "associate"
   }
  ],
  "unions": [
@@ -254,14 +267,6 @@
    "description": "UAA provides the related technical instruction that accompanies on-the-job training in apprenticeship programs; the classes match the certificate programs."
   },
   {
-   "name": "Alaska AJEATT",
-   "union": "IBEW",
-   "kind": "JATC / training center",
-   "city": "Anchorage",
-   "url": "https://www.alaskaelectricalapprenticeship.org/",
-   "description": "Alaska Joint Electrical Apprenticeship & Training Trust provides electrical apprenticeship programs and training."
-  },
-  {
    "name": "IUOE Local 302 (Mixed)",
    "union": "IUOE",
    "kind": "union local",
@@ -317,6 +322,31 @@
    "city": "Fairbanks",
    "url": "https://map.carpenters.org/?councils=council-4008",
    "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "UA Local 262",
+   "kind": "union local",
+   "city": "Juneau",
+   "trades": "Plumbing, pipefitting and sprinkler fitting (UA)",
+   "url": "https://aatca.org/plumbersfitters-2/juneau/",
+   "description": "Juneau &#8211; Alaska Apprenticeship Training Coordinators Association"
+  },
+  {
+   "name": "UA Local 367",
+   "kind": "union local",
+   "city": "Anchorage",
+   "trades": "Plumbing, pipefitting and sprinkler fitting (UA)",
+   "url": "https://ualocal367.org/",
+   "description": "UA Local 367 &#8211; Plumbers and Steamfitters Union"
+  },
+  {
+   "name": "UA Local 375",
+   "kind": "union local",
+   "city": "Fairbanks",
+   "trades": "Plumbing, pipefitting and sprinkler fitting (UA)",
+   "url": "https://ualocal375.org/index.html",
+   "description": "U.A. Local 375 is part of the United Association of Journeymen and Apprentices of the Plumbing and Pipefitting Industry, representing 330,000 members and over 40,000 apprentices in the United States and Canada.",
+   "how_to_apply": "UA Local 375 Plumbers and Pipefitters Apprenticeship Training Plumbers & Pipefitters Fairbanks UA Local 375 Hall: 907-479-6221 • Training Center: 907-456-5989 MENU ABOUT Standard For Excellence Officers / Committees EEO Pledge APPRENTICESHI"
   }
  ],
  "licensing": [

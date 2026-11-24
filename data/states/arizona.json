@@ -228,6 +228,132 @@
     "Advanced Manufacturing Technology AAS"
    ],
    "credentials": "AAS degrees and certificates"
+  },
+  {
+   "name": "Estrella Mountain Community College",
+   "type": "community college",
+   "city": "Avondale",
+   "home_url": "https://www.estrellamountain.edu/",
+   "trades_url": "https://www.estrellamountain.edu/degrees-certificates",
+   "programs": [
+    "Automated Industrial Technology (AAS)",
+    "Industrial Electrical Systems (CCL)",
+    "Industrial Mechanical Systems (CCL)",
+    "Industrial Control Systems (CCL)"
+   ],
+   "credentials": "associate, certificate of completion"
+  },
+  {
+   "name": "Glendale Community College",
+   "type": "community college",
+   "city": "Glendale",
+   "home_url": "https://www.gccaz.edu/",
+   "trades_url": "https://www.gccaz.edu/career-technical-education",
+   "programs": [
+    "Automotive Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Miller-Motte College-Arizona Automotive Institute",
+   "type": "for-profit school",
+   "city": "Glendale",
+   "home_url": "https://www.aai.edu/",
+   "trades_url": "https://www.aai.edu/programs/",
+   "programs": [
+    "Automotive Service Technician",
+    "Combination Welding",
+    "Construction & Trades Management",
+    "CDL Training Program",
+    "Diesel-Heavy Truck Technician",
+    "Electrical Technician",
+    "HVAC & Refrigeration"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Refrigeration School Inc",
+   "type": "for-profit school",
+   "city": "Phoenix",
+   "home_url": "https://www.rsi.edu/",
+   "trades_url": "https://www.rsi.edu/programs/",
+   "programs": [
+    "Refrigeration Technologies (HVAC/R)",
+    "Electro-Mechanical Technologies",
+    "Mechanical Maintenance Engineering",
+    "Welding Training",
+    "Electrician Training"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "UEI College-Mesa",
+   "type": "for-profit school",
+   "city": "Mesa",
+   "home_url": "https://www.uei.edu/",
+   "trades_url": "https://www.uei.edu/trade-school-programs/trades/",
+   "programs": [
+    "Automotive Technician",
+    "Heating, Ventilation and Air Conditioning (HVAC)",
+    "Electrician Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Universal Technical Institute of Arizona Inc",
+   "type": "for-profit school",
+   "city": "Avondale",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Welding Technology",
+    "HVACR Technician",
+    "Industrial Maintenance Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "University of Advancing Technology",
+   "type": "university",
+   "city": "Tempe",
+   "home_url": "https://www.uat.edu/",
+   "trades_url": "https://www.uat.edu/advancing-technology-degrees",
+   "programs": [
+    "Robotics Engineering",
+    "Digital Maker & Fabrication"
+   ],
+   "credentials": "bachelor, master"
+  },
+  {
+   "name": "Western Maricopa Education Center",
+   "type": "career/technical center",
+   "city": "Glendale",
+   "home_url": "https://www.west-mec.edu/adult-students",
+   "trades_url": "https://www.west-mec.edu/adult-students/career-training-programs",
+   "programs": [
+    "Aviation Maintenance Technology",
+    "HVAC-R Certification",
+    "Precision Manufacturing",
+    "Welding Technology"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Chandler-Gilbert Community College",
+   "type": "public community college",
+   "city": "Chandler",
+   "home_url": "https://www.cgc.edu/",
+   "trades_url": "https://www.cgc.edu/degrees-certificates/applied-technology",
+   "programs": [
+    "Automotive repair",
+    "HVAC",
+    "Construction",
+    "Welding",
+    "Electrical technologies",
+    "Electronics repair"
+   ]
   }
  ],
  "unions": [
@@ -413,10 +539,38 @@
    "description": "View Our Code of Excellence Growing the Best Craftspeople in the Construction Industry Through our members’ training and apprenticeship programs, we prepare our apprentices to learn the newest techniques in their trades, as well as making safety training priority number one."
   },
   {
-   "name": "Excellence in Training - Arizona Building Trades",
-   "kind": "pre-apprenticeship",
-   "url": "https://azbuildingtrades.org/preapprenticeships-apprenticeships/",
-   "description": "Veterans: Helmets to Hardhats AZBTC has partnered with the Helmets to Hardhats program to connect veterans to opportunities with AZBTC-affiliated apprenticeship programs."
+   "name": "IBEW Local 1116",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Tucson",
+   "url": "http://www.ibew1116.com/",
+   "description": "IBEW Local 1116"
+  },
+  {
+   "name": "IBEW Local 266",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Phoenix",
+   "url": "https://www.ibewlocal266.org/",
+   "description": "I.B.E.W. Local Union 266"
+  },
+  {
+   "name": "Phoenix Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Phoenix",
+   "url": "https://pejatc.org/",
+   "description": "Welcome to the Phoenix Electrical Apprenticeship Program! Empowering aspiring electricians with expert guidance and hands-on experience.",
+   "how_to_apply": "Contact Admin Instructors Current Contractors Home About History About the Program Board of Trustees Partners Applying for Apprenticeship Why You Should Apply How to Apply Resources Links FAQ Informational Videos Classes E-Catalog Calendar Calendar Contact Admin Instructors Current Contractors Phoen"
+  },
+  {
+   "name": "Tucson Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Tucson",
+   "url": "https://www.tucsonjatc.org/",
+   "description": "The Tucson Electrical JATC is an apprenticeship program that offers quality education to individuals pursuing a career in the electrical field. Apprentices spend 80% of their apprenticeship in the field gaining skill and knowledge.",
+   "how_to_apply": "4 5 6 7 8 9 10 11 12 13 14 MSHA MSHA November 14, 2026 8:00 am - 4:00 pm See more details • 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 CLOSE Requirements to Apply: Interested applicants must bring ALL of the following documentation in person to our office."
   },
   {
    "name": "ARIZONA LABORERS' TRAINING AND APPRENTICESHIP TRUST FUND",

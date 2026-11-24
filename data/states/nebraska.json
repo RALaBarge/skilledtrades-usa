@@ -298,6 +298,48 @@
    "city": "Papillion",
    "url": "https://map.carpenters.org/?councils=council-4275",
    "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 1597",
+   "kind": "union local",
+   "trades": "electrical IBEW NECA",
+   "city": "Grand Island",
+   "url": "http://ibew1597.org/?zone=%2Funionactive%2Fprivate_view_page.cfm&page=About20Us",
+   "description": "IBEW Local 1597 | Home Guest Book International Officers Office Location Officers/Staff News Feeds Contact Us Member Resources Member Home Message Board About Us Officers/Staff Events Calendar Consti"
+  },
+  {
+   "name": "Omaha Electrical Joint Apprenticeship",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Omaha",
+   "url": "https://www.ojeatc.com/",
+   "description": "Video by Construct Your Future. The finest and most highly trained electrical workers in the country receive their training through local joint apprenticeship training committees utilizing the standardized education programs developed by th",
+   "how_to_apply": "C Skip to the content OJEATC Toggle the mobile menu Toggle the search field Home Programs Inside Wireman (commercial/industrial) Telecommunications Residential Applications Continuing Education Contact Us Search Home Programs Inside Wireman"
+  },
+  {
+   "name": "UA Local 16",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Omaha",
+   "url": "https://www.plumberslocal16.org/",
+   "description": "Serving the Omaha, NE area, Local 16 brings high quality plumbing services and state-of-the-art training for apprentices, journeymen, and master plumbers.",
+   "how_to_apply": "Protecting The Health Of The Nation Since 1890 Home About Us About Service Area Officers and Staff Contractors Company Listing Apprenticeship About the Program Apprenticeship Application Equal Opportunity Employer Member Resources Vacation "
+  },
+  {
+   "name": "UA Local 464",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Omaha",
+   "url": "https://lu464.org/",
+   "description": "LU 464 represents skilled workers in the mechanical trades protecting the rights of steamfitters and plumbers, industry integrity, and the wages and benefits of all its members.",
+   "how_to_apply": "Apply now 2027 Apprentice Sign-Up Info Apprenticeship applications are accepted once each year during the first two weeks in March"
+  },
+  {
+   "name": "Building and construction trades council, Nebraska (not verified)",
+   "kind": "building trades council",
+   "trades": "building trades",
+   "url": "https://bctnebraska.com/",
+   "description": "organization has jurisdiction over the building and construction industry in the geographical areas shaded in red throughout Nebraska and including 10 counties in southwestern Iowa. CONTACT US APPREN"
   }
  ],
  "licensing": [

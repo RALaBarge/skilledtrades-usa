@@ -409,6 +409,399 @@
    ]
   },
   {
+   "name": "All-State Career School",
+   "type": "for-profit school",
+   "city": "Essington",
+   "home_url": "https://www.allstatecareer.edu/",
+   "trades_url": "https://www.allstatecareer.edu/programs/skilled-trades.html",
+   "programs": [
+    "Welding Technology",
+    "Welding Technician",
+    "Commercial Truck Driver Training",
+    "HVAC (mentioned on skilled trades page)"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Automotive Training Center-Exton",
+   "type": "for-profit school",
+   "city": "Exton",
+   "home_url": "https://autotraining.edu/",
+   "trades_url": "https://autotraining.edu/programs-and-courses/",
+   "programs": [
+    "Automotive Technology",
+    "Automotive and Hi-Performance Technology",
+    "Automotive and Diesel Technology"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Philadelphia",
+   "type": "technical college",
+   "city": "Philadelphia",
+   "home_url": "https://aviationmaintenance.edu/campuses/philadelphia-pa",
+   "trades_url": "https://aviationmaintenance.edu/campuses/philadelphia-pa/",
+   "programs": [
+    "Aviation Mechanic",
+    "Combination Welding",
+    "Electrical Technician",
+    "HVAC Maintenance Technician"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Berks Career & Technology Center",
+   "type": "career/technical center",
+   "city": "Leesport",
+   "home_url": "https://www.berkscareer.com/ACE",
+   "trades_url": "https://www.berkscareer.com/ACE",
+   "programs": [
+    "Automotive Collision Repair Technology",
+    "Automotive Technology",
+    "Building Construction Occupations",
+    "Carpentry",
+    "Cabinetry & Wood Technology",
+    "Diesel Technology",
+    "Electrical Occupations"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Central Pennsylvania Institute of Science and Technology",
+   "type": "technical college",
+   "city": "Pleasant Gap",
+   "home_url": "https://www.cpi.edu/",
+   "trades_url": "https://cpi.edu/postsecondary-programs/",
+   "programs": [
+    "Automotive Technology",
+    "Carpentry",
+    "Diesel Technology",
+    "Heavy Diesel Construction",
+    "HVAC/R",
+    "Structural Welding",
+    "Welding"
+   ],
+   "credentials": "diploma, certificate, associate (specialized)"
+  },
+  {
+   "name": "Clearfield County Career and Technology Center",
+   "type": "career/technical center",
+   "city": "Clearfield",
+   "home_url": "https://www.ccctc.edu/",
+   "trades_url": "https://www.ccctc.edu/page/ccctc-programs",
+   "programs": [
+    "Automotive Mechanics Technology",
+    "Carpentry & Building Construction",
+    "Collision Repair Technology",
+    "Diesel Equipment Maintenance & Repair Technology",
+    "Electrical Occupations",
+    "Masonry Construction Technology",
+    "Welding & Metal Fabrication Technology"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Erie Institute of Technology Inc",
+   "type": "for-profit school",
+   "city": "Erie",
+   "home_url": "https://erieit.edu/",
+   "trades_url": "https://erieit.edu/",
+   "programs": [
+    "CNC / Machinist Technician",
+    "Industrial Maintenance & Mechatronics",
+    "Electrician",
+    "HVAC/R Technology"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Institute of Medical Careers",
+   "type": "for-profit school",
+   "city": "Pittsburgh",
+   "home_url": "https://imbc.edu/",
+   "trades_url": "https://imbc.edu/",
+   "programs": [
+    "Commercial Truck Driving (Diploma)",
+    "Welding Technology (Diploma)",
+    "HVAC/R"
+   ],
+   "credentials": "diploma"
+  },
+  {
+   "name": "Lancaster County Career and Technology Center",
+   "type": "career/technical center",
+   "city": "Willow Street",
+   "home_url": "https://lancasterctc.edu/",
+   "trades_url": "https://lancasterctc.edu/",
+   "programs": [
+    "MIG Welding",
+    "Basic Welding",
+    "Precision Machining and Computer Aided Manufacturing",
+    "Collision Repair",
+    "HVAC",
+    "Introduction to Construction Careers",
+    "Electro-Mechanical Engineering Technology",
+    "ELDT CDL Class A"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Laurel Technical Institute",
+   "type": "for-profit school",
+   "city": "Hermitage",
+   "home_url": "https://laurel.edu/",
+   "trades_url": "https://laurel.edu/",
+   "programs": [
+    "Electrical Systems Technician",
+    "Electrical Technician",
+    "HVAC Systems Technician",
+    "HVAC Technician",
+    "Welding & Fabrication with Pipeline Technology"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Lincoln Technical Institute-Allentown",
+   "type": "for-profit school",
+   "city": "Allentown",
+   "home_url": "https://www.lincolntech.edu/campus/allentown-pa",
+   "trades_url": "https://www.lincolntech.edu/campus/allentown-pa",
+   "programs": [
+    "Diesel Technology",
+    "Machining and Manufacturing",
+    "Electrical/Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "New Castle School of Trades",
+   "type": "for-profit school",
+   "city": "New Castle",
+   "home_url": "https://www.ncstrades.edu/",
+   "trades_url": "https://www.ncstrades.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Building Technology (carpentry, masonry, roofing)",
+    "Combination Welding",
+    "Commercial Truck Driving",
+    "Diesel & Heavy Equipment Repair Technology",
+    "Electrical Technology",
+    "Industrial Electro-Mechanical Technology",
+    "Machinist & CNC Manufacturing",
+    "Electrical & Industrial Maintenance (East Liverpool, OH)",
+    "Refrigeration & Climate Control (East Liverpool, OH)",
+    "Heavy Equipment Operations",
+    "Motorcycle & Power Equipment Technology"
+   ],
+   "credentials": "associate degree (60-week), diploma, CDL training"
+  },
+  {
+   "name": "Northern Pennsylvania Regional College",
+   "type": "community college",
+   "city": "Warren",
+   "home_url": "https://nprc.edu/",
+   "trades_url": "https://nprc.edu/programs/",
+   "programs": [
+    "Industrial Technology (A.A.S., incl. mechatronics and automation)",
+    "Truck Driving (Class A CDL, partner-delivered)"
+   ],
+   "credentials": "associate degree (A.A.S.), certificate"
+  },
+  {
+   "name": "Pennco Tech-Bristol",
+   "type": "for-profit school",
+   "city": "Bristol",
+   "home_url": "https://www.penncotech.edu/",
+   "trades_url": "https://www.penncotech.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair",
+    "Diesel Technology",
+    "Electrician",
+    "Heating, Ventilation, Air Conditioning & Refrigeration",
+    "Plumbing & Heating Technology",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Pennsylvania Gunsmith School",
+   "type": "for-profit school",
+   "city": "Pittsburgh",
+   "home_url": "https://pagunsmith.edu/",
+   "trades_url": "https://pagunsmith.edu/",
+   "programs": [
+    "Master Gunsmithing Program"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Pennsylvania State University-Penn State New Kensington",
+   "type": "university",
+   "city": "New Kensington",
+   "home_url": "https://newkensington.psu.edu/",
+   "trades_url": "https://newkensington.psu.edu/academics",
+   "programs": [
+    "Electro-Mechanical Engineering Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Philadelphia Technician Training",
+   "type": "technical college",
+   "city": "Philadelphia",
+   "home_url": "https://ptt.edu/",
+   "trades_url": "https://ptt.edu/",
+   "programs": [
+    "Welding Technology and Training",
+    "Steam, Sprinkler, and Pipe Fitting Technician",
+    "Manufacturing and Automation (electrical technician)",
+    "Concreting, Masonry, Framing and Construction Technician",
+    "Automotive Technology and Repair",
+    "Drywall, Framing, and Finishing",
+    "Heating, Ventilation and Air Conditioning"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Pittsburgh Institute of Aeronautics",
+   "type": "technical college",
+   "city": "West Mifflin",
+   "home_url": "https://pia.edu/",
+   "trades_url": "https://pia.edu/",
+   "programs": [
+    "Aviation Maintenance Technology",
+    "Aviation Electronics Technology (avionics)"
+   ],
+   "credentials": "Aircraft Electronics Technician (AET) certification; other credentials not stated"
+  },
+  {
+   "name": "Rosedale Technical College",
+   "type": "technical college",
+   "city": "Pittsburgh",
+   "home_url": "https://rosedaletech.edu/",
+   "trades_url": "https://rosedaletech.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair Technology",
+    "Diesel Technology",
+    "Truck Driving",
+    "Carpentry",
+    "Welding Technician",
+    "Construction Electricity",
+    "HVAC"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Susquehanna County Career and Technology Center",
+   "type": "career/technical center",
+   "city": "Springville",
+   "home_url": "https://www.scctc-school.org/",
+   "trades_url": "https://www.scctc-school.org/",
+   "programs": [
+    "Automotive Technology (high school)",
+    "Medium/Heavy Vehicle and Truck Technology (high school)",
+    "Welding Technology/Welder (high school)",
+    "Carpentry/Cabinetmaking",
+    "CDL Program (adult education)"
+   ],
+   "credentials": "high-school career and technical education; adult CDL training"
+  },
+  {
+   "name": "Universal Technical Institute of Pennsylvania Inc",
+   "type": "for-profit school",
+   "city": "Exton",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Motorcycle Technician",
+    "Marine Technician",
+    "Collision Repair & Refinish Technology",
+    "Electrical & Electronics",
+    "Industrial Maintenance Technician",
+    "Robotics & Automation Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Welder Training and Testing Institute",
+   "type": "for-profit school",
+   "city": "Allentown",
+   "home_url": "https://www.wtti.edu/",
+   "trades_url": "https://www.wtti.edu/programs-and-courses.html",
+   "programs": [
+    "Welding (welder training and certification)",
+    "Advanced Welding Technique Courses"
+   ],
+   "credentials": "welder certification; CWI exam prep"
+  },
+  {
+   "name": "Williamson College of the Trades",
+   "type": "technical college",
+   "city": "Media",
+   "home_url": "https://williamson.edu/",
+   "trades_url": "https://williamson.edu/",
+   "programs": [
+    "Carpentry",
+    "Electrical",
+    "Landscape Construction and Management",
+    "Machine Tool Technology",
+    "Masonry",
+    "Power Plant Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "YTI Career Institute-York",
+   "type": "for-profit school",
+   "city": "York",
+   "home_url": "https://yti.edu/",
+   "trades_url": "https://yti.edu/",
+   "programs": [
+    "Diesel Technician",
+    "Electrical Technology",
+    "HVACR",
+    "Plumbing",
+    "CDL Training"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "York County School of Technology-Adult & Continuing Education",
+   "type": "career/technical center",
+   "city": "York",
+   "home_url": "https://educationthatpays.com/",
+   "trades_url": "https://educationthatpays.com/",
+   "programs": [
+    "Class A CDL Truck Driving",
+    "Automotive Technology",
+    "Diesel Technician",
+    "Heavy Equipment Operators",
+    "HVAC",
+    "Plumbing Apprenticeship",
+    "Advanced Manufacturing",
+    "Welding"
+   ],
+   "credentials": "certificate; plumbing apprenticeship"
+  },
+  {
+   "name": "Commonwealth Technical Institute at the Hiram G. Andrews Center",
+   "type": "state-run technical institute",
+   "city": "Johnstown",
+   "home_url": "https://www.pa.gov/agencies/dli/programs-services/disability-and-vocational-rehabilitation/cti-at-hgac",
+   "trades_url": "https://www.pa.gov/agencies/dli/programs-services/disability-and-vocational-rehabilitation/cti-at-hgac",
+   "programs": [
+    "Welding",
+    "Automotive Technology",
+    "Operations and Logistics"
+   ]
+  },
+  {
    "name": "HACC, Central Pennsylvania's Community College",
    "type": "public community college",
    "home_url": "https://hacc.edu/",
@@ -873,12 +1266,105 @@
    "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
   },
   {
-   "name": "Sheet Metal Local 44",
-   "union": "SMART",
+   "name": "ATEI 98 Zone 2",
+   "kind": "JATC / training center",
+   "city": "Collegeville",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "http://www.ibew98.org/links/our-service/",
+   "description": "[/ut_service_box] [ut_service_box color=”#ffffff” background=”#ffffff” opacity=”0.2″ icon=”fa-globe” headline=”History” width=”third” last=”false”] With over 114 years of experience, an IBEW 98 apprenticeship is the clear choice in Philadelphia to be trained for the future."
+  },
+  {
+   "name": "Apprentice Training for the Electrical Industry",
+   "kind": "JATC / training center",
+   "city": "Philadelphia",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibewtestprep.com/guide/locals/local-98-philadelphia-pa",
+   "description": "Written and fact-checked by the IBEW Test Prep team — working electricians with 12+ years in the trade About us · Last updated: November 1, 2026 Status, checked 1 November 2026 against Local 98 's own page: The application process is closed, changing or unconfirmed — read the notice below.",
+   "how_to_apply": "IBEW Local 98 Apprenticeship 2026: Aptitude Test & How to Apply IBEWTESTPREP Free Test Guides Pricing Log in Try Free Test Home / Study guides / Local 98 IBEW Local 98 Apprenticeship Aptitude Test — Philadelphia, PA Philadelphia, PA — application window, testing frequency, score threshold, and retake wait."
+  },
+  {
+   "name": "IBEW Local 29",
    "kind": "union local",
-   "url": "https://www.smart-union.org/smartcareers/smart-local-44-sheet-metal-apprentice-application-northeast-pa/",
-   "apprenticeship_url": "https://www.smart-union.org/smartcareers/smart-local-44-sheet-metal-apprentice-application-northeast-pa/",
-   "description": "Start a Union Información en español Become an Apprentice at Local 44 in Northeastern Pennsylvania Take the first steps to success as an Apprentice with Local 44 Apply to become an apprentice with Local 44 here."
+   "city": "Pittsburgh",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://www.ibew29.org/",
+   "description": "IBEW Local 29 represents the electrical workers who keep Pittsburgh running — safely, skillfully, and union-strong."
+  },
+  {
+   "name": "IBEW Local 459",
+   "kind": "union local",
+   "city": "Johnstown",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibewlocal459.org/",
+   "description": "Ortitay introduced SB 1328 and HB 2480, respectively, to require AEDs at electric utility worksites."
+  },
+  {
+   "name": "IBEW Local 654",
+   "kind": "union local",
+   "city": "Chester",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-654-boothwyn",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "IBEW Local 744",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "http://www.ibew744.org/",
+   "description": "IBEW local 744 [HOME PAGE OF LOCAL UNION 744 OF International Brotherhood of Electrical Workers: ] Thank you for visiting our new Internet site."
+  },
+  {
+   "name": "IBEW Local Union 375, JATC",
+   "kind": "JATC / training center",
+   "city": "Allentown",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-375-allentown",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "LU 607 IBEW Shamokin JATC",
+   "kind": "JATC / training center",
+   "city": "Shamokin",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-607-shamokin",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "Wilkes-Barre Elec. JATC",
+   "kind": "JATC / training center",
+   "city": "Nanticoke",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibewtestprep.com/guide/locals/local-163-wilkes-barre-pa",
+   "description": "Written and fact-checked by the IBEW Test Prep team — working electricians with 12+ years in the trade About us · Last updated: November 1, 2026 Status, checked 1 November 2026 against Local 163 's own page: The application details below are as the JATC published them on that date.",
+   "how_to_apply": "IBEW Local 163 Apprenticeship 2026: Aptitude Test & How to Apply IBEWTESTPREP Free Test Guides Pricing Log in Try Free Test Home / Study guides / Local 163 IBEW Local 163 Apprenticeship Aptitude Test — Wilkes-Barre, PA Wilkes-Barre, PA — application window, testing frequency, score threshold, and retake wait."
+  },
+  {
+   "name": "UA Local 354",
+   "kind": "union local",
+   "city": "Youngwood",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://www.findglocal.com/US/Youngwood/310353542367694/Plumbers-and-Pipefitters-Union%2C-Local-354",
+   "description": "The jurisdiction of Local Union #354 takes in the following counties in Western PA: Bedford, Blair, Cambria, Cameron, Clearfield, Elk, Fayette, Huntingdon, Indiana, Jefferson, Somerset, Westmoreland and parts of Washington and Green.",
+   "how_to_apply": "Apply now: https://bit.ly/4gX6bjV 11/18/2026 The best gifts come from people who take pride in their work."
+  },
+  {
+   "name": "UA Local 692",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://sprinklerfitters692.org/",
+   "description": "Sprinkler Fitters Local Union 692 Loading..."
+  },
+  {
+   "name": "Building and construction trades council, Pennsylvania (not verified)",
+   "kind": "building trades council",
+   "trades": "Multi-trade building trades council",
+   "url": "https://pabuildingtrades.org/",
+   "description": "Top News CRANE CLEAN ENERGY CENTER ANNOUNCEMENT --> --> News Archive Union Workers Are Specialists!"
   },
   {
    "name": "Pennsylvania State Building & Construction Trades Council",

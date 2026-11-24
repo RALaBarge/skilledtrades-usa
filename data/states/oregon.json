@@ -257,6 +257,21 @@
     "Construction Management B.S."
    ],
    "credentials": "Bachelor's and master's degrees"
+  },
+  {
+   "name": "Southwestern Oregon Community College",
+   "type": "community college",
+   "city": "Coos Bay",
+   "home_url": "https://www.socc.edu/",
+   "trades_url": "https://www.socc.edu/programs-classes/pathways-degrees/",
+   "programs": [
+    "Diesel Mechanic Technology",
+    "Welding",
+    "Pipe Fitting",
+    "Welding Assistant",
+    "Welding Technician"
+   ],
+   "credentials": "associate (A.A.S.), certificate"
   }
  ],
  "unions": [
@@ -629,6 +644,47 @@
    "kind": "building trades council",
    "url": "https://www.oregonbuildingtrades.com/",
    "description": "Learn More Becoming an Apprentice Without a dime of public money, we have developed the best trained, most highly skilled construction workforce in the world, right here in Oregon."
+  },
+  {
+   "name": "Central Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Tangent",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://pejatc.org/",
+   "description": "Welcome to Phoenix Electrical Apprenticeship & Craft Certification Center Mission Statement Promoting and serving the electrical construction industry through continuing education and training today's Apprentices to meet tomorrow's leadership opportunities."
+  },
+  {
+   "name": "Crater Lake Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Central Point",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://clejatc.org/",
+   "description": "Crater Lake Electrical Training Center – The Winning Team Skip to main content Hit enter to search or ESC to close Search Close Search 0 Menu Applicants Apprentices Journey Electricians About Us Media facebook youtube instagram tiktok 0 was successfully added to your cart.",
+   "how_to_apply": "Completed NJATC Aptitude Test with minimum qualifying scores Is there any way that I can bypass any steps in the application process?"
+  },
+  {
+   "name": "IBEW Local 932",
+   "kind": "union local",
+   "city": "Coos Bay",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://dragup.org/local/932",
+   "description": "IBEW Local 932 – Coos Bay Wages & Job Calls D DragUp Local 932 D DragUp Helping IBEW electricians find work opportunities across the country."
+  },
+  {
+   "name": "NECA IBEW Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Portland",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://necaibew48.com/about/careers/",
+   "description": "Our mission is to evolve and retain the best workforce of union electricians and electrical contractors."
+  },
+  {
+   "name": "UA Local 290",
+   "kind": "union local",
+   "city": "Tualatin",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://ua290.org/",
+   "description": "MEMBER LOGIN CONTACT Plumbers Steamfitters HVAC/R Marine Fitters The United Association has been training qualified pipe tradesmen longer than anyone else in the industry."
   },
   {
    "name": "Ironworkers Local 29",

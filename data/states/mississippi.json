@@ -261,6 +261,21 @@
     "Electrical Lineman",
     "Residential Carpentry"
    ]
+  },
+  {
+   "name": "Delta Technical College-Mississippi",
+   "type": "for-profit school",
+   "city": "Horn Lake",
+   "home_url": "https://www.deltatechnicalcollege.com/",
+   "trades_url": "https://www.deltatechnicalcollege.com/programs/",
+   "programs": [
+    "HVAC/R Technician",
+    "Electrician",
+    "Welding",
+    "Pipe Fitting",
+    "Truck Driving (CDL)"
+   ],
+   "credentials": "not stated on page"
   }
  ],
  "unions": [
@@ -309,6 +324,23 @@
    "city": "Moss Point",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 733",
+   "kind": "union local",
+   "trades": "electrical IBEW NECA",
+   "city": "Pascagoula",
+   "url": "https://ibew733.org/",
+   "description": "IBEW Local 733 IBEW 733 Home About History Officers / Stewards Apply Apply Apprenticeship Members New Member Info Intro 36 Reasons to Thank Unions Highlights of Representation IBEW 733 Structure Mont",
+   "how_to_apply": "IBEW Local 733 IBEW 733 Home About History Officers / Stewards Apply Apply Apprenticeship Members New Member Info Intro 36 Reasons to Thank Unions Highlights of Representation IBEW 733 Structure Monthly Meeting Collective Bargaining O"
+  },
+  {
+   "name": "Local Union 903 IBEW/JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Gulfport",
+   "url": "http://lu903.com/",
+   "description": "IBEW LOCAL UNION 903 – POWERING SOUTH MISSISSIPPI SINCE 1935 Skip to content Menu About 903 Officers & Staff Code of Excellence Union Benefits IBEW History Apprenticeship & Training Applying for Appr"
   }
  ],
  "licensing": [

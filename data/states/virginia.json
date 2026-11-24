@@ -350,6 +350,123 @@
     "Technical Trades (career pathway)",
     "Advanced Manufacturing (career pathway)"
    ]
+  },
+  {
+   "name": "Advanced Technology Institute",
+   "type": "for-profit school",
+   "city": "Virginia Beach",
+   "home_url": "https://www.auto.edu/",
+   "trades_url": "https://www.auto.edu/automotive-technology/",
+   "programs": [
+    "Automotive Technician",
+    "Diesel Mechanic",
+    "Electrician",
+    "HVAC/Refrigeration",
+    "Welding"
+   ],
+   "credentials": "diploma (program pages)"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Manassas",
+   "type": "for-profit school",
+   "city": "Manassas",
+   "home_url": "https://aviationmaintenance.edu/campuses/nova/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/nova/",
+   "programs": [
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Norfolk",
+   "type": "for-profit school",
+   "city": "Norfolk",
+   "home_url": "https://aviationmaintenance.edu/campuses/norfolk-va/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/norfolk-va/",
+   "programs": [
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "CET-Alexandria",
+   "type": "career/technical center",
+   "city": "Alexandria",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/catalogs",
+   "programs": [
+    "Construction & Building Maintenance",
+    "Automotive Specialist",
+    "Electrician (Residential & General)",
+    "HVAC Technician",
+    "Welding Fabrication",
+    "Truck Driver"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Centura College-Newport News",
+   "type": "for-profit school",
+   "city": "Newport News",
+   "home_url": "https://www.centuracollege.edu/campuses/newport-news",
+   "trades_url": "https://centuracollege.edu/campuses/newport-news/",
+   "programs": [
+    "Electrician",
+    "Welding",
+    "HVAC"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Centura College-Norfolk",
+   "type": "for-profit school",
+   "city": "Norfolk",
+   "home_url": "https://www.centuracollege.edu/campuses/norfolk",
+   "trades_url": "https://centuracollege.edu/campuses/norfolk/",
+   "programs": [
+    "Combination Welding",
+    "Construction Electrician",
+    "Heating, Ventilation and Air Conditioning",
+    "Electrical Lineworker"
+   ],
+   "credentials": "diploma, certificate"
+  },
+  {
+   "name": "ECPI University",
+   "type": "for-profit school",
+   "city": "Virginia Beach",
+   "home_url": "https://www.ecpi.edu/",
+   "trades_url": "https://www.ecpi.edu/programs",
+   "programs": [
+    "Mechatronics",
+    "Computer-Aided Drafting and Design"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Fortis College-Norfolk",
+   "type": "for-profit school",
+   "city": "Norfolk",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/",
+   "programs": [
+    "HVAC/Refrigeration"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Tidewater Tech-Trades",
+   "type": "for-profit school",
+   "city": "Norfolk",
+   "home_url": "https://tidewatertechtrades.edu/",
+   "trades_url": "https://tidewatertechtrades.edu/programs/",
+   "programs": [
+    "Combination Maritime Welding",
+    "Combination Welding",
+    "Building & Construction Trades",
+    "Heating, Ventilation & Air Conditioning"
+   ],
+   "credentials": "not stated on page read"
   }
  ],
  "unions": [
@@ -435,6 +552,46 @@
    "kind": "building trades council",
    "url": "http://vatrades.org/",
    "description": "If you like to work with your hands and are willing to learn a trade an apprenticeship is for you."
+  },
+  {
+   "name": "Hampton Roads JATC",
+   "kind": "JATC / training center",
+   "city": "Newport News",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "http://hamptonroadsjatc.com/",
+   "description": "Electrical Apprenticeship and Training The International Brotherhood of Electrical Workers Local Union 1340, in partnership with the Atlantic Coast Chapter of the National Electrical Contractors Association, proudly sponsors the Hampton Roads Joint Apprenticeship and Training Committee (HRJATC)."
+  },
+  {
+   "name": "IBEW Local 1181",
+   "kind": "union local",
+   "city": "Charlottesville",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://plumbsquare.work/traveler/local/1181",
+   "description": "Hall phone (434) 296-1181 Visit www.ibew1181.com → What to look for at this local Before you sign this book, check the 10 questions every traveler should ask ."
+  },
+  {
+   "name": "IBEW Local 464",
+   "kind": "union local",
+   "city": "Covington",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://lu464.org/Members/",
+   "description": "We work closely with our partners and contractors to provide a thriving potential for a lifelong career in the Pipefitting, HVACR, and Plumbing Industries."
+  },
+  {
+   "name": "IBEW Local 50",
+   "kind": "union local",
+   "city": "Richmond",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "http://www.ibew50.org/",
+   "description": "IBEW Local 50 Home News Feeds Photo Gallery Contact Us Member Resources Member Home Officers & Staff LOCAL50 Gear !"
+  },
+  {
+   "name": "IBEW Local 813",
+   "kind": "union local",
+   "city": "Roanoke",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://www.findglocal.com/US/Roanoke/156201547788026/IBEW-LU-813",
+   "description": "Your Email Subscribe FindGlocal A worldwide directory of local places."
   },
   {
    "name": "I.U.E.C. Local No. 51 (IUEC)",

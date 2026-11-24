@@ -165,6 +165,93 @@
    ]
   },
   {
+   "name": "Benjamin Franklin Cummings Institute of Technology",
+   "type": "technical college",
+   "city": "Boston",
+   "home_url": "https://franklincummings.edu/",
+   "trades_url": "https://franklincummings.edu/academics/construction-and-trades/",
+   "programs": [
+    "Automotive Technology",
+    "Construction Management",
+    "HVAC&R Technology",
+    "Practical Electricity"
+   ],
+   "credentials": "associate, certificate"
+  },
+  {
+   "name": "Motoring Technical Training Institute",
+   "type": "for-profit school",
+   "city": "Seekonk",
+   "home_url": "https://mtti.edu/",
+   "trades_url": "https://mtti.edu/programs/",
+   "programs": [
+    "Automotive Service Technician",
+    "Building and Property Trades Technician",
+    "Residential and Commercial Electrician",
+    "HVAC/R Technician",
+    "Motorcycle & Power Equipment Technician"
+   ]
+  },
+  {
+   "name": "National Aviation Academy of New England",
+   "type": "for-profit school",
+   "city": "Concord",
+   "home_url": "https://www.naa.edu/",
+   "trades_url": "https://www.naa.edu/programs/",
+   "programs": [
+    "Aviation Maintenance Technology",
+    "Aviation Maintenance Professional"
+   ]
+  },
+  {
+   "name": "New England Tractor Trailer Training School of Massachusetts",
+   "type": "for-profit school",
+   "city": "North Andover",
+   "home_url": "https://nettts.com/",
+   "trades_url": "https://nettts.com/training-programs/",
+   "programs": [
+    "CDL Class A Commercial Driving",
+    "CDL Class B Heavy Straight Truck",
+    "HVACR Technician"
+   ]
+  },
+  {
+   "name": "North Bennet Street School",
+   "type": "career/technical center",
+   "city": "Boston",
+   "home_url": "https://nbss.edu/",
+   "trades_url": "https://nbss.edu/full-time-programs/",
+   "programs": [
+    "Carpentry",
+    "Preservation Carpentry"
+   ]
+  },
+  {
+   "name": "Southeastern Technical Institute",
+   "type": "technical college",
+   "city": "South Easton",
+   "home_url": "https://stitech.edu/",
+   "trades_url": "https://stitech.edu/programs/",
+   "programs": [
+    "Electricity",
+    "Plumbing",
+    "Heating, Ventilation & Air Conditioning and Refrigeration",
+    "Machine Tool Technology (Advanced Manufacturing)",
+    "Metal Fabrication & Joining Technologies"
+   ]
+  },
+  {
+   "name": "Wentworth Institute of Technology",
+   "type": "university",
+   "city": "Boston",
+   "home_url": "https://wit.edu/",
+   "trades_url": "https://wit.edu/academics/degree-finder",
+   "programs": [
+    "Construction Management"
+   ],
+   "credentials": "bachelor"
+  },
+  {
    "name": "Bristol Community College",
    "type": "community college",
    "home_url": "https://www.bristolcc.edu/",
@@ -479,6 +566,86 @@
    "kind": "building trades council",
    "url": "https://massbuildingtrades.org/",
    "description": "Directory of Apprenticeships Union craftspeople learn their trade through state-of-the-art apprenticeship programs."
+  },
+  {
+   "name": "IBEW Local 1228",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Boston",
+   "url": "https://www.ibew1228.org/index.cfm?zone=%2Funionactive%2Fofficers.cfm",
+   "description": "IBEW Local 1228"
+  },
+  {
+   "name": "IBEW Local 2321",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Middleton",
+   "url": "https://ibew2321.org/union-meetings/",
+   "description": "The Union meetings are the best source for information and all members are strongly encouraged to attend the Monthly meetings.  Now more than ever, we must show solidarity and unity with our brothers and sisters from across the local and with our union.  Your participation is key and any union is on"
+  },
+  {
+   "name": "IBEW Local 2322",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Middleboro",
+   "url": "http://ibew2322.org/",
+   "description": "IBEW Local 2322"
+  },
+  {
+   "name": "IBEW Local 674",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Boston",
+   "url": "http://ibew674.org/about",
+   "description": "About Local 674 — IBEW LOCAL 674"
+  },
+  {
+   "name": "IBEW Local 7",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Springfield",
+   "url": "https://www.ibewlocal7.com/",
+   "description": "IBEW 7"
+  },
+  {
+   "name": "Springfield JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Springfield",
+   "url": "https://www.springfield-armory.com/",
+   "description": "With a huge selection of handguns and rifles, Springfield Armory® is the premier manufacturer of quality firearms for concealed carry, home defense, hunting and competitive shooting."
+  },
+  {
+   "name": "Worcester Electricians JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Worcester",
+   "url": "https://www.worcesterma.gov/",
+   "description": "Home | City of Worcester"
+  },
+  {
+   "name": "UA Local 104",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Holyoke",
+   "url": "https://www.ualocal104.org/",
+   "description": "Home | Plumbers & Pipefitters Local 104"
+  },
+  {
+   "name": "UA Local 4",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "West Boylston",
+   "url": "https://ualocal4.com/",
+   "description": "Join Plumbers &amp; Pipefitters Local 4 for skilled training and union support in Worcester, MA. Become a member today!"
+  },
+  {
+   "name": "UA Local 550",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Boston",
+   "url": "https://www.sprinklerfitters550.org/",
+   "description": "Official site of Local 550 Sprinkler Fitters. This training assures that our contractors and end-users get the ‘best and the brightest’ to design, install and service a quality fire protection system."
   },
   {
    "name": "NEW ENGLAND LABORERS' TRAINING TRUST FUND",

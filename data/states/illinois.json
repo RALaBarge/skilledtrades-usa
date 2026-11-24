@@ -414,6 +414,257 @@
    ]
   },
   {
+   "name": "Aviation Institute of Maintenance-Chicago",
+   "type": "for-profit school",
+   "city": "Chicago",
+   "home_url": "https://aviationmaintenance.edu/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/chicago-il/",
+   "programs": [
+    "Combination Welding",
+    "Electrical Technician",
+    "Maintenance Technician",
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Black Hawk College",
+   "type": "community college",
+   "city": "Moline",
+   "home_url": "https://www.bhc.edu/",
+   "trades_url": "https://www.bhc.edu/academics/programs/",
+   "programs": [
+    "Welding and Skilled Trades",
+    "Agriculture Mechanics Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Danville Area Community College",
+   "type": "community college",
+   "city": "Danville",
+   "home_url": "https://dacc.edu/",
+   "trades_url": "https://dacc.edu/programs",
+   "programs": [
+    "Automotive Technology (A.A.S. and certificates)",
+    "Electric Vehicle Technology",
+    "Automotive Technology Fundamentals",
+    "Manufacturing Engineering (A.A.S.)",
+    "CNC Machine Tool Operator",
+    "Advanced Manufacturing (A.A.S., certificates)",
+    "Heating, Ventilation and Air Conditioning (HVAC) certificate",
+    "Welding certificate",
+    "Wind Technology (A.A.S.)"
+   ],
+   "credentials": "A.A.S., certificate"
+  },
+  {
+   "name": "ETI School of Skilled Trades",
+   "type": "for-profit school",
+   "city": "Willowbrook",
+   "home_url": "https://eticampus.edu/",
+   "trades_url": "https://eticampus.edu/",
+   "programs": [
+    "HVAC/R",
+    "Welding"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Illinois Central College",
+   "type": "community college",
+   "city": "East Peoria",
+   "home_url": "https://icc.edu/",
+   "trades_url": "https://icc.edu/program-search/",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Repair Specialist",
+    "Automotive Maintenance Specialist",
+    "Automotive - Electric Vehicle Specialist",
+    "Manufacturing programs",
+    "Basic Construction"
+   ],
+   "credentials": "certificate, A.A.S. (per program-search)"
+  },
+  {
+   "name": "Kishwaukee College",
+   "type": "community college",
+   "city": "Malta",
+   "home_url": "https://www.kish.edu/",
+   "trades_url": "https://www.kish.edu/academics/cte.php",
+   "programs": [
+    "Welding Technology",
+    "Diesel Power Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Lake Land College",
+   "type": "community college",
+   "city": "Mattoon",
+   "home_url": "https://www.lakelandcollege.edu/",
+   "trades_url": "https://www.lakelandcollege.edu/trades/",
+   "programs": [
+    "Welding Technology",
+    "HVAC+R",
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Mechanical-Electrical Technology",
+    "Commercial Truck Driver Training (CDL)"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Lewis University",
+   "type": "university",
+   "city": "Romeoville",
+   "home_url": "https://www.lewisu.edu/",
+   "trades_url": "https://www.lewisu.edu/academics/programs/ugrad.htm",
+   "programs": [
+    "Aviation Maintenance Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Lincoln College of Technology-Melrose Park",
+   "type": "for-profit school",
+   "city": "Melrose Park",
+   "home_url": "https://www.lincolntech.edu/",
+   "trades_url": "https://www.lincolntech.edu/campus/melrose-park-il",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Midwest Technical Institute-Illinois",
+   "type": "for-profit school",
+   "city": "Springfield",
+   "home_url": "https://www.midwesttech.edu/",
+   "trades_url": "https://www.midwesttech.edu/programs/",
+   "programs": [
+    "HVAC/R Technician",
+    "Welding",
+    "Electrician",
+    "Truck Driving (CDL)"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Prairie State College",
+   "type": "community college",
+   "city": "Chicago Heights",
+   "home_url": "https://prairiestate.edu/",
+   "trades_url": "https://prairiestate.edu/academics/manufacturing-and-construction/index.html",
+   "programs": [
+    "Automotive Technology, A.A.S.",
+    "Automotive Diesel Technology Certificate",
+    "Automotive Heating/Air Conditioning Specialist Certificate",
+    "Automotive Services Technology Certificate",
+    "Manufacturing & Construction programs (construction and skilled trades)"
+   ],
+   "credentials": "A.A.S., certificates"
+  },
+  {
+   "name": "Rock Valley College",
+   "type": "community college",
+   "city": "Rockford",
+   "home_url": "https://www.rockvalleycollege.edu/",
+   "trades_url": "https://rockvalleycollege.edu/academics/programs/index",
+   "programs": [
+    "Automotive Service Technology",
+    "Aviation Maintenance Technology",
+    "CNC Machining",
+    "Collision Repair",
+    "Highway Construction Careers Training Program"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Sauk Valley Community College",
+   "type": "community college",
+   "city": "Dixon",
+   "home_url": "https://www.svcc.edu/",
+   "trades_url": "https://www.svcc.edu/academics/programs/index.html",
+   "programs": [
+    "Manufacturing Technology",
+    "Electrical",
+    "Heating, Refrigeration",
+    "Machining and CNC",
+    "Multicraft Technology",
+    "Welding",
+    "Commercial Drivers License"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Southeastern Illinois College",
+   "type": "community college",
+   "city": "Harrisburg",
+   "home_url": "https://sic.edu/",
+   "trades_url": "https://sic.edu/academics/programs-by-department/applied-technology/",
+   "programs": [
+    "Diesel Technology",
+    "Powersports Technology",
+    "Welding"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Stautzenberger College-Rockford Career College",
+   "type": "for-profit school",
+   "city": "Rockford",
+   "home_url": "https://www.rockfordcareercollege.edu/",
+   "trades_url": "https://www.rockfordcareercollege.edu/programs/",
+   "programs": [
+    "Electrical Technician",
+    "Heating, Ventilation, Air Conditioning & Refrigeration",
+    "Welding",
+    "Construction Administration AAS"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Universal Technical Institute of Illinois Inc",
+   "type": "for-profit school",
+   "city": "Lisle",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/programs",
+   "programs": [
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Motorcycle Technician",
+    "Marine Technician",
+    "Collision Repair & Refinish Technology",
+    "Electrical & Electronics",
+    "Industrial Maintenance Technician"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Waubonsee Community College",
+   "type": "community college",
+   "city": "Sugar Grove",
+   "home_url": "https://www.waubonsee.edu/",
+   "trades_url": "https://www.waubonsee.edu/programs-courses/programs-subject/industry-manufacturing-and-transportation",
+   "programs": [
+    "Automation Technology",
+    "Automotive Collision and Refinishing Technology",
+    "Automotive Service Technology",
+    "Heating, Ventilation and Air Conditioning",
+    "Computer Aided Design and Drafting",
+    "Industrial Maintenance Microcredentials"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
    "name": "Richland Community College",
    "type": "community college",
    "home_url": "https://www.richland.edu/",

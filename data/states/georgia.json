@@ -227,6 +227,157 @@
    ]
   },
   {
+   "name": "Atlanta Technical College",
+   "type": "technical college",
+   "city": "Atlanta",
+   "home_url": "https://www.atlantatech.edu/",
+   "trades_url": "https://www.atlantatech.edu/programs/industrial-technology/",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Collision Repair",
+    "Automotive Technology",
+    "Carpentry",
+    "Construction Management",
+    "Diesel Equipment Technology",
+    "Electrical Construction & Maintenance",
+    "Plumbing and Pipefitting Technology",
+    "Welding and Joining Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Augusta Technical College",
+   "type": "technical college",
+   "city": "Augusta",
+   "home_url": "https://www.augustatech.edu/",
+   "trades_url": "https://www.augustatech.edu/academics/degrees-diplomas-and-certificates.cms",
+   "programs": [
+    "Advanced Pipe Welding",
+    "Air Conditioning Technology",
+    "Air Conditioning Electrical Technician",
+    "Automotive Chassis Technician Specialist",
+    "Automotive Climate Control Technician",
+    "Automotive Electrical/Electronic Systems Technician",
+    "Automotive Engine Performance Technician",
+    "Aviation",
+    "Architectural and Engineering Draft Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Atlanta",
+   "type": "for-profit school",
+   "city": "Duluth",
+   "home_url": "https://aviationmaintenance.edu/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/atlanta-ga/",
+   "programs": [
+    "Combination Welding",
+    "Electrical Technician",
+    "Maintenance Technician",
+    "Heating, Ventilation, and Air Conditioning (HVAC)",
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Fortis College-Smyrna",
+   "type": "for-profit school",
+   "city": "Smyrna",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/programs/skilled-trades.html",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning and Refrigeration Trades (HVAC-R)",
+    "Welding",
+    "Electrical Trades",
+    "Electrical Systems Technician",
+    "Commercial Driving"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Interactive College of Technology-Chamblee",
+   "type": "for-profit school",
+   "city": "Chamblee",
+   "home_url": "https://www.ict.edu/",
+   "trades_url": "https://www.ict.edu/programs/",
+   "programs": [
+    "Commercial Refrigeration",
+    "HVAC Residential",
+    "HVAC/R Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Lincoln College of Technology-Marietta",
+   "type": "for-profit school",
+   "city": "Marietta",
+   "home_url": "https://www.lincolntech.edu/",
+   "trades_url": "https://www.lincolntech.edu/campus/marietta-ga",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Middle Georgia State University",
+   "type": "university",
+   "city": "Macon",
+   "home_url": "https://www.mga.edu/",
+   "trades_url": "https://www.mga.edu/degrees/index.php",
+   "programs": [
+    "Aviation Maintenance Technology",
+    "Aircraft Structural Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "North Georgia Technical College",
+   "type": "technical college",
+   "city": "Clarkesville",
+   "home_url": "https://northgatech.edu/",
+   "trades_url": "https://northgatech.edu/academic-programs/",
+   "programs": [
+    "Advanced Manufacturing",
+    "Automotive and Transportation",
+    "Electrical Lineworker",
+    "Electrical Systems",
+    "Precision Machining (CNC)",
+    "Welding"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Southeastern Technical College",
+   "type": "technical college",
+   "city": "Vidalia",
+   "home_url": "https://www.southeasterntech.edu/",
+   "trades_url": "https://www.southeasterntech.edu/programs/",
+   "programs": [
+    "Industrial Technology"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "United Education Institute-Morrow",
+   "type": "for-profit school",
+   "city": "Morrow",
+   "home_url": "https://www.uei.edu/",
+   "trades_url": "https://www.uei.edu/trade-school-programs/trades/",
+   "programs": [
+    "Automotive Technician",
+    "Heating, Ventilation and Air Conditioning (HVAC) Technician",
+    "Electrician Technician"
+   ],
+   "credentials": "diploma (short-term, per trades_url)"
+  },
+  {
    "name": "Lanier Technical College",
    "type": "technical college",
    "city": "Gainesville",
@@ -442,6 +593,54 @@
    "city": "Savannah",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Macon Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Macon",
+   "url": "https://www.maconetc.org/",
+   "description": "https://www.maconelectricaltrainingcenter.org/ A tuition free option for electrical training.",
+   "how_to_apply": "--> Home | Macon Electrical Tra top of page Home About Apply Now Team Programs Benefits FAQ More Use tab to navigate through the menu items."
+  },
+  {
+   "name": "UA Local 150",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Augusta",
+   "url": "https://ua150.org/",
+   "description": "Augusta"
+  },
+  {
+   "name": "UA Local 188",
+   "kind": "union local",
+   "city": "Savannah",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://localunion188.com/",
+   "description": "Training Family owned and operated Get to know our experienced welders!"
+  },
+  {
+   "name": "UA Local 72",
+   "kind": "union local",
+   "city": "Atlanta",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://mti-jatt.org/",
+   "description": "Pick Your Craft PLUMBING PIPEFITTING PIPE WELDING HVACR Atlanta Office Hours: 7:00AM - 5:30 PM Monday-Thursday Copyright © 2026 Mechanical Trades Institute Locations School Calendar Payments School Closures X (Twitter) YouTube Union Up Close"
+  },
+  {
+   "name": "IUOE Local 474 (Mixed)",
+   "kind": "union local",
+   "city": "Pooler",
+   "trades": "Operating engineers (heavy equipment)",
+   "url": "https://local474.iuoentf.training/courses/",
+   "description": "Home | Local 474 Training Skip to main content Side panel Local 474 Training Home Support More Log in Local 474 Training Home Support IUOE Local 474 Apprenticeship & Training Skip courses Courses Coll"
+  },
+  {
+   "name": "Building and construction trades council, Georgia (not verified)",
+   "kind": "building trades council",
+   "trades": "Multi-trade building trades council",
+   "url": "https://georgiabuildingtrades.org/",
+   "description": "About Officers Learn More Affiliate Locations‎ ‎ ‎ ‎ Choose Your Trade ‎ ‎Find Your Local ‎ ‎ ‎ Learn a Skilled Trade Contact Us Toggle Navigation GeorgiaBuildingTrades.org 1250 Reynolds Street, Augusta, GA 30901 Varied Home‎ ‎ ‎ ‎ What is GSBCTC?"
   },
   {
    "name": "Georgia Construction Careers (Georgia Building Trades Academy, YouthBuild)",

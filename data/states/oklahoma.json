@@ -278,6 +278,226 @@
     "Introduction to Electrical Construction",
     "Introduction to Carpentry"
    ]
+  },
+  {
+   "name": "Chisholm Trail Technology Center",
+   "type": "career/technical center",
+   "city": "Omega",
+   "home_url": "https://www.cttc.edu/",
+   "trades_url": "https://www.cttc.edu/programs",
+   "programs": [
+    "Automotive Service Technology",
+    "Construction Trades",
+    "Electrical Trades",
+    "Electrical and Electronic Systems"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Great Plains Technology Center",
+   "type": "career/technical center",
+   "city": "Lawton",
+   "home_url": "https://www.greatplains.edu/",
+   "trades_url": "https://www.greatplains.edu/full-time-programs-home",
+   "programs": [
+    "Automotive Service Technician",
+    "Aviation Maintenance",
+    "Carpentry Level I",
+    "Combination Collision Repair Technician",
+    "Combination Welder",
+    "Construction Trades",
+    "Electrical Level I",
+    "Industrial Automation",
+    "Residential HVAC Technician"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Green Country Technology Center",
+   "type": "career/technical center",
+   "city": "Okmulgee",
+   "home_url": "https://www.gctcok.edu/",
+   "trades_url": "https://www.gctcok.edu/page/full-time-programs",
+   "programs": [
+    "Construction Trades",
+    "HVAC Technician - Residential/Light Commercial",
+    "Welding, Combination"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "High Plains Technology Center",
+   "type": "career/technical center",
+   "city": "Woodward",
+   "home_url": "https://www.hptc.edu/",
+   "trades_url": "https://www.hptc.edu/career-programs",
+   "programs": [
+    "Automotive Technology",
+    "Medium-Heavy Duty Truck",
+    "Welding Technology",
+    "Construction Trades"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Kiamichi Technology Center-McAlester",
+   "type": "career/technical center",
+   "city": "McAlester",
+   "home_url": "https://www.ktc.edu/",
+   "trades_url": "https://www.ktc.edu/",
+   "programs": [
+    "Electrical Lineman Training Program",
+    "Truck Driver Training",
+    "HVAC Technology",
+    "Plumber & Pipefitter Technology",
+    "Industrial Technology",
+    "Electrical Technology"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Murray State College",
+   "type": "community college",
+   "city": "Tishomingo",
+   "home_url": "https://www.mscok.edu/",
+   "trades_url": "https://www.mscok.edu/academics/academics/degrees-programs.html",
+   "programs": [
+    "Electrical Engineering Technology",
+    "Industrial Engineering Technology"
+   ],
+   "credentials": "associate (A.A.S.)"
+  },
+  {
+   "name": "Northern Oklahoma College",
+   "type": "community college",
+   "city": "Tonkawa",
+   "home_url": "https://www.noc.edu/",
+   "trades_url": "https://www.noc.edu/academics/programs/degreeprograms/",
+   "programs": [
+    "Engineering and Industrial Technology (A.A.S., Power Generation and Process Technology options)"
+   ],
+   "credentials": "associate (A.A.S.)"
+  },
+  {
+   "name": "Oklahoma State University Institute of Technology",
+   "type": "technical college",
+   "city": "Okmulgee",
+   "home_url": "https://osuit.edu/",
+   "trades_url": "https://osuit.edu/academics/degrees-programs",
+   "programs": [
+    "Construction Technology",
+    "Electrical Construction",
+    "Electrical/Electronics Technology",
+    "Engineering Design Drafting Technologies",
+    "Instrumentation and Automation",
+    "Industrial Technologies - Natural Gas Compression",
+    "Truck Technician",
+    "CAT Dealer Prep",
+    "Toyota T-TEN"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Oklahoma State University-Oklahoma City",
+   "type": "university",
+   "city": "Oklahoma City",
+   "home_url": "https://osuokc.edu/",
+   "trades_url": "https://osuokc.edu/academics/degrees",
+   "programs": [
+    "Construction Management Technology",
+    "Engineering Technologies",
+    "Manufacturing Technician I (certificate)",
+    "Manufacturing Technician II (QC) (certificate)"
+   ],
+   "credentials": "certificate, associate, bachelor (B.T.)"
+  },
+  {
+   "name": "Oklahoma Technical College",
+   "type": "technical college",
+   "city": "Tulsa",
+   "home_url": "https://oklahomatechnicalcollege.com/",
+   "trades_url": "https://oklahomatechnicalcollege.com/",
+   "programs": [
+    "Automotive Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "HVAC/R",
+    "Plumbing",
+    "Welding"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Red River Technology Center",
+   "type": "career/technical center",
+   "city": "Duncan",
+   "home_url": "https://www.rrtc.edu/",
+   "trades_url": "https://www.rrtc.edu/",
+   "programs": [
+    "Automotive Collision",
+    "Automotive Service",
+    "CNC Machining",
+    "Construction Technology",
+    "Welding And Metal Fabrication"
+   ],
+   "credentials": "not stated"
+  },
+  {
+   "name": "Spartan College of Aeronautics and Technology",
+   "type": "for-profit school",
+   "city": "Tulsa",
+   "home_url": "https://www.spartan.edu/",
+   "trades_url": "https://www.spartan.edu/",
+   "programs": [
+    "Aviation Maintenance Technology",
+    "Aviation Electronics Technology",
+    "Aviation Flight"
+   ],
+   "credentials": "associate, bachelor"
+  },
+  {
+   "name": "Tulsa Welding School-Tulsa",
+   "type": "for-profit school",
+   "city": "Tulsa",
+   "home_url": "https://www.tws.edu/",
+   "trades_url": "https://www.tws.edu/",
+   "programs": [
+    "Professional Welder Training",
+    "Welding Specialist Training",
+    "Welding Specialist with Pipefitting Training",
+    "Associate of Occupational Studies in Welding Technology",
+    "Associate in Applied Science in Welding Inspection & Quality Management",
+    "Refrigeration Technologies Training",
+    "Electro-Mechanical Technologies (HVAC/R)",
+    "Associate of Occupational Studies in Mechanical Maintenance Engineering"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Autry Technology Center",
+   "type": "public technology center",
+   "city": "Enid",
+   "home_url": "https://autrytech.edu/",
+   "trades_url": "https://autrytech.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair Technology",
+    "Computerized Machining (CNC Machining)",
+    "Construction Technology",
+    "Diesel Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Caddo Kiowa Technology Center",
+   "type": "public technology center",
+   "city": "Fort Cobb",
+   "home_url": "https://cktc.edu/",
+   "trades_url": "https://cktc.edu/",
+   "programs": [
+    "Electrical Lineworker Training Program",
+    "HVAC (named in news post)"
+   ]
   }
  ],
  "unions": [
@@ -448,6 +668,23 @@
    "kind": "building trades council",
    "url": "https://www.okbctc.org/",
    "description": "--> Oklahoma Building Trades Unions top of page Home About Trades Events Dollars Against Diabetes Apprenticeship Day Directory Contact More Use tab to navigate through the menu items."
+  },
+  {
+   "name": "IBEW Local 444",
+   "kind": "union local",
+   "city": "Ponca City",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-444-ponca-city",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "UA Local 344",
+   "kind": "union local",
+   "city": "Oklahoma City",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://portal.issisystems.com/isite208/eremit.dll/20801/cm.asp?name=home",
+   "description": "Our forefathers have dedicated their lives through hard work and dedication towards the Union movement to make us what we are today."
   },
   {
    "name": "SOUTHWEST LABORERS' TRAINING AND APPRENTICESHIP FUND",

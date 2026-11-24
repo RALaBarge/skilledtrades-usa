@@ -334,6 +334,121 @@
     "Construction Projects",
     "Construction Management, BS"
    ]
+  },
+  {
+   "name": "Arapahoe Community College",
+   "type": "community college",
+   "city": "Littleton",
+   "home_url": "https://www.arapahoe.edu/",
+   "trades_url": "https://www.arapahoe.edu/academics-programs/degrees-certificates",
+   "programs": [
+    "Automotive Service Technology",
+    "Automotive Maintenance and Light Repair",
+    "Automotive Service Management",
+    "Construction Management",
+    "Construction Management Estimating",
+    "Building Controls Technology"
+   ],
+   "credentials": "AAS, certificate"
+  },
+  {
+   "name": "Intellitec College-Colorado Springs",
+   "type": "for-profit school",
+   "city": "Colorado Springs",
+   "home_url": "https://intellitec.edu/",
+   "trades_url": "https://intellitec.edu/",
+   "programs": [
+    "Automotive Technician",
+    "Electrical Technician",
+    "Refrigeration and HVAC Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Lincoln College of Technology-Denver",
+   "type": "for-profit school",
+   "city": "Denver",
+   "home_url": "https://www.lincolntech.edu/campus/denver-co",
+   "trades_url": "https://www.lincolntech.edu/campus/denver-co",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Morgan Community College",
+   "type": "community college",
+   "city": "Fort Morgan",
+   "home_url": "https://www.morgancc.edu/",
+   "trades_url": "https://www.morgancc.edu/areas-of-interest/",
+   "programs": [
+    "Construction Trades",
+    "Welding",
+    "Automotive Service Technology",
+    "Automotive Collision Repair",
+    "Electromechanical Technology",
+    "Industrial Controls and Telematics"
+   ],
+   "credentials": "AAS, certificates"
+  },
+  {
+   "name": "Pickens Technical College",
+   "type": "technical college",
+   "city": "Aurora",
+   "home_url": "https://www.pickenstech.org/",
+   "trades_url": "https://www.pickenstech.org/",
+   "programs": [
+    "Construction Technology",
+    "Advanced Manufacturing",
+    "Diesel Technology",
+    "Facilities Maintenance Technician",
+    "Heating & Air Conditioning Service Technology",
+    "Master Automotive Service Technician",
+    "Motorcycle Service Technology",
+    "Non-Structural Repair Technician",
+    "Automotive Refinishing Technician",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Spartan College of Aeronautics and Technology",
+   "type": "for-profit school",
+   "city": "Broomfield",
+   "home_url": "https://www.spartan.edu/",
+   "trades_url": "https://www.spartan.edu/",
+   "programs": [
+    "Aviation Maintenance Technology",
+    "Aviation Maintenance Technology / Airframe & Powerplant"
+   ],
+   "credentials": "Associate of Occupational Studies (AMT), Diploma (Airframe & Powerplant)"
+  },
+  {
+   "name": "Colorado School of Trades",
+   "type": "private trade school",
+   "city": "Lakewood",
+   "home_url": "https://schooloftrades.edu/",
+   "trades_url": "https://schooloftrades.edu/",
+   "programs": [
+    "Gunsmithing"
+   ],
+   "credentials": "Associate of Occupational Studies (AOS)"
+  },
+  {
+   "name": "Lamar Community College",
+   "type": "public community college",
+   "city": "Lamar",
+   "home_url": "https://www.lamarcc.edu/",
+   "trades_url": "https://lamarcc.edu/program/welding/",
+   "programs": [
+    "Welding (Basic, Intermediate and Advanced welding certificates)"
+   ],
+   "credentials": "Certificates; Associate of Applied Science in Welding"
   }
  ],
  "unions": [
@@ -440,6 +555,54 @@
    "city": "Denver",
    "url": "https://map.carpenters.org/?councils=council-4140",
    "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western Colorado JATC",
+   "kind": "JATC / training center",
+   "trades": "apprenticeship and training (see page)",
+   "city": "Grand Junction",
+   "url": "https://djeatc68.com/wcjatc/",
+   "description": "WCJATC - The Western Colorado Electrical JATC - DJEATC - Denver, Colorado"
+  },
+  {
+   "name": "UA Local 145",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Grand Junction",
+   "url": "https://www.local145.org/",
+   "description": "Local 145 – United Association of Plumbers & Pipefitters Local #145"
+  },
+  {
+   "name": "UA Local 208",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Denver",
+   "url": "https://pipe208.com/",
+   "description": "United Association Local 208 Pipefitters"
+  },
+  {
+   "name": "UA Local 3",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Aurora",
+   "url": "https://plumberslocal3.org/",
+   "description": "Plumbers Local 3"
+  },
+  {
+   "name": "UA Local 58",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Colorado Springs",
+   "url": "https://local58.org/",
+   "description": "Local 58 | Preserve. Promote. Protect.",
+   "how_to_apply": "15 Home Benefits Calendar About Us Officers Member Photos Newsletters Links Training (JATC) About the Program How To Apply Photo Gallery Western State College of Construction Forms Contact Select Page PRESERVE."
+  },
+  {
+   "name": "Building and construction trades council, Colorado (not verified)",
+   "kind": "building trades council",
+   "trades": "building and construction trades",
+   "url": "https://www.cbctc.com/wp/",
+   "description": "Colorado Building Construction Trades Council"
   },
   {
    "name": "Colorado Building and Construction Trades Council, AFL-CIO",

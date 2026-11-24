@@ -15,6 +15,7 @@ const code = (s) => { if (!s) return null; const t = String(s).trim(); if (STATE
 const slug = (n) => n.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 const read = (f) => (existsSync(join(horde, f)) ? JSON.parse(readFileSync(join(horde, f), 'utf8')) : null);
 const isHttp = (u) => typeof u === 'string' && /^https?:\/\//i.test(u);
+const aggregator = (u) => /(linemancentral|unionlocator|unionfacts|electriciandb|americanautoworker|zoominfo|yelp|facebook|indeed|glassdoor|mapquest|yellowpages|manta|bbb|labor411|helmetstohardhats|allevents|apprentice|unionlabel|sparkshift|trampherebro|clevelandtradeschools|ziprecruiter|linkedin|instagram|youtube|nlrb|dol)./i.test(u);
 const searchy = (u) => /[?&](s|q|query|search|keys?|keyword)=|\/search/i.test(u);
 const clean = (o, drop = []) => Object.fromEntries(Object.entries(o).filter(([k, v]) => v != null && v !== '' && !(Array.isArray(v) && !v.length) && !drop.includes(k)));
 
@@ -45,14 +46,26 @@ for (const a of Object.keys(STATES)) {
 }
 
 // union passes (finder-directory rows)
-for (const f of ['union_ibew_ua.json', 'union_other.json', 'union_carp_iron_smart.json', 'union_councils.json']) {
+const gapFiles = readdirSync(horde).filter((n) => /^union_gap_out_\d+\.json$/.test(n));
+for (const f of ['union_ibew_ua.json', 'union_other.json', 'union_carp_iron_smart.json', 'union_councils.json', ...gapFiles]) {
   const d = read(f);
   if (!d) continue;
   for (const r of d.rows || []) {
     const a = code(r.state);
-    if (!a || r.verified !== true || !isHttp(r.url) || !r.name) { stats.dropped++; continue; }
+    if (!a || r.verified !== true || !isHttp(r.url) || !r.name || aggregator(r.url)) { stats.dropped++; continue; }
     if (!once(a, 'u', r.url, r.name)) continue;
-    out[a].unions.push(clean(r, ['verified', 'state']));
+    out[a].unions.push(clean(r, ['verified', 'state', 'finder_url', 'note']));
+  }
+}
+
+// IPEDS-based school gap fill (rows carry their own state code)
+for (const f of readdirSync(horde).filter((n) => /^ipeds_out_\d+\.json$/.test(n))) {
+  const d = read(f);
+  for (const c of d.colleges || []) {
+    const a = code(c.state);
+    if (!a || c.verified === false || !isHttp(c.trades_url) || searchy(c.trades_url) || !c.name) { stats.dropped++; continue; }
+    if (!once(a, 'c', c.name) || !once(a, 'cu', c.trades_url)) continue;
+    out[a].colleges.push(clean(c, ['verified', 'notes', 'state', 'unitid']));
   }
 }
 
@@ -74,12 +87,13 @@ for (const f of readdirSync(horde).filter((n) => /^retry_[A-Z]\.json$/.test(n)))
 const fed = [];
 const retryFunding = readdirSync(horde).filter((n) => /^retry_[A-Z]\.json$/.test(n)).flatMap((n) => (read(n).funding || []));
 const fundingSets = readdirSync(horde).filter((n) => /^funding_F\d+\.json$/.test(n)).map((n) => read(n).items || []).concat([retryFunding]);
-for (const items of fundingSets) {
+const allFunding = fundingSets.flat().sort((x, y) => (y.override ? 1 : 0) - (x.override ? 1 : 0));
+for (const items of [allFunding]) {
   for (const it of items) {
     if (it.verified === false || !isHttp(it.url) || !it.name) { stats.dropped++; continue; }
     const scope = it.scope ? String(it.scope) : it.state ? 'state:' + (STATES[String(it.state).toUpperCase()] || it.state) : '';
     const m = /^state:(.+)$/.exec(scope);
-    const row = clean(it, ['verified', 'scope']);
+    const row = clean(it, ['verified', 'scope', 'override']);
     if (m) {
       const a = code(m[1]);
       if (!a) { stats.dropped++; continue; }

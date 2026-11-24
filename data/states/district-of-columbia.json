@@ -152,6 +152,21 @@
    "description": "IBEW Local 70."
   },
   {
+   "name": "IBEW Local 1900",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Washington",
+   "url": "https://ibew1900.org/",
+   "description": "IBEW Local 1900"
+  },
+  {
+   "name": "Building and construction trades council, District of Columbia (not verified)",
+   "kind": "building trades council",
+   "trades": "building and construction trades",
+   "url": "https://bdcbt.org/",
+   "description": "Standing up for Good Jobs and Strong Communities across the District of Columbia, Maryland and Virginia. More…"
+  },
+  {
    "name": "Ironworkers Local 5",
    "kind": "union local",
    "trades": [

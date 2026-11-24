@@ -49,6 +49,22 @@
    "credentials": "NCCER Core Curriculum; NCCER Carpentry Level 1 and 2; OSHA 10-hour; S/P2 Mechanical Safety; post-secondary credit options."
   },
   {
+   "name": "Advanced Welding Institute",
+   "type": "for-profit school",
+   "city": "South Burlington",
+   "home_url": "https://awi.edu/",
+   "trades_url": "https://awi.edu/courses/",
+   "programs": [
+    "Structural Welding",
+    "Combination Structural and Pipe Welding",
+    "Shielded Metal Arc Welding",
+    "Gas Tungsten Arc Welding",
+    "Flux Core Arc Welding",
+    "Gas Metal Arc Welding"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
    "name": "River Valley Technical Center",
    "type": "career technical center (CTE, Springfield VT)",
    "city": "Springfield",
@@ -130,6 +146,14 @@
    "city": "South Burlington",
    "url": "https://iuoelocal98.org/",
    "apprenticeship_url": "https://iuoelocal98.org/training/"
+  },
+  {
+   "name": "IBEW Local 2326",
+   "kind": "union local",
+   "city": "Montpelier",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibewlocal2326.com/",
+   "description": "Chartered in 1972, the Local has a proud history of advocating for fair wages, job security, and strong workplace protections."
   }
  ],
  "licensing": [

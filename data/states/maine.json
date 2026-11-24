@@ -206,6 +206,17 @@
     "Heavy equipment",
     "Plumbing"
    ]
+  },
+  {
+   "name": "The Landing School",
+   "type": "career/technical center",
+   "city": "Arundel",
+   "home_url": "https://www.landingschool.edu/",
+   "trades_url": "https://www.landingschool.edu/about-overview",
+   "programs": [
+    "Boatbuilding"
+   ],
+   "credentials": "diploma"
   }
  ],
  "unions": [
@@ -295,6 +306,22 @@
    "city": "Portland",
    "url": "https://map.carpenters.org/?councils=council-4064",
    "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Portland JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Lewiston",
+   "url": "https://www.maine.gov/labor/node/384",
+   "description": "IBEW 567, Portland Electrical JATC | Drupal"
+  },
+  {
+   "name": "UA Local 716",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Augusta",
+   "url": "https://local716.org/",
+   "description": "Contact UA Local 716 Maine Plumbers and Pipefitters today to learn more about our apprenticeship and training programs. Visit our website or call now!"
   }
  ],
  "licensing": [

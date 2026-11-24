@@ -187,6 +187,21 @@
    "description": "Local union listed on the Hawaii Regional Council of Carpenters locator page at map.carpenters.org."
   },
   {
+   "name": "IUPAT District Council 50",
+   "kind": "union local",
+   "trades": "Painting, drywall finishing, glazing and decorating",
+   "url": "https://dc50.org/",
+   "description": "One Fight Home Local Unions DC50 Executive Board Painters LU1791 Tapers LU1944 Glaziers LU1889 Floor Layers LU1926 Specialty Workers LU1941 Our Team Forms / Publications Apply Here!",
+   "how_to_apply": "One Fight Home Local Unions DC50 Executive Board Painters LU1791 Tapers LU1944 Glaziers LU1889 Floor Layers LU1926 Specialty Workers LU1941 Our Team Forms / Publications Apply Here!"
+  },
+  {
+   "name": "Building and construction trades council, Hawaii (not verified)",
+   "kind": "building trades council",
+   "trades": "Multi-trade building trades council",
+   "url": "https://akta.pro/company-profiles/004k2e1/hawaii-building-construction-trades-council",
+   "description": "Its stated mission is to establish and maintain relationships with industry stakeholders to promote the interests of its members and affiliates, with the underlying goal of creating job opportunities and sustaining a healthy construction industry throughout Hawaii."
+  },
+  {
    "name": "Hawaii Building and Construction Trades Council",
    "kind": "state building trades council",
    "trades": "multi-craft building trades",

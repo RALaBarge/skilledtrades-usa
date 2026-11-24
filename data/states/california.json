@@ -1185,6 +1185,828 @@
     "Machine Shop (CNC)",
     "Welding (Gas and Electric)"
    ]
+  },
+  {
+   "name": "ATA College",
+   "type": "for-profit school",
+   "city": "El Cajon",
+   "home_url": "https://atacollege.edu/",
+   "trades_url": "https://atacollege.edu/",
+   "programs": [
+    "HVAC Technician"
+   ],
+   "credentials": "diploma"
+  },
+  {
+   "name": "Antelope Valley Community College District",
+   "type": "community college",
+   "city": "Lancaster",
+   "home_url": "https://www.avc.edu/",
+   "trades_url": "https://www.avc.edu/find-program",
+   "programs": [
+    "Air Conditioning, Refrigeration & Ventilation (ACRV)",
+    "Advanced Manufacturing",
+    "Aviation Technology",
+    "Airframe Manufacturing Technology",
+    "Aircraft Fabrication and Assembly"
+   ],
+   "credentials": "certificate, associate, bachelor"
+  },
+  {
+   "name": "American College of Healthcare and Technology (Riverside)",
+   "type": "for-profit school",
+   "city": "Riverside",
+   "home_url": "https://www.ach.edu/",
+   "trades_url": "https://www.ach.edu/programs/hvacr/",
+   "programs": [
+    "HVACR Technician"
+   ],
+   "credentials": "certificate (9 months)"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Fremont",
+   "type": "for-profit school",
+   "city": "Fremont",
+   "home_url": "https://aviationmaintenance.edu/campuses/fremont-ca",
+   "trades_url": "https://aviationmaintenance.edu/campuses/fremont-ca",
+   "programs": [
+    "Maintenance Technician",
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Baldwin Park Adult & Community Education",
+   "type": "career/technical center",
+   "city": "Baldwin Park",
+   "home_url": "https://bpace.bpusd.net/",
+   "trades_url": "https://bpace.bpusd.net/",
+   "programs": [
+    "Automotive Services",
+    "Electrician",
+    "Heating, Ventilation & Air Conditioning (HVAC)",
+    "Plumbing"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Barstow Community College",
+   "type": "community college",
+   "city": "Barstow",
+   "home_url": "https://www.barstow.edu/",
+   "trades_url": "https://www.barstow.edu/academics/career-technical-education-cte",
+   "programs": [
+    "Automotive and Diesel Technology",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Brownson Technical School",
+   "type": "for-profit school",
+   "city": "Anaheim",
+   "home_url": "https://brownson.edu/",
+   "trades_url": "https://brownson.edu/hvacr-technician-training-programs/",
+   "programs": [
+    "HVAC/R Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Butte College",
+   "type": "community college",
+   "city": "Oroville",
+   "home_url": "https://www.butte.edu/",
+   "trades_url": "https://www.butte.edu/academic-programs/coi-itag/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Welding",
+    "Industrial Technologies (precision manufacturing, construction)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "CET-Coachella",
+   "type": "career/technical center",
+   "city": "Coachella",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/location/coachella-ca/",
+   "programs": [
+    "HVAC Technician & Green Technology",
+    "Green Building Construction Skills",
+    "Building Maintenance",
+    "Truck Driving"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "CET-Colton",
+   "type": "career/technical center",
+   "city": "Colton",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/location/colton-ca/",
+   "programs": [
+    "Automotive Specialist",
+    "HVAC Technician & Green Technology",
+    "Welding Fabrication",
+    "Building Maintenance",
+    "Truck Driving"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "CET-El Centro",
+   "type": "career/technical center",
+   "city": "El Centro",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/location/el-centro-ca/",
+   "programs": [
+    "HVAC Technician & Green Technology",
+    "Welding Fabrication",
+    "Green Building Construction Skills",
+    "Building Maintenance",
+    "Truck Driving"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "CET-Oxnard",
+   "type": "career/technical center",
+   "city": "Oxnard",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/location/oxnard-ca/",
+   "programs": [
+    "HVAC Technician & Green Technology",
+    "Green Building Construction Skills",
+    "Building Maintenance",
+    "Truck Driving"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "CET-San Diego",
+   "type": "career/technical center",
+   "city": "San Diego",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/location/san-diego-ca/",
+   "programs": [
+    "HVAC Technician & Green Technology",
+    "Welding Fabrication",
+    "Green Building Construction Skills",
+    "Building Maintenance",
+    "Truck Driving"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "CET-San Jose",
+   "type": "career/technical center",
+   "city": "San Jose",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/location/san-jose-ca/",
+   "programs": [
+    "Automotive Specialist",
+    "HVAC Technician & Green Technology",
+    "Building Maintenance",
+    "Truck Driving"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "CET-Santa Maria",
+   "type": "career/technical center",
+   "city": "Santa Maria",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/location/santa-maria-ca/",
+   "programs": [
+    "HVAC Technician & Green Technology",
+    "Building Maintenance",
+    "Truck Driving"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "CET-Soledad",
+   "type": "career/technical center",
+   "city": "Soledad",
+   "home_url": "https://cetweb.edu/",
+   "trades_url": "https://cetweb.edu/careers-at-cet",
+   "programs": [
+    "Automotive Specialist",
+    "Electrician (Residential & General)",
+    "HVAC Technician & Green Technology",
+    "Welding Fabrication",
+    "Truck Driver",
+    "Facility Maintenance Technician",
+    "Heavy Equipment Operator/Specialist",
+    "Green Building Construction Skills"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "California Aeronautical University",
+   "type": "for-profit school",
+   "city": "Bakersfield",
+   "home_url": "https://calaero.edu/",
+   "trades_url": "https://calaero.edu/degree-programs/",
+   "programs": [
+    "Aviation Maintenance Technology"
+   ],
+   "credentials": "associate, bachelor's"
+  },
+  {
+   "name": "Capstone College",
+   "type": "for-profit school",
+   "city": "Pasadena",
+   "home_url": "https://capstonecollege.edu/",
+   "trades_url": "https://capstonecollege.edu/program-overview/",
+   "programs": [
+    "Electrician Technician",
+    "HVAC Technician",
+    "Plumbing Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Citrus College",
+   "type": "community college",
+   "city": "Glendora",
+   "home_url": "https://www.citruscollege.edu/",
+   "trades_url": "https://www.citruscollege.edu/academics/",
+   "programs": [
+    "Automotive Technology",
+    "Auto and Light Truck Technology",
+    "Medium and Heavy Diesel Truck Technology",
+    "Stationary Power Generation",
+    "Construction Management",
+    "Drafting and Design Technology",
+    "Water Technology",
+    "Public Works"
+   ],
+   "credentials": "degree, certificate"
+  },
+  {
+   "name": "College of Alameda",
+   "type": "community college",
+   "city": "Alameda",
+   "home_url": "https://alameda.edu/home",
+   "trades_url": "https://alameda.edu/academics/cte",
+   "programs": [
+    "Automotive Technology",
+    "Aviation Maintenance Technology",
+    "Diesel Mechanics"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "College of Marin",
+   "type": "community college",
+   "city": "Kentfield",
+   "home_url": "https://marin.edu/",
+   "trades_url": "https://cte.marin.edu",
+   "programs": [
+    "Automotive Collision Repair",
+    "Automotive Technology",
+    "Machine and Metals Technology",
+    "Fire Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Compton College",
+   "type": "community college",
+   "city": "Compton",
+   "home_url": "https://www.compton.edu/",
+   "trades_url": "https://www.compton.edu/academics/index.aspx",
+   "programs": [
+    "Air Conditioning & Refrigeration",
+    "Automotive Collision Repair/Painting",
+    "Automotive Technology",
+    "Machine Tool Technology",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Cuesta College",
+   "type": "community college",
+   "city": "San Luis Obispo",
+   "home_url": "https://www.cuesta.edu/",
+   "trades_url": "https://www.cuesta.edu/academics/divisions/index.html",
+   "programs": [
+    "Auto Body Technology",
+    "Auto Technology",
+    "Aviation Maintenance",
+    "Electrical Technology",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Cuyamaca College",
+   "type": "community college",
+   "city": "El Cajon",
+   "home_url": "https://www.cuyamaca.edu/",
+   "trades_url": "https://www.cuyamaca.edu/academics/academic-and-career-pathways.php",
+   "programs": [
+    "Automotive Technology"
+   ],
+   "credentials": "degree, certificate"
+  },
+  {
+   "name": "Cypress College",
+   "type": "community college",
+   "city": "Cypress",
+   "home_url": "https://www.cypresscollege.edu/",
+   "trades_url": "https://careers.cypresscollege.edu/",
+   "programs": [
+    "Air Conditioning & Refrigeration",
+    "Automotive Collision Repair",
+    "Automotive Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "De Anza College",
+   "type": "community college",
+   "city": "Cupertino",
+   "home_url": "https://www.deanza.edu/",
+   "trades_url": "https://www.deanza.edu/academics/degrees-and-certificates.html",
+   "programs": [
+    "Automotive Technology",
+    "Advanced Automotive Technology",
+    "Automotive Machining",
+    "Autonomous Electric Vehicle Technology",
+    "CNC Machinist",
+    "Additive Manufacturing Technology"
+   ],
+   "credentials": "degree, certificate"
+  },
+  {
+   "name": "DeHart Technical School",
+   "type": "for-profit school",
+   "city": "Modesto",
+   "home_url": "https://deharttech.edu/",
+   "trades_url": "https://deharttech.edu/our-programs/",
+   "programs": [
+    "HVAC/R Facilities Maintenance Technician",
+    "Commercial Refrigeration",
+    "Plumbing",
+    "Electrical"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "East Los Angeles College",
+   "type": "community college",
+   "city": "Monterey Park",
+   "home_url": "https://www.elac.edu/",
+   "trades_url": "https://www.elac.edu/academics/aos",
+   "programs": [
+    "Automotive Technology",
+    "Advanced Manufacturing"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Fresno City College",
+   "type": "community college",
+   "city": "Fresno",
+   "home_url": "https://www.fresnocitycollege.edu/",
+   "trades_url": "https://www.fresnocitycollege.edu/academics/career-and-technical-education/index.html",
+   "programs": [
+    "Truck Driving Training",
+    "Welding Program"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Fullerton College",
+   "type": "community college",
+   "city": "Fullerton",
+   "home_url": "https://www.fullcoll.edu/",
+   "trades_url": "https://cte.fullcoll.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Industrial Technologies",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Glendale Community College",
+   "type": "community college",
+   "city": "Glendale",
+   "home_url": "https://www.glendale.edu/",
+   "trades_url": "https://www.glendale.edu/academics/programs/index.html",
+   "programs": [
+    "CNC",
+    "Computer Aided Manufacturing",
+    "Machinist",
+    "Welding",
+    "Industrial Technology",
+    "Aviation Engineering Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Hacienda La Puente Adult Education",
+   "type": "career/technical center",
+   "city": "La Puente",
+   "home_url": "https://www.hlpae.com/",
+   "trades_url": "https://www.hlpae.com/academic-programs",
+   "programs": [
+    "Automotive Technician",
+    "Combination Welder",
+    "HVAC Service Technician",
+    "HVAC Refrigeration"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Hartnell College",
+   "type": "community college",
+   "city": "Salinas",
+   "home_url": "https://www.hartnell.edu/",
+   "trades_url": "https://www.hartnell.edu/academics/degrees-and-certificates.html",
+   "programs": [
+    "Advanced Automotive Technology",
+    "Automotive Technology",
+    "Advanced Diesel Technology",
+    "Construction",
+    "Manufacturing",
+    "Welding"
+   ],
+   "credentials": "degree, certificate"
+  },
+  {
+   "name": "Imperial Valley College",
+   "type": "community college",
+   "city": "Imperial",
+   "home_url": "https://www.imperial.edu/",
+   "trades_url": "https://programmap.imperial.edu/academics/interest-clusters/c28d74d9-47dd-4d94-bbcd-707e176204a4",
+   "programs": [
+    "Air Conditioning & Refrigeration",
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Electrical Technology",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Independent Training & Apprenticeship Program",
+   "type": "for-profit school",
+   "city": "Sacramento",
+   "home_url": "https://itap.edu/",
+   "trades_url": "https://itap.edu/electrician-trainee-courses",
+   "programs": [
+    "Electrician Trainee Courses (commercial electrician)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Institute of Technology",
+   "type": "for-profit school",
+   "city": "Clovis",
+   "home_url": "https://www.iot.edu/",
+   "trades_url": "https://www.iot.edu/career-training-programs/",
+   "programs": [
+    "Heating, Air Conditioning & Refrigeration (HVAC)",
+    "Industrial Maintenance & Automated Technology",
+    "Welding Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "InterCoast Colleges-Fairfield",
+   "type": "for-profit school",
+   "city": "Fairfield",
+   "home_url": "https://www.intercoast.edu/",
+   "trades_url": "https://www.intercoast.edu/programs/",
+   "programs": [
+    "Electrical",
+    "HVAC Technician",
+    "Plumbing Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Las Positas College",
+   "type": "community college",
+   "city": "Livermore",
+   "home_url": "https://www.laspositascollege.edu/",
+   "trades_url": "https://www.laspositascollege.edu/programs/index.php",
+   "programs": [
+    "Automotive Technology",
+    "Advanced Manufacturing",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Lassen Community College",
+   "type": "community college",
+   "city": "Susanville",
+   "home_url": "https://www.lassencollege.edu/",
+   "trades_url": "https://www.lassencollege.edu/academics/programs-degrees/",
+   "programs": [
+    "Automotive Technology",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Los Angeles Pierce College",
+   "type": "community college",
+   "city": "Woodland Hills",
+   "home_url": "https://www.lapc.edu/",
+   "trades_url": "https://www.lapc.edu/academics/ae",
+   "programs": [
+    "Automotive Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Los Angeles Valley College",
+   "type": "community college",
+   "city": "Valley Glen",
+   "home_url": "https://www.lavc.edu/",
+   "trades_url": "https://www.lavc.edu/academics/pathways/mec",
+   "programs": [
+    "CNC",
+    "Manufacturing Technology (metal machining)",
+    "Electronics Technology",
+    "Sustainable Construction Management"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Los Medanos College",
+   "type": "community college",
+   "city": "Pittsburg",
+   "home_url": "https://www.losmedanos.edu/",
+   "trades_url": "https://www.losmedanos.edu/degrees/26-27.aspx",
+   "programs": [
+    "CNC",
+    "Automotive Technology",
+    "Air Conditioning",
+    "Automotive Maintenance",
+    "Automotive Diesel",
+    "Smog Technician",
+    "Electrical Technology",
+    "Advanced Manufacturing",
+    "Welding Technology"
+   ],
+   "credentials": "AS, certificate"
+  },
+  {
+   "name": "Mendocino College",
+   "type": "community college",
+   "city": "Ukiah",
+   "home_url": "https://www.mendocino.edu/",
+   "trades_url": "https://www.mendocino.edu/CTE",
+   "programs": [
+    "Automotive Technology",
+    "Sustainable Construction"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "MiraCosta College",
+   "type": "community college",
+   "city": "Oceanside",
+   "home_url": "https://www.miracosta.edu/",
+   "trades_url": "https://www.miracosta.edu/academics/degree-and-certificate-programs/business-and-technology/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Automotive HVAC",
+    "Motorcycle Maintenance",
+    "Alternative-Fuel Vehicle Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Norco College",
+   "type": "community college",
+   "city": "Norco",
+   "home_url": "https://www.norcocollege.edu/",
+   "trades_url": "https://www.norcocollege.edu/academicaffairs/cte/index.html",
+   "programs": [
+    "3D Mechanical Drafting",
+    "Biomedical Electronic Equipment Repair",
+    "CNC Operator",
+    "CNC Programming",
+    "Construction Technology",
+    "Construction Technology - Construction Management",
+    "Conventional Machine Operator",
+    "Digital Electronics",
+    "Drafting Technology",
+    "Electrician",
+    "Facilities Maintenance",
+    "Green Technician",
+    "Industrial Automation"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Napa Valley College",
+   "type": "community college",
+   "city": "Napa",
+   "home_url": "https://www.napavalley.edu/",
+   "trades_url": "https://www.napavalley.edu/career-education/index.html",
+   "programs": [
+    "Machine Tool Technology",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Oxnard College",
+   "type": "community college",
+   "city": "Oxnard",
+   "home_url": "https://www.oxnardcollege.edu/",
+   "trades_url": "https://www.oxnardcollege.edu/departments/administrative/career-technical-education-division",
+   "programs": [
+    "Air Conditioning & Refrigeration (HVAC/R)",
+    "Automotive Technology",
+    "Automotive Body & Fender Repair"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Ventura College",
+   "type": "community college",
+   "city": "Ventura",
+   "home_url": "https://www.venturacollege.edu/",
+   "trades_url": "https://www.venturacollege.edu/departments/academic/career-education",
+   "programs": [
+    "Automotive Career Education",
+    "Diesel Mechanics",
+    "Construction Technology",
+    "Drafting",
+    "Welding",
+    "Advanced Manufacturing"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "San Diego Mesa College",
+   "type": "community college",
+   "city": "San Diego",
+   "home_url": "https://www.sdmesa.edu/",
+   "trades_url": "https://www.sdmesa.edu/about-mesa/cte-office/",
+   "programs": [
+    "Building Construction Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "San Diego Miramar College",
+   "type": "community college",
+   "city": "San Diego",
+   "home_url": "https://sdmiramar.edu/",
+   "trades_url": "https://sdmiramar.edu/program-finder",
+   "programs": [
+    "Automotive Technology",
+    "Aviation Maintenance Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "San Joaquin Delta College",
+   "type": "community college",
+   "city": "Stockton",
+   "home_url": "https://www.deltacollege.edu/",
+   "trades_url": "https://www.deltacollege.edu/academics/degrees-certificates",
+   "programs": [
+    "Welding",
+    "Diesel Automotive Equipment Technician",
+    "Diesel Bus Technician",
+    "Electro-Mechanical and Mechatronics Technologists",
+    "Electronics Technology - Manufacturing Associate"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Skyline College",
+   "type": "community college",
+   "city": "San Bruno",
+   "home_url": "https://skylinecollege.edu/",
+   "trades_url": "https://skylinecollege.edu/academics/degreescertificates.php",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Electricity/Electronics",
+    "Electronic Assembly and Fabrication",
+    "Biotechnology Manufacturing Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Southwestern College",
+   "type": "community college",
+   "city": "Chula Vista",
+   "home_url": "https://www.swccd.edu/",
+   "trades_url": "https://www.swccd.edu/degrees-and-certificates/index.aspx",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Brake & Suspension Systems",
+    "Automotive Electric Vehicle Technology",
+    "Automotive HVAC Specialist",
+    "Automotive Performance Systems",
+    "Construction Management",
+    "Construction Inspection",
+    "Computer Aided Design & Drafting"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Southern California Institute of Technology",
+   "type": "for-profit school",
+   "city": "Anaheim",
+   "home_url": "https://www.scitech.edu/",
+   "trades_url": "https://www.scitech.edu/programs/general-electrician",
+   "programs": [
+    "General Electrician",
+    "Industrial Automation Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Tri-Community Adult Education",
+   "type": "career/technical center",
+   "city": "Covina",
+   "home_url": "https://www.tri-communityadulted.org/",
+   "trades_url": "https://www.tri-communityadulted.org/",
+   "programs": [
+    "Welding",
+    "Electrician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "West Los Angeles College",
+   "type": "community college",
+   "city": "Culver City",
+   "home_url": "https://www.wlac.edu/",
+   "trades_url": "https://www.wlac.edu/academics/departments",
+   "programs": [
+    "Aviation Technology",
+    "Construction"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "San Joaquin Valley College-Bakersfield",
+   "type": "for-profit school",
+   "city": "Bakersfield",
+   "home_url": "https://www.sjvc.edu/",
+   "trades_url": "https://www.sjvc.edu/program/trades-and-industrial-programs/",
+   "programs": [
+    "Construction Management",
+    "Heating, Ventilation, Air Conditioning, and Refrigeration (HVACR)",
+    "Electrical Technology",
+    "Aviation Maintenance Technology",
+    "Maintenance Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "UEI College-Bakersfield",
+   "type": "for-profit school",
+   "city": "Bakersfield",
+   "home_url": "https://www.uei.edu/",
+   "trades_url": "https://www.uei.edu/trade-school-programs/",
+   "programs": [
+    "Automotive Technician",
+    "Heating, Ventilation and Air Conditioning (HVAC) Technician",
+    "Electrician Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Universal Technical Institute of California Inc",
+   "type": "for-profit school",
+   "city": "Rancho Cucamonga",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/programs",
+   "programs": [
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Motorcycle Technician",
+    "Marine Technician",
+    "Collision Repair & Refinish Technology",
+    "Electrical, Electronics & Industrial Technology",
+    "Industrial Maintenance Technician",
+    "Robotics & Automation Technician",
+    "Wind Turbine Technician",
+    "Airframe & Powerplant Technician",
+    "Aviation Maintenance Technology",
+    "Welding Technology",
+    "HVACR Technician",
+    "Advanced Non-Destructive Testing Technician"
+   ],
+   "credentials": "not stated on page"
   }
  ],
  "unions": [
@@ -1974,6 +2796,360 @@
    "description": "Homepage - CA Building Trades Skip To Content State Building and Construction Trades Council of California About Key Issues News Affiliations Videos Compliance Representing nearly half a million construction workers including 65,000 apprentices."
   },
   {
+   "name": "Central Valley Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Modesto",
+   "trades": "Electrical (IBEW/NECA)",
+   "url": "https://www.ibewlu684.org/?zone=%2Funionactive%2Fview_article.cfm&HomeID=937927",
+   "description": "IBEW Local 684",
+   "how_to_apply": "Each classification represented by IBEW 684 has an apprenticeship program, and there are application processes for each."
+  },
+  {
+   "name": "IBEW Local 1710",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Los Angeles",
+   "url": "https://ibew1710.org/",
+   "description": "IBEW Local 1710"
+  },
+  {
+   "name": "IBEW Local 2295",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Los Angeles",
+   "url": "https://ibew2295.org/",
+   "description": "IBEW Local 2295 represents skilled electrical workers in manufacturing, aerospace, brewing, refining, and other industries across Southern California."
+  },
+  {
+   "name": "IBEW Local 340",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Sacramento",
+   "url": "https://www.ibewlocal340.org/",
+   "description": "Northern California's Finest Electricians",
+   "how_to_apply": "How to Apply Contractors Advocacy Contact Us IBEW 340 Member Information MEMBER LOGIN NOT YET A MEMBER?"
+  },
+  {
+   "name": "IBEW Local 40",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Hollywood",
+   "url": "https://ibew40.org/",
+   "description": "IBEW Local 40 | Hollywood, CA – Powering Hollywood Since 1923"
+  },
+  {
+   "name": "IBEW Local 465",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "San Diego",
+   "url": "https://ibew465.org/",
+   "description": "IBEW Local 465"
+  },
+  {
+   "name": "IBEW Local 47",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Diamond Bar",
+   "url": "https://ibew47.org/",
+   "description": "Welcome to IBEW Local 47"
+  },
+  {
+   "name": "IBEW Local 543",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "San Bernardino",
+   "url": "https://ibew543.org/",
+   "description": "IBEW Local 543 represents Frontier Telecommunications employees throughout California, Western Nevada, and Arizona. We represent Naval Satellite Operator and Maintenance employees in California, Colorado, Guam, and Maine. We also represent "
+  },
+  {
+   "name": "Motion Picture Employers and IBEW No. 40",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "North Hollywood",
+   "url": "https://ibew40.org/",
+   "description": "IBEW Local 40 | Hollywood, CA – Powering Hollywood Since 1923"
+  },
+  {
+   "name": "Northern California Sound & Communication JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "San Leandro",
+   "url": "https://www.norcal-jatc.com/",
+   "description": "The Northern California Sound and Communication Joint Apprenticeship and Training Committee helps to provide a highly trained and skilled workforce for apprentices in the low voltage electrical industry in Northern California. It also provi",
+   "how_to_apply": "ation Flow Chart Career & Benefits Veterans Apply Online FAQs Student Testimonials Apprentices Benefits Information FAQs Skilled and Trained Workforce Overview Apply Online Installer/Tech Classes FAQs Links Contact Us ✕ Build Your Career Train to be an Apprentice at the NorCal Sound and Communicatio"
+  },
+  {
+   "name": "Orange County Electrical Training Trust",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Santa Ana",
+   "url": "https://www.ocett.org/",
+   "description": "Orange County Electrical Training Institute",
+   "how_to_apply": "\" How to Apply J W Classes Contact Us Email and phone contact info."
+  },
+  {
+   "name": "Redwood Empire JATC",
+   "kind": "JATC / training center",
+   "trades": "apprenticeship and training (see page)",
+   "city": "Santa Rosa",
+   "url": "https://www.rejatc.org/",
+   "description": "Redwood Empire Electrical Training Center",
+   "how_to_apply": "Please read through our website for information on available training programs, the application process, and other resources."
+  },
+  {
+   "name": "Sacramento Area JATC",
+   "kind": "JATC / training center",
+   "trades": "apprenticeship and training (see page)",
+   "city": "Sacramento",
+   "url": "https://www.340jatc.org/",
+   "description": "The home of the Union Sacramento Electrical Training Center, serving Sacramento, Redding, Chico and Northern California.",
+   "how_to_apply": "Application Requirements and Process How to apply and what you need."
+  },
+  {
+   "name": "San Francisco Joint Electrical Training Trust",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "San Francisco",
+   "url": "https://www.sfelectricaltraining.org/",
+   "description": "Home Apprenticeship Journeyman Contact Us Sound and Communications Member Resources Member Home Meeting Minutes Login San Francisco Joint Apprenticeship & Training Committee Home Apprenticeship EQUAL ",
+   "how_to_apply": "For general information on the requirements for the next application process, please go to the Apprenticeship page."
+  },
+  {
+   "name": "Santa Barbara County JATC",
+   "kind": "JATC / training center",
+   "trades": "apprenticeship and training (see page)",
+   "city": "Santa Maria",
+   "url": "http://ibew413.org/index.cfm?zone=%2Funionactive%2Fview_page.cfm&page=SBJATC",
+   "description": "IBEW Local 413"
+  },
+  {
+   "name": "Santa Clara JATC",
+   "kind": "JATC / training center",
+   "trades": "apprenticeship and training (see page)",
+   "city": "Milpitas",
+   "url": "https://scbtc.org/training-centers/santa-clara-county-ejatc/",
+   "description": "Electrical Training Alliance of Silicon Valley Address: 1873 Barber Lane, Milpitas, CA 95035 Hours: Monday through Thursday, 8 a.m. to 5 p.m. and Friday, from 8"
+  },
+  {
+   "name": "Solano/Napa Counties Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Napa",
+   "url": "http://www.jatclu180.org/",
+   "description": "The Ultimate Website Management and Communications Tool for Unions",
+   "how_to_apply": "_____________________________________________ Listed below are the items required to apply for our program."
+  },
+  {
+   "name": "UA Local 114",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Buellton",
+   "url": "https://www.ualocal114.org/",
+   "description": "Labor Union | UA Local 114 | United States Plumbers, Pipefitters, Welders. Pipe Trades Apprenticeship, Trade School"
+  },
+  {
+   "name": "UA Local 159",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Martinez",
+   "url": "https://ualocal159.org/",
+   "description": "UA Local 159 : Plumbers & Steamfitters"
+  },
+  {
+   "name": "UA Local 230",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "San Diego",
+   "url": "https://www.ualocal230.org/",
+   "description": "United Association of Plumbers, Steamfitters & HVAC/R Local 230 <br/> San Diego & Imperial Counties, California"
+  },
+  {
+   "name": "UA Local 246",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Fresno",
+   "url": "https://local246.com/",
+   "description": "ABOUT US 120 Years of Solidarity Chartered in 1901, U.A. Local 246 is one of over 200+ local unions under the United Association of Journeymen and Ap ..."
+  },
+  {
+   "name": "UA Local 250",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Gardena",
+   "url": "https://www.ua250.org/en",
+   "description": "UA 250 | Home"
+  },
+  {
+   "name": "UA Local 342",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Concord",
+   "url": "https://www.ua342.org/",
+   "description": "Plumbers & Steamfitters Local Union 342 | Concord, CA 94518",
+   "how_to_apply": "If you are interested in learning more about our apprenticeship program or how to apply for it, please feel free to contact us."
+  },
+  {
+   "name": "UA Local 343",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Vacaville",
+   "url": "https://www.local343.org/",
+   "description": "UA Local 343 offers training, certification, apprenticeship programs and benefits for Plumbers, Steam Fitters, Welders or HVAC Service Techs"
+  },
+  {
+   "name": "UA Local 345",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Duarte",
+   "url": "https://www.ua345.org/",
+   "description": "UA Local 345"
+  },
+  {
+   "name": "UA Local 355",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Vallejo",
+   "url": "https://scbtc.org/underground-utility-landscape-irrigation-335/",
+   "description": "Underground Utility & Landscape Irrigation Local 355 Address: 426 Alabama Street, Vallejo, CA 94590 Hours: 8:00 AM – 5:00 PM, (Closed 12:00 PM – 1:00 PM for"
+  },
+  {
+   "name": "UA Local 38",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "San Francisco",
+   "url": "https://www.ualocal38.org/",
+   "description": "UA Local 38 Plumbers, Steamfitters & HVAC/R"
+  },
+  {
+   "name": "UA Local 393",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "San Jose",
+   "url": "https://ualocal393.org/",
+   "description": "Local 393"
+  },
+  {
+   "name": "UA Local 398",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Rancho Cucamonga",
+   "url": "https://local398.org/",
+   "description": "The United Association of Plumbers & Steamfitters Local Union 398 Serving the San Gabriel Valley, Pasadena, El Monte, Rancho Cucamonga, Pomona, Ontario, Corona, and surrounding communities, United Association Local Union 398 offers a wide r"
+  },
+  {
+   "name": "UA Local 403",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "San Luis Obispo",
+   "url": "https://www.ua403.org/",
+   "description": "Since 1941 Local 403 has continuously represented Plumbers, Steam Fitters, Pipefitters, Welders and HVACR Service Technitions in the County of San Luis Obispo."
+  },
+  {
+   "name": "UA Local 442",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Modesto",
+   "url": "https://www.lu442.com/",
+   "description": "Plumbers & Steamfitters Local 442"
+  },
+  {
+   "name": "UA Local 447",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Sacramento",
+   "url": "https://www.ualocal447.org/",
+   "description": "UA Local 447 Plumbers & Pipefitters"
+  },
+  {
+   "name": "UA Local 460",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Bakersfield",
+   "url": "https://www.local460.com/",
+   "description": "HOME | Local 460"
+  },
+  {
+   "name": "UA Local 467",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Burlingame",
+   "url": "https://www.ualocal467.org/",
+   "description": "UA Local 467 Plumbers & Pipefitters"
+  },
+  {
+   "name": "UA Local 483",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Hayward",
+   "url": "https://www.sprinklerfitters483.org/",
+   "description": "For nearly 70 years the Sprinkler Fitters of Local 483 have installed, tested and maintained Commercial and Residential Sprinkler Systems throughout the San Francisco Bay Area.",
+   "how_to_apply": "mbers Contractors Contact Us Welcome to Sprinkler Fitters Local 483 Sprinkler Fitters and Apprentices of the San Francisco Bay Area APPRENTICE APPLICATIONS The Apprenticeship Application process is now on-line through our Sprinkler Fitters Local 483 Application Portal."
+  },
+  {
+   "name": "UA Local 484",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Ventura",
+   "url": "https://www.ualocal484.org/",
+   "description": "UA Local 484"
+  },
+  {
+   "name": "UA Local 62",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Castroville",
+   "url": "https://www.pipetrades62.com/",
+   "description": "The United Association"
+  },
+  {
+   "name": "UA Local 709",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Whittier",
+   "url": "https://www.sprinklerfitters709.org/",
+   "description": "Sprinkler Fitters U.A. Local 709"
+  },
+  {
+   "name": "UA Local 761",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Burbank",
+   "url": "https://www.local761.org/",
+   "description": "Home | local761.org"
+  },
+  {
+   "name": "UA Local 78",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Los Angeles",
+   "url": "https://www.uaplumber78.com/",
+   "description": "United Association Plumbers Local 78 proudly represents the hardest working, highest skilled men and women in the plumbing industry. Our premier training programs offer a five-year apprenticeship program, and extensive journeymen training.."
+  },
+  {
+   "name": "IUOE Local 39 (Stationary)",
+   "kind": "union local",
+   "trades": "heavy equipment operation",
+   "city": "San Francisco",
+   "url": "https://www.local39training.org/",
+   "description": "Home - Local 39 Training Website"
+  },
+  {
+   "name": "BAC 03 California",
+   "kind": "union local",
+   "trades": "masonry",
+   "city": "Oakland",
+   "url": "https://www.bac3train.com/union-meetings/",
+   "description": "Union Meetings | BAC3 Train"
+  },
+  {
+   "name": "Terence J. O’Sullivan Laborers Training Center",
+   "kind": "JATC / training center",
+   "trades": "laborers",
+   "city": "San Ramon",
+   "url": "https://scbtc.org/training-centers/northern-california-terence-j-osullivan-laborers-training-center/",
+   "description": "Northern California Terence J. O’Sullivan Laborers Training Center Address: 1001 Westside Drive, San Ramon, CA 94583 Hours: 6:30 am - 5 pm Phone: (925) 828-2513"
+  },
+  {
    "name": "I.U.E.C. Local No. 8 (IUEC)",
    "kind": "union local",
    "trades": "Elevator constructors",
@@ -2029,6 +3205,57 @@
    "kind": "grant",
    "provides": "The Employment Training Panel reimburses California companies that train employees for high-skill, high-wage jobs.",
    "how_to_apply": "See the ETP fact sheet (DE 8714N) for how to apply",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "state": "CA",
+   "name": "California Division of Apprenticeship Standards: How to Become an Apprentice",
+   "url": "https://www.dir.ca.gov/databases/das/descOfAppr.html",
+   "provider": "California Department of Industrial Relations, Division of Apprenticeship Standards (DAS)",
+   "kind": "apprenticeship",
+   "provides": "DAS page on how to become a registered apprentice; apprenticeship programs are paid earn-while-you-learn training, and the page links to the apprenticeship program search and wage lookup.",
+   "eligibility": "Page states educational requirements vary by program (some require a high school diploma or equivalent, others have more rigorous standards, and some have none); some programs require an aptitude or other test; most programs require English proficiency. Qualities of successful apprentices listed: perseverance, ambition, initiative.",
+   "how_to_apply": "Not stated as an application; the page links to the Find an apprenticeship program, Find a registered apprentice and Find apprenticeship wages tools on the DAS site.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "state": "CA",
+   "name": "California Opportunity Youth Apprenticeship (COYA) Grant",
+   "url": "https://www.dir.ca.gov/DAS/Grants/California-Youth-Apprenticeship-Grant.html",
+   "provider": "California Department of Industrial Relations, Division of Apprenticeship Standards (DAS)",
+   "kind": "grant",
+   "provides": "Grants to develop and test practices that increase participation of opportunity youth in pre-apprenticeship and apprenticeship programs, delivered through community-based organizations and partners.",
+   "eligibility": "Target is opportunity youth, defined on the page as ages 16 to 24 who are at risk of or disconnected from education or employment, unhoused, in child welfare, juvenile justice or criminal legal systems, living in concentrated poverty, or facing barriers to labor market participation (grantees must show proof). Sector: programs serving occupations outside the building and construction trades (the page says building trades within California Apprenticeship Council jurisdiction are not covered; fire trades programs may apply with CAC approval). Eligible applicants must be mission-driven community-based organizations with at least 2 years serving opportunity youth. Round 3 awardees announced April 2026 (performance period 2026-2028).",
+   "amount": "Up to $6,000 per pre-apprentice for an educational stipend during pre-apprenticeship training (100% to the pre-apprentice; not a wage supplement). Round 3 continuation grants total $13.2 million.",
+   "how_to_apply": "Not stated on the page for individuals; the page lists the COYA grantee list (Round 1, 2 and 3 PDFs) and DAS grant solicitations.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "state": "CA",
+   "name": "Equal Representation in Construction Apprenticeship (ERiCA) Grant",
+   "url": "https://www.dir.ca.gov/DAS/Grants/ERICA.html",
+   "provider": "California Department of Industrial Relations, Division of Apprenticeship Standards (DAS)",
+   "kind": "grant",
+   "provides": "Funding to increase equitable access to building and construction career pathways for women, non-binary individuals and underrepresented populations, including childcare support and outreach to underserved populations.",
+   "eligibility": "Page describes the program as serving women, non-binary individuals and underrepresented populations in construction apprenticeship; eligibility rules for individuals are not stated on the page.",
+   "amount": "DAS awarded $26,169,217 for ERiCA Program Year 2025-27 (performance period June/July 2025 to June 30, 2027); first round awarded $25 million (PY 2023-2025).",
+   "how_to_apply": "Not stated on the page beyond grant program information; see DAS grant pages.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "state": "CA",
+   "name": "Apprenticeship Innovation Funding (AIF)",
+   "url": "https://www.dir.ca.gov/DAS/Grants/Apprenticeship-Innovation-Funding.html",
+   "provider": "California Department of Industrial Relations, Division of Apprenticeship Standards (DAS)",
+   "kind": "grant",
+   "provides": "Funding for new and innovative registered apprenticeship programs in sectors overseen by the Interagency Advisory Committee on Apprenticeship (healthcare, transportation, education, advanced manufacturing, information technology and others outside the building and fire trades); not a competitive grant.",
+   "eligibility": "Apprenticeship programs associated with IACA-overseen occupations that meet the eligibility criteria on the page (includes both new and existing programs).",
+   "amount": "Not stated on the page beyond reimbursement model; the page cites past awardee highlights.",
+   "how_to_apply": "Submissions for AIF reimbursement open once per year and consider active apprentices supported and trained within the previous year.",
    "audience": "employer",
    "status": "unknown"
   }

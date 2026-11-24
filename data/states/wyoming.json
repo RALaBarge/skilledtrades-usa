@@ -136,6 +136,20 @@
     "Plant Operations",
     "Nuclear Technician"
    ]
+  },
+  {
+   "name": "WyoTech",
+   "type": "for-profit school",
+   "city": "Laramie",
+   "home_url": "https://www.wyotech.edu/",
+   "trades_url": "https://www.wyotech.edu/programs/core-programs/applied-welding-technology/",
+   "programs": [
+    "Applied Welding Technology",
+    "Automotive Technology",
+    "Collision/Refinishing Technology",
+    "Diesel Technology"
+   ],
+   "credentials": "not stated on page read"
   }
  ],
  "unions": [
@@ -222,6 +236,22 @@
    "description": "Address 4925 Wardwell Industrial Ave Bar Nunn, WY 82601 EMAIL us at : IUOElocal800Training@gmail.com Privacy Policy Google Sites Report abuse Page details Page updated Google Sites Report abuse"
   },
   {
+   "name": "UA Local 192",
+   "kind": "union local",
+   "city": "Cheyenne",
+   "trades": "plumber, pipefitter",
+   "description": "UA Local 192 offers some of the best training programs in the industry—from five-year registered apprenticeships and journeyman courses to in-depth instructor training and a variety of certifications. We work closely with our signatory cont",
+   "how_to_apply": "--> Home | UA Local 192 Plumbers and Pipefitters top of page Home Home About Officers Apprenticeship Apprenticeship Program JATC Application Photo Gallery Members Bowling League Fishing Tournament Resources Job Line UA Local 192 UA Local 19",
+   "url": "https://www.plumbers192.org/"
+  },
+  {
+   "name": "Building and construction trades council, Wyoming (not verified)",
+   "kind": "building trades council",
+   "description": "Home - Wyoming Construction Coalition, Inc. Skip to content Directory Login Join Facebook LinkedIn Menu About Who We Are Mission & Impact Leadership & Staff Contact Us WCC Crew HQ Member Benefits Member Directory Member ",
+   "how_to_apply": "Skip to content Directory Login Join Facebook LinkedIn Menu About Who We Are Mission & Impact Leadership & Staff Contact Us WCC Crew HQ Member Benefits Member Directory Member Login Build Your Future Job Postings Résumé Upload WCC News & In",
+   "url": "https://webuildwyoming.org/"
+  },
+  {
    "name": "ABC Rocky Mountain (Associated Builders and Contractors)",
    "kind": "contractor association (merit shop)",
    "trades": "construction (merit-shop contractors)",
@@ -258,6 +288,31 @@
    "kind": "training voucher",
    "provides": "State Eligible Training Provider List of WIOA-recognized programs for adults and dislocated workers (page is written for training providers).",
    "audience": "school",
+   "status": "open"
+  },
+  {
+   "state": "WY",
+   "name": "Wyoming Hathaway Scholarship Program",
+   "url": "https://communitycolleges.wy.edu/wyoming-hathaway-scholarship-program",
+   "provider": "Wyoming Community College Commission",
+   "kind": "scholarship",
+   "provides": "State scholarship program, named for former Governor Stan Hathaway, that rewards eligible Wyoming students with scholarship money to attend one of Wyoming's community colleges or the University of Wyoming.",
+   "eligibility": "Page states the program provides merit and need-based awards. Merit awards are for high school graduates and others who are Wyoming residents and meet certain academic requirements; need awards are for students with unmet financial need as determined by the FAFSA. Page refers to the community college for eligibility requirements, award levels and FAQs.",
+   "amount": "Merit awards between $800 and $1,600 per semester; need awards above and beyond merit awards for students with unmet financial need.",
+   "how_to_apply": "Contact the community college of your choice for eligibility, award levels and application processes (page lists Casper, Central Wyoming, Eastern Wyoming, Gillette, Laramie County, Northwest, Sheridan and Western Wyoming colleges, plus the University of Wyoming). Need awards are determined from the FAFSA.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "WY",
+   "name": "Wyoming Works (Wyoming Works grants)",
+   "url": "https://www.cwc.edu/wyomingworks",
+   "provider": "Wyoming community colleges (program page published by Central Wyoming College; state program under Wyoming Community College Commission legislation)",
+   "kind": "grant",
+   "provides": "Provides programs and resources for adult students to learn a skill and secure employment; makes individual grants for students enrolling in approved programs at a Wyoming community college. Programs qualify if they meet labor and economic development needs and may be for credit or non-credit.",
+   "eligibility": "Must complete the FAFSA showing financial need; U.S. citizen or permanent resident (or eligible non-citizen under federal aid rules); Wyoming resident; maintain continuous enrollment in an eligible program; no more than six semesters. Not eligible if currently receiving or expected to receive a Hathaway Scholarship during the approved program, in default on a federal Title IV loan, or owing a refund under a Title IV or state aid program. Page marks programs as Standard Grant Eligible or Critical Grant Eligible.",
+   "how_to_apply": "Apply to the college (Central Wyoming College page: Apply to CWC; File your FAFSA; Apply for Wyoming Works). Page notes funds are limited to a set amount in the state budget until expended.",
+   "audience": "individual",
    "status": "open"
   }
  ]

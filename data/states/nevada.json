@@ -79,6 +79,32 @@
     "Welding Technology (AAS, CT)"
    ],
    "credentials": "AAS, CT (certificate), BAS for Instrumentation Technology"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Las Vegas",
+   "type": "for-profit school",
+   "city": "Las Vegas",
+   "home_url": "https://aviationmaintenance.edu/campuses/las-vegas-nv/",
+   "trades_url": "https://aviationmaintenance.edu/programs/aviation/aviation-maintenance-training/",
+   "programs": [
+    "Aviation Maintenance Technician",
+    "Combination Welding",
+    "Electrical Technician"
+   ],
+   "credentials": "certificate, AOS, AAS"
+  },
+  {
+   "name": "United Education Institute-Las Vegas",
+   "type": "for-profit school",
+   "city": "Las Vegas",
+   "home_url": "https://www.uei.edu/",
+   "trades_url": "https://www.uei.edu/trade-school-programs/",
+   "programs": [
+    "Automotive Technician",
+    "HVAC Technician",
+    "Electrician Technician"
+   ],
+   "credentials": "not stated on loaded page"
   }
  ],
  "unions": [
@@ -406,6 +432,13 @@
    "city": "Las Vegas",
    "url": "https://map.carpenters.org/?councils=council-4140",
    "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Building and construction trades council, Nevada (not verified)",
+   "kind": "building trades council",
+   "trades": "building trades",
+   "url": "https://www.bctnn.org/",
+   "description": "Building and Construction Trades Council of Northern Nevada Home 2026 Endorsements About Us About/Contact Local Union Affiliates Our Work Works in Progress Political Activism Paid Training & Apprenti"
   },
   {
    "name": "IBEW Local 357 (JATC)",

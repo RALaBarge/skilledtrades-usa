@@ -328,6 +328,77 @@
    ]
   },
   {
+   "name": "Dunwoody College of Technology",
+   "type": "technical college",
+   "city": "Minneapolis",
+   "home_url": "https://dunwoody.edu/",
+   "trades_url": "https://dunwoody.edu/academics/",
+   "programs": [
+    "Welding Technology",
+    "Advanced Manufacturing & Welding",
+    "Machine Tool Technology",
+    "Automotive Service Technology",
+    "Automotive Collision Repair & Refinishing",
+    "Electrical Construction & Maintenance",
+    "HVAC & Refrigeration Technology",
+    "Construction Sciences & Building Technology"
+   ],
+   "credentials": "certificate, associate, bachelor (per program list)"
+  },
+  {
+   "name": "Leech Lake Tribal College",
+   "type": "community college",
+   "city": "Cass Lake",
+   "home_url": "https://www.lltc.edu/",
+   "trades_url": "https://www.lltc.edu/academics/career-and-technical-education/",
+   "programs": [
+    "Electrical Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Minnesota State Community and Technical College",
+   "type": "technical college",
+   "city": "Fergus Falls",
+   "home_url": "https://www.minnesota.edu/",
+   "trades_url": "https://www.minnesota.edu/degrees",
+   "programs": [
+    "Diesel Equipment Technology",
+    "Electrical Line Worker Technology",
+    "Electrical Technology",
+    "HVAC/R",
+    "Plumbing Technology",
+    "Automotive Service Technology"
+   ],
+   "credentials": "diploma, associate"
+  },
+  {
+   "name": "Normandale Community College",
+   "type": "community college",
+   "city": "Bloomington",
+   "home_url": "https://www.normandale.edu/",
+   "trades_url": "https://www.normandale.edu/academics/degrees-certificates/index.html",
+   "programs": [
+    "Advanced Manufacturing"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Northwest Technical College",
+   "type": "technical college",
+   "city": "Bemidji",
+   "home_url": "https://www.ntcmn.edu/",
+   "trades_url": "https://www.ntcmn.edu/career-paths/",
+   "programs": [
+    "Automotive Service",
+    "Building Trades",
+    "Electrical Construction & Maintenance",
+    "Heating, Air & Refrigeration Technology",
+    "Plumbing Technology"
+   ],
+   "credentials": "diploma, associate"
+  },
+  {
    "name": "Century College",
    "type": "community college",
    "home_url": "https://www.century.edu/",
@@ -757,6 +828,73 @@
    "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
   },
   {
+   "name": "Duluth JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Duluth",
+   "url": "https://www.11589jatc.com/",
+   "description": "The Northern Mechanical & Iron Range Plumbers and Pipefitters JAC 11 & 589 trains steamfitters, welders, and more.",
+   "how_to_apply": "Northern Mechanical & Iron Range Plumbers and Pipefitters JAC 11 & 589 4402 Airpark Blvd in Duluth, Minnesota Home About Us Contact Us UA Local 11 Our Affiliates Why Join Types of Apprenticeships How to Apply Members Only  (218) 733-9443  Training@11589jatc."
+  },
+  {
+   "name": "IBEW Local 242",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Duluth",
+   "url": "https://www.ibew242-neca.org/about-us/",
+   "description": "About Us – IBEW 242 – NECA",
+   "how_to_apply": "About Us – IBEW 242 – NECA IBEW 242 - NECA Work With Us Qualified Contractors Contractor Map Gallery Request Information Start Your Career Qualifications The Process The Benefits How to Apply FAQs Further Your Career Continuing Education Classes Instructors About Us History Our Partners Our Staff What’s New Gallery Calendar Calendar Contact 242hub Calendar Contact 242hub Work With Us Qual"
+  },
+  {
+   "name": "Iron Range Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "construction trades",
+   "city": "Duluth",
+   "url": "https://www.buildzoom.com/contractor/iron-range-electrical-jatc",
+   "description": "Iron Range Electrical Jatc in Duluth, MN | Photos | Reviews | Based in Duluth, ranks in the top 99% of licensed contractors in Minnesota. Continuing Education License: S1640857."
+  },
+  {
+   "name": "UA Local 34",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "St. Paul",
+   "url": "https://www.plumberslocal34.org/",
+   "description": "Plumbers and Gasfitters | Local Union 34 | St. Paul, MN"
+  },
+  {
+   "name": "UA Local 340",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Minneapolis",
+   "url": "https://www.gasworkerslocal340.com/",
+   "description": "Gas Workers Union Local 340 | Established in 1953 and located in Minneapolis, MN"
+  },
+  {
+   "name": "UA Local 455",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "St. Paul",
+   "url": "https://local455.com/",
+   "description": "Steamfitters Pipefitters – Local 455 | Steamfitters Pipefitters – Local 455 – St. Paul, MN"
+  },
+  {
+   "name": "UA Local 539",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Minneapolis",
+   "url": "https://pipefitters539.com/",
+   "description": "Minneapolis St. Cloud Pipefitters Local Union 539 – Pipefitters Local 539 provides the work force for Pipefitting and HVAC/R Service Industries in Minneapolis and St. Cloud, Minnesota"
+  },
+  {
+   "name": "UA Local 6",
+   "kind": "union local",
+   "trades": "plumbing, pipefitting, sprinkler fitting",
+   "city": "Rochester",
+   "url": "https://www.ualocal6.org/",
+   "description": "About Us Local #6 Plumbers & Pipefitters Thousands of people benefit from the security and business growth created through Local #6 membership and the United As",
+   "how_to_apply": "gistration Registration Events Contractors Contact Pay Dues Menu Premise Health Blood Pressure Checks at the Union Hall Premise Health Blood Pressure Checks at the Union Hall Read More Apprenticeship Application Deadline Apprenticeship Application Deadline The Apprenticeship Application Deadline is April 1st, 2026 for the upcoming class."
+  },
+  {
    "name": "CONSTRUCTION LABORERS' EDUCATION, TRAINING, & APPRENTICESHIP FUND OF MINNESOTA AND NORTH DAKOTA",
    "kind": "JATC / training center",
    "trades": "Laborers",
@@ -871,6 +1009,18 @@
    "how_to_apply": "Contact a CareerForce specialist.",
    "audience": "employer",
    "status": "unknown"
+  },
+  {
+   "state": "MN",
+   "name": "Minnesota Dual-Training Pipeline (Dual Training Grants)",
+   "url": "https://dli.mn.gov/pipeline",
+   "provider": "Minnesota Department of Labor and Industry; grants administered by Minnesota Office of Higher Education (OHE)",
+   "kind": "grant",
+   "provides": "Supports employers in creating or enhancing competency-based, earn-and-learn dual training, where workers receive a combination of related instruction and on-the-job training. Dual Training Grants cover employee tuition, fees and materials for related instruction, plus dual-trainee supports.",
+   "eligibility": "Trainee must be employed by the participating employer and receive structured on-the-job training and technical instruction under the competency standards for a specific occupation. Grants apply to occupations with competency standards in seven industries: advanced manufacturing, agriculture, child care, health care services, information technology, legal cannabis industry, and transportation. Employer must have an agreement with a training provider leading to an industry-recognized degree, certificate or credential.",
+   "how_to_apply": "Most up-to-date grant application materials are available from the Minnesota Office of Higher Education (OHE). Questions: PIPELINE.Program@state.mn.us.",
+   "audience": "employer",
+   "status": "open"
   }
  ]
 }

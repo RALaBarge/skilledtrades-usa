@@ -221,6 +221,17 @@
    "programs": [
     "Plumbing, Pipefitting, and Welding (PPW)"
    ]
+  },
+  {
+   "name": "Fortis College-Salt Lake City",
+   "type": "for-profit school",
+   "city": "Salt Lake City",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/",
+   "programs": [
+    "HVAC/Refrigeration"
+   ],
+   "credentials": "not stated on page read"
   }
  ],
  "unions": [
@@ -350,6 +361,22 @@
    "city": "West Jordan",
    "url": "https://map.carpenters.org/?councils=council-4140",
    "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 650",
+   "kind": "union local",
+   "city": "Salt Lake City",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://www.ibew650.org/",
+   "description": "IBEW Local 650 Search this site Embedded Files Skip to main content Skip to navigation IBEW Local 650 Home Finance Files Links System Council 2 myIBEW Health Benefits New Members Local Connections Mic"
+  },
+  {
+   "name": "UA Local 140",
+   "kind": "union local",
+   "city": "Salt Lake City",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://apply-ualocal140.com/",
+   "description": "UA Local 140 - Salt Lake City Call the Union Hall: (801) 973-6784 UA Local 140 Utah's leading union for plumbers, pipefitters, and HVAC&R professionals As a collective, we aim to raise the standards for plumbers, pipefitters, and HVAC/R professionals living and working in Utah."
   },
   {
    "name": "I.U.E.C. Local No. 38 (IUEC)",

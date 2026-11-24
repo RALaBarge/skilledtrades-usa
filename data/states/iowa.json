@@ -628,6 +628,31 @@
    "provides": "Registered Apprenticeship (RA) is an industry-driven, high-quality pathway that helps Iowans advance in their careers and employers develop their workforce.",
    "audience": "individual",
    "status": "unknown"
+  },
+  {
+   "state": "IA",
+   "name": "Future Ready Iowa Last-Dollar Scholarship",
+   "url": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/last-dollar",
+   "provider": "Iowa Department of Education (Iowa College Aid)",
+   "kind": "scholarship",
+   "provides": "Intended to cover any remaining gap between federal and state grants/scholarships and tuition and qualified fees for postsecondary certificates, diplomas and associate degrees at Iowa community colleges or accredited Iowa private colleges; includes college success coaching.",
+   "eligibility": "Recently completed an Iowa high school diploma, homeschool program or high school equivalency diploma, or age 20 and older; enroll at least part-time in an eligible program of study; Iowa resident; apply for all other available state and federal grants and scholarships; Student Aid Index at or below 30,000. Eligible schools are Iowa community colleges or accredited private colleges in Iowa offering qualified programs. Eligible programs list is based on job demand and may change; students whose programs are removed remain eligible until they complete or leave school. Ongoing: remain an Iowa resident, attend orientation, meet with advisors, continuously receive disbursements, meet satisfactory academic progress, complete the FAFSA annually, and remain continuously enrolled in at least 6 hours per semester (summer not required).",
+   "amount": "Based on Iowa community college tuition and qualified fees, minus all other federal and state non-repayable aid (grants and scholarships, not loans). Recipients may receive it for up to 8 part-time semesters or the full-time equivalent.",
+   "how_to_apply": "File the Free Application for Federal Student Aid (FAFSA). FAFSA deadline for the 2026-27 school year is June 30, 2027 (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "IA",
+   "name": "Future Ready Iowa Grant",
+   "url": "https://educate.iowa.gov/higher-ed/financial-aid/scholarships-grants/future-ready-iowa-grant",
+   "provider": "Iowa Department of Education (Iowa College Aid)",
+   "kind": "grant",
+   "provides": "State-funded grant for Iowa students age 25 or older who attend an eligible school.",
+   "eligibility": "Iowa resident who is age 25 as of July 1 preceding the academic year; enroll at least part-time in an eligible bachelor's degree program of study at an eligible school (Iowa's three public universities, an accredited private college, or an approved virtual institution). Recipients must stay continuously enrolled and receiving the grant. Awards prioritized: eligible renewal applicants first, then new applicants, by application date.",
+   "how_to_apply": "First-time applicants submit the FAFSA and the Iowa Financial Aid Application (IFAA). Renewing applicants submit only the FAFSA. IFAA and FAFSA available October 1; July 1 is the priority deadline.",
+   "audience": "individual",
+   "status": "open"
   }
  ]
 }

@@ -194,6 +194,82 @@
     "Electrical Engineering Technology, B.S."
    ],
    "credentials": "A.S. and B.S."
+  },
+  {
+   "name": "Academy of Careers and Technology",
+   "type": "career/technical center",
+   "city": "Beckley",
+   "home_url": "https://www.wvact.net/",
+   "trades_url": "https://www.wvact.net/high-school-programs",
+   "programs": [
+    "Automotive Technology",
+    "Carpentry",
+    "Collision Repair Technology",
+    "Computer Aided Drafting and Design",
+    "Diesel Equipment Technology",
+    "Electrical Technician",
+    "HVAC Technician",
+    "Plumbing",
+    "Welding"
+   ],
+   "credentials": "1-year and 2-year programs"
+  },
+  {
+   "name": "Boone Career and Technical Center",
+   "type": "career/technical center",
+   "city": "Foster",
+   "home_url": "https://www.gobctc.com/",
+   "trades_url": "https://www.gobctc.com/welding",
+   "programs": [
+    "Welding",
+    "Truck Driving"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Fred W Eberle Technical Center",
+   "type": "career/technical center",
+   "city": "Buckhannon",
+   "home_url": "https://www.fetc.edu/",
+   "trades_url": "https://www.fetc.edu/o/fwetc",
+   "programs": [
+    "Automotive Technology",
+    "Carpentry",
+    "Diesel Technology",
+    "Electrical Technician",
+    "Welding"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "James Rumsey Technical Institute",
+   "type": "career/technical center",
+   "city": "Martinsburg",
+   "home_url": "https://jamesrumsey.com/",
+   "trades_url": "https://jamesrumsey.com/summer-career-academy/",
+   "programs": [
+    "Automotive Technician",
+    "Commercial Driving",
+    "Electrical Technician",
+    "HVAC Technician",
+    "Carpentry",
+    "Diesel Technology",
+    "Masonry",
+    "Plumbing"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Mercer County Technical Education Center",
+   "type": "career/technical center",
+   "city": "Princeton",
+   "home_url": "https://mercercountyschools.sites.thrillshare.com/o/mctec",
+   "trades_url": "https://mercercountyschools.sites.thrillshare.com/o/mctec/page/high-school-programs",
+   "programs": [
+    "Welding",
+    "HVAC"
+   ],
+   "credentials": "not stated on page read"
   }
  ],
  "unions": [
@@ -493,6 +569,56 @@
    "kind": "building trades council",
    "url": "https://www.wvtrades.org/",
    "description": "Earn While You Learn As an apprentice with the WV Building & Construction Trades, you get paid to learn your trade."
+  },
+  {
+   "name": "Clarksburg Elec. JATC",
+   "kind": "JATC / training center",
+   "city": "Clarksburg",
+   "trades": "electrician",
+   "description": "IBEW 596",
+   "url": "https://www.ibew596.com/"
+  },
+  {
+   "name": "IBEW Local 736",
+   "kind": "union local",
+   "city": "Princeton",
+   "trades": "IBEW",
+   "description": "7351 Peppers Ferry Blvd Radford, VA 24141 IBEW Commemorative Ballpoint PEN Local 736 Princeton WV Ballpoint pen commemorating I.B.E.W. Local 736, Princeton,",
+   "url": "https://www.worthpoint.com/worthopedia/ibew-commemorative-ballpoint-pen-133708802"
+  },
+  {
+   "name": "Parkersburg Joint App. & Training Committee",
+   "kind": "JATC / training center",
+   "city": "Parkersburg",
+   "description": "Discover why Parkersburg WV is a great place to live, work, and raise a family! Learn about our local government, find answers to common questions, and download our City app to stay updated on the go! Welcome to Parkersburg, WV!",
+   "how_to_apply": "City of Parkersburg , WV Skip to main content LEAF & YARD WASTE COLLECTION AVAILABLE IN NOVEMBER & DECEMBER Learn More Home Government Mayor's Desk Initiatives Special Event Permit Application Boards & Commissions Municipal Planning Urban R",
+   "url": "https://www.parkersburgwv.gov/"
+  },
+  {
+   "name": "UA Local 152",
+   "kind": "union local",
+   "city": "Morgantown",
+   "trades": "plumber, pipefitter",
+   "description": "UA Local 152 Pipefitters What We Do Officers History & Mission Apprenticeships Contact Us × What We Do Officers History & Mission Apprenticeships Contact Us UA Local 152 Plumbers & Pipefitters • Morgantown, WV UA Local 1",
+   "how_to_apply": "Apprenticeships Comprehensive Plumbing and Pipefitting Apprenticeship Program in North Central West Virginia Residents from 18 North Central West Virginia counties are invited to apply for apprenticeship opportunities with the Morgantown Pl",
+   "url": "https://local152.com/"
+  },
+  {
+   "name": "UA Local 565",
+   "kind": "union local",
+   "city": "Parkersburg",
+   "trades": "plumber, pipefitter, steamfitter",
+   "description": "local 565, pipefitters local 565, parkersburg, west virginia pipefitters Local 565",
+   "url": "https://ualocal565.org/"
+  },
+  {
+   "name": "UA Local 83",
+   "kind": "union local",
+   "city": "Wheeling",
+   "trades": "plumber, steamfitter",
+   "description": "LOCAL 83 – PLUMBERS & STEAMFITTERS LOCAL 83 WHEELING WV Skip to content PLUMBERS & STEAMFITTERS LOCAL 83 WHEELING WV PLUMBERS & STEAMFITTERS LOCAL 83 WHEELING WV Home Contact Us Apply now Training WJAC Partners About Us ",
+   "how_to_apply": "LOCAL 83 – PLUMBERS & STEAMFITTERS LOCAL 83 WHEELING WV Skip to content PLUMBERS & STEAMFITTERS LOCAL 83 WHEELING WV PLUMBERS & STEAMFITTERS LOCAL 83 WHEELING WV Home Contact Us Apply now Training WJAC Partners About Us ‹ › Members Members ",
+   "url": "https://ualocal83.com/"
   },
   {
    "name": "WEST VIRGINIA LABORERS' TRAINING TRUST FUND",

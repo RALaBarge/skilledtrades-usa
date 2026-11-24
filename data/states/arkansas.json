@@ -270,6 +270,102 @@
     "Commercial truck driving"
    ],
    "credentials": "AAS; Certificate of Proficiency; Technical Certificate"
+  },
+  {
+   "name": "Arkansas Welding Academy",
+   "type": "for-profit school",
+   "city": "Jacksonville",
+   "home_url": "https://www.arkansasweldingacademy.edu/",
+   "trades_url": "https://www.arkansasweldingacademy.edu/",
+   "programs": [
+    "Welding (stick, TIG, MIG, pipe, structural, carbon steel)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "East Arkansas Community College",
+   "type": "community college",
+   "city": "Forrest City",
+   "home_url": "https://www.uaeacc.edu/",
+   "trades_url": "https://www.uaeacc.edu/upages.php?id=260",
+   "programs": [
+    "Auto Body Repair",
+    "Auto Service Technology",
+    "Commercial Driver Training",
+    "Diesel Technology",
+    "Industrial Equipment Technology",
+    "Major Appliance Service",
+    "Residential Heat and Air Conditioning",
+    "Welding"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Northwest Technical Institute",
+   "type": "technical college",
+   "city": "Springdale",
+   "home_url": "https://www.nwti.edu/",
+   "trades_url": "https://www.nwti.edu/page/nwti-programs",
+   "programs": [
+    "Automotive Service Technology",
+    "Diesel Truck Technology",
+    "Welding Technology",
+    "HVAC Technology",
+    "Industrial Maintenance / Automation Technology",
+    "CNC Machinist",
+    "Ammonia Refrigeration Technology"
+   ],
+   "credentials": "certificate, diploma"
+  },
+  {
+   "name": "University of Arkansas at Monticello (UAM College of Technology)",
+   "type": "university",
+   "city": "Monticello",
+   "home_url": "https://www.uamont.edu/",
+   "trades_url": "https://www.uamont.edu/academics/degrees.html",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning, and Refrigeration Technology",
+    "Welding Technology",
+    "Automotive Service Technology",
+    "Diesel Technology",
+    "Electromechanical Technology",
+    "Industrial Production Technology",
+    "Advanced Manufacturing Technology",
+    "Tractor and Trailer Operator"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "University of Arkansas-Pulaski Technical College",
+   "type": "technical college",
+   "city": "North Little Rock",
+   "home_url": "https://uaptc.edu/",
+   "trades_url": "https://uaptc.edu/college-academics/degrees-and-certificates/technical-sciences",
+   "programs": [
+    "Advanced Manufacturing Technology",
+    "Machining",
+    "Computer Numerical Control (CNC)",
+    "Automotive Technology",
+    "Automotive Service Technology",
+    "Construction Management Technology",
+    "Diesel Technology",
+    "Drafting and Design",
+    "Heating, Ventilation, Air Conditioning and Refrigeration (HVACR)",
+    "Electrical Lineworker Technology",
+    "Tractor and Trailer Operation (CDL)",
+    "Welding Technology"
+   ],
+   "credentials": "associate, technical certificate, certificate of proficiency"
+  },
+  {
+   "name": "University of Arkansas-Fort Smith",
+   "type": "public university",
+   "city": "Fort Smith",
+   "home_url": "https://uafs.edu/",
+   "trades_url": "https://uafs.edu/academics/colleges-and-schools/college-of-business-and-industry/programs/welding-technology.php",
+   "programs": [
+    "Welding Technology"
+   ]
   }
  ],
  "unions": [
@@ -329,6 +425,30 @@
    "city": "Russellville",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 1516",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Jonesboro",
+   "url": "https://ibew1516.org/",
+   "description": "IBEW Local 1516"
+  },
+  {
+   "name": "IBEW Local 295",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Little Rock",
+   "url": "https://ibew295.org/about/",
+   "description": "IBEW"
+  },
+  {
+   "name": "Jonesboro Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Jonesboro",
+   "url": "https://www.jonesboroelectricaljatc.org/",
+   "description": "Jonesboro Electric JATC | Electrical Apprenticeship Training in Arkansas"
   },
   {
    "name": "I.U.E.C. Local No. 79 (IUEC)",

@@ -556,6 +556,388 @@
     "NCCER Basic Rigger (workforce training)"
    ],
    "credentials": "associate of applied science, certificate"
+  },
+  {
+   "name": "Austin Community College District",
+   "type": "community college",
+   "city": "Austin",
+   "home_url": "https://www.austincc.edu/",
+   "trades_url": "https://www.austincc.edu/academic-and-career-programs/career-technical-training/",
+   "programs": [
+    "Welding Technology",
+    "Heating, Air Conditioning & Refrigeration Technology",
+    "Plumbing",
+    "Carpentry",
+    "Automotive Technology",
+    "Automotive Collision Repair & Refinishing Technology",
+    "Architectural & Engineering CAD",
+    "Manufacturing Engineering Technology (BAT)",
+    "Commercial Driver's License (continuing education)"
+   ],
+   "credentials": "Carpentry Certificate; Bachelor of Applied Technology"
+  },
+  {
+   "name": "North Central Texas College",
+   "type": "community college",
+   "city": "Gainesville",
+   "home_url": "https://www.nctc.edu/",
+   "trades_url": "https://www.nctc.edu/programs/cte/industrial-tech/",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Technology",
+    "Engineering/Drafting",
+    "HVAC",
+    "Aviation Maintenance",
+    "Machining",
+    "Construction Management/Plumbing",
+    "Industrial Mechatronics",
+    "Welding"
+   ],
+   "credentials": "AAS degree; Level 1 certificate"
+  },
+  {
+   "name": "Frank Phillips College",
+   "type": "community college",
+   "city": "Borger",
+   "home_url": "https://fpctx.edu/",
+   "trades_url": "https://fpctx.edu/cte-classes/",
+   "programs": [
+    "Welding (Industrial Welding Process Training)",
+    "Industrial Maintenance Certificate",
+    "Instrumentation & Electrical Technology",
+    "Process Technology",
+    "Diesel Technology certificate",
+    "CDL training (Safety Training Center)"
+   ],
+   "credentials": "degrees and certificates; Diesel Technology certificate; Industrial Maintenance Certificate"
+  },
+  {
+   "name": "Galveston College",
+   "type": "community college",
+   "city": "Galveston",
+   "home_url": "https://www.gc.edu/",
+   "trades_url": "https://www.gc.edu/academic-career-programs/index.php",
+   "programs": [
+    "Welding Technology",
+    "Heating, Ventilation, Air Conditioning & Refrigeration",
+    "Pipefitting / Metal Fabrication",
+    "Diesel Repair / Auto AC Repair",
+    "CDL Truck Driving"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Grayson College",
+   "type": "community college",
+   "city": "Denison",
+   "home_url": "https://www.grayson.edu/",
+   "trades_url": "https://www.grayson.edu/pathways/industrial-technologies.html",
+   "programs": [
+    "Advanced Manufacturing Technology (AAS)",
+    "Mechatronics Technician Certificate",
+    "Advanced Manufacturing Level I Machining Certificate",
+    "Class A Commercial Drivers License (CDL) Truck Driving",
+    "Electrical Technology (AAS; residential and commercial certificates)",
+    "Electrical Engineering Technology (AAS)",
+    "Heating, Air Conditioning, and Refrigeration Technology (HART)",
+    "Industrial Maintenance",
+    "Orbital Welding"
+   ],
+   "credentials": "AAS degrees, certificates, occupational skill awards"
+  },
+  {
+   "name": "Hallmark University",
+   "type": "university",
+   "city": "San Antonio",
+   "home_url": "https://hallmark.edu/",
+   "trades_url": "https://hallmark.edu/about/legacy/",
+   "programs": [
+    "Aviation Maintenance Technology (A&P)"
+   ],
+   "credentials": "Associate's or Bachelor's degree with A&P certification"
+  },
+  {
+   "name": "Trinity Valley Community College",
+   "type": "community college",
+   "city": "Athens",
+   "home_url": "https://www.tvcc.edu/",
+   "trades_url": "https://www.tvcc.edu/academics/pathways/index.html",
+   "programs": [
+    "Welding",
+    "Construction Trades",
+    "Drafting + Design Technology"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Lincoln College of Technology-Grand Prairie",
+   "type": "for-profit school",
+   "city": "Grand Prairie",
+   "home_url": "https://www.lincolntech.edu/campus/grand-prairie-tx",
+   "trades_url": "https://www.lincolntech.edu/campus/grand-prairie-tx",
+   "programs": [
+    "Welding Technology",
+    "HVAC",
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Machining and Manufacturing"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Southern Careers Institute-Austin",
+   "type": "for-profit school",
+   "city": "Austin",
+   "home_url": "https://scitexas.edu/",
+   "trades_url": "https://scitexas.edu/",
+   "programs": [
+    "Welding",
+    "HVAC",
+    "Automotive Service Technician",
+    "CDL-A Truck Driving"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Houston",
+   "type": "for-profit school",
+   "city": "Houston",
+   "home_url": "https://aviationmaintenance.edu/campuses/houston-tx/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/houston-tx/",
+   "programs": [
+    "Combination Welding",
+    "Heating, Ventilation, and Air Conditioning",
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "South Texas Vocational Technical Institute-Weslaco",
+   "type": "for-profit school",
+   "city": "Weslaco",
+   "home_url": "https://www.stvt.edu/",
+   "trades_url": "https://www.stvt.edu/programs/career-training-programs-skilled-trades/",
+   "programs": [
+    "Combination Welding",
+    "Heating, Ventilation, Air Conditioning and Basic Refrigeration",
+    "Automotive Service Technician",
+    "Diesel Heavy Truck Technician",
+    "Commercial Driver's License (CDL) Training"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Universal Technical Institute of Texas Inc.",
+   "type": "for-profit school",
+   "city": "Houston",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/programs",
+   "programs": [
+    "Welding Technology",
+    "HVACR Technician",
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Industrial Maintenance Technician",
+    "Aviation Maintenance Technology",
+    "Collision Repair & Refinish Technology",
+    "Motorcycle Technician",
+    "Marine Technician"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Dallas",
+   "type": "for-profit school",
+   "city": "Irving",
+   "home_url": "https://aviationmaintenance.edu/campuses/dallas-tx/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/dallas-tx/",
+   "programs": [
+    "Combination Welding",
+    "Heating, Ventilation, and Air Conditioning",
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Southwest University at El Paso",
+   "type": "university",
+   "city": "El Paso",
+   "home_url": "https://southwestuniversity.edu/",
+   "trades_url": "https://southwestuniversity.edu/",
+   "programs": [
+    "Certificate in Welding",
+    "AAS in Automotive Technology",
+    "AAS in Diesel Technology",
+    "Fleet Maintenance Technician"
+   ],
+   "credentials": "certificate; AAS"
+  },
+  {
+   "name": "Lamson Institute",
+   "type": "for-profit school",
+   "city": "San Antonio",
+   "home_url": "https://lamson.edu/",
+   "trades_url": "https://lamson.edu/",
+   "programs": [
+    "HVAC/R",
+    "Commercial Refrigeration, Heating & Air Conditioning"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Fortis Institute",
+   "type": "for-profit school",
+   "city": "Houston",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/",
+   "programs": [
+    "Welding Technology",
+    "Heating, Ventilation, Air Conditioning and Refrigeration Trades",
+    "Commercial Truck Driver Training"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "CyberTex Institute of Technology",
+   "type": "for-profit school",
+   "city": "Austin",
+   "home_url": "https://cybertex.edu/",
+   "trades_url": "https://cybertex.edu/",
+   "programs": [
+    "Heating Ventilation and Air Conditioning (HVAC)",
+    "Construction Trades"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "M T Training Center",
+   "type": "for-profit school",
+   "city": "Grand Prairie",
+   "home_url": "https://www.mttrainingcenter.org/",
+   "trades_url": "https://www.mttrainingcenter.org/",
+   "programs": [
+    "Combination Welding",
+    "Advanced Refrigeration, Heating and Air Conditioning (HVAC-R)",
+    "CNC Machinist",
+    "CDL Truck Driving"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Tulsa Welding School-Houston",
+   "type": "for-profit school",
+   "city": "Houston",
+   "home_url": "https://www.tws.edu/",
+   "trades_url": "https://www.tws.edu/",
+   "programs": [
+    "Welding",
+    "HVAC/R",
+    "Pipefitting",
+    "Industrial Maintenance",
+    "Refrigeration Technologies"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "McAllen Careers Institute",
+   "type": "for-profit school",
+   "city": "McAllen",
+   "home_url": "https://www.mcallencareersinstitute.edu/",
+   "trades_url": "https://www.mcallencareersinstitute.edu/",
+   "programs": [
+    "Welding",
+    "Pipeline Welding"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Elite Welding Academy",
+   "type": "for-profit school",
+   "city": "Houston",
+   "home_url": "https://eliteweldingacademy.com/",
+   "trades_url": "https://eliteweldingacademy.com/",
+   "programs": [
+    "Welding",
+    "Pipefitter training"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Remington College-Online Dallas",
+   "type": "technical college",
+   "city": "Dallas",
+   "home_url": "https://remingtoncollege.edu/locations/remington-college-online-dallas-tx-campus/",
+   "trades_url": "https://remingtoncollege.edu/locations/remington-college-online-dallas-tx-campus/",
+   "programs": [
+    "Combination Welding",
+    "Heating, Air Conditioning, and Refrigeration with Smart Technology",
+    "Construction and Building Maintenance Technology"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Remington College-Dallas Campus",
+   "type": "technical college",
+   "city": "Dallas",
+   "home_url": "https://remingtoncollege.edu/locations/dallas-texas/",
+   "trades_url": "https://remingtoncollege.edu/locations/dallas-texas/",
+   "programs": [
+    "Combination Welding",
+    "Heating, Air Conditioning, and Refrigeration with Smart Technology",
+    "Construction and Building Maintenance Technology"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Remington College-Fort Worth Campus",
+   "type": "technical college",
+   "city": "North Richland Hills",
+   "home_url": "https://remingtoncollege.edu/locations/fort-worth-texas/",
+   "trades_url": "https://remingtoncollege.edu/locations/fort-worth-texas/",
+   "programs": [
+    "Combination Welding",
+    "Heating, Air Conditioning, and Refrigeration with Smart Technology",
+    "Construction and Building Maintenance Technology"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "School of Automotive Machinists & Technology",
+   "type": "for-profit school",
+   "city": "Houston",
+   "home_url": "https://samtech.edu/",
+   "trades_url": "https://samtech.edu/",
+   "programs": [
+    "Automotive",
+    "CNC Machining"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Wharton County Junior College",
+   "type": "community college",
+   "city": "Wharton",
+   "home_url": "https://www.wcjc.edu/",
+   "trades_url": "https://www.wcjc.edu/programs/areas-of-interest/default.aspx",
+   "programs": [
+    "Welding",
+    "Manufacturing Technology",
+    "Air Conditioning, Heating, Refrigeration and Electrical Technology",
+    "Automotive"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Remington College-Houston Southeast Campus",
+   "type": "private for-profit college",
+   "city": "League City",
+   "home_url": "https://remingtoncollege.edu/locations/houston-texas/",
+   "trades_url": "https://remingtoncollege.edu/locations/houston-texas/",
+   "programs": [
+    "Heating, Ventilation, and Air Conditioning (HVAC) diploma"
+   ],
+   "credentials": "diploma"
   }
  ],
  "unions": [
@@ -868,6 +1250,153 @@
    "kind": "building trades council",
    "url": "https://www.texasbuildingtrades.org/",
    "description": "APPRENTICESHIP: GET PAID TO LEARN A TRADE, DEBT-FREE 8/4/2026 Top Headlines MC3 ELIMINATES BARRIERS TO ENTERING A TRADE New research shows unionized construction crews are more cost-efficient, on-time TEXAS HAS LEVERAGE WITH DATA CENTERS."
+  },
+  {
+   "name": "IUOE Local 178 (Hoisting & Portable)",
+   "kind": "union local",
+   "city": "Fort Worth",
+   "trades": "Operating engineers (heavy equipment)",
+   "url": "https://form.jotform.com/260774652056057",
+   "description": "YES NO* HAVE YOU EVER BEEN A MEMBER OF THE IUOE?",
+   "how_to_apply": "In order to ensure this application is acceptable, please print or type with the application being fully completed in order for it to be considered."
+  },
+  {
+   "name": "Austin Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Austin",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://austineta.org/",
+   "description": "The four year apprenticeship program is comprised of both classroom instruction and on-the-job training and upon completion prepares the apprentice to become licensed as a Journeyman electrician in the State of Texas.",
+   "how_to_apply": "The application portal is now open!"
+  },
+  {
+   "name": "East Texas Elec. JATC",
+   "kind": "JATC / training center",
+   "city": "Tyler",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew301.com/jatc",
+   "description": "These program implement both classroom instruction coupled with hands-on learning and on-the-job training.",
+   "how_to_apply": "Texarkana area Applications are open every year in May for a few weeks."
+  },
+  {
+   "name": "Houston Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Houston",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://electricianschoolshouston.com/houston-electrical-jatc/",
+   "description": "Houston Electrical JATC - Electrician Schools in Houston Skip to content Electrician Schools in Houston Online Classes Blog About Contact Find Your School!",
+   "how_to_apply": "There is also a $25 application fee."
+  },
+  {
+   "name": "IBEW Local 1015",
+   "kind": "union local",
+   "city": "Weslaco",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://goherebro.com/local/1015",
+   "description": "IBEW Local 1015 Calls ⓘ Always verify open calls directly with the hall before making moves."
+  },
+  {
+   "name": "IBEW Local 2337",
+   "kind": "union local",
+   "city": "Fairfield",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "http://www.ibew2337.org/",
+   "description": "IBEW Local 2337"
+  },
+  {
+   "name": "IBEW Local 301",
+   "kind": "union local",
+   "city": "Texarkana",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-301-texarkana",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "IBEW Local 418",
+   "kind": "union local",
+   "city": "Cleburne",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://tsaew.org/",
+   "description": "Texas State Association of Electrical Workers | IBEW Locals Skip to content TSAEW Connected Across Texas Announcements Purpose Leadership Education & Safety Find a Local Contact Officer Dashboard Texas IBEW local-union network Connecting IBEW Locals Across Texas.",
+   "how_to_apply": "For apprenticeship applications, job calls, dues, or member services, contact your local union directly."
+  },
+  {
+   "name": "IBEW Local 479",
+   "kind": "union local",
+   "city": "Beaumont",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-479-beaumont",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "IBEW Local 500",
+   "kind": "union local",
+   "city": "San Antonio",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://plumbsquare.work/traveler/local/500",
+   "description": "Hall phone (210) 337-1988 Visit www.ibew500.org → What to look for at this local Before you sign this book, check the 10 questions every traveler should ask ."
+  },
+  {
+   "name": "IBEW Local 738",
+   "kind": "union local",
+   "city": "Longview",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibewlocal738.org/",
+   "description": "Local 738 represents over xxx+ active members and retirees working in a variety of fields including construction, line construction, manufacturing, utilities, and government."
+  },
+  {
+   "name": "Texarkana Elec. JATC",
+   "kind": "JATC / training center",
+   "city": "Nash",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew301.com/jatc",
+   "description": "These program implement both classroom instruction coupled with hands-on learning and on-the-job training.",
+   "how_to_apply": "Texarkana area Applications are open every year in May for a few weeks."
+  },
+  {
+   "name": "Texas Gulf Coast Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Corpus Christi",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew278.com/training.aspx",
+   "description": "IBEW Local 278 --> Toggle navigation Home Book Sign/Dispatch Dispatch Rules Book Sign Job Line About Us Events Officers & Staff History Jurisdiction Wage Rates Benefits Office Government Info."
+  },
+  {
+   "name": "Wichita Falls JATC",
+   "kind": "JATC / training center",
+   "city": "Wichita Falls",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew681.org/neca-training-alliance/",
+   "description": "Who We are The IBEW represents approximately 775,000 active members and retirees who work in a wide variety of fields, including utilities, construction, telecommunications, broadcasting, manufacturing, railroads & government.",
+   "how_to_apply": "Drug Free How To Apply Applications are taken each Wednesday of the month from 1—5 PM at 6111 Jacksboro Hwy., Wichita Falls TX 76302 ."
+  },
+  {
+   "name": "UA Local 286",
+   "kind": "union local",
+   "city": "Austin",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://local286.org/",
+   "description": "Plumbers and Pipefitters Union | UA Local 286 Preloader Close RTL LTR X About Us Plumbers & Pipefitters Local Union 286 was chartered in 1923.",
+   "how_to_apply": "Plumbers and Pipefitters Local Union 286 512.385.0002 Email Us Follow On: Home About Jurisdiction History Local staff Affiliates Contractor Partners Announcements Events Political Action Benefits Apprenticeship Training Why Join Members Only Pay Dues Contact Apply Now Do you 5 years experience in our industry?"
+  },
+  {
+   "name": "UA Local 404",
+   "kind": "union local",
+   "city": "Lubbock",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://southwestpipetrades.com/local-unions/local-404-northwest-texas",
+   "description": "This proud Local Union was established after the merger of two other unions.",
+   "how_to_apply": "Apply Online Today!"
+  },
+  {
+   "name": "UA Local 529",
+   "kind": "union local",
+   "city": "Waco",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://ualocal529.org/",
+   "description": "Plumbers and Pipefitters Local 529 was chartered on Feb."
   },
   {
    "name": "IBEW Local 520",

@@ -354,6 +354,184 @@
     "Construction Management & Civil Engineering Technology",
     "Electrical & Telecommunications Engineering Technology"
    ]
+  },
+  {
+   "name": "Apex Technical School",
+   "type": "technical college",
+   "city": "Long Island City",
+   "home_url": "https://www.apextech.edu/",
+   "trades_url": "https://www.apextech.edu/programs",
+   "programs": [
+    "Automotive Service & Repair",
+    "Air Conditioning & Refrigeration",
+    "Combination Welding Technology",
+    "Electrical & Advanced Electrical",
+    "Construction & Building Skills",
+    "Plumbing & Pipefitting"
+   ],
+   "credentials": "certificate / diploma"
+  },
+  {
+   "name": "Fulton-Montgomery Community College",
+   "type": "community college",
+   "city": "Johnstown",
+   "home_url": "https://fmcc.edu/",
+   "trades_url": "https://fmcc.edu/programs-offerings",
+   "programs": [
+    "Building Trades & Advanced Manufacturing (program category; specific programs not listed on loaded page)"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Jamestown Community College",
+   "type": "community college",
+   "city": "Jamestown",
+   "home_url": "https://www.sunyjcc.edu/",
+   "trades_url": "https://www.sunyjcc.edu/programs/workforce",
+   "programs": [
+    "Manufacturing Technology Institute"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Excelsior University",
+   "type": "university",
+   "city": "Albany",
+   "home_url": "https://www.excelsior.edu/",
+   "trades_url": "https://www.excelsior.edu/partners/academic/",
+   "programs": [
+    "Electrical Engineering Technology (BS)",
+    "Mechanical Engineering Technology (BS)"
+   ],
+   "credentials": "bachelor's"
+  },
+  {
+   "name": "Lincoln Technical Institute-Whitestone",
+   "type": "for-profit school",
+   "city": "Whitestone",
+   "home_url": "https://www.lincolntech.edu/campus/queens-ny",
+   "trades_url": "https://www.lincolntech.edu/campus/queens-ny",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical/Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Modern Welding School",
+   "type": "for-profit school",
+   "city": "Schenectady",
+   "home_url": "https://modernwelding.com/",
+   "trades_url": "https://modernwelding.com/courses/",
+   "programs": [
+    "Combination Welding (all-position electric and acetylene, structural, pipe, MIG, TIG)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "New York Automotive and Diesel Institute",
+   "type": "for-profit school",
+   "city": "Jamaica",
+   "home_url": "https://nyadi.edu/",
+   "trades_url": "https://nyadi.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Service Technology",
+    "Automotive Management and Support Technology (AOS)",
+    "Automotive Support Service Technology",
+    "Truck and Diesel Technology"
+   ],
+   "credentials": "certificate, associate (AOS)"
+  },
+  {
+   "name": "Niagara County Community College (SUNY Niagara)",
+   "type": "community college",
+   "city": "Sanborn",
+   "home_url": "https://sunyniagara.edu/",
+   "trades_url": "https://sunyniagara.edu/courses/",
+   "programs": [
+    "Welding Technology",
+    "Mechanical Technology: Mechanical Design",
+    "Computer Aided Drafting & Design (Mechanical, Process Piping and Control)"
+   ],
+   "credentials": "A.A.S., certificate"
+  },
+  {
+   "name": "Onondaga Community College",
+   "type": "community college",
+   "city": "Syracuse",
+   "home_url": "https://www.sunyocc.edu/",
+   "trades_url": "https://www.sunyocc.edu/programs?school%5B67726%5D=67726",
+   "programs": [
+    "Advanced Manufacturing - Machining",
+    "Automotive Technology",
+    "Commercial/Heavy Equipment Service Repair",
+    "Electrical Technology",
+    "Electromechanical Technology",
+    "Mechanical Technology",
+    "Construction Management"
+   ],
+   "credentials": "A.A.S., certificate"
+  },
+  {
+   "name": "Rockland Community College",
+   "type": "community college",
+   "city": "Suffern",
+   "home_url": "https://sunyrockland.edu/",
+   "trades_url": "https://sunyrockland.edu/programs/",
+   "programs": [
+    "Automotive Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "SUNY Broome Community College",
+   "type": "community college",
+   "city": "Binghamton",
+   "home_url": "https://sunybroome.edu/",
+   "trades_url": "https://sunybroome.edu/academics-programs/",
+   "programs": [
+    "Manufacturing Technology",
+    "Electrical Engineering Technology",
+    "Mechanical Engineering Technology"
+   ],
+   "credentials": "A.A.S."
+  },
+  {
+   "name": "Vaughn College of Aeronautics and Technology",
+   "type": "university",
+   "city": "Flushing",
+   "home_url": "https://www.vaughn.edu/",
+   "trades_url": "https://www.vaughn.edu/degrees-programs/engineering-and-technology/",
+   "programs": [
+    "Aviation Maintenance (Airframe and Powerplant)",
+    "Computer Numerical Control (CNC) Subtractive Manufacturing",
+    "Composite Manufacturing"
+   ],
+   "credentials": "certificate, AAS, AOS, BS"
+  },
+  {
+   "name": "Western Suffolk BOCES (Wilson Technical Center)",
+   "type": "career/technical center",
+   "city": "Northport",
+   "home_url": "https://www.wilsontech.org/",
+   "trades_url": "https://www.wilsontech.org/high-school-students/",
+   "programs": [
+    "Aircraft & Powerplant Technology",
+    "Auto Body Repair",
+    "Automotive Technology",
+    "Carpentry",
+    "Construction Electricity",
+    "HVAC/Plumbing",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
   }
  ],
  "unions": [
@@ -1000,16 +1178,71 @@
    "description": "Starting pay for Apprentices is over $40.00 per hour – benefits included."
   },
   {
-   "name": "NYS Building & Construction Trades Council",
-   "kind": "pre-apprenticeship",
-   "url": "https://www.nybuildingtrades.com/pre-apprenticeship.aspx",
-   "description": "Pre-apprenticeship program page on the state council website."
+   "name": "IUOE Local 30 (Stationary)",
+   "kind": "union local",
+   "trades": "operating engineers IUOE",
+   "city": "Whitestone",
+   "url": "https://iuoelocal30.org/contact/",
+   "description": "Contact | Operating Engineers Local 30 Login 0 Items Home Local 30 Join Us Apprenticeship & Training New FDNY Refrigeration License Requirements Benefits Fund Private Sector Municipal Sector Life Eve"
   },
   {
-   "name": "NYS Building & Construction Trades Council",
-   "kind": "pre-apprenticeship",
-   "url": "https://www.nybuildingtrades.com/helmetstohardhats.aspx",
-   "description": "NY Helmets to Hardhats has a team of dedicated professionals dedicated to your transition."
+   "name": "IUOE Local 891 (Stationary)",
+   "kind": "union local",
+   "trades": "operating engineers IUOE",
+   "city": "Brooklyn",
+   "url": "https://local891.com/officersofficials/",
+   "description": "Officers/Officials - Local 891 Skip to content Brooklyn Navy Yard, 63 Flushing Ave. Building 33, Suite 401, Unit 358 Brooklyn, NY 11205 \"Custodian Engineers, We put children first\" About Us News Obit"
+  },
+  {
+   "name": "Laborers’ Local #621 Training Fund",
+   "kind": "JATC / training center",
+   "trades": "laborers LIUNA",
+   "city": "Olean",
+   "url": "https://www.laborers621.com/",
+   "description": "Laborers' Local 621 Home About Officers & Staff Training & Apprenticeship News Links LEGISLATIVE Contact Us Member Resources Member Home Dues Unemployment Wage Rates Apprenticeship Pension Profit Sha",
+   "how_to_apply": "Fund: (972) 233-4458 Unemployment/Tim Heyden: (716) 560-3711 Northwest/Michael Johnson : (716) 688-9198 Ready to build your future with the Union ? Download an application or apply online today! WELCOME TO LABORERS' LOCAL 621 General Member"
+  },
+  {
+   "name": "Rochester Laborers’ Local 435 Training &#038; Apprentice Fund",
+   "kind": "JATC / training center",
+   "trades": "laborers LIUNA",
+   "city": "Rochester",
+   "url": "https://local435.org/",
+   "description": "Laborers' Local 435 Rochester, NY 0 Skip to Content About Officers and Staff Training Center About the Apprenticeship Training Training Calendar Training Gallery Charity Foundation Calendar Photo Gal",
+   "how_to_apply": "rity Golf Invitational Christmas Party Laborers in Action Labor Day Parade Member Resources Benefit Portal Dues Payment Portal Member Discounts Other Resources Apply Open Menu Close Menu Open Menu Close Menu About Officers and Staff Trainin"
+  },
+  {
+   "name": "Laborers’ Local 60 Apprentice and Training Fund",
+   "kind": "JATC / training center",
+   "trades": "laborers LIUNA",
+   "city": "Hawthorne",
+   "url": "http://www.liunalocal60.com/",
+   "description": "Laborers Local 60 Union has been proudly building, repairing and maintaining the infrastructure of Westchester and Putnam Counties since 1928.",
+   "how_to_apply": "y For Members Job Referrals Wage Rates Union Dues Receive Messages Benefits Information Training Training Courses 2026 Training Schedule 2027 Training Schedule Application Links Delivering DIversified Skilled Union Labor That Meets The Need"
+  },
+  {
+   "name": "Laborers’ Local 235 Education and Training Fund",
+   "kind": "JATC / training center",
+   "trades": "laborers LIUNA",
+   "city": "Elmsford",
+   "url": "https://local235.org/",
+   "description": "Laborers' Local 235 is an affiliate of LIUNA. Providing justice, dignity, and honor through the strength and solidarity of membership.",
+   "how_to_apply": "avy Highway Wage Rate Classifications Training Training Courses November 2026 Training Schedule December 2026 Training Schedule Local 60 2026 Training Schedule Apply Now Contact Providing justice, dignity, and honor through the strength and"
+  },
+  {
+   "name": "Building and construction trades council, New York (not verified)",
+   "kind": "building trades council",
+   "trades": "building trades",
+   "url": "https://www.nybuildingtrades.com/",
+   "description": "NYS Building & Construction Trades Council"
+  },
+  {
+   "name": "UA Local 1",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Long Island City",
+   "url": "https://www.ualocal1.org/",
+   "description": "Plumbers protect the health of the nation and the highly skilled members of Local 1 are no different."
   },
   {
    "name": "LABORERS' LOCAL 91 EDUCATIONAL AND TRAINING FUND",

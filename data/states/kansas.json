@@ -215,6 +215,174 @@
     "Manufacturing",
     "Apprenticeships for Students"
    ]
+  },
+  {
+   "name": "Barton County Community College",
+   "type": "community college",
+   "city": "Great Bend",
+   "home_url": "https://www.bartonccc.edu/",
+   "trades_url": "https://www.bartonccc.edu/degrees-programs",
+   "programs": [
+    "Ag Mechanics - Top Tech",
+    "Agriculture Mechanics CNH",
+    "Commercial Driver's License",
+    "Construction Technology",
+    "Plumbing"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Colby Community College",
+   "type": "community college",
+   "city": "Colby",
+   "home_url": "https://www.colbycc.edu/",
+   "trades_url": "https://www.colbycc.edu/academics/certificate-programs/wind-technology/index.html",
+   "programs": [
+    "Wind Technology (certificate)"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Dodge City Community College",
+   "type": "community college",
+   "city": "Dodge City",
+   "home_url": "https://dc3.edu/",
+   "trades_url": "https://dc3.edu/future-students/degrees-certificates/",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Commercial Truck Driving",
+    "Diesel Technology",
+    "Electrical Technology",
+    "HVAC",
+    "Industrial Machine Technology",
+    "Welding Technology"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Fort Hays State University-Northwest Kansas Technical College",
+   "type": "technical college",
+   "city": "Goodland",
+   "home_url": "https://www.fhnw.edu/",
+   "trades_url": "https://www.fhnw.edu/academics",
+   "programs": [
+    "Automotive Technology",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Power Distribution (Lineman)",
+    "Electrical Technology",
+    "Mechanical Engineering Technology",
+    "Plumbing",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Fort Hays Tech North Central",
+   "type": "technical college",
+   "city": "Beloit",
+   "home_url": "https://www.fhtechnc.edu/",
+   "trades_url": "https://www.fhtechnc.edu/programs",
+   "programs": [
+    "Automotive Collision and Refinishing Technology",
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Heating, Ventilation and Air Conditioning",
+    "Heavy Equipment Operation",
+    "Powersports Technology",
+    "Welding Technology"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Kansas City Kansas Community College",
+   "type": "community college",
+   "city": "Kansas City",
+   "home_url": "https://www.kckcc.edu/",
+   "trades_url": "https://www.kckcc.edu/academics/explore-programs/degrees-certificates.html",
+   "programs": [
+    "Automotive Collision and Refinishing Technology",
+    "Automotive Technology",
+    "Building Engineering and Maintenance Technology",
+    "Construction Technology",
+    "Electrical Technology",
+    "Heating, Ventilation and Air Conditioning/Refrigeration",
+    "High Voltage Line Technician",
+    "Surveying Technology",
+    "Welding Technology"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Pittsburg State University",
+   "type": "university",
+   "city": "Pittsburg",
+   "home_url": "https://www.pittstate.edu/",
+   "trades_url": "https://www.pittstate.edu/academics/academic-programs/fields-of-study.html",
+   "programs": [
+    "Automotive Service Technology",
+    "Construction Technology",
+    "Diesel and Heavy Equipment Technology",
+    "Electrical Technology",
+    "Manufacturing Technology",
+    "Mechanical Technology"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Wichita Technical Institute",
+   "type": "for-profit school",
+   "city": "Wichita",
+   "home_url": "https://www.wti.edu/",
+   "trades_url": "https://www.wti.edu/programs/",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Electrical Technology",
+    "Electronic Systems Technology"
+   ]
+  },
+  {
+   "name": "Coffeyville Community College",
+   "type": "public community college",
+   "city": "Coffeyville",
+   "home_url": "https://www.coffeyville.edu/",
+   "trades_url": "https://coffeyville.edu/programs-and-majors",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Collision and Refinishing",
+    "Construction Technology",
+    "Electrical Technology",
+    "HVAC",
+    "Machining & Manufacturing Technology",
+    "Plumbing Technology",
+    "Powersports Technology",
+    "Welding Technology"
+   ],
+   "credentials": "Certificates A/B/C; AAS degrees"
+  },
+  {
+   "name": "Washburn Institute of Technology",
+   "type": "public technical college",
+   "city": "Topeka",
+   "home_url": "https://www.washburntech.edu/",
+   "trades_url": "https://www.washburntech.edu/career-programs/index.html",
+   "programs": [
+    "Automotive Collision & Refinishing Technology",
+    "Automotive Technology",
+    "Cabinetry & Millwork Manufacturing",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Heating, Ventilation & Air Conditioning (HVAC)",
+    "Industrial Machine/Maintenance Technology",
+    "Machining & Manufacturing Technology",
+    "Plumbing Technology",
+    "Welding Technology"
+   ],
+   "credentials": "AAS degrees"
   }
  ],
  "unions": [

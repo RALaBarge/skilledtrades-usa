@@ -367,6 +367,32 @@
     "Heavy Equipment Courses",
     "Plumbing Assistant"
    ]
+  },
+  {
+   "name": "Fortis College-Mobile",
+   "type": "for-profit school",
+   "city": "Mobile",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/programs/skilled-trades.html",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Welding",
+    "Electrical Systems Technician"
+   ],
+   "credentials": "not stated on trades page"
+  },
+  {
+   "name": "Remington College-Mobile Campus",
+   "type": "technical college",
+   "city": "Mobile",
+   "home_url": "https://remingtoncollege.edu/locations/mobile-alabama/",
+   "trades_url": "https://remingtoncollege.edu/locations/mobile-alabama/",
+   "programs": [
+    "Heating, Ventilation, and Air Conditioning (HVAC)",
+    "Electrician",
+    "Construction and Building Maintenance Technology"
+   ],
+   "credentials": "diploma, associate"
   }
  ],
  "unions": [
@@ -523,6 +549,64 @@
    "url": "https://www.smart-union.org/sm-local-48/about-local-48/",
    "apprenticeship_url": "https://www.smart-union.org/sm-local-48/about-local-48/",
    "description": "Apprentices attend class four to six times per month and spend the rest of their time learning on the job alongside skilled journey workers, with pay raises every six months ."
+  },
+  {
+   "name": "Birmingham Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Birmingham",
+   "trades": "Electrical (IBEW/NECA)",
+   "url": "https://bejatc.org/",
+   "description": "Birmingham Electrical JATC Electrical Apprenticeship attitude &#8211; skill &#8211; knowledge Who We Are We believe that Electricians in Alabama should be qualified, licensed, and well trained. The Birmingham Electrical JATC has been training electricians since 1942 through a nationally recognized r",
+   "how_to_apply": "Home - Birmingham Electrical JATC Skip to main content Menu Home About Us Apply Contact Us News Virtual Classroom Pics Home About Us Apply Contact Us News Virtual Classroom Pics Birmingham Electrical JATC Electrical Apprenticeship attitude "
+  },
+  {
+   "name": "Montgomery Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Montgomery",
+   "url": "https://www.montgomeryeta.com/",
+   "description": "Montgomery Electrical ETA"
+  },
+  {
+   "name": "North Alabama Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Sheffield",
+   "url": "https://naeta.org/",
+   "description": "North Alabama Electrical Training Alliance | Educating members of the IBEW and NECA",
+   "how_to_apply": "ansfer Applicants Abilities Required Online Tech Math Journeyman Training Contact (256) 383-9507 Select Page North Alabama Electrical Training Alliance Call Us Apply Now Our Mission Educate our students to become the most productive, highly-trained, and highly-skilled workforce in the Electrical Ind"
+  },
+  {
+   "name": "UA Local 119",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Mobile",
+   "url": "http://ualocal119.org/",
+   "description": "Home - Local 119 Plumbers and Steamfitters"
+  },
+  {
+   "name": "UA Local 372",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Duncanville",
+   "url": "https://www.ualocal372.org/",
+   "description": "We hope you will find valuable information on these pages and we encourage you to use the “contact us ”form to send us feedback. If there is info. that you would like to see included in the..."
+  },
+  {
+   "name": "UA Local 52",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Montgomery",
+   "url": "https://pipeline.ualocal52.org/login?back_url=https%3A%2F%2Fpipeline.ualocal52.org%2F",
+   "description": "Redmine"
+  },
+  {
+   "name": "UA Local 91",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Birmingham",
+   "url": "https://ua91.org/",
+   "description": "UA Local Union 91 has served Birmingham"
   },
   {
    "name": "I.U.E.C. Local No. 24 (IUEC)",

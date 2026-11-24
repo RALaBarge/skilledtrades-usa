@@ -201,6 +201,171 @@
     "Collision Repair"
    ],
    "credentials": "A.A.S. degree and certificates (welding, industrial electrical)"
+  },
+  {
+   "name": "American Trade School",
+   "type": "for-profit school",
+   "city": "Saint Ann",
+   "home_url": "https://www.americantradeschool.edu/",
+   "trades_url": "https://www.americantradeschool.edu/hvac-training/",
+   "programs": [
+    "HVAC/R Technician",
+    "Electrical"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Kansas City",
+   "type": "for-profit school",
+   "city": "Kansas City",
+   "home_url": "https://aviationmaintenance.edu/campuses/kansas-city-mo/",
+   "trades_url": "https://aviationmaintenance.edu/programs/trade-programs/",
+   "programs": [
+    "Aviation Maintenance Technician",
+    "Combination Welding",
+    "Electrical Technician",
+    "Maintenance Technician",
+    "HVAC"
+   ],
+   "credentials": "certificate, associate (AOS/AAS)"
+  },
+  {
+   "name": "Cape Girardeau Career and Technology Center",
+   "type": "career/technical center",
+   "city": "Cape Girardeau",
+   "home_url": "https://www.capectc.org/",
+   "trades_url": "https://www.capectc.org/o/ctc/page/approved-programs",
+   "programs": [
+    "Advanced Welding",
+    "Welding",
+    "Auto Collision",
+    "Automotive Technology",
+    "Construction Technology",
+    "Electrical Trades",
+    "HVAC/R",
+    "Precision Machining",
+    "Plumbing (evening)",
+    "Truck Driver Training"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Grand River Technical School",
+   "type": "career/technical center",
+   "city": "Chillicothe",
+   "home_url": "https://www.grts.org/",
+   "trades_url": "https://www.grts.org/o/grts/page/carpentry",
+   "programs": [
+    "Auto Service Technology",
+    "Automation and Electrical Technology",
+    "Building Trades",
+    "Collision Technology",
+    "Diesel Technology",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Midwest Technical Institute-Missouri",
+   "type": "for-profit school",
+   "city": "Springfield",
+   "home_url": "https://www.midwesttech.edu/",
+   "trades_url": "https://www.midwesttech.edu/programs/",
+   "programs": [
+    "HVAC/R Technician",
+    "Welding",
+    "Electrician",
+    "Truck Driving (CDL)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Missouri Southern State University",
+   "type": "university",
+   "city": "Joplin",
+   "home_url": "https://www.mssu.edu/",
+   "trades_url": "https://www.mssu.edu/academics/undergraduate.php",
+   "programs": [
+    "Industrial Engineering Technology"
+   ],
+   "credentials": "degree (per program list)"
+  },
+  {
+   "name": "Missouri State University-West Plains",
+   "type": "community college",
+   "city": "West Plains",
+   "home_url": "https://wp.missouristate.edu/",
+   "trades_url": "https://wp.missouristate.edu/Academics/programs.htm",
+   "programs": [
+    "Advanced Welding & Fabrication Technology",
+    "Welding & Fabrication Technology",
+    "Industrial Technology",
+    "Manufacturing Management"
+   ],
+   "credentials": "degree (per program list)"
+  },
+  {
+   "name": "Pike-Lincoln Technical Center",
+   "type": "career/technical center",
+   "city": "Eolia",
+   "home_url": "https://www.pltc.edu/",
+   "trades_url": "https://www.pltc.edu/page/explore-programs",
+   "programs": [
+    "Auto Collision Technology",
+    "Auto Service Technology",
+    "Building Trades",
+    "Diesel Technology",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Pinnacle Career Institute",
+   "type": "for-profit school",
+   "city": "Kansas City",
+   "home_url": "https://www.pcitraining.edu/",
+   "trades_url": "https://www.pcitraining.edu/programs",
+   "programs": [
+    "HVAC Technician",
+    "Wind Turbine Technician",
+    "Tower Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Poplar Bluff Technical Career Center",
+   "type": "career/technical center",
+   "city": "Poplar Bluff",
+   "home_url": "https://www.pbmules.com/",
+   "trades_url": "https://tcc.pbmules.com/",
+   "programs": [
+    "Auto Collision",
+    "Automotive Technology",
+    "Building Trades",
+    "HVACR",
+    "Welding"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Ranken Technical College",
+   "type": "technical college",
+   "city": "Saint Louis",
+   "home_url": "https://ranken.edu/",
+   "trades_url": "https://ranken.edu/find-your-career-path/all-degrees-and-certificates/",
+   "programs": [
+    "Automotive Collision Repair",
+    "Automotive Maintenance Technology",
+    "Diesel Technology",
+    "Carpentry and Building Construction Technology",
+    "HVACR Technology",
+    "Plumbing/Pipefitting",
+    "Electrical Construction Design & Management",
+    "Fabrication and Welding Technology",
+    "Precision Machining Technology",
+    "Industrial Maintenance Technology"
+   ],
+   "credentials": "not stated on page"
   }
  ],
  "unions": [
@@ -550,6 +715,92 @@
    "kind": "building trades council",
    "url": "https://www.buildmo.org/",
    "description": "Missouri State Building & Construction Trades What We Do Our purpose is to create more work opportunities, achieve family-sustaining wages and protect labor, training, safety, retirement and benefit standards, not just for our members, but for all construction workers."
+  },
+  {
+   "name": "IBEW Local 1439",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "St. Louis",
+   "url": "https://ibew1439.org/",
+   "description": "IBEW Local 1439 – Home of IBEW Local 1439!"
+  },
+  {
+   "name": "IBEW Local 1455",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "St. Louis",
+   "url": "https://ibew1455.org/",
+   "description": "Home Page - IBEW Local 1455"
+  },
+  {
+   "name": "IBEW Local 1613",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Kansas City",
+   "url": "http://www.ibew1613.org/",
+   "description": "IBEW Local 1613, Organizing Our Future, Union Our Choice."
+  },
+  {
+   "name": "IBEW Local 350",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Hannibal",
+   "url": "https://ibew350.org/",
+   "description": "IBEW Local 350 serves Hannibal, Missouri and the surrounding area. Check Job Calls for current postings, or Local News for the latest from the office."
+  },
+  {
+   "name": "Kansas City JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Kansas City",
+   "url": "https://www.kcjatc124.org/",
+   "description": "Kansas City JATC 0 Skip to Content Kansas City JATC Applications Applications Programs Apprentice Resources Apprenticeship Tool Lists ProTech Login Page Classes About Us Report Hours Open Menu Close",
+   "how_to_apply": "Kansas City JATC 0 Skip to Content Kansas City JATC Applications Applications Programs Apprentice Resources Apprenticeship Tool Lists ProTech Login Page Classes About Us Report Hours Open Menu Close Menu Kansas City JATC Applications App"
+  },
+  {
+   "name": "Springfield MO & Vicinity Elec. JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Springfield",
+   "url": "https://springfieldjatc193.org/",
+   "description": "Paid, union electrical apprenticeships in Central Illinois since 1901. 4-year Inside Commercial Wireman and 3-year Telecommunications programs. Earn while you learn with the NECA-IBEW 193 JATC.",
+   "how_to_apply": "Apply Now → Explore Programs Earn While You Learn No Student Debt Full Union Benefits Lifetime Career IBEW Brotherhood Earn While You Learn No Student Debt Full Unio"
+  },
+  {
+   "name": "St. Louis Electricians JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "St. Louis",
+   "url": "https://stlejatc.org/",
+   "description": "St. Louis Electrical JATC St. Louis Electrical JATC (314) 644-3587 information@stlejatc.org Login About Us Staff Training Committee Contact Us How To Apply Member & Student Login Work Reports Suicide",
+   "how_to_apply": "org Login About Us Staff Training Committee Contact Us How To Apply Member & Student Login Work Reports Suicide Prevention Useful Links IBEW Local 1 St"
+  },
+  {
+   "name": "UA Local 178",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Springfield",
+   "url": "https://ua178.org/",
+   "description": "Local 178 represents over 400 Union trained plumbers, pipefitters, steamfitters, refrigeration fitters & service technicians in the state of Missouri.",
+   "how_to_apply": "| CONTACT | UA Companies Company Profiles UA Membership Advantages Training Apprenticeship Job Openings Join UA Current Wages Job Openings Currently accepting applications for Journeyman: Service Plumbers, Commercial HVAC Service Techs and "
+  },
+  {
+   "name": "UA Local 533",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Kansas City",
+   "url": "https://www.local533.com/",
+   "description": "Pipe Fitters Local 533 Pipe Fitters Local 533 Pipe Fitters Local 533 ☰ Member Login × Who We Are Local 533 History Services UA Standards for Excellence Fringe Benefits Apprenticeship Pipe Fitters App",
+   "how_to_apply": "Local 533 Pipe Fitters Local 533 ☰ Member Login × Who We Are Local 533 History Services UA Standards for Excellence Fringe Benefits Apprenticeship Pipe Fitters Apprenticeship Program Training Center Office Contractors Contractors List in Al"
+  },
+  {
+   "name": "UA Local 8",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Kansas City",
+   "url": "https://plumberslocal8.com/",
+   "description": "The highly skilled members of Plumbers & Gasfitters Local 8 have been protecting the health of Kansas City since 1890. Quality guaranteed for both residential and commercial projects.",
+   "how_to_apply": "Learn More Apprentice Information about how to apply for the apprenticeship program and requirements"
   },
   {
    "name": "AGC-EASTERN MISSOURI LABORERS' JOINT TRAINING FUND",

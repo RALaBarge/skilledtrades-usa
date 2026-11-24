@@ -979,6 +979,54 @@
     "Automotive Systems Technology",
     "Electric Vehicles (EV)"
    ]
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Charlotte",
+   "type": "for-profit school",
+   "city": "Charlotte",
+   "home_url": "https://aviationmaintenance.edu/campuses/charlotte-nc/",
+   "trades_url": "https://aviationmaintenance.edu/programs/aviation/aviation-maintenance-training/",
+   "programs": [
+    "Aviation Maintenance Technician",
+    "Combination Welding",
+    "Electrical Technician"
+   ],
+   "credentials": "certificate, AOS, AAS"
+  },
+  {
+   "name": "NASCAR Technical Institute",
+   "type": "for-profit school",
+   "city": "Mooresville",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/programs",
+   "programs": [
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Marine Technician",
+    "Collision Repair & Refinish Technology",
+    "Electrical & Electronics",
+    "Aviation Maintenance Technology",
+    "Fabrication & Machining",
+    "Welding Technology",
+    "HVACR Technician"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Coastal Carolina Community College",
+   "type": "community college",
+   "city": "Jacksonville",
+   "home_url": "https://coastalcarolina.edu/",
+   "trades_url": "https://coastalcarolina.edu/academics/",
+   "programs": [
+    "Air Conditioning, Heating, and Refrigeration Technology",
+    "Automotive Systems Technology",
+    "Collision Repair and Refinishing Technology",
+    "Diesel and Heavy Equipment Technology",
+    "Electrical Systems Technology",
+    "Welding Technology"
+   ],
+   "credentials": "certificate, diploma, associate"
   }
  ],
  "unions": [
@@ -1116,6 +1164,32 @@
    "city": "Charlotte",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 962",
+   "kind": "union local",
+   "trades": "electrical IBEW NECA",
+   "city": "Charlotte",
+   "url": "https://ibew962.org/",
+   "description": "IBEW Local 962 IBEW Local 962 ☰ Members IBEW Local 962 Home Members Member Home Officers/Staff Members Only Latest News Agreements/Contracts Question for Local 962 Leadership General Question for 962"
+  },
+  {
+   "name": "LU 238 IBEW-NC2000",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Asheville",
+   "url": "http://ibew238.org/",
+   "description": "IBEW Local 238 IBEW Local 238 IBEW Local 238 ☰ Member Login × Dispatch Training Continuing Education Apprenticeship OSHA 10 & 30 CPR/FIRST AID TRAINING Foreman's Development Series Code Of Excellence",
+   "how_to_apply": "iceship OSHA 10 & 30 CPR/FIRST AID TRAINING Foreman's Development Series Code Of Excellence Need a Contractor Organize Join BECOME A SIGNATORY CONTRACTOR CE/CW APPLY HERE: APPLICAR AQUI Lineman School Information EMPLOYMENT 2025 IBEW LOCAL "
+  },
+  {
+   "name": "Raleigh Durham Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Durham",
+   "url": "https://raldurjatc.org/",
+   "description": "Raleigh-Durham Electrical Training Institute Skip to content Raleigh-Durham Electrical Training Institute APPLY Application Process Application Requirements Aptitude Test Interview Apprenticeship App",
+   "how_to_apply": "Raleigh-Durham Electrical Training Institute Skip to content Raleigh-Durham Electrical Training Institute APPLY Application Process Application Requirements Aptitude Test Interview Apprenticeship Apprenticeship Program Curriculum Wages & Be"
   },
   {
    "name": "Carolinas AGC",

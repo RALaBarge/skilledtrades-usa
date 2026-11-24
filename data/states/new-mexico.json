@@ -110,6 +110,54 @@
    "credentials": "certificate; AAS"
   },
   {
+   "name": "University of New Mexico-Gallup Campus",
+   "type": "community college",
+   "city": "Gallup",
+   "home_url": "https://www.gallup.unm.edu/",
+   "trades_url": "https://www.gallup.unm.edu/degrees-certificates/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Construction Technology",
+    "Welding Technology"
+   ],
+   "credentials": "certificate (CERT), AAS"
+  },
+  {
+   "name": "Western New Mexico University",
+   "type": "university",
+   "city": "Silver City",
+   "home_url": "https://wnmu.edu/",
+   "trades_url": "https://wnmu.edu/academic-programs/",
+   "programs": [
+    "Construction Technology",
+    "Electrical Technology",
+    "Welding Technology"
+   ],
+   "credentials": "certificate (including fast-track certificates)"
+  },
+  {
+   "name": "University of New Mexico-Taos Campus",
+   "type": "community college",
+   "city": "Ranchos de Taos",
+   "home_url": "https://taos.unm.edu/",
+   "trades_url": "https://taos.unm.edu/academic-programs/degrees-and-certificates/",
+   "programs": [
+    "Construction Technology"
+   ],
+   "credentials": "certificate (one-year)"
+  },
+  {
+   "name": "Santa Fe Community College",
+   "type": "community college",
+   "city": "Santa Fe",
+   "home_url": "https://www.sfcc.edu/",
+   "trades_url": "https://www.sfcc.edu/international-student-programs/",
+   "programs": [
+    "Engineering Machining Technology (LANL Cohort)"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
    "name": "Luna Community College",
    "type": "community college",
    "home_url": "https://www.luna.edu/",
@@ -302,6 +350,14 @@
    "kind": "building trades council",
    "url": "https://nmbuildingtrades.org/",
    "description": "That’s because the NMBCTC and its affiliated member unions demonstrates a concerted commitment to world class skills development and training; coupled with a 21st century labor/management model that is founded upon the principles of performance, pride, cooperation and partnership."
+  },
+  {
+   "name": "IUOE Local 953 (Mixed)",
+   "kind": "union local",
+   "trades": "operating engineers IUOE",
+   "city": "Albuquerque",
+   "url": "https://www.operatingengineerstraining.com/",
+   "description": "Operating Engineers Apprenticeship Local 953 NM specializes in Operators, Mechanics, and Stationary Mechanics. Apprentices receive training on the job as well as technical and hands-on related instruction.  Give us a call to get started. Co"
   },
   {
    "name": "UA Local 412 (Plumbers, Pipefitters and HVAC apprenticeship)",

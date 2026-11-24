@@ -274,6 +274,71 @@
    "programs": [
     "Automotive Service Technology"
    ]
+  },
+  {
+   "name": "Northwest School of Wooden Boat Building",
+   "type": "career/technical center",
+   "city": "Port Hadlock",
+   "home_url": "https://nwswb.edu/",
+   "trades_url": "https://nwswb.edu/programs/",
+   "programs": [
+    "Boatbuilding (degree program)",
+    "Marine Systems (diploma program)"
+   ],
+   "credentials": "degree, diploma"
+  },
+  {
+   "name": "Perry Technical Institute",
+   "type": "technical college",
+   "city": "Yakima",
+   "home_url": "https://www.perrytech.edu/",
+   "trades_url": "https://www.perrytech.edu/programs/",
+   "programs": [
+    "Agricultural & Diesel Equipment Technology",
+    "Construction & Carpentry Technology",
+    "Electrical Technology",
+    "HVAC&R Technology",
+    "Plumbing Technician",
+    "Precision Machining & Manufacturing"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "UEI College-Tacoma",
+   "type": "for-profit school",
+   "city": "Tacoma",
+   "home_url": "https://www.uei.edu/",
+   "trades_url": "https://www.uei.edu/trade-school-programs/",
+   "programs": [
+    "Automotive Technician",
+    "HVAC Technician",
+    "Electrician Technician"
+   ],
+   "credentials": "not stated on page read"
+  },
+  {
+   "name": "Wenatchee Valley College",
+   "type": "community college",
+   "city": "Wenatchee",
+   "home_url": "https://wvc.edu/",
+   "trades_url": "https://wvc.edu/learn/degrees-certificates/index.html",
+   "programs": [
+    "Light Diesel",
+    "Environmental Systems & Refrigeration Technology",
+    "Drafting Technology",
+    "Welding and Fabrication"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Northwest HVAC/R Association and Training Center",
+   "type": "private career school",
+   "city": "Spokane",
+   "home_url": "https://www.inwhvac.org/",
+   "trades_url": "https://www.inwhvac.org/",
+   "programs": [
+    "HVAC/R full-time school"
+   ]
   }
  ],
  "unions": [
@@ -634,6 +699,56 @@
    "city": "McCleary",
    "url": "https://map.carpenters.org/?councils=council-4140",
    "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 984",
+   "kind": "union local",
+   "city": "Richland",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew984.org/",
+   "description": "IBEW 984 Welcome to IBEW LU 984 1.509.943.4646 Home Our Purpose Your Stewards Newsletters Arbitrations Policies Meeting Schedules Contact Us Links More Home Our Purpose Your Stewards Newsletters Arbit"
+  },
+  {
+   "name": "SW Washington Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Tacoma",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://careerbridge.wa.gov/learn/educational-institutions/49",
+   "description": "Southwest Washington Electrical Joint Apprenticeship and Training Committee - Career Bridge Skip to main content An official website of Washington State government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States."
+  },
+  {
+   "name": "UA Local 44",
+   "kind": "union local",
+   "city": "Spokane",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://local44jatc.org/",
+   "description": "UA Local 44 JATC | Apprentice Access Portal Skip to portal links LOCAL 44 / INLAND EMPIRE JATC / SPOKANE, WASHINGTON / EST.",
+   "how_to_apply": "Your sign-in and records stay inside the existing secure JATC applications."
+  },
+  {
+   "name": "UA Local 598",
+   "kind": "union local",
+   "city": "Pasco",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "https://www.constructacareer.org/ua-local-598.html",
+   "description": "Apprentices accepted on as needed basis.",
+   "how_to_apply": "Workers measure, cut, and bend pipe, as well as weld, braze, caulk, solder, glue or thread joints at residential and commercial job sites ​Minimum Qualifications 18 + Driver's license High school diploma or GED Clean drug test Application Process Application availability found at ua598.org."
+  },
+  {
+   "name": "IUOE Local 280 (Stationary)",
+   "kind": "union local",
+   "city": "Richland",
+   "trades": "Operating engineers (heavy equipment)",
+   "url": "https://careerbridge.wa.gov/learn/educational-institutions/344",
+   "description": "International Union of Operating Engineers Local #280 Apprenticeship Commit - Career Bridge Skip to main content An official website of Washington State government Here's how you know Official websites use .gov A .gov website belongs to an official government organization in the United States."
+  },
+  {
+   "name": "IUOE Local 612 (Hoisting & Portable)",
+   "kind": "union local",
+   "city": "Tacoma",
+   "trades": "Operating engineers (heavy equipment)",
+   "url": "https://operating-engineers-local-612.careerplug.com/account",
+   "description": "Operating Engineers Local 612 ZIP Code 1 mi."
   },
   {
    "name": "I.U.E.C. Local No. 19 (IUEC)",

@@ -1,5 +1,37 @@
 [
  {
+  "name": "Workforce Pell (federal program)",
+  "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-approves-workforce-pell-grant-program-new-york",
+  "provider": "U.S. Department of Education (Federal Student Aid)",
+  "kind": "grant",
+  "provides": "Workforce Pell allows eligible students to use Pell Grants to enroll in short-term, accredited programs lasting 8 to 15 weeks, opening affordable postsecondary options for career-aligned credentials.",
+  "eligibility": "Programs must be short-term, accredited, and lasting 8 to 15 weeks (page says 8-15 weeks); the Department approves programs state by state (the release cites New York as the eighth state approval, for a Certified Clinical Medical Assistant program at Ulster County Community College).",
+  "how_to_apply": "Enroll in a Department-approved Workforce Pell program. The release does not state the application steps.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "AWS Welder Training Scholarship (Lincoln Electric education page)",
+  "url": "https://www.lincolnelectric.com/en/Education/Community/Scholarships",
+  "provider": "American Welding Society (AWS) Foundation, listed on Lincoln Electric's education page",
+  "kind": "scholarship",
+  "provides": "AWS Foundation scholarships to help with typical school expenses (tuition, fees, books, supplies) for students seeking a career in welding.",
+  "eligibility": "Awarded to students seeking welder training in a program of up to two years. Cannot be used for credits toward a four-year program.",
+  "amount": "$1,000 scholarships (10 per AWS District).",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "NCCER Apprenticeship Assistance",
+  "url": "https://www.nccer.org/programs-crafts/apprenticeship-assistance/",
+  "provider": "National Center for Construction Education and Research (NCCER)",
+  "kind": "other",
+  "provides": "Helps organizations set up Registered Apprenticeship Programs with NCCER's module-based craft curriculum and consultative guidance from its Workforce Development Solutions team. The page is aimed at employers and organizations; it does not describe grant or scholarship funding for individuals.",
+  "how_to_apply": "Contact NCCER's Workforce Development Solutions team through the link on the page.",
+  "audience": "employer",
+  "status": "unknown"
+ },
+ {
   "name": "Workforce Innovation and Opportunity Act (WIOA) - DOL ETA overview",
   "url": "https://www.dol.gov/agencies/eta/wioa",
   "provider": "U.S. Department of Labor, Employment and Training Administration",
@@ -195,17 +227,6 @@
   "status": "closed"
  },
  {
-  "name": "AWS Welder Training Scholarship",
-  "url": "https://www.lincolnelectric.com/en/Education/Community/Scholarships",
-  "provider": "AWS Foundation (American Welding Society)",
-  "kind": "scholarship",
-  "provides": "AWS scholarship of $1,000 for students seeking welder training, with 10 awarded per AWS district; listed on Lincoln Electric's community scholarships page.",
-  "eligibility": "Students seeking welder training in a program of up to two years.",
-  "amount": "$1,000 (10 per AWS district)",
-  "audience": "individual",
-  "status": "unknown"
- },
- {
   "name": "AWS Foundation scholarships and grants",
   "url": "https://www.aws.org/about/foundation/",
   "provider": "AWS Foundation (American Welding Society)",
@@ -257,15 +278,6 @@
   "provides": "ABC's registered apprenticeship and craft training programs for the merit-shop construction industry, built on NCCER curricula and registered with the U.S. Department of Labor Office of Apprenticeship.",
   "how_to_apply": "Sign-up for updates is offered on the page.",
   "audience": "mixed",
-  "status": "unknown"
- },
- {
-  "name": "NCCER Apprenticeship Assistance",
-  "url": "https://www.nccer.org/programs-crafts/apprenticeship-assistance/",
-  "provider": "NCCER",
-  "kind": "other",
-  "provides": "NCCER's workforce development team helps organizations set up Registered Apprenticeship Programs, with curricula and guidance; no individual funding is described.",
-  "audience": "employer",
   "status": "unknown"
  },
  {
@@ -1205,5 +1217,40 @@
   "eligibility": "Students pursuing a trade college or postsecondary program (per page).",
   "audience": "individual",
   "status": "unknown"
+ },
+ {
+  "name": "Veteran Rapid Retraining Assistance Program (VRRAP)",
+  "url": "https://fpi.omb.gov/program/64.130.html",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "Provides an eligible Veteran up to 12 months of tuition and fees and a monthly housing allowance based on Post-9/11 GI Bill rates, for training in a high-demand occupation program. Enacted March 11, 2021.",
+  "eligibility": "At least 22 and less than 67 years of age; unemployed due to the COVID-19 pandemic; not eligible for GI Bill or Veteran Readiness and Employment benefits; not enrolled in a federal or state jobs program; not rated as totally disabled because you cannot work; not receiving unemployment compensation including CARES Act enhanced benefits.",
+  "amount": "Up to 12 months of tuition and fees plus a monthly housing allowance based on Post-9/11 GI Bill rates.",
+  "audience": "individual",
+  "status": "closed"
+ },
+ {
+  "name": "Building Hope Scholarship (NAHB Professional Women in Building / National Housing Endowment)",
+  "url": "https://www.nahb.org/nahb-community/councils/professional-women-in-building-council/pwb-nhe-scholarships",
+  "provider": "NAHB Professional Women in Building Council; National Housing Endowment",
+  "kind": "scholarship",
+  "provides": "Financial support to qualified students advancing their education and training in building industry related fields.",
+  "eligibility": "Enrolled full-time or part-time at the start of the Fall semester at a college, university or trade school, with at least one course or trade-related program remaining after the scholarship is received; pursuing a building-related course of study or vocational/trade program. Verification of enrollment may be required before disbursement.",
+  "amount": "Awards are for tuition and school/program fees only, paid directly to the institution by the National Housing Endowment (no dollar amount stated on the page).",
+  "how_to_apply": "Submit a complete application with letters of recommendation by the application deadline (see page). Local NAHB PWB councils also promote the scholarship.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Mitchell 1 Automotive Technology Scholarship (Snap-on family)",
+  "url": "https://www.snapon.com/Snap-on-Files/News-Business-Units/News-Tools/2026/Applications-Now-Accepted-for-the-2026-Mitchell-1-Automotive-Technology-Scholarship.pdf",
+  "provider": "Mitchell 1 (member of the Snap-on Total Shop Solutions brand family)",
+  "kind": "scholarship",
+  "provides": "Annual scholarship for students pursuing careers in auto repair industry; applications are made through the Automotive Aftermarket Scholarship Central website.",
+  "eligibility": "Current student majoring in automotive technology / auto shop repair course work; nomination from NACAT instructor; minimum overall 3.0 GPA; planning to attend or enrolled in an accredited college or university; U.S. or Canadian citizen. High school seniors and college students in the U.S. and Canada may apply.",
+  "amount": "$2,500 scholarship, a $500 check, and roundtrip airfare and accommodations for the winner and a guest to the NACAT conference (June 15-18, Sacramento).",
+  "how_to_apply": "Apply online at www.AutomotiveScholarships.com (single application covers multiple scholarships). The 2026 cycle deadline was March 31 (per the Feb. 2, 2026 release).",
+  "audience": "individual",
+  "status": "closed"
  }
 ]

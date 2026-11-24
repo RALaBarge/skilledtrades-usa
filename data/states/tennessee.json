@@ -762,6 +762,230 @@
     "Welding Camp Planned For Fall Break"
    ],
    "credentials": "Associate of Applied Science, associate of applied science"
+  },
+  {
+   "name": "Lincoln College of Technology-Nashville",
+   "type": "for-profit school",
+   "city": "Nashville",
+   "home_url": "https://www.lincolntech.edu/campus/nashville-tn",
+   "trades_url": "https://www.lincolntech.edu/campus/nashville-tn",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "CNC Machining and Manufacturing",
+    "Electrical/Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "North Central Institute",
+   "type": "for-profit school",
+   "city": "Clarksville",
+   "home_url": "https://nci.edu/",
+   "trades_url": "https://nci.edu/",
+   "programs": [
+    "Aviation Maintenance Technician (A&P, AAS Aviation Technology, 17 months)",
+    "AMT 65 exam prep for experienced mechanics"
+   ],
+   "credentials": "associate of applied science (Aviation Technology); exam prep"
+  },
+  {
+   "name": "Remington College-Memphis Campus",
+   "type": "technical college",
+   "city": "Memphis",
+   "home_url": "https://remingtoncollege.edu/locations/memphis-tennessee/",
+   "trades_url": "https://remingtoncollege.edu/locations/memphis-tennessee/",
+   "programs": [
+    "Heating, Air Conditioning, and Refrigeration with Smart Technology",
+    "Construction and Building Maintenance Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Remington College-Nashville Campus",
+   "type": "technical college",
+   "city": "Nashville",
+   "home_url": "https://remingtoncollege.edu/locations/nashville/",
+   "trades_url": "https://remingtoncollege.edu/locations/nashville/",
+   "programs": [
+    "Heating, Air Conditioning, and Refrigeration with Smart Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Southern Adventist University",
+   "type": "university",
+   "city": "Collegedale",
+   "home_url": "https://www.southern.edu/",
+   "trades_url": "https://www.southern.edu/academics/technology",
+   "programs": [
+    "Automotive Service (bachelor's, Southern Auto Care)",
+    "Construction Management (bachelor's)"
+   ],
+   "credentials": "bachelor's degree"
+  },
+  {
+   "name": "Tennessee College of Applied Technology-Harriman",
+   "type": "technical college",
+   "city": "Harriman",
+   "home_url": "https://tcatharriman.edu/",
+   "trades_url": "https://tcatharriman.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Construction Electricity (CDL)",
+    "Diesel Powered Equipment Technology",
+    "HVAC and Refrigeration",
+    "Heavy Equipment Service Technician",
+    "Machine Tool Technology",
+    "Residential/Commercial/Industrial Electricity",
+    "Truck Driving",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Tennessee College of Applied Technology-Henry/Carroll",
+   "type": "technical college",
+   "city": "Paris",
+   "home_url": "https://tcathenrycarroll.edu/",
+   "trades_url": "https://tcathenrycarroll.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair Technology",
+    "Heating, Ventilation, Air Conditioning, and Refrigeration",
+    "Machine Tool Technology",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Tennessee College of Applied Technology-Jacksboro",
+   "type": "technical college",
+   "city": "Jacksboro",
+   "home_url": "https://tcatjacksboro.edu/",
+   "trades_url": "https://tcatjacksboro.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Machine Tool Technology",
+    "Residential/Commercial/Industrial Electricity",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Tennessee College of Applied Technology-Livingston",
+   "type": "technical college",
+   "city": "Livingston",
+   "home_url": "https://tcatuppercumberland.edu/",
+   "trades_url": "https://tcatuppercumberland.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction Technology",
+    "CNC Manufacturing",
+    "Diesel Powered Technology with CDL",
+    "Electrical and Plumbing Technology",
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Machine Tool Technology",
+    "Masonry Technology",
+    "Power Line Construction and Maintenance Technology",
+    "Truck Driving"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Tennessee College of Applied Technology-McKenzie",
+   "type": "career/technical center",
+   "city": "McKenzie",
+   "home_url": "https://tcathenrycarroll.edu/",
+   "trades_url": "https://tcathenrycarroll.edu/programs",
+   "programs": [
+    "Welding Technology",
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Automotive Technology",
+    "Machine Tool Technology",
+    "Industrial Maintenance Integrated Automation",
+    "Collision Repair Technology"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Tennessee College of Applied Technology-Oneida-Huntsville",
+   "type": "career/technical center",
+   "city": "Huntsville",
+   "home_url": "https://tcatoneida.edu/",
+   "trades_url": "https://tcatoneida.edu/programs",
+   "programs": [
+    "Welding Technology",
+    "Building Construction Technology",
+    "Automotive Technology",
+    "Diesel-Powered Equipment Technology",
+    "Machine Tool Technology",
+    "Truck Driving"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "Tennessee College of Applied Technology-Upper Cumberland",
+   "type": "career/technical center",
+   "city": "Crossville",
+   "home_url": "https://tcatuppercumberland.edu/",
+   "trades_url": "https://tcatuppercumberland.edu/programs",
+   "programs": [
+    "Welding Technology",
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Electrical and Plumbing Technology",
+    "Building Construction Technology",
+    "Automotive Technology",
+    "Diesel Powered Technology with CDL",
+    "Machine Tool Technology",
+    "CNC Manufacturing",
+    "Power Line Construction and Maintenance Technology",
+    "Collision Repair Technology"
+   ],
+   "credentials": "not stated on pages read"
+  },
+  {
+   "name": "William R Moore College of Technology",
+   "type": "technical college",
+   "city": "Memphis",
+   "home_url": "https://www.mooretech.edu/",
+   "trades_url": "https://www.mooretech.edu/programs",
+   "programs": [
+    "Welding",
+    "Air Conditioning, Refrigeration and Heating",
+    "Plumbing",
+    "Automotive Service Technology",
+    "Machine Shop",
+    "Maintenance Technology"
+   ],
+   "credentials": "associate degree of applied technology"
+  },
+  {
+   "name": "Fortis Institute-Cookeville",
+   "type": "private for-profit college",
+   "city": "Cookeville",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/campuses/tennessee/cookeville.html",
+   "programs": [
+    "HVAC-R"
+   ]
+  },
+  {
+   "name": "Fortis Institute-Nashville",
+   "type": "private for-profit college",
+   "city": "Nashville",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/campuses/tennessee/nashville.html",
+   "programs": [
+    "HVAC"
+   ]
   }
  ],
  "unions": [
@@ -969,6 +1193,84 @@
    "city": "La Vergne",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Chattanooga Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Chattanooga",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-175-chattanooga",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "IBEW Local 1749",
+   "kind": "union local",
+   "city": "New Johnsonville",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://www.ibewlocal1749.org/",
+   "description": "Since our founding, we have stood at the forefront of the electrical industry, advocating for fair wages, strong benefits, and safe working conditions for our members."
+  },
+  {
+   "name": "IBEW Local 1925",
+   "kind": "union local",
+   "city": "Martin",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-1925-martin",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "IBEW Local 316",
+   "kind": "union local",
+   "city": "Nashville",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://dragupbro.com/local/316",
+   "description": "IBEW Local 316 Job Calls, Nashville, TN | DragUpBro DragUp BRO ☎ Call the hall and verify before you pack the truck."
+  },
+  {
+   "name": "IBEW Local 365",
+   "kind": "union local",
+   "city": "Knoxville",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew365.org/",
+   "description": "This scholarship honors our dedicated founders and is available to working members on a competitive basis.",
+   "how_to_apply": "Thank You Paul Proffitt Leave a comment Posted in NEWS Dear Sisters and Brothers: Posted by ibew365 on February 12, 2026 The IBEW Founders’ Scholarship is now open for applications."
+  },
+  {
+   "name": "IBEW Local 911",
+   "kind": "union local",
+   "city": "Chattanooga",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew911.org/",
+   "description": "Your Power Protectors News and Information Biden to Nominate Retired IVP Klein to TVA Board, a First for Unions Apr 26, 2021 On Wednesday, President Joe Biden announced his intent to nominate retired Tenth District International Vice President Robert P."
+  },
+  {
+   "name": "LU 1925 IBEW",
+   "kind": "JATC / training center",
+   "city": "Martin",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://asksparkyai.com/ibew-locals/local-1925-martin",
+   "description": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens.",
+   "how_to_apply": "Below: the full apprentice-to-journeyman scale period by period, whether applications are open right now, how the process works, and a free alert the moment the next window opens."
+  },
+  {
+   "name": "Memphis Electrical JATC",
+   "kind": "JATC / training center",
+   "city": "Memphis",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://memphiselectricaljatc.org/",
+   "description": "We train apprentices to become an Inside Journeyman Wireman.",
+   "how_to_apply": "Applications OPEN December 7, 2026 Applications for the Memphis Electrical Apprenticeship Program will open December 7, 2026."
+  },
+  {
+   "name": "UA Local 572",
+   "kind": "union local",
+   "city": "Nashville",
+   "trades": "Plumbing, pipefitting, HVAC/R and sprinkler fitting",
+   "url": "http://tennesseestatepipetrades.org/local-572-application/",
+   "description": "(Craft that you have the most experience with) Plumber Pipe Fitter Welder Sprinkler Fitter HVAC Service Tech Years of Experience?",
+   "how_to_apply": "For more information as to job locations and availability please fill out the application form below."
   },
   {
    "name": "I.U.E.C. Local No. 30 (IUEC)",

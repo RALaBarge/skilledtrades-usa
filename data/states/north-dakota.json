@@ -237,6 +237,41 @@
    "kind": "building trades council",
    "url": "https://ndbtu.org/",
    "description": "Skip to content Facebook Instagram Job Opportunites About Us Our Unions Apprenticeship DPARP Safety & Training News Contact We Build North Dakota."
+  },
+  {
+   "name": "Dakotas & Western MN Areawide JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Fargo",
+   "url": "https://dakotasjatc.org/",
+   "description": "Welcome to Dakotas Electrical Apprenticeship! Spark your career, gain hands-on training, and get wired for success as a skilled electrician!",
+   "how_to_apply": "arch or ESC to close Search Close Search Menu HOME ABOUT FAQs APPRENTICES JOURNEYPERSON APPLICANTS C O N T A C T Are YOU interested in becoming an Electrician? APPLY TODAY! Dakotas Electrical Apprenticeship The finest electrical workers rec"
+  },
+  {
+   "name": "Dakotas Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Fargo",
+   "url": "https://dakotasjatc.org/",
+   "description": "Welcome to Dakotas Electrical Apprenticeship! Spark your career, gain hands-on training, and get wired for success as a skilled electrician!",
+   "how_to_apply": "arch or ESC to close Search Close Search Menu HOME ABOUT FAQs APPRENTICES JOURNEYPERSON APPLICANTS C O N T A C T Are YOU interested in becoming an Electrician? APPLY TODAY! Dakotas Electrical Apprenticeship The finest electrical workers rec"
+  },
+  {
+   "name": "IBEW Local 1593",
+   "kind": "union local",
+   "trades": "electrical IBEW NECA",
+   "city": "Hazen",
+   "url": "http://www.ibew1593.com/",
+   "description": "IBEW Local 1593 IBEW Local 1593 Home About Units Join Us! Latest News Forms Contact Back About Us Back Antelope Valley Station BNI Coal Burke-Divide Electric Capital Electric Cooperative Central Powe"
+  },
+  {
+   "name": "UA Local 300",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Mandan",
+   "url": "https://www.ua300.com/",
+   "description": "UNITED ASSOCIATION LOCAL 300 - Home UNITED ASSOCIATION LOCAL 300 Home Photo Gallery Contractors Members Recent News Newly Retired Members Recently Deceased Members Join Apprentices Members FAQ Mandan",
+   "how_to_apply": "Local #300 Joint Apprenticeship and Training Committee will also take affirmative action to provide equal opportunity in apprenticeship and will operate the apprenticeship program as required under Title 29 of the Code of Federal Regulation"
   }
  ],
  "licensing": [

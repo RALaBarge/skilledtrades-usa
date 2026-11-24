@@ -54,6 +54,48 @@
     "Mechatronics Engineering Technology",
     "Industrial Engineering Technology"
    ]
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Indianapolis",
+   "type": "for-profit school",
+   "city": "Indianapolis",
+   "home_url": "https://aviationmaintenance.edu/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/indianapolis-in/",
+   "programs": [
+    "Combination Welding",
+    "Electrical Technician",
+    "Aviation Maintenance Technician"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Fortis College-Indianapolis",
+   "type": "for-profit school",
+   "city": "Indianapolis",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/programs/skilled-trades.html",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning and Refrigeration Trades (HVAC-R)"
+   ],
+   "credentials": "see trades_url"
+  },
+  {
+   "name": "Lincoln College of Technology-Indianapolis",
+   "type": "for-profit school",
+   "city": "Indianapolis",
+   "home_url": "https://www.lincolntech.edu/",
+   "trades_url": "https://www.lincolntech.edu/campus/indianapolis-in",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "see trades_url"
   }
  ],
  "unions": [

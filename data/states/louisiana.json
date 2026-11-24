@@ -136,6 +136,93 @@
    ]
   },
   {
+   "name": "Ayers Career College",
+   "type": "for-profit school",
+   "city": "Shreveport",
+   "home_url": "https://ayers.edu/",
+   "trades_url": "https://ayers.edu/programs/",
+   "programs": [
+    "Electrical Technician",
+    "Heating / AC / Refrigeration"
+   ]
+  },
+  {
+   "name": "ITI Technical College",
+   "type": "for-profit school",
+   "city": "Baton Rouge",
+   "home_url": "https://iticollege.edu/",
+   "trades_url": "https://iticollege.edu/our-programs/",
+   "programs": [
+    "Air Conditioning, Refrigeration, & Electrical Technology",
+    "Air Conditioning & Electrical Technology",
+    "Electrical Technology",
+    "Construction Management",
+    "Industrial Instrumentation",
+    "Process Technology"
+   ],
+   "credentials": "associate (AOS), certificate"
+  },
+  {
+   "name": "Remington College-Lafayette Campus",
+   "type": "career/technical center",
+   "city": "Lafayette",
+   "home_url": "https://remingtoncollege.edu/",
+   "trades_url": "https://remingtoncollege.edu/locations/lafayette-louisiana/",
+   "programs": [
+    "Construction and Building Maintenance",
+    "Electrician",
+    "Heating, Ventilation, and Air Conditioning (HVAC)"
+   ],
+   "credentials": "diploma"
+  },
+  {
+   "name": "Remington College-Shreveport Campus",
+   "type": "career/technical center",
+   "city": "Shreveport",
+   "home_url": "https://remingtoncollege.edu/",
+   "trades_url": "https://remingtoncollege.edu/locations/shreveport-louisiana/",
+   "programs": [
+    "Construction and Building Maintenance",
+    "Heating, Ventilation, and Air Conditioning (HVAC)"
+   ],
+   "credentials": "diploma"
+  },
+  {
+   "name": "River Parishes Community College",
+   "type": "community college",
+   "city": "Gonzales",
+   "home_url": "https://www.rpcc.edu/",
+   "trades_url": "https://www.rpcc.edu/programs",
+   "programs": [
+    "Instrumentation and Electrical Technology",
+    "Industrial Maintenance",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Southern University at Shreveport",
+   "type": "community college",
+   "city": "Shreveport",
+   "home_url": "https://www.susla.edu/",
+   "trades_url": "https://www.susla.edu/page/current-academic-programs",
+   "programs": [
+    "Airframe & Powerplant Maintenance Technology",
+    "Powerplant Maintenance Technology",
+    "Electrical & Computer Engineering Technology"
+   ],
+   "credentials": "associate, certificate"
+  },
+  {
+   "name": "Fortis College-Baton Rouge",
+   "type": "private career college",
+   "city": "Baton Rouge",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/campuses/louisiana/baton-rouge.html",
+   "programs": [
+    "HVAC-R"
+   ]
+  },
+  {
    "name": "Louisiana Delta Community College",
    "type": "community college",
    "home_url": "https://www.ladelta.edu/",
@@ -315,13 +402,16 @@
  ],
  "funding": [
   {
+   "state": "LA",
    "name": "Workforce Pell",
    "url": "https://www.laworks.net/WorkforcePell/WFP_Introduction.asp",
-   "provider": "Louisiana Workforce Commission",
+   "provider": "Louisiana Workforce Commission (Louisiana Works)",
    "kind": "grant",
-   "provides": "Workforce Pell extends the federal Pell Grant, long a cornerstone of college financial aid, to short-term workforce programs for the first time.",
+   "provides": "Extends the federal Pell Grant to short-term workforce programs; starting July 1, 2026, it makes high-quality short-term job training in Louisiana more affordable.",
+   "eligibility": "Eligible programs run at least 8 but fewer than 15 weeks and are designed to prepare students for high-skill, high-wage, in-demand occupations (construction, manufacturing, transportation, energy and similar).",
+   "how_to_apply": "Institutions submit programs for approval (Application for Institutions page on laworks.net). Individuals can contact Louisiana Works via the Contact us link or attend the Workforce Pell Webinar Series listed on the page.",
    "audience": "individual",
-   "status": "unknown"
+   "status": "open"
   },
   {
    "name": "Registered Apprenticeship for Job and Skill Seekers",
@@ -372,6 +462,45 @@
    "provides": "Need-based scholarship administered by LOSFA, per the LOSFA homepage.",
    "audience": "individual",
    "status": "unknown"
+  },
+  {
+   "state": "LA",
+   "name": "TOPS Tech Award",
+   "url": "https://losfa.laregents.edu/tops/tops-tech/",
+   "provider": "Louisiana Office of Student Financial Assistance (LOSFA)",
+   "kind": "scholarship",
+   "provides": "Award that may be used for up to two years of skill or occupational training at any campus of the Louisiana Community and Technical College System, accredited public colleges or universities, or private colleges or universities, to pursue a vocational or technical education certificate, diploma or non-academic degree program.",
+   "eligibility": "Attend a BESE-approved high school; minimum TOPS Core Curriculum GPA of 2.50 (21 units of the TOPS Tech JumpStart Core Curriculum, or the 19 units of the TOPS Core Curriculum); minimum ACT score of 17 (or SAT equivalent) or Silver level on ACT WorkKeys; enroll full time as a first-time freshman by the first semester following the first anniversary of high school graduation; U.S. citizen or permanent resident; meet Louisiana residency requirements. TOPS does not accept an ACT Superscore. Renewal: cumulative GPA of 2.50 at end of every spring semester and 2.00 at other semesters, full-time enrollment, and 24 or more hours per academic year.",
+   "amount": "Set at the TOPS award amount for the institution, based on tuition at the school for 2016-2017 unless changed by Legislature. Louisiana National Guard members get tuition exemption plus a $600 annual book/materials stipend. Proprietary and cosmetology schools use a weighted average of the TOPS Award Amount.",
+   "how_to_apply": "Use the \"Click Here to Apply for the TOPS Tech Award\" link on the LOSFA TOPS Tech page (see also Applying For TOPS page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "LA",
+   "name": "TOPS Tech Early Start",
+   "url": "https://losfa.laregents.edu/tops/tops-tech-early-start/",
+   "provider": "Louisiana Office of Student Financial Assistance (LOSFA)",
+   "kind": "scholarship",
+   "provides": "Award for 11th and 12th grade students at Louisiana public high schools who concurrently enroll for up to six credit hours per semester in certification programs at public or nonpublic colleges or approved training providers.",
+   "eligibility": "In good standing as an 11th or 12th grade student in a Louisiana public high school; approved 5-year Education and Career Plan; cumulative GPA of 2.00 on a 4.00 scale; meet one academic readiness requirement (minimum 15 in both English and Math on ACT PLAN/ACT or equivalent SAT, Silver level on ACT WorkKeys, or Board of Regents technical dual enrollment eligibility); enroll in an Eligible Program in a top demand occupation. Renewal requires continued good standing, 2.00 GPA, and steady academic progress.",
+   "amount": "Up to $600 per academic year.",
+   "how_to_apply": "Download the application from the LOSFA TOPS Tech Early Start page (Download the Application; Program Rules also linked). Fall billing deadline October 15 (corrections by November 14); spring billing deadline April 1 (corrections by April 30). Questions: SGSP@la.gov. A list of TOPS Tech Early START trainer providers is linked on the page.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "LA",
+   "name": "GO Grant",
+   "url": "https://losfa.laregents.edu/paying-for-college/scholarships-grants/go-grant/",
+   "provider": "Louisiana Office of Student Financial Assistance (LOSFA)",
+   "kind": "grant",
+   "provides": "Need-based component of the state financial aid plan for Pell Grant recipients who need additional aid to afford college.",
+   "eligibility": "Louisiana resident (as of the day the FAFSA is filed, with Louisiana as true and fixed domicile); file a FAFSA; receive a Federal Pell Grant; have remaining financial need after SAI and all gift aid is deducted from cost of attendance; enrolled at an eligible Louisiana institution at least half-time (minimum 6 hours at a semester school or 4 hours at a quarter school). Renewal requires annual FAFSA, continued Pell eligibility and remaining need, up to a lifetime maximum tied to Pell.",
+   "amount": "Minimum annual award $300; maximum annual award $3,000 for the current academic year. Actual award depends on the institution allocation and packaging policy; no awards for summer sessions, quarters or terms.",
+   "how_to_apply": "File the FAFSA (annually, or Renewal FAFSA). Students should check the financial aid office at their school about award calculation and distribution.",
+   "audience": "individual",
+   "status": "open"
   }
  ]
 }

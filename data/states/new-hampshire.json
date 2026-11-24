@@ -242,6 +242,23 @@
    "city": "Pns Portsmouth",
    "url": "https://map.carpenters.org/?councils=council-4064",
    "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 2071",
+   "kind": "union local",
+   "trades": "electrical IBEW NECA",
+   "city": "Portsmouth",
+   "url": "https://ibewlocal2071.com/",
+   "description": "Home - IBEW Local 2071 Skip to content IBEW Local 2071 Portsmouth Naval Shipyards Menu Menu Home Membership/Dues App Union Representation Card Contact Standing strong IBEW Local 2071 Chartered Decemb",
+   "how_to_apply": "There is no burden of proof, with the exception of proceedings on objections to elections, and the formal rules of evidence do not apply"
+  },
+  {
+   "name": "IBEW Local 2320",
+   "kind": "union local",
+   "trades": "electrical IBEW NECA",
+   "city": "Manchester",
+   "url": "https://ibew2320.org/",
+   "description": "Discover IBEW Local 2320, representing skilled workers across New Hampshire. Learn about union benefits, events, news, and member support."
   }
  ],
  "licensing": [

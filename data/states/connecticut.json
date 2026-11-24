@@ -3,6 +3,106 @@
  "state": "Connecticut",
  "colleges": [
   {
+   "name": "Goodwin University",
+   "type": "university",
+   "city": "East Hartford",
+   "home_url": "https://www.goodwin.edu/",
+   "trades_url": "https://www.goodwin.edu/majors/",
+   "programs": [
+    "Advanced Manufacturing",
+    "CNC Machining",
+    "CNC Machining, Metrology, and Manufacturing Technology",
+    "Manufacturing Engineering Technology",
+    "Quality Management Systems",
+    "Welding"
+   ],
+   "credentials": "certificate, associate degree, bachelor's degree"
+  },
+  {
+   "name": "Industrial Management Training Institute",
+   "type": "for-profit school",
+   "city": "Waterbury",
+   "home_url": "https://imti.edu/",
+   "trades_url": "https://imti.edu/apprenticeships",
+   "programs": [
+    "Electrician",
+    "HVAC",
+    "Plumbing"
+   ],
+   "credentials": "not stated on page (apprenticeship-style technician programs)"
+  },
+  {
+   "name": "Lincoln Technical Institute-East Windsor",
+   "type": "for-profit school",
+   "city": "East Windsor",
+   "home_url": "https://www.lincolntech.edu/campus/east-windsor-ct",
+   "trades_url": "https://www.lincolntech.edu/campus/east-windsor-ct",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Lincoln Technical Institute-New Britain",
+   "type": "for-profit school",
+   "city": "New Britain",
+   "home_url": "https://www.lincolntech.edu/campus/new-britain-ct",
+   "trades_url": "https://www.lincolntech.edu/campus/new-britain-ct",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Lincoln Technical Institute-Shelton",
+   "type": "for-profit school",
+   "city": "Shelton",
+   "home_url": "https://www.lincolntech.edu/campus/shelton-ct",
+   "trades_url": "https://www.lincolntech.edu/campus/shelton-ct",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Heavy Equipment",
+    "Machining and Manufacturing",
+    "Electrical / Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Porter & Chester Institute",
+   "type": "for-profit school",
+   "city": "Bridgeport",
+   "home_url": "https://porterchester.edu/",
+   "trades_url": "https://porterchester.edu/program/trade/",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Technology",
+    "Electrician: Industrial, Commercial and Residential",
+    "HVACR",
+    "Low Voltage Technology",
+    "Plumbing",
+    "Welding"
+   ],
+   "credentials": "diploma (per welding page)"
+  },
+  {
    "name": "Connecticut State Community College Asnuntuck",
    "type": "community college",
    "city": "Enfield",
@@ -310,6 +410,45 @@
    "city": "Groton",
    "url": "https://map.carpenters.org/?councils=council-4064",
    "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "BAC 01 Connecticut",
+   "kind": "union local",
+   "trades": "masonry",
+   "city": "Wallingford",
+   "url": "https://www.baclocal1ct.org/",
+   "description": "HOME | Baclocal1"
+  },
+  {
+   "name": "Building and construction trades council, Connecticut (not verified)",
+   "kind": "building trades council",
+   "trades": "building and construction trades",
+   "url": "https://www.csbtc.org/",
+   "description": "Connecticut State Building Trades Council"
+  },
+  {
+   "name": "IBEW Local 457",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Meriden",
+   "url": "https://ibew457.org/",
+   "description": "Connecticut's Energy and Power Workers"
+  },
+  {
+   "name": "L.U. 488 IBEW-NECA JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Monroe",
+   "url": "https://ibewlocal488.org/",
+   "description": "Western Connecticut's Electrical Professionals"
+  },
+  {
+   "name": "UA Local 777",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Meriden",
+   "url": "https://local777.com/",
+   "description": "UA Local 777 Plumbers and Pipefitters"
   },
   {
    "name": "Connecticut State Building Trades Council",

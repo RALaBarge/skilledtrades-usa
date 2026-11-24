@@ -20,6 +20,64 @@
    "credentials": "Welding: non-credit program, OSHA 10, AWS D1.1 performance qualification testing. CNC: Phase 1 earns 13 college credits and OSHA-10. Construction Trades Readiness: certificate. Also AS and certificate awards in advanced manufacturing; AS in engineering electrical."
   },
   {
+   "name": "IYRS School of Technology & Trades",
+   "type": "technical college",
+   "city": "Newport",
+   "home_url": "https://www.iyrs.edu/",
+   "trades_url": "https://www.iyrs.edu/",
+   "programs": [
+    "Boatbuilding & Restoration",
+    "Marine Systems",
+    "Composites Technology",
+    "Digital Modeling & Fabrication"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "MotoRing Technical Training Institute",
+   "type": "for-profit school",
+   "city": "East Providence",
+   "home_url": "https://mtti.edu/",
+   "trades_url": "https://mtti.edu/",
+   "programs": [
+    "Automotive Service Technician",
+    "Building and Property Trades Technician",
+    "Electrician (residential and commercial)",
+    "HVAC/R Technician",
+    "Motorcycle & Power Equipment Technician"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "New England Institute of Technology",
+   "type": "technical college",
+   "city": "East Greenwich",
+   "home_url": "https://www.neit.edu/",
+   "trades_url": "https://www.neit.edu/trades",
+   "programs": [
+    "Automotive Technology (incl. high performance and collision repair)",
+    "Building Construction Technology",
+    "Electrical Technology (incl. renewable energy)",
+    "Heating, Ventilation, Air Conditioning & Refrigeration Technology",
+    "Plumbing and Heating Technology",
+    "Welding Engineering Technology"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "New England Tractor Trailer Training School of Rhode Island",
+   "type": "for-profit school",
+   "city": "Pawtucket",
+   "home_url": "https://nettts.com/",
+   "trades_url": "https://nettts.com/",
+   "programs": [
+    "CDL-A Class A Commercial Driving",
+    "CDL-B Heavy Straight Truck",
+    "HVACR Technician Training"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
    "name": "Community College of Rhode Island (CCRI)",
    "type": "public two-year",
    "home_url": "https://www.ccri.edu/",
@@ -121,6 +179,23 @@
    "kind": "building trades council",
    "url": "https://www.buildingtradesri.com/",
    "description": "Rhode Island Building & Construction Trades Council Rhode Island Building & Construction Trades Council News News Home Who We Are Our Proud History Calendar Careers Why Work Union Apprenticeships Veterans in the Trades Interested in a Building Trades Career?"
+  },
+  {
+   "name": "IBEW Local 1196",
+   "kind": "union local",
+   "city": "Ashton",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibewlocal1196.com/",
+   "description": "IBEW 1196 – Join Local 1196 Skip to content IBEW 1196 Join Local 1196 Main Menu Home Authorization Card Contact Us Join IBEW 1196 Welcome to Local 1196 of the International Brotherhood of Electrical Workers, New England’s largest resource for skilled electrical workers."
+  },
+  {
+   "name": "IBEW Local 2323",
+   "kind": "union local",
+   "city": "Cranston",
+   "trades": "Electrical (inside wireman and related)",
+   "url": "https://ibew2323.com/",
+   "description": "The Local has 10 declared surplus, all headquartered at 234 Washington St, Providence.",
+   "how_to_apply": "The Job titles are listed below: Central… Continue reading Verizon 3rd Qtr Surplus 2026 Scholarship Application by IBEW 2323 June 26, 2026 The Local is please to announce the 2026 Scholarship Award."
   },
   {
    "name": "Rhode Island Construction Training Academy (RICTA)",

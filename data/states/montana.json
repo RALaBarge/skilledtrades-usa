@@ -176,6 +176,33 @@
     "Commercial Driver's License (CDL) Training",
     "Workforce Fundamentals Training (featured non-credit courses, including welding)"
    ]
+  },
+  {
+   "name": "Aaniiih Nakoda College",
+   "type": "community college",
+   "city": "Harlem",
+   "home_url": "https://www.ancollege.edu/",
+   "trades_url": "https://www.ancollege.edu/certificates",
+   "programs": [
+    "Welding"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Montana State University Billings",
+   "type": "university",
+   "city": "Billings",
+   "home_url": "https://www.msubillings.edu/",
+   "trades_url": "https://www.msubillings.edu/future/degrees/index.htm",
+   "programs": [
+    "Automobile Collision Repair and Refinishing Technology",
+    "Automotive Technology",
+    "Construction Technology Carpentry",
+    "Diesel Technology",
+    "Instrument and Electrical Technician",
+    "Welding and Metal Fabrication Technology"
+   ],
+   "credentials": "not stated on page"
   }
  ],
  "unions": [
@@ -359,6 +386,33 @@
    "city": "Billings",
    "url": "https://map.carpenters.org/?councils=council-4085",
    "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "LU 233, IBEW",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Helena",
+   "url": "http://ibew233.org/",
+   "description": "arning what your skills are worth? IBEW Local 233 encourages electricians and linemen to explore our Rocky Mountain States Wage Comparison Calculator and see how wages stack up across the region. Know",
+   "how_to_apply": "Thinking About Retiring? It is suggested that you start your application process as far in advance as you can"
+  },
+  {
+   "name": "LU 768 IBEW",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Helena",
+   "url": "http://ibew768.com/",
+   "description": "IBEW LU 768 Phone: 406.752.7680 LOCAL 768 ☰ Member Login × Username Password Login Register an Account Cancel Forgot Login? × Jobs First Book Signing Re-sign Book Electrician Wage Comparison Apprenti",
+   "how_to_apply": "The links below will direct you to the applications and eligibility information on each scholarship"
+  },
+  {
+   "name": "UA Local 41",
+   "kind": "union local",
+   "trades": "plumbers pipefitters UA",
+   "city": "Butte",
+   "url": "https://www.ualocal41.com/",
+   "description": "UA Local 41 Plumbers and Pipefitters has been operating for 135 years as your plumbing and pipefitting hiring hall and apprenticeship education hub.",
+   "how_to_apply": "--> UA Local 41 Plumbers and Pipefitters | Plumbers and Pipefitters Butte | 45 E Silver St, Butte, MT, USA top of page HOME Pay Dues Apply for apprenticeship For Our Contractors For Our Members For Our Travelers Union Meetings UA LOCAL 41 P"
   }
  ],
  "licensing": [

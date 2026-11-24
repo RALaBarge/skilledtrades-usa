@@ -269,6 +269,39 @@
     "Industrial Maintenance Technology",
     "Welding Technologyhnology"
    ]
+  },
+  {
+   "name": "Campbellsville University",
+   "type": "university",
+   "city": "Campbellsville",
+   "home_url": "https://www.campbellsville.edu/",
+   "trades_url": "https://www.campbellsville.edu/academics/programs/index.html",
+   "programs": [
+    "Certificate in Heating, Ventilation, and Air Conditioning (HVAC)",
+    "Certificate in Welding"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Employment Solutions-College for Technical Education",
+   "type": "career/technical center",
+   "city": "Lexington",
+   "home_url": "https://cte.edu/",
+   "trades_url": "https://cte.edu/programs/",
+   "programs": [
+    "Building Trades Technician (HVAC, carpentry, plumbing, electrical)"
+   ]
+  },
+  {
+   "name": "Interactive College of Technology-Newport",
+   "type": "for-profit school",
+   "city": "Newport",
+   "home_url": "https://www.ict.edu/",
+   "trades_url": "https://www.ict.edu/programs/",
+   "programs": [
+    "HVAC Residential",
+    "HVAC/R Technology"
+   ]
   }
  ],
  "unions": [
@@ -467,6 +500,19 @@
    "eligibility": "Kentucky resident, U.S. citizen, national or permanent resident, with a 2.75 GPA each year at a certified Kentucky high school. A KEES award ends after 8 semesters of KEES funding, 5 years after high school graduation, or on earning a bachelor's degree (per page).",
    "audience": "individual",
    "status": "unknown"
+  },
+  {
+   "state": "KY",
+   "name": "Kentucky Educational Excellence Scholarship (KEES)",
+   "url": "https://www.kheaa.com/web/scholarships-grants.faces",
+   "provider": "Kentucky Higher Education Assistance Authority (KHEAA)",
+   "kind": "scholarship",
+   "provides": "Merit scholarship for Kentucky students who earn at least a 2.75 GPA each year they attend a certified Kentucky high school; awards grow with GPA, ACT/SAT scores and AP/IB/CAI exam scores.",
+   "eligibility": "U.S. citizen, national or permanent resident; Kentucky resident; earn at least a 2.75 GPA in any year of high school while meeting KEES curriculum requirements; attend and graduate from a certified Kentucky high school or other approved high school; not a convicted felon. Home school and GED graduates may earn awards based on ACT/SAT score (GED students aged 18-23). Award expires after 8 semesters of KEES funding, 5 years after high school graduation, or on earning a bachelor's degree. Renewal requires cumulative GPA of 2.50 after first college year and 3.00, or 2.50-2.99 and on track to graduate, in years 2-4.",
+   "amount": "Base award per year of college from $187 (2.75 GPA) to $500 (4.00 GPA); ACT/SAT bonus from $36 (ACT 15 / SAT 830-870) to $500 (ACT 28+ / SAT 1300-1600); AP or IB exam supplements of $200 to $300 per exam and CAI supplements of $200 to $300. Page states amounts may change based on available funds.",
+   "how_to_apply": "No separate application is listed for KEES on the page. Students can use KEES at an eligible Kentucky college, or request reimbursement from KEES for approved expenses in an eligible workforce pathway (registered apprenticeship approved through the Kentucky Education and Workforce Development Cabinet, qualified workforce program at an eligible proprietary institution, approved KCTCS Workforce Solutions program, and others), by completing the reimbursement opt-in on the page. Questions: kees@kheaa.com.",
+   "audience": "individual",
+   "status": "open"
   }
  ]
 }

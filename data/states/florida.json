@@ -386,6 +386,806 @@
     "Expo Highlighted Growing Labor Demand in Construction",
     "Lineworker Program Graduates Seventh Class"
    ]
+  },
+  {
+   "name": "Atlantic Technical College",
+   "type": "technical college",
+   "city": "Coconut Creek",
+   "home_url": "https://www.atlantictechnicalcollege.edu/",
+   "trades_url": "https://www.atlantictechnicalcollege.edu/comprehensive-program-list/",
+   "programs": [
+    "Carpentry",
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R)",
+    "Plumbing",
+    "Drafting",
+    "Machining Technologies",
+    "Welding Technology",
+    "Automotive Collision Technology Technician",
+    "Master Automotive Service Technology",
+    "Manufacturer Specific Automotive Service Technology - Toyota"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Orlando",
+   "type": "for-profit school",
+   "city": "Casselberry",
+   "home_url": "https://aviationmaintenance.edu/campuses/orlando-fl/",
+   "trades_url": "https://aviationmaintenance.edu/campuses/orlando-fl/",
+   "programs": [
+    "Aviation Maintenance Technician",
+    "Aviation Maintenance Technology",
+    "Combination Welding",
+    "Electrical Technician",
+    "Maintenance Technician",
+    "Heating, Ventilation, and Air Conditioning"
+   ],
+   "credentials": "AOS, AAS"
+  },
+  {
+   "name": "Big Bend Technical College",
+   "type": "technical college",
+   "city": "Perry",
+   "home_url": "https://www.bbtc.edu/",
+   "trades_url": "https://www.bbtc.edu/programs",
+   "programs": [
+    "Aluminum Welding & Fabrication",
+    "Electrical & Instrumentation Technology",
+    "Industrial Engineering Technology",
+    "Millwright: Industrial Mechanic & Installer",
+    "Welding Technology",
+    "Welding Technology: Advanced"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Broward College",
+   "type": "community college",
+   "city": "Fort Lauderdale",
+   "home_url": "https://www.broward.edu/",
+   "trades_url": "https://www.broward.edu/cte/index.html",
+   "programs": [
+    "Building Construction Technology (AS)",
+    "Aviation Maintenance Management (AS)"
+   ],
+   "credentials": "AS, AAS"
+  },
+  {
+   "name": "CBT Technology Institute-Hialeah",
+   "type": "for-profit school",
+   "city": "Hialeah",
+   "home_url": "https://www.cbt.edu/",
+   "trades_url": "https://www.cbt.edu/academics/",
+   "programs": [
+    "Air Conditioning, Refrigeration and Heating Technology",
+    "Air Conditioning and Refrigeration Technician",
+    "Electrical Technology",
+    "Electricity Technician"
+   ],
+   "credentials": "associate, diploma, degree"
+  },
+  {
+   "name": "Embry-Riddle Aeronautical University-Worldwide",
+   "type": "university",
+   "city": "Daytona Beach",
+   "home_url": "https://worldwide.erau.edu/",
+   "trades_url": "https://erau.edu/about/locations/worldwide-online-campus",
+   "programs": [
+    "Aviation Maintenance Technology SkillBridge Program",
+    "Aviation Maintenance (USNCC Associate of Science)"
+   ],
+   "credentials": "AS"
+  },
+  {
+   "name": "Emerald Coast Technical College",
+   "type": "technical college",
+   "city": "DeFuniak Springs",
+   "home_url": "https://www.ectc.edu/",
+   "trades_url": "https://www.ectc.edu/",
+   "programs": [
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 1 & 2",
+    "Master Automotive Service Technology 1 & 2",
+    "Plumbing",
+    "Welding Technology",
+    "Welding Technology - Advanced"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Erwin Technical College",
+   "type": "technical college",
+   "city": "Tampa",
+   "home_url": "https://www.hillsboroughschools.org/o/erwin",
+   "trades_url": "https://www.hillsboroughschools.org/o/erwin",
+   "programs": [
+    "Automotive Service Technology (Auto Mechanic)",
+    "Drafting",
+    "Building Trades",
+    "Electricity (Electrician skills)",
+    "Air Conditioning, Refrigeration & Heating Technology",
+    "Plumbing Technology",
+    "Welding Technology"
+   ],
+   "credentials": "PSAV certificate (drafting)"
+  },
+  {
+   "name": "First Coast Technical College",
+   "type": "technical college",
+   "city": "Saint Augustine",
+   "home_url": "https://fctc.edu/",
+   "trades_url": "https://fctc.edu/programs/",
+   "programs": [
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 1 & 2",
+    "Industrial Machinery Maintenance 1 & 2",
+    "Welding Technology & Welding Technology Advanced",
+    "Diesel Systems Technician 1 & 2",
+    "Master Automotive Service Technology 1 & 2"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Flagler Technical College",
+   "type": "technical college",
+   "city": "Palm Coast",
+   "home_url": "https://flaglertech.edu/",
+   "trades_url": "https://flaglertech.edu/apprenticeship-programs",
+   "programs": [
+    "Electrician Apprenticeship",
+    "HVAC Apprenticeship (Air Conditioning, Refrigeration, and Heating)"
+   ],
+   "credentials": "apprenticeship"
+  },
+  {
+   "name": "Florida Education Institute",
+   "type": "for-profit school",
+   "city": "Miami",
+   "home_url": "https://fei.edu/",
+   "trades_url": "https://www.fei.edu/",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning, and Refrigeration (HVAC)"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Florida Gateway College",
+   "type": "community college",
+   "city": "Lake City",
+   "home_url": "https://www.fgc.edu/",
+   "trades_url": "https://www.fgc.edu/academics/",
+   "programs": [
+    "Automotive",
+    "CDL (commercial driving)",
+    "Welding",
+    "HVAC"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Florida Panhandle Technical College",
+   "type": "technical college",
+   "city": "Chipley",
+   "home_url": "https://www.fptc.edu/",
+   "trades_url": "https://www.fptc.edu/programs",
+   "programs": [
+    "Carpentry",
+    "Drafting",
+    "Electricity",
+    "Welding Technology & Welding Technology-Advanced",
+    "Master Automotive Service Technology 1 & 2",
+    "Diesel Systems Technician 1 & 2"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Florida State College at Jacksonville",
+   "type": "community college",
+   "city": "Jacksonville",
+   "home_url": "https://www.fscj.edu/",
+   "trades_url": "https://www.fscj.edu/academics/areas-of-study/construction-trades-and-manufacturing",
+   "programs": [
+    "Building Construction Technology (AS)",
+    "Architectural Design and Construction Technology (AS)",
+    "Building Construction Specialist (TC)",
+    "CNC Machinist/Fabricator (TC)",
+    "Advanced Manufacturing (Automation) (TC)",
+    "Electricity (CC)",
+    "HVAC (CC)",
+    "Welding Technology (CC)",
+    "Automotive Service Technician (TC)",
+    "Automotive Service Management Technology (AAS)",
+    "Automotive Collision Technology Technician (CC)",
+    "Aviation Mechanic (TC)",
+    "Aviation Powerplant Mechanics (TC)",
+    "Aviation Maintenance Management (AS)"
+   ],
+   "credentials": "AS, AAS, technical certificate (TC), college credit certificate (CC)"
+  },
+  {
+   "name": "Fort Myers Technical College",
+   "type": "technical college",
+   "city": "Fort Myers",
+   "home_url": "https://fortmyerstech.edu/",
+   "trades_url": "https://fortmyerstech.edu/",
+   "programs": [
+    "Carpentry",
+    "Electricity",
+    "HVAC/R",
+    "Plumbing",
+    "Welding Technology",
+    "Mechatronics Technology",
+    "CNC Production Specialist",
+    "Automotive Maintenance and Light Repair Technician",
+    "Automotive Collision Technology Technician",
+    "Diesel Maintenance Technician",
+    "Master Automotive Service Technology",
+    "Marine Service Technologies"
+   ],
+   "credentials": "not stated on page"
+  },
+  {
+   "name": "Fortis Institute-Pensacola",
+   "type": "for-profit school",
+   "city": "Pensacola",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/programs/skilled-trades.html",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning and Refrigeration Training (HVAC-R)"
+   ],
+   "credentials": "not stated; trades list on the page is company-wide, Pensacola campus list not confirmed"
+  },
+  {
+   "name": "Fred K Marchman Technical College",
+   "type": "career/technical center",
+   "city": "New Port Richey",
+   "home_url": "https://mtec.pasco.k12.fl.us/",
+   "trades_url": "https://mtec.pasco.k12.fl.us/",
+   "programs": [
+    "Master Automotive Service Technology",
+    "Electricity",
+    "Air Conditioning, Refrigeration and Heating Technology (HVAC)",
+    "Welding"
+   ],
+   "credentials": "career certificate"
+  },
+  {
+   "name": "Gadsden Technical College",
+   "type": "technical college",
+   "city": "Quincy",
+   "home_url": "https://www.gadsdentech.org/",
+   "trades_url": "https://www.gadsdentech.org/",
+   "programs": [
+    "Automotive General Service Technician",
+    "Building Maintenance and Management",
+    "Power Equipment Technologies"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "George Stone Technical College",
+   "type": "technical college",
+   "city": "Pensacola",
+   "home_url": "https://gstc.escambiaschools.org/",
+   "trades_url": "https://gstc.escambiaschools.org/programs",
+   "programs": [
+    "Automotive Collision Technology Technician",
+    "Aviation Mechanics",
+    "Electricity",
+    "Electrical Apprenticeship Program",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration",
+    "Marine Service Technologies",
+    "Master Automotive Service Technology",
+    "Welding Technology"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "George T Baker Aviation Technical College",
+   "type": "career/technical center",
+   "city": "Miami",
+   "home_url": "https://www.bakeraviationtechcollege.com/",
+   "trades_url": "https://www.bakeraviationtechcollege.com/career-and-technical-programs/",
+   "programs": [
+    "Aviation Airframe Mechanics",
+    "Aviation Powerplant Mechanics",
+    "Avionics Systems Technician"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Immokalee Technical College",
+   "type": "technical college",
+   "city": "Immokalee",
+   "home_url": "https://itc.collierschools.com/",
+   "trades_url": "https://itc.collierschools.com/programs",
+   "programs": [
+    "Building Construction Technology",
+    "CNC Production Specialist",
+    "Heavy Equipment Service Technician",
+    "Machining Technologies",
+    "Master Automotive Service Technology",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (Glades campus)"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Jones Technical Institute",
+   "type": "technical college",
+   "city": "Jacksonville",
+   "home_url": "https://www.jtech.org/",
+   "trades_url": "https://www.jtech.org/programs/",
+   "programs": [
+    "Automotive Technology",
+    "Diesel Technology",
+    "Diesel Advanced Technology Education (D.A.T.E.)",
+    "Commercial Truck Driving",
+    "HVAC-R",
+    "Marine & RV Technology",
+    "Welding & Fabrication Technology"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Lake Technical College",
+   "type": "technical college",
+   "city": "Eustis",
+   "home_url": "https://www.laketech.org/",
+   "trades_url": "https://www.laketech.org/programs/architecture",
+   "programs": [
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R)",
+    "Advanced Manufacturing and Production Technology",
+    "Aluminum Welding and Fabrication",
+    "CNC Production Specialist",
+    "Industrial Machinery Maintenance",
+    "Welding Technology",
+    "Welding Technology - Advanced",
+    "Automotive Collision Repair and Refinishing",
+    "Medium/Heavy-Duty Truck & Bus Technician (Diesel)",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2"
+   ],
+   "credentials": "career technical certificate"
+  },
+  {
+   "name": "Lindsey Hopkins Technical College",
+   "type": "technical college",
+   "city": "Miami",
+   "home_url": "https://www.lindseyhopkins.edu/",
+   "trades_url": "https://www.lindseyhopkins.edu/career-and-technical-programs/",
+   "programs": [
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC)",
+    "Marine",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Lively Technical College",
+   "type": "technical college",
+   "city": "Tallahassee",
+   "home_url": "https://www.livelytech.com/",
+   "trades_url": "https://www.livelytech.com/programs/",
+   "programs": [
+    "Aviation Airframe Mechanics",
+    "Aviation Powerplant Mechanics",
+    "Diesel Maintenance Technician",
+    "Diesel Systems Technician 1",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2",
+    "Transit Technician 1",
+    "Building Trades & Construction Design Technology",
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 1",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 2",
+    "Industrial Pipefitter",
+    "Plumbing",
+    "Welding Technology",
+    "Welding Technology-Advanced"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Radford M Locklin Technical College",
+   "type": "technical college",
+   "city": "Milton",
+   "home_url": "https://www.locklintech.com/",
+   "trades_url": "https://www.locklintech.com/",
+   "programs": [
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R)",
+    "Electricity 1 & Electricity",
+    "Master Automotive Service Technology 1 & 2",
+    "Welding Technology / Welding Technology Advanced",
+    "Diesel Mechanic Apprenticeship",
+    "Electrician Apprenticeship",
+    "Heating & Air Conditioning Installer/Servicer Apprenticeship",
+    "Plumbing Apprenticeship Program"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Lorenzo Walker Technical College",
+   "type": "technical college",
+   "city": "Naples",
+   "home_url": "https://lwtc.collierschools.com/",
+   "trades_url": "https://lwtc.collierschools.com/programs/career-programs-at-lwtc",
+   "programs": [
+    "Automotive Collision Technology Technician",
+    "Aviation Airframe Mechanics",
+    "Aviation Powerplant Mechanics",
+    "Avionics Systems Technician",
+    "Building Construction Technologies",
+    "Drafting",
+    "Electronic Systems Integration and Automation",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R)",
+    "Marine Service Technologies",
+    "Master Automotive Service Technology 1",
+    "Welding Technology"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Manatee Technical College",
+   "type": "technical college",
+   "city": "Bradenton",
+   "home_url": "https://www.manateetech.edu/",
+   "trades_url": "https://www.manateetech.edu/programs/career-and-technical-education/",
+   "programs": [
+    "Automotive Collision Technology Technician",
+    "Aviation Airframe Mechanics",
+    "Diesel Systems Technician 1",
+    "Marine Service Technology",
+    "Master Automotive Services Technology",
+    "Advanced Manufacturing and Production Technology",
+    "Building Construction Technologies",
+    "CNC Production Specialist",
+    "Electrical and Instrumentation Technology 1",
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning / Refrigeration (HVAC/R)",
+    "Machining Technologies",
+    "Welding Technology"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Miami Lakes Educational Center and Technical College",
+   "type": "technical college",
+   "city": "Miami Lakes",
+   "home_url": "https://www.miamilakes.edu/",
+   "trades_url": "https://www.miamilakes.edu/career-and-technical-programs/",
+   "programs": [
+    "Automotive Collision Technology Technician",
+    "Diesel Systems Technician",
+    "Electronic Systems Technician",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration 1",
+    "Heavy Equipment Operations Technician",
+    "Major Appliance and Refrigeration Technician",
+    "Manufacturer-Specific Automotive Service Technology",
+    "Master Automotive Service Technology",
+    "Welding Technology"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Tulsa Welding School-Jacksonville",
+   "type": "for-profit school",
+   "city": "Jacksonville",
+   "home_url": "https://www.tws.edu/",
+   "trades_url": "https://www.tws.edu/",
+   "programs": [
+    "Professional Welder Training",
+    "Welding Specialist with Pipefitting Training",
+    "Associate of Occupational Studies in Welding Technology",
+    "Associate in Applied Science in Welding Inspection & Quality Management",
+    "Welding Specialist Training",
+    "Refrigeration Technologies Training",
+    "Electro-Mechanical Technologies Training (HVAC/R)",
+    "Associate of Occupational Studies in Mechanical Maintenance Engineering",
+    "Electrical Technologies Training"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "William T McFatter Technical College",
+   "type": "technical college",
+   "city": "Davie",
+   "home_url": "https://www.mcfattertechnicalcollege.edu/",
+   "trades_url": "https://www.mcfattertechnicalcollege.edu/manufacturing/",
+   "programs": [
+    "Welding Technology",
+    "Welding Technology - Advanced",
+    "Marine Technologies",
+    "Drafting",
+    "Electricity",
+    "Heavy Equipment Service Technician (new, starts Jan 2027)"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Wilton Simpson Technical College",
+   "type": "career/technical center",
+   "city": "Brooksville",
+   "home_url": "https://wstc.hernandoschools.org/",
+   "trades_url": "https://wstc.hernandoschools.org/",
+   "programs": [
+    "Automotive",
+    "CNC Production Specialist",
+    "Diesel Systems Technician",
+    "HVAC/R",
+    "Welding Technology"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Tom P. Haney Technical College",
+   "type": "technical college",
+   "city": "Panama City",
+   "home_url": "https://haney.edu/",
+   "trades_url": "https://haney.edu/program-directory/",
+   "programs": [
+    "Automotive Collision Technology Technician",
+    "Aviation Airframe Mechanics",
+    "Aviation Powerplant Mechanics",
+    "Avionics Systems Technician",
+    "Electrician",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 1",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 2",
+    "Marine Service Technologies",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2",
+    "Welding Technology",
+    "Welding Technology - Advanced"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Treasure Coast Technical College",
+   "type": "career/technical center",
+   "city": "Vero Beach",
+   "home_url": "https://tctc.indianriverschools.org/",
+   "trades_url": "https://tctc.indianriverschools.org/",
+   "programs": [
+    "CDL - Class B (commercial drivers license training)",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration 1",
+    "Welding Technologies"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Palm Beach State College",
+   "type": "community college",
+   "city": "Lake Worth",
+   "home_url": "https://www.palmbeachstate.edu/",
+   "trades_url": "https://www.palmbeachstate.edu/career-pathways/pathway-industry/default.aspx",
+   "programs": [
+    "CNC Production Specialist",
+    "Machining Technology",
+    "Welding Technology",
+    "Building Trades and Construction Design",
+    "Carpentry",
+    "Commercial Air Conditioning and Refrigeration",
+    "HVAC",
+    "Plumbing",
+    "Residential and Commercial Electrician",
+    "Residential Electrician",
+    "Residential Heating and Air Conditioning Specialist",
+    "Low Voltage Technician",
+    "Building Construction Specialist",
+    "Automotive Repair Technician",
+    "Automotive Service Technician",
+    "Diesel Systems Technician 1",
+    "Diesel Technician",
+    "Electric, Hybrid and Alternative Fuels Vehicle Technician"
+   ],
+   "credentials": "career certificate; associate (Building Construction Management)"
+  },
+  {
+   "name": "Pinellas Technical College-Clearwater",
+   "type": "technical college",
+   "city": "Clearwater",
+   "home_url": "https://www.myptc.edu/",
+   "trades_url": "https://clearwater.myptc.edu/programs",
+   "programs": [
+    "Diesel Maintenance Technician",
+    "Diesel Systems Technician 1",
+    "Diesel Systems Technician 2",
+    "Marine Service Technologies",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2",
+    "Electricity",
+    "Electricity 1",
+    "Electronic Systems Integration and Automation",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 1 - IET",
+    "Machining Technologies",
+    "Welding Technology",
+    "Welding Technology - Advanced"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Pinellas Technical College-St. Petersburg",
+   "type": "technical college",
+   "city": "Saint Petersburg",
+   "home_url": "https://www.myptc.edu/",
+   "trades_url": "https://stpete.myptc.edu/programs",
+   "programs": [
+    "Automotive Collision Technology Technician",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2",
+    "Building Trades and Construction Design Technology",
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 1",
+    "Plumbing",
+    "Welding Technology",
+    "Welding Technology - Advanced"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Sheridan Technical College",
+   "type": "technical college",
+   "city": "Hollywood",
+   "home_url": "https://www.sheridantechnicalcollege.edu/",
+   "trades_url": "https://www.sheridantechnicalcollege.edu/construction-energy/",
+   "programs": [
+    "Automotive Technology",
+    "Building Trades and Construction Design Technology",
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R)",
+    "Plumbing"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "South Dade Technical College-South Dade Skills Center Campus",
+   "type": "technical college",
+   "city": "Homestead",
+   "home_url": "https://www.southdadetech.edu/",
+   "trades_url": "https://www.southdadetech.edu/career-and-technical-programs/",
+   "programs": [
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC)",
+    "HVAC/R 2",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "South Florida Institute of Technology",
+   "type": "for-profit school",
+   "city": "Miami",
+   "home_url": "https://www.sf-institute.com/",
+   "trades_url": "https://www.sf-institute.com/",
+   "programs": [
+    "Building Construction Technology",
+    "Electrical Construction Technician",
+    "Plumbing Technician",
+    "Refrigeration & AC Repair Technician"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Southern Technical College",
+   "type": "for-profit school",
+   "city": "Orlando",
+   "home_url": "https://www.southerntech.edu/",
+   "trades_url": "https://www.southerntech.edu/programs/school-of-technical-trades/",
+   "programs": [
+    "Heating, Ventilation and Air Conditioning / Refrigeration (HVAC diploma)",
+    "Electrical Trades Technology",
+    "Electrical Technology",
+    "Welding Technology"
+   ],
+   "credentials": "associate, diploma"
+  },
+  {
+   "name": "The College of the Florida Keys",
+   "type": "community college",
+   "city": "Key West",
+   "home_url": "https://www.cfk.edu/",
+   "trades_url": "https://www.cfk.edu/academics/apprenticeships/",
+   "programs": [
+    "Electrical Apprenticeship",
+    "Carpentry Apprenticeship",
+    "Plumbing Apprenticeship",
+    "HVAC Apprenticeship"
+   ],
+   "credentials": "apprenticeship"
+  },
+  {
+   "name": "Okaloosa Technical College",
+   "type": "technical college",
+   "city": "Fort Walton Beach",
+   "home_url": "https://www.otcollege.edu/",
+   "trades_url": "https://www.otcollege.edu/",
+   "programs": [
+    "Building Trades & Construction Design Technology",
+    "Carpentry",
+    "Electrician",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration",
+    "Industrial Engineering Technology",
+    "Marine Service Technologies",
+    "Master Automotive Service Technology",
+    "Plumbing",
+    "Welding Technology"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Osceola Technical College",
+   "type": "career/technical center",
+   "city": "Kissimmee",
+   "home_url": "https://osceolaschools.net/otech",
+   "trades_url": "https://otech.osceolaschools.net/131278_2",
+   "programs": [
+    "Building Construction Technologies",
+    "Carpentry Apprenticeship Program of Osceola County",
+    "Building Maintenance Apprenticeship",
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration (HVAC/R) 1",
+    "Plumbing",
+    "Welding Technology",
+    "Automotive Maintenance and Light Repair Technician",
+    "Master Automotive Service Technology 1",
+    "Diesel Systems Technician 1"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "North American Academy of Tampa Bay",
+   "type": "for-profit school",
+   "city": "Clearwater",
+   "home_url": "https://www.naa.edu/",
+   "trades_url": "https://www.naa.edu/",
+   "programs": [
+    "Aviation Maintenance Technology",
+    "Aviation Maintenance Professional",
+    "Aviation Maintenance Certification"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Riveroak Technical College",
+   "type": "career/technical center",
+   "city": "Live Oak",
+   "home_url": "https://rtc.suwannee.k12.fl.us/o/rtc",
+   "trades_url": "https://rtc.suwannee.k12.fl.us/o/rtc",
+   "programs": [
+    "Advanced Manufacturing and Production Technology",
+    "Automotive Collision Technology Technician",
+    "Electricity",
+    "Heating, Ventilation, Air-Conditioning/Refrigeration 1",
+    "Master Automotive Service Technology 1",
+    "Master Automotive Service Technology 2",
+    "Welding Technology",
+    "Welding Technology - Advanced"
+   ],
+   "credentials": "unspecified"
+  },
+  {
+   "name": "Florida International Training Institute",
+   "type": "private trade school",
+   "city": "Miami",
+   "home_url": "https://fitischools.edu/",
+   "trades_url": "https://fitischools.edu/",
+   "programs": [
+    "HVAC/R",
+    "Maintenance Plumbing Technician"
+   ]
+  },
+  {
+   "name": "North Florida Technical College",
+   "type": "public technical college",
+   "city": "Starke",
+   "home_url": "https://nftc.bradfordschools.org/",
+   "trades_url": "https://nftc.bradfordschools.org/course-offerings",
+   "programs": [
+    "Welding",
+    "Commercial Vehicle Driving"
+   ]
   }
  ],
  "unions": [
@@ -671,6 +1471,179 @@
    "url": "https://www.smart-union.org/sm-local-435/",
    "apprenticeship_url": "https://www.smart-union.org/sm-local-435/",
    "description": "Whether you’re looking to start your apprenticeship or you’re an experienced journeyperson hoping to further your career, join us today."
+  },
+  {
+   "name": "Central Florida Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Winter Park",
+   "url": "https://www.etacfl.org/",
+   "description": "Electrical Training Alliance of Central Florida"
+  },
+  {
+   "name": "Daytona Beach Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Port Orange",
+   "url": "https://etadb.org/",
+   "description": "We’re Proudly Training America’s Future Electricians! Learn today and earn for a lifetime. Become a member of a respected and honorable trade. An Active and exciting career is waiting for […]",
+   "how_to_apply": "dustry Partners Apprenticeship Application General Information Programs Existing Apprentice Events Videos Contact Us Menu Close Home About Us Industry Partners Apprenticeship Application General Information Programs Existing Apprentice Events Videos Contact Us Search this website We're Proudly Train"
+  },
+  {
+   "name": "Florida East Coast Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "West Palm Beach",
+   "url": "https://www.fecjatc.com/",
+   "description": "UnionActive"
+  },
+  {
+   "name": "Gainesville Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Gainesville",
+   "url": "http://etagainesville.org/",
+   "description": "Electrical Training Alliance of Gainesville",
+   "how_to_apply": "Apprenticeship How Does Apprenticeship Work How To Apply Application Tool and Supply List Office Locations & Contact Info Continuing Education NEW!"
+  },
+  {
+   "name": "Gulf Coast Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical",
+   "city": "Pensacola",
+   "url": "https://www.gulfcoasteta.com/",
+   "description": "Gulf Coast Electrical Training Alliance"
+  },
+  {
+   "name": "IBEW Local 108",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Tampa",
+   "url": "https://www.ibew108.org/",
+   "description": "UnionActive"
+  },
+  {
+   "name": "IBEW Local 1908",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Cocoa",
+   "url": "http://ibew1908.weebly.com/",
+   "description": "IBEW local 1908"
+  },
+  {
+   "name": "IBEW Local 2088",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Cocoa Beach",
+   "url": "https://www.ibew2088.org/",
+   "description": "International Brotherhood Of Electrical Workers LU-2088, Merritt Island"
+  },
+  {
+   "name": "IBEW Local 626",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Avon Park",
+   "url": "http://ibew626.org/",
+   "description": "Under construction. Please check back later."
+  },
+  {
+   "name": "IBEW Local 682",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "St. Petersburg",
+   "url": "http://ibew682.org/",
+   "description": "UnionActive"
+  },
+  {
+   "name": "IBEW Local 824",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "Tampa",
+   "url": "https://www.ibew824.org/",
+   "description": "Home | IBEW Local 824"
+  },
+  {
+   "name": "IBEW Local 871",
+   "kind": "union local",
+   "trades": "electrical",
+   "city": "St. Augustine",
+   "url": "https://www.ibew871.org/about/about-local-871",
+   "description": "International Brotherhood of Electrical Workers Local 871"
+  },
+  {
+   "name": "UA Local 123",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Dover",
+   "url": "https://lu123.com/",
+   "description": "UA Local Union 123 Plumbers, Pipefitters, & HVAC-R Techs are the best in the State of Florida.",
+   "how_to_apply": "News Archive Links Training Apprenticeship UA Standards Members Contractors Contractors Login Become A Contractor Contact Us Apply Now!"
+  },
+  {
+   "name": "UA Local 234",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Jacksonville",
+   "url": "https://ua234.com/",
+   "description": "UA Local 234 offers training, certification, apprenticeship programs and benefits for Plumbers, Pipe Fitters, Welders or HVAC Service Techs"
+  },
+  {
+   "name": "UA Local 295",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Daytona Beach",
+   "url": "https://www.ualocal295.com/",
+   "description": "UA Local 295 - Plumbers and Steamfitters"
+  },
+  {
+   "name": "UA Local 519",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Hialeah",
+   "url": "https://www.plumbers519.com/",
+   "description": "Plumbers Local Union 519"
+  },
+  {
+   "name": "UA Local 630",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "West Palm Beach",
+   "url": "https://lu630.org/",
+   "description": "Plumbers protect the health of the nation and the highly skilled members of Local 630 are no different.",
+   "how_to_apply": "(561) 689-8400 g Work Time: --> Call Us Any Time: (561) 689-8400 Email Us: Contact Us Our Office Location: 1900 N Florida Mango Road West Palm Beach, FL 33409 Apply Now!"
+  },
+  {
+   "name": "UA Local 719",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Fort Lauderdale",
+   "url": "https://ualocal719.org/",
+   "description": "Plumbers & Pipefitters UA Local 719 is committed to representing and advocating for the rights and well-being of our members."
+  },
+  {
+   "name": "UA Local 725",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Opa Locka",
+   "url": "https://ua725.org/",
+   "description": "Pipefitters and HVAC-R Service Techs | UA Local 725"
+  },
+  {
+   "name": "UA Local 803",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "Orlando",
+   "url": "https://localunion803.org/",
+   "description": "UA Local 803",
+   "how_to_apply": "Ready to apply?"
+  },
+  {
+   "name": "UA Local 821",
+   "kind": "union local",
+   "trades": "plumbing and pipefitting",
+   "city": "West Palm Beach",
+   "url": "https://www.sprinklerfitters821.org/",
+   "description": "Local 821 represents more than 600 members throughout the state of Florida."
   },
   {
    "name": "I.U.E.C. Local No. 49 (IUEC)",

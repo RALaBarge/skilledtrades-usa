@@ -151,6 +151,172 @@
     "Optics Manufacturing Option",
     "Welding Technology Option"
    ]
+  },
+  {
+   "name": "Fortis Institute-Wayne",
+   "type": "for-profit school",
+   "city": "Wayne",
+   "home_url": "https://www.fortis.edu/",
+   "trades_url": "https://www.fortis.edu/programs/nursing.html",
+   "programs": [
+    "HVAC-R (Heating, Ventilation, Air Conditioning and Refrigeration)",
+    "Welding Technology",
+    "Electrical and Electronic Systems Technician",
+    "Commercial Truck Driver Training"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Lincoln Technical Institute-South Plainfield",
+   "type": "for-profit school",
+   "city": "South Plainfield",
+   "home_url": "https://www.lincolntech.edu/campus/south-plainfield-nj",
+   "trades_url": "https://www.lincolntech.edu/programs/automotive/automotive-technology",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Machining and Manufacturing",
+    "Electrical/Electronics",
+    "HVAC",
+    "Welding Technology"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Eastwick College-Nutley",
+   "type": "for-profit school",
+   "city": "Nutley",
+   "home_url": "https://eastwick.edu/",
+   "trades_url": "https://eastwick.edu/programs/",
+   "programs": [
+    "Electrician Apprenticeship",
+    "Plumber Apprenticeship",
+    "HVACR Technology",
+    "Welding and Manufacturing Technology"
+   ],
+   "credentials": "apprenticeship / diploma (not further specified)"
+  },
+  {
+   "name": "Pennco Tech-Blackwood",
+   "type": "for-profit school",
+   "city": "Blackwood",
+   "home_url": "https://www.penncotech.edu/",
+   "trades_url": "https://www.penncotech.edu/programs/",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair",
+    "Diesel Technology",
+    "Electrician",
+    "HVACR",
+    "Plumbing & Heating Technology",
+    "Welding"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Aviation Institute of Maintenance-Teterboro",
+   "type": "for-profit school",
+   "city": "Hasbrouck Heights",
+   "home_url": "https://aviationmaintenance.edu/campuses/hasbrouck-heights-nj/",
+   "trades_url": "https://aviationmaintenance.edu/programs/aviation/aviation-maintenance-training/",
+   "programs": [
+    "Aviation Maintenance Technician",
+    "Combination Welding",
+    "Electrical Technician"
+   ],
+   "credentials": "certificate, AOS, AAS"
+  },
+  {
+   "name": "American Institute-Cherry Hill",
+   "type": "for-profit school",
+   "city": "Cherry Hill",
+   "home_url": "https://www.americaninstitute.edu/",
+   "trades_url": "https://www.americaninstitute.edu/electrical-trades-technology/",
+   "programs": [
+    "Electrical Trades Technology"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Universal Technical Institute-Bloomfield",
+   "type": "for-profit school",
+   "city": "Bloomfield",
+   "home_url": "https://www.uti.edu/",
+   "trades_url": "https://www.uti.edu/programs",
+   "programs": [
+    "Automotive Technology",
+    "Diesel & Industrial Technology",
+    "Marine Technician",
+    "Collision Repair & Refinish Technology",
+    "Electrical & Electronics",
+    "Aviation Maintenance Technology",
+    "Fabrication & Machining",
+    "Welding Technology",
+    "HVACR Technician"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Hudson County Community College",
+   "type": "community college",
+   "city": "Jersey City",
+   "home_url": "https://www.hccc.edu/",
+   "trades_url": "https://www.hccc.edu/programs-courses/explore-all-programs.html",
+   "programs": [
+    "Construction Technology (proficiency certificate)",
+    "Construction Management (AAS and academic certificate)",
+    "Advanced Manufacturing (AAS)"
+   ],
+   "credentials": "AAS, certificate"
+  },
+  {
+   "name": "Ocean County Vocational-Technical School",
+   "type": "career/technical center",
+   "city": "Toms River",
+   "home_url": "https://www.ocvts.org/",
+   "trades_url": "https://www.ocvts.org/academies",
+   "programs": [
+    "Construction Trades",
+    "Marine Academy of Technology & Environmental Science"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Union County Vocational Technical School",
+   "type": "career/technical center",
+   "city": "Scotch Plains",
+   "home_url": "https://aps.ucvts.org/",
+   "trades_url": "https://aps.ucvts.org/apprenticeship",
+   "programs": [
+    "Electrical Technology (adult school)"
+   ],
+   "credentials": "not stated on loaded page"
+  },
+  {
+   "name": "Salem Community College",
+   "type": "community college",
+   "city": "Carneys Point",
+   "home_url": "https://www.salemcc.edu/",
+   "trades_url": "https://www.salemcc.edu/admissions/academic-advising",
+   "programs": [
+    "Scientific Glass Technology"
+   ],
+   "credentials": "certificate, associate"
+  },
+  {
+   "name": "Hohokus School of Trade and Technical Sciences",
+   "type": "private trade school",
+   "city": "Paterson",
+   "home_url": "https://eastwick.edu/hohokus-school-of-trades/",
+   "trades_url": "https://eastwick.edu/hohokus-school-of-trades/",
+   "programs": [
+    "Electrician Apprenticeship",
+    "Plumber Apprenticeship",
+    "Welding",
+    "Welding and Manufacturing Technology",
+    "Facilities Management"
+   ]
   }
  ],
  "unions": [
@@ -408,6 +574,30 @@
    "kind": "pre-apprenticeship",
    "url": "https://www.njbctc.org/nj-h2h/online-registration/",
    "description": "Pre-apprenticeship program page on the state council website."
+  },
+  {
+   "name": "IUOE Local 25 (Hoisting & Portable)",
+   "kind": "union local",
+   "trades": "operating engineers IUOE",
+   "city": "Manalapan",
+   "url": "http://iuoe25.org/",
+   "description": "national Union Of Operating Engineers | Local 25 YOU CAN NOW PAY DUES ONLINE WITH AUTHORIZE.NET! CALL ADAM 732-446-6262 EXT 04 Skip to content Toggle navigation Menu & Search Previous Next News Delta"
+  },
+  {
+   "name": "Building and construction trades council, New Jersey (not verified)",
+   "kind": "building trades council",
+   "trades": "building trades",
+   "url": "https://www.njbctc.org/",
+   "description": "New Jersey Building and Construction Trades Council – Over 100 Years Strong! New Jersey Building & Construction Trades Council Over 115 Years Strong! William T. Mullen President David Critchley Secre"
+  },
+  {
+   "name": "IBEW Local 102 JATC",
+   "kind": "JATC / training center",
+   "trades": "electrical IBEW NECA",
+   "city": "Parsippany",
+   "url": "https://www.ibew102.org/training",
+   "description": "page Home Training Center Homepage IBEW Local 102 Training Center Homepage ☰ Menu JATC Homepage Journeyman Training Schedules & Class Sign-up Class Descriptions Online Training Apprenticeship Home App",
+   "how_to_apply": "EW Local 102 Training Center Homepage ☰ Menu JATC Homepage Journeyman Training Schedules & Class Sign-up Class Descriptions Online Training Apprenticeship Home Application Process Earn College Credits Teledata Program Staff and Trustees Tui"
   },
   {
    "name": "CONSTRUCTION CRAFT LABORERS' TRAINING AND APPRENTICESHIP FUND OF NEW JERSEY AND DELAWARE",
