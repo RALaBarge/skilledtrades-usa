@@ -76,5 +76,1361 @@
    "provides": "Federal funding to state and local CTE programs, including trade and technical training at high schools and community colleges."
   }
  ],
- "states": {}
+ "states": {
+  "Alabama": [
+   {
+    "name": "Workforce Alabama - Training Programs",
+    "url": "https://workforce.alabama.gov/job-seekers/training-programs/",
+    "provides": "Workforce Alabama's job-seeker page on training programs, including on-the-job training that lets workers learn skills while earning income from day one.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Workforce Alabama - Apprenticeship",
+    "url": "https://workforce.alabama.gov/job-seekers/apprenticeship/",
+    "provides": "Workforce Alabama's job-seeker page on apprenticeships, described as a way to earn while you learn and a path to nationally recognized credentials.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Workforce Alabama - Workforce Pell Grants",
+    "url": "https://workforce.alabama.gov/educators/workforce-pell-grants/",
+    "provides": "Workforce Pell helps low-income students access short-term, career-focused training such as skilled trades, with prorated federal Pell awards.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Alaska": [
+   {
+    "name": "Alaska DOLWD - Training",
+    "url": "https://labor.alaska.gov/landing-pages/training.html",
+    "provides": "Alaska Department of Labor and Workforce Development's training page listing skills-training and support resources for Alaskans seeking better career opportunities.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Alaska Apprenticeship in Alaska",
+    "url": "https://awib.alaska.gov/apprentice/index.html",
+    "provides": "Alaska Workforce Investment Board's page on Registered Apprenticeship, a structured program combining on-the-job learning with related technical instruction.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Alaska State Training and Employment Program (STEP)",
+    "url": "https://awib.alaska.gov/training-programs/step.htm",
+    "provides": "STEP is a state-funded program from the Unemployment Insurance Trust Fund that supports industry-specific, on-the-job, apprentice and classroom job-linked training.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Arizona": [
+   {
+    "name": "Arizona DES - WIOA / ARIZONA@WORK",
+    "url": "https://des.az.gov/services/employment/workforce-innovation-and-opportunity-act",
+    "provides": "ARIZONA@WORK is Arizona's statewide workforce network, offering job seekers services and resources to find employment.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Arizona DES - Apprenticeship Program",
+    "url": "https://des.az.gov/services/employment/apprenticeship-program",
+    "provides": "The Arizona Apprenticeship Program offers Registered Apprenticeships in many industries, letting participants learn a trade while earning a competitive wage.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Arizona Community College Workforce Scholarship Program",
+    "url": "https://osi.az.gov/news/governor-katie-hobbs-announces-arizona-community-college-workforce-scholarship-program",
+    "provides": "A scholarship created by the Governor with Arizona's community colleges to build a skilled workforce, for students in high-demand workforce programs.",
+    "kind": "scholarship",
+    "note": ""
+   }
+  ],
+  "Arkansas": [
+   {
+    "name": "Arkansas Division of Workforce Services - Job Seekers",
+    "url": "https://dws.arkansas.gov/workforce-services/job-seekers/",
+    "provides": "The state workforce division's job-seeker page says WIOA can offer assistance with tuition for training programs in in-demand occupations.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Arkansas Department of Commerce - Registered Apprenticeship expansion",
+    "url": "https://commerce.arkansas.gov/arkansas-selected-to-lead-national-manufacturing-apprenticeship-expansion-effort/",
+    "provides": "Arkansas was awarded a four-year, $35.8 million U.S. Department of Labor agreement to expand registered apprenticeships in advanced manufacturing.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "ADHE Scholarship Application Management System (SAMS)",
+    "url": "https://sams.adhe.edu/Scholarship",
+    "provides": "The Arkansas Division of Higher Education's system for state scholarship applications, which applicants submit through their local district or college.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   }
+  ],
+  "California": [
+   {
+    "name": "California Apprenticeship Initiative New and Innovative Grant FAQ",
+    "url": "https://www.cccco.edu/wp-content/uploads/2025/12/25-26-cai-faq-rev.-1.21.26-a11y.pdf",
+    "provides": "FAQ for the California Apprenticeship Initiative grant, which funds regional apprenticeship expansion and is applied for by community colleges and K-12 districts, not individuals.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "California EDD - Find Training",
+    "url": "https://edd.ca.gov/en/jobs_and_training/find-training-for-you-and-your-employees/",
+    "provides": "EDD page describing free training and funding opportunities from state and local workforce organizations, framed for employers training their staff.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "California Division of Apprenticeship Standards",
+    "url": "https://www.dir.ca.gov/das/",
+    "provides": "The state Division of Apprenticeship Standards consults with employers to develop a skilled workforce with viable career pathways.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Colorado": [
+   {
+    "name": "Colorado Department of Labor and Employment - Jobs & Training",
+    "url": "https://cdle.colorado.gov/jobs-training",
+    "provides": "CDLE's jobs and training page, with links to job search, local Colorado Workforce Centers, apprenticeships and employment grants.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Apprenticeship Colorado",
+    "url": "https://apprenticeship.colorado.gov/",
+    "provides": "Apprenticeship Colorado oversees Registered Apprenticeship Programs and supports their growth across Colorado.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "CDLE Grants & Programs",
+    "url": "https://cdle.colorado.gov/jobs-training/grants-programs",
+    "provides": "CDLE says it works with local Colorado Workforce Centers to offer programs and grants that assist with training, education, job services and apprenticeships.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Connecticut": [
+   {
+    "name": "Connecticut Office of Workforce Strategy",
+    "url": "https://portal.ct.gov/ows",
+    "provides": "The Office of Workforce Strategy is an executive branch agency that provides strategic guidance on workforce initiatives and investments across the state.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Connecticut Department of Labor - Apprenticeships",
+    "url": "https://portal.ct.gov/dol/divisions/apprenticeships",
+    "provides": "The Connecticut Department of Labor's apprenticeships division page.",
+    "kind": "apprenticeship",
+    "note": ""
+   }
+  ],
+  "Delaware": [
+   {
+    "name": "Delaware Registered Apprenticeship and Training",
+    "url": "https://labor.delaware.gov/divisions/employment-training/apprenticeship-and-training/",
+    "provides": "Delaware's registered apprenticeship page, describing on-the-job training in which apprentices earn income while learning, with pre-apprenticeship options.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Delaware Workforce Pell",
+    "url": "https://labor.delaware.gov/divisions/employment-training/workforce-pell/",
+    "provides": "Workforce Pell expands Pell Grants to shorter, career-focused training of 150 to 599 clock hours for in-demand careers.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Delaware Division of Employment & Training",
+    "url": "https://labor.delaware.gov/divisions/employment-training/",
+    "provides": "The Delaware Department of Labor division page for employment and training, with services for employers and job seekers.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Florida": [
+   {
+    "name": "FloridaCommerce - Workforce Resources",
+    "url": "https://floridajobs.org/workforce-resources",
+    "provides": "The Division of Workforce Services partners with CareerSource Florida and 21 Local Workforce Development Boards to help Floridians gain employment and advance in their careers.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Apprentice Florida",
+    "url": "https://floridajobs.org/workforce-resources/workforce-programs/apprentice-florida",
+    "provides": "Apprentice Florida is a state initiative to expand apprenticeship opportunities throughout the state.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Florida Job Growth Grant Fund",
+    "url": "https://floridajobs.org/business-growth/florida-job-growth-grant-fund",
+    "provides": "An economic development grant program designed to promote public infrastructure and workforce training across the state.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Georgia": [
+   {
+    "name": "TCSG Free Tuition (HOPE Career Grant)",
+    "url": "https://www.tcsg.edu/free-tuition/",
+    "provides": "The HOPE Career Grant, layered on the HOPE Grant, covers all tuition in 18 technical college programs of study for qualified students.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Georgia Department of Labor",
+    "url": "https://dol.georgia.gov/",
+    "provides": "The Georgia Department of Labor provides services to individuals and employers, including unemployment insurance and career center services.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Hawaii": [
+   {
+    "name": "Workforce Development Division (DLIR)",
+    "url": "https://labor.hawaii.gov/wdd/",
+    "provides": "Services for job-seekers include career counseling, HireNet Hawaii support, skills training, job search assistance and a resource center.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Apprenticeship Programs (Workforce Development Division)",
+    "url": "https://labor.hawaii.gov/wdd/job-seekers/apprenticeship/",
+    "provides": "Registered Apprenticeships are long-term training programs that combine on-the-job learning with related training instruction.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Employment and Training Fund (ETF) Micro Program",
+    "url": "https://labor.hawaii.gov/wdd/employers/micro/",
+    "provides": "ETF subsidizes 50% of tuition cost up to $1,000 per course for approved training, paid to employers.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Idaho": [
+   {
+    "name": "Idaho Department of Labor - On-the-Job Training and Job Training",
+    "url": "https://www.labor.idaho.gov/job-seekers/on-the-job-training/",
+    "provides": "Page covering job training, on-the-job training and apprenticeships, with a route to contact a career counselor about training needs.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Idaho Launch",
+    "url": "https://launch.idaho.gov/",
+    "provides": "Training funds are available through a simple application form, with a directory of local and online training options.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Idaho Department of Labor - Apprenticeships",
+    "url": "https://www.labor.idaho.gov/job-seekers/on-the-job-training/apprenticeships/",
+    "provides": "Apprenticeships help employers develop skilled workers and give Idahoans a clear path into stable, in-demand careers.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Illinois": [
+   {
+    "name": "IDES Apprenticeship",
+    "url": "https://ides.illinois.gov/jobs-workforce/apprenticeships.html",
+    "provides": "Apprenticeship is a work-based learning model that combines on-the-job training with relevant classroom instruction.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Illinois Works Pre-Apprenticeship Program (DCEO)",
+    "url": "https://dceo.illinois.gov/illinoisworks/preapprenticeship.html",
+    "provides": "Funds providers to train candidates who will be work-ready for careers in the construction industry and building trades.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Illinois workNet",
+    "url": "https://www.illinoisworknet.com/",
+    "provides": "Lists resources and training providers, and the Eligible Training Provider List that prepares job seekers with skills Illinois employers need.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Indiana": [
+   {
+    "name": "NextLevel Jobs (Indiana DWD)",
+    "url": "https://www.in.gov/dwd/nextleveljobs/",
+    "provides": "The NextLevel Jobs program offers resources to help Hoosiers secure a job, explore new careers or get education and training beyond high school.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Work-based Learning and Apprenticeship (Indiana DWD)",
+    "url": "https://www.in.gov/dwd/owbla/",
+    "provides": "Home page of the Indiana DWD Work-based Learning and Apprenticeship office.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Workforce Ready Grant",
+    "url": "https://www.in.gov/dwd/job-seekers/education-training",
+    "provides": "The Workforce Ready Grant provides tuition-free training in high-paying, in-demand industries.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Iowa": [
+   {
+    "name": "Iowa Workforce Development - Worker Programs",
+    "url": "https://workforce.iowa.gov/jobs/worker-programs",
+    "provides": "IWD hosts programs designed to help Iowans reenter the workforce after becoming dislocated from their employment.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Iowa Office of Apprenticeship",
+    "url": "https://workforce.iowa.gov/apprenticeship",
+    "provides": "Registered Apprenticeship is an industry-driven pathway that helps Iowans advance in their careers and lets them earn while they learn.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Grants and Scholarships (Iowa Workforce Development)",
+    "url": "https://workforce.iowa.gov/opportunities/grants",
+    "provides": "Lists IWD grant programs, including the Career Training Physical Expansion Grant for community colleges and apprenticeship programs in high-demand fields.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Kansas": [
+   {
+    "name": "KANSASWORKS Registered Apprenticeship",
+    "url": "https://ksapprenticeship.org/",
+    "provides": "The Office of Apprenticeship works to grow a robust system that supports apprenticeship stakeholders, sponsors and apprentices.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Youth Job Training Grant (Kansas Commerce)",
+    "url": "https://www.kansascommerce.gov/cdbg/youth-job-training/",
+    "provides": "Provides funding to expand youth employment opportunities, aiming to address the skilled trades shortage.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "KANSASWORKS - Training Providers",
+    "url": "https://www.kansasworks.com/training",
+    "provides": "Training providers can create an account and get approved as a WIOA eligible training provider or Registered Apprenticeship sponsor.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Kentucky": [
+   {
+    "name": "Kentucky Career Center",
+    "url": "https://kcc.ky.gov/Pages/Locations.aspx",
+    "provides": "Kentucky Career Centers offer career services and professional development resources.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Kentucky Registered Apprenticeships (Kentucky Works)",
+    "url": "https://kyworks.ky.gov/Services/Pages/Registered-Apprenticeships.aspx",
+    "provides": "Registered apprenticeship is structured training aligned with employment into high-skilled positions.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Work Ready Kentucky Scholarship (KHEAA)",
+    "url": "https://www.kheaa.com/web/scholarships-grants.faces",
+    "provides": "Helps Kentuckians who have not yet earned an associate degree obtain an industry-recognized certificate, diploma, or associate of applied science degree.",
+    "kind": "scholarship",
+    "note": ""
+   }
+  ],
+  "Louisiana": [
+   {
+    "name": "LAWorks - Workforce Development",
+    "url": "https://www.laworks.net/WorkforceDev/WFD_MainMenu.asp",
+    "provides": "Job seekers can search for a job, create a resume and find training providers.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "LAWorks - Registered Apprenticeship for Job and Skill Seekers",
+    "url": "https://www.laworks.net/Apprenticeship/APP_ForJobSkillSeekers.asp",
+    "provides": "Apprenticeships let you earn college credit toward an associate or bachelor degree while in the program.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Workforce Pell (LAWorks)",
+    "url": "https://www.laworks.net/WorkforcePell/WFP_Introduction.asp",
+    "provides": "Workforce Pell extends the federal Pell Grant to short-term workforce programs.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Maine": [
+   {
+    "name": "Maine CareerCenters (Work Source Maine)",
+    "url": "https://www.myworksourcemaine.gov/",
+    "provides": "Offers virtual one-on-one career coaching sessions and personalized career mapping tools.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Maine Apprenticeship Program (MDOL)",
+    "url": "https://www.maine.gov/apprenticeship/",
+    "provides": "Maine Department of Labor page for the Maine Apprenticeship Program.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Competitive Skills Scholarship Program",
+    "url": "https://www.mainecareercenter.com/cssp.shtml",
+    "provides": "Scholarship for training in the approved CSSP high-wage, in-demand occupations list.",
+    "kind": "scholarship",
+    "note": ""
+   }
+  ],
+  "Maryland": [
+   {
+    "name": "Office of Apprenticeship (MD Labor)",
+    "url": "https://www.labor.maryland.gov/employment/appr/",
+    "provides": "Registered Apprenticeship is a career-building pathway where workers earn a paycheck while gaining hands-on experience and classroom instruction.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Division of Workforce Development and Adult Learning (MD Labor)",
+    "url": "https://www.labor.maryland.gov/employment/",
+    "provides": "Coordinates job seeker services and training, business services, adult learning programs and labor market information.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Massachusetts": [
+   {
+    "name": "Executive Office of Labor and Workforce Development",
+    "url": "https://www.mass.gov/orgs/executive-office-of-labor-and-workforce-development",
+    "provides": "Executive Office of Labor and Workforce Development page listing jobseeker services, MassHire, and registered apprenticeship.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "MassHire Department of Career Services",
+    "url": "https://www.mass.gov/orgs/masshire-department-of-career-services",
+    "provides": "MassHire Department of Career Services page for jobseekers on career services and hiring events.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Division of Apprentice Standards",
+    "url": "https://www.mass.gov/orgs/division-of-apprentice-standards",
+    "provides": "Division of Apprentice Standards page from the Massachusetts state government.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Free Community College (MassReconnect and MassEducate)",
+    "url": "https://www.mass.gov/info-details/free-community-college",
+    "provides": "Free Community College page describing tuition-free community college for eligible Massachusetts residents.",
+    "kind": "grant",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "Massachusetts Registered Apprenticeship",
+    "url": "https://www.mass.gov/massachusetts-registered-apprenticeship",
+    "provides": "Massachusetts Registered Apprenticeship page with information for apprentices and employers.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Michigan": [
+   {
+    "name": "Michigan Workforce Development (LEO)",
+    "url": "https://www.michigan.gov/leo/bureaus-agencies/wd",
+    "provides": "LEO Workforce Development page that links to Michigan's workforce programs, services, and education and training resources.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Michigan Registered Apprenticeships (LEO)",
+    "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/apprenticeships",
+    "provides": "Registered Apprenticeships page from Michigan LEO's Workforce Development bureau.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Michigan Reconnect",
+    "url": "https://www.michigan.gov/reconnect",
+    "provides": "Michigan Reconnect page covering community college for adults, careers, and calculating costs.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "Michigan Achievement Scholarship",
+    "url": "https://www.michigan.gov/mistudentaid/programs/michigan-achievement-scholarship",
+    "provides": "Michigan Achievement Scholarship page from MI Student Aid.",
+    "kind": "scholarship",
+    "note": ""
+   },
+   {
+    "name": "Going PRO Talent Fund",
+    "url": "https://www.michigan.gov/leo/bureaus-agencies/wd/programs-services/going-pro-talent-fund",
+    "provides": "Going PRO Talent Fund page from LEO describing employer-directed training funding.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Minnesota": [
+   {
+    "name": "Apprenticeship Minnesota (Department of Labor and Industry)",
+    "url": "https://apprenticeship.mn.gov/",
+    "provides": "Apprenticeship Minnesota site from the Department of Labor and Industry for registered apprenticeship programs.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "CareerForce (Minnesota DEED workforce system)",
+    "url": "https://careerforce.mn.gov/",
+    "provides": "CareerForce site for Minnesota job seekers and employers, run by DEED.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "Minnesota DEED",
+    "url": "https://mn.gov/deed/",
+    "provides": "Minnesota Department of Employment and Economic Development homepage with job seeker and business programs.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "DEED Training Grant Programs",
+    "url": "https://mn.gov/deed/business/financing-business/training-grant/",
+    "provides": "DEED Training Grant Programs page listing state workforce training grants for businesses.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Mississippi": [
+   {
+    "name": "Mississippi Department of Employment Security (MDES)",
+    "url": "https://www.mdes.ms.gov/",
+    "provides": "MDES homepage with job seeker services, training, and workforce programs.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "MDES Training and Education",
+    "url": "https://www.mdes.ms.gov/i-need-a-job/job-searching-resources/training-education/",
+    "provides": "MDES Training and Education page listing apprenticeship and training resources for job seekers.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Mississippi Apprenticeship Program (MDES)",
+    "url": "https://www.mdes.ms.gov/i-need-a-job/job-searching-resources/training-education/mississippi-apprenticeship-program/",
+    "provides": "MDES Mississippi Apprenticeship Program page under Training and Education.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "MCCB Workforce Pell news release",
+    "url": "https://www.mccb.edu/news/mississippi-deploying-85-million-strengthen-workforce-pell-training",
+    "provides": "Mississippi Community College Board release on $8.5 million to strengthen Workforce Pell short-term training at community colleges.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Missouri": [
+   {
+    "name": "Missouri Department of Higher Education and Workforce Development: Workforce Development",
+    "url": "https://dhewd.mo.gov/workforce-development",
+    "provides": "DHEWD Workforce Development page from the Missouri Department of Higher Education and Workforce Development.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Missouri Registered Apprenticeships",
+    "url": "https://jobs.mo.gov/moapprenticeships",
+    "provides": "Missouri Registered Apprenticeships page on JobsMoGov.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "College Reconnect",
+    "url": "https://dhewd.mo.gov/college-reconnect",
+    "provides": "College Reconnect page from the Missouri Department of Higher Education and Workforce Development.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "Fast Track Workforce Incentive Grant",
+    "url": "https://dhewd.mo.gov/initiatives/fast-track-workforce-incentive-grant",
+    "provides": "Fast Track Workforce Incentive Grant page from the Missouri Department of Higher Education and Workforce Development.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "JobsMoGov (Missouri workforce system)",
+    "url": "https://jobs.mo.gov/",
+    "provides": "JobsMoGov homepage for Missouri job seekers, employers, and the state's employment services.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Montana": [
+   {
+    "name": "Montana DLI Workforce Services Division",
+    "url": "https://wsd.dli.mt.gov/index.html",
+    "provides": "Workforce Services Division page of the Montana Department of Labor and Industry.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Montana Skill Up (Return to the Workforce)",
+    "url": "https://dli.mt.gov/job-seeker/skill-up",
+    "provides": "Montana DLI Skill Up page for job seekers returning to the workforce.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Montana Registered Apprenticeship",
+    "url": "https://apprenticeship.mt.gov/",
+    "provides": "Montana Registered Apprenticeship site run by the Department of Labor and Industry.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Apprenticeship sponsor tax credit information",
+    "url": "https://apprenticeship.mt.gov/sponsor-tax-credit-information",
+    "provides": "Montana Registered Apprenticeship page on tax credits for apprenticeship sponsors.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "Trades Education and Training Tax Credit (MCA 15-30-2359)",
+    "url": "https://leg.mt.gov/bills/mca/title_0150/chapter_0300/part_0230/section_0590/0150-0300-0230-0590.html",
+    "provides": "Montana Code Annotated section 15-30-2359 on the tax credit for trades education and training.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Nebraska": [
+   {
+    "name": "Nebraska Department of Labor",
+    "url": "https://dol.nebraska.gov/",
+    "provides": "Nebraska Department of Labor homepage with reemployment services, worker training, and grant programs.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "NDOL Workforce Development Grant Program",
+    "url": "https://dol.nebraska.gov/ReemploymentServices/WDGP",
+    "provides": "NDOL Workforce Development Grant Program page.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "NDOL Registered Apprenticeship",
+    "url": "https://dol.nebraska.gov/ReemploymentServices/EmployerResources/RegisteredApprenticeship",
+    "provides": "NDOL Registered Apprenticeship page under employer resources.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Nevada": [
+   {
+    "name": "Nevada DETR: About Workforce Development",
+    "url": "https://detr.nv.gov/Page/Workforce_Development",
+    "provides": "Nevada Department of Employment, Training and Rehabilitation page on the state's workforce development system.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Office of Workforce Innovation for a New Nevada (OWINN)",
+    "url": "https://owinn.nv.gov/",
+    "provides": "OWINN homepage listing Nevada workforce resources, including industry-recognized credentials and Workforce Pell.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Nevada Career Enhancement Program (CEP)",
+    "url": "https://detr.nv.gov/Page/Career_Enhancement_Program_(CEP)",
+    "provides": "Nevada DETR page for the Career Enhancement Program.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Nevada Workforce Pell (OWINN)",
+    "url": "https://owinn.nv.gov/workforce-pell/",
+    "provides": "Office of Workforce Innovation for a New Nevada page on Workforce Pell.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "New Hampshire": [
+   {
+    "name": "NH Employment Security Training Programs",
+    "url": "https://www.nhes.nh.gov/job-seekers/training-programs",
+    "provides": "NH Employment Security Training Programs page listing WIOA dislocated worker, adult, and WorkNowNH training options.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "WorkNowNH",
+    "url": "https://www.nhes.nh.gov/job-seekers/training-programs/worknownh",
+    "provides": "NH Employment Security WorkNowNH page under Training Programs.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "NH Employment Security",
+    "url": "https://www.nhes.nh.gov/",
+    "provides": "NH Employment Security homepage with job seeker, employer, and training resources.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "New Jersey": [
+   {
+    "name": "NJ Department of Labor and Workforce Development",
+    "url": "https://www.nj.gov/labor/",
+    "provides": "New Jersey Department of Labor and Workforce Development homepage with career services, apprenticeship, and training resources.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "NJ Apprenticeship Opportunities: Find a Program",
+    "url": "https://www.nj.gov/labor/career-services/apprenticeship/findaprogram.shtml",
+    "provides": "NJ Department of Labor page for finding an apprenticeship program under Become an apprentice.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "NJ Workforce Pell",
+    "url": "https://www.nj.gov/labor/research-info/ori/coei/workforcepell.shtml",
+    "provides": "NJ Department of Labor Workforce Pell page.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "NJ Apprenticeship Tax Credit",
+    "url": "https://www.nj.gov/labor/business-services/apprenticeship-opportunities/tax-credit/index.shtml",
+    "provides": "NJ Department of Labor Apprenticeship Tax Credit page under Business Services.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "New Mexico": [
+   {
+    "name": "NMDWS State Apprenticeship Office",
+    "url": "https://www.dws.nm.gov/en-us/Job-Seekers/Explore-Career-Options/Apprenticeship",
+    "provides": "The State Apprenticeship Office works with Local Workforce Development Boards to help participants with the cost of training, including tuition, training fees and supplies.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "New Mexico Opportunity Scholarship (ReachHigherNM)",
+    "url": "https://www.reachhighernm.com/returning-students/",
+    "provides": "The Opportunity Scholarship covers tuition and course-specific fees for eligible New Mexico residents attending a public college or university, including for a career training certificate.",
+    "kind": "scholarship",
+    "note": ""
+   },
+   {
+    "name": "NM Workforce Pell Application (NM Higher Education Department)",
+    "url": "https://hed.nm.gov/resources-for-schools/nm-workforce-pell-application",
+    "provides": "Workforce Pell helps low-income students access short-term, career-focused training, including skilled trades, without needing a full degree.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "New Mexico Department of Workforce Solutions",
+    "url": "https://www.dws.nm.gov/en-us/",
+    "provides": "The New Mexico Department of Workforce Solutions is a workforce delivery system that prepares New Mexico job seekers to meet the needs of New Mexico businesses.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "New York": [
+   {
+    "name": "NYS Department of Labor - Career Development",
+    "url": "https://dol.ny.gov/career-development",
+    "provides": "NYSDOL's Career Development Services help New Yorkers find a career, with career exploration, resume and interview assistance.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "NYS Department of Labor - Registered Apprenticeship",
+    "url": "https://dol.ny.gov/apprenticeships",
+    "provides": "Department of Labor page on New York State Registered Apprenticeship programs. Page body text was not extracted; description is from the page title.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Excelsior Scholarship Program (HESC)",
+    "url": "https://hesc.ny.gov/find-aid/nys-grants-scholarships/excelsior-scholarship-program",
+    "provides": "Enables students from families earning $125,000 or less per year to attend a state-operated SUNY or CUNY college tuition-free. Not specific to trades programs.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   }
+  ],
+  "North Carolina": [
+   {
+    "name": "NCWorks Online",
+    "url": "https://www.ncworks.gov/vosnet/default.aspx",
+    "provides": "Complete set of employment tools for job seekers in North Carolina, including job search and education and training.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Next NC Scholarship (NC Community Colleges)",
+    "url": "https://www.nccommunitycolleges.edu/students/paying-for-college/options-for-paying-for-college/scholarships/nc-scholarship/",
+    "provides": "This state-funded program provides financial assistance up to $7,500 to eligible students attending a North Carolina community college.",
+    "kind": "scholarship",
+    "note": ""
+   },
+   {
+    "name": "ApprenticeshipNC (NC Community Colleges)",
+    "url": "https://www.nccommunitycolleges.edu/businesses/apprenticeships/",
+    "provides": "ApprenticeshipNC, North Carolina's State Apprenticeship Agency, helps employers use Registered Apprenticeship to build a skilled workforce.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "North Dakota": [
+   {
+    "name": "Job Service North Dakota - Training Opportunities",
+    "url": "https://www.jobsnd.com/job-seeker/training-opportunities",
+    "provides": "Job Service North Dakota says job seekers may qualify for WIOA-funded training and can contact a Job Service workforce center to check eligibility.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Job Service North Dakota - Apprenticeships",
+    "url": "https://www.jobsnd.com/job-seeker/apprenticeships",
+    "provides": "Registered apprenticeship is a structured training program combining paid on-the-job training with related technical instruction in a skilled occupation.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Workforce Training Funding (Job Service North Dakota)",
+    "url": "https://www.jobsnd.com/employer-resources/workforce-training-funding",
+    "provides": "WIOA-funded training assistance, usually paid as reimbursement to employers for extraordinary costs of on-the-job training. Employer-facing page.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "North Dakota New Jobs Training Program",
+    "url": "https://www.jobsnd.com/employer-resources/north-dakota-new-jobs-training-program",
+    "provides": "Funds to help offset the cost of training new employees for primary-sector businesses creating new full-time jobs, as a loan, reimbursement grant or self-financing option. Employer-facing page.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Ohio": [
+   {
+    "name": "Ohio Department of Job & Family Services - Job Seekers",
+    "url": "https://jfs.ohio.gov/job-workforce-services/job-seekers",
+    "provides": "Find programs, training and services designed to help you prepare for work, explore career paths and connect with employment opportunities across Ohio.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "ApprenticeOhio (Ohio JFS)",
+    "url": "https://jfs.ohio.gov/job-workforce-services/job-programs-and-services/apprenticeohio",
+    "provides": "Apprentices earn while they learn the skills they need for a good-paying, in-demand career.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Ohio TechCred (Ohio Development Services Agency)",
+    "url": "https://development.ohio.gov/business/workforce-development/tech-cred",
+    "provides": "Ohio's TechCred Program provides direct financial assistance for training so employers can upskill workers in in-demand technical skills. Employer-facing page.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Oklahoma": [
+   {
+    "name": "Oklahoma Employment Security Commission - Employment and Training Services",
+    "url": "https://oklahoma.gov/oesc/individuals/employment-services.html",
+    "provides": "OESC offices across the state offer free services to help job seekers find and apply for a job and gather information about entering a new career field.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Apprenticeship Oklahoma (CareerTech)",
+    "url": "https://oklahoma.gov/careertech/business-and-industry/apprenticeship-oklahoma.html",
+    "provides": "Apprenticeship combines paid, hands-on work experience with classroom instruction, offering an affordable, debt-free path to a career.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "CareerTech Scholarships, Grants and Financial Aid",
+    "url": "https://oklahoma.gov/careertech/students/scholarships.html",
+    "provides": "Oklahoma CareerTech lists scholarships, grants, long-term loans and work-study assistance for students.",
+    "kind": "scholarship",
+    "note": ""
+   },
+   {
+    "name": "Oklahoma's Promise",
+    "url": "https://okpromise.org/",
+    "provides": "Oklahoma's Promise pays tuition at Oklahoma colleges for eligible students from qualifying families.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   }
+  ],
+  "Oregon": [
+   {
+    "name": "WorkSource Oregon - Job Seeker Services",
+    "url": "https://worksourceoregon.org/jobseekers",
+    "provides": "WorkSource Oregon is a one-stop career center where all services are free. Not a .gov domain; state workforce system portal.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Oregon Apprenticeship",
+    "url": "https://oregonapprenticeship.org/",
+    "provides": "A group of organizations working to connect people to Registered Apprenticeship, with paid training from day one. Not a .gov domain.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Oregon Barber and Hairdresser Grant Program (Oregon Student Aid)",
+    "url": "https://www.oregonstudentaid.gov/grants/oregon-barber-and-hairdresser-grant-program/",
+    "provides": "Provides one-time grants to low-income students attending a participating barber or beauty school in a financial aid eligible program.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Oregon Promise Grant (Oregon Student Aid)",
+    "url": "https://www.oregonstudentaid.gov/grants/oregon-promise-grant/",
+    "provides": "A state grant that helps cover tuition at any Oregon community college for recent high school and GED graduates.",
+    "kind": "grant",
+    "note": "Open to many students, not only trades."
+   }
+  ],
+  "Pennsylvania": [
+   {
+    "name": "PA Department of Labor & Industry - Job Training",
+    "url": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/financial-aid",
+    "provides": "Pennsylvania's Department of Labor & Industry page on job training resources, including online tools to help with your job search.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "PA Department of Labor & Industry - Apprenticeship & Training",
+    "url": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/home----------",
+    "provides": "Apprenticeships are learn-while-you-earn training programs that include classroom and on-the-job training.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "PA Workforce Development Grants",
+    "url": "https://www.pa.gov/agencies/dli/programs-services/workforce-development-home/grant-opportunities",
+    "provides": "Lists workforce development grant and financial aid resources available in Pennsylvania.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Rhode Island": [
+   {
+    "name": "RI Department of Labor & Training - Jobseeker Resources",
+    "url": "https://dlt.ri.gov/individuals/jobseeker-resources-2026",
+    "provides": "Rhode Island offers workforce development solutions and job training programs for people changing careers or starting over.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Rhode Island Promise (CCRI)",
+    "url": "https://www.ccri.edu/ripromise/",
+    "provides": "The Promise scholarship makes associate degree programs at the Community College of Rhode Island tuition-free for Rhode Islanders coming straight out of high school.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "RI Department of Labor & Training - Become an Apprentice",
+    "url": "https://dlt.ri.gov/individuals/become-apprentice",
+    "provides": "Apprenticeships are jobs; applicants apply directly to the employer or sponsor for acceptance.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "Rhode Island Tax Credits (RI DLT)",
+    "url": "https://dlt.ri.gov/employers/rhode-island-tax-credits",
+    "provides": "RI DLT, with Commerce RI and the Division of Taxation, offers employment and training tax credit programs. Employer-facing tax credit page.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "South Carolina": [
+   {
+    "name": "SC Department of Employment and Workforce - Training and Programs",
+    "url": "https://dew.sc.gov/workforce-partners/training-and-programs",
+    "provides": "Page titled Training and Programs on the SC Department of Employment and Workforce site. Body text was not useful beyond office notices.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Lottery Tuition Assistance (SC Technical College System)",
+    "url": "https://www.sctechsystem.edu/students/lottery-tuition-assistance.html",
+    "provides": "Lottery Tuition Assistance is used by over a third of students at the sixteen SC Technical College System colleges, which offer industry-specific training.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "Apprenticeship Carolina (SC Technical College System)",
+    "url": "https://apprenticeshipcarolina.com/",
+    "provides": "A division of the SC Technical College System that partners with colleges and employers to create registered apprenticeship programs.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "South Dakota": [
+   {
+    "name": "SD Department of Labor and Regulation - Training Opportunities for Individuals",
+    "url": "https://dlr.sd.gov/workforce_services/individuals/training_opportunities/default.aspx",
+    "provides": "Learn more about workforce education and training programs available for people looking to upgrade their skills.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "SD DLR - Registered Apprenticeship (Training Opportunities for Individuals)",
+    "url": "https://dlr.sd.gov/workforce_services/individuals/training_opportunities/apprenticeship.aspx",
+    "provides": "Describes Registered Apprenticeships and the Start Today SD Apprenticeship Program.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Build Dakota Scholarship",
+    "url": "https://www.builddakotascholarships.com/",
+    "provides": "Get your technical degree 100% free with the Build Dakota Scholarship by entering a high-demand program at one of four South Dakota technical colleges.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "SD UpSkill Certificate Program",
+    "url": "https://dlr.sd.gov/workforce_services/individuals/sdupskill/default.aspx",
+    "provides": "Get a certificate for little or no cost with tuition help from SD UpSkill, sponsored by the South Dakota Department of Labor and Regulation, in fields such as healthcare and information technology.",
+    "kind": "grant",
+    "note": "Open to many students, not only trades."
+   }
+  ],
+  "Tennessee": [
+   {
+    "name": "TN Department of Labor and Workforce Development - Workforce Services",
+    "url": "https://www.tn.gov/workforce/divisions/workforceservices.html",
+    "provides": "About the Tennessee Department of Labor and Workforce Development's Workforce Services Division.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Tennessee Promise Scholarship",
+    "url": "https://www.collegefortn.org/tennessee-promise-scholarship/",
+    "provides": "Tennessee Promise is a scholarship, mentoring, and community service program that covers tuition and mandatory fees not covered by gift aid.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "TNReconnect",
+    "url": "https://tnreconnect.gov/",
+    "provides": "Explore your interests, see what credits you may already have, discover your options and find a school and how to pay for it.",
+    "kind": "grant",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "ApprenticeshipTN",
+    "url": "https://www.tn.gov/content/tn/apprenticeshiptn.html",
+    "provides": "Apprenticeship is a strategy in which employers develop a skilled workforce and individuals obtain paid work experience, classroom instruction, and a nationally recognized credential.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Texas": [
+   {
+    "name": "Texas Workforce Commission - Job Training",
+    "url": "https://www.twc.texas.gov/services/job-training",
+    "provides": "Find resources on training services and partners, discover in-demand occupations, and explore programs that assist with training costs.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "TWC Apprenticeship Program",
+    "url": "https://www.twc.texas.gov/programs/apprenticeship",
+    "provides": "Learn about TWC's Office of Apprenticeship Program, which supports apprenticeship training through coordination, guidance, planning, technical assistance, and funding supports.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "TWC Skills Development Fund",
+    "url": "https://www.twc.texas.gov/programs/skills-development-fund",
+    "provides": "The Skills Development Fund helps businesses train new workers or upgrade the skills of existing workers, with public community colleges, technical colleges and workforce boards applying.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "TWC Skills for Small Business",
+    "url": "https://www.twc.texas.gov/programs/skills-small-business",
+    "provides": "The Skills for Small Business grant supports businesses with fewer than 100 employees.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "TWC Jobs and Education for Texans (JET) Grant Program",
+    "url": "https://www.twc.texas.gov/programs/jet",
+    "provides": "The JET program provides grants to buy and install equipment for career and technical education (CTE) courses that lead to a license, certificate or post-secondary degree in a high-demand occupation.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Utah": [
+   {
+    "name": "Utah Department of Workforce Services",
+    "url": "https://jobs.utah.gov/",
+    "provides": "The Department of Workforce Services strengthens Utah's communities by supporting the economic stability and quality of our workforce.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Apprenticeship Utah",
+    "url": "https://apprenticeship.utah.gov/",
+    "provides": "The Registered Apprenticeship model allows employers to build a pipeline of highly-skilled workers, with employer incentives and program start guidance.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "Custom Fit Training (Governor's Office of Economic Development)",
+    "url": "https://business.utah.gov/articles/custom-fit-provides-tailored-training/",
+    "provides": "Custom Fit provides flexible and customized training to Utah businesses at an affordable cost, delivered through the state's higher education system.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "Utah On-the-Job Training (OJT) Program",
+    "url": "https://jobs.utah.gov/employer/business/resource/ojt.html",
+    "provides": "The On-the-Job Training (OJT) Program offers reimbursement to employers who provide customized job training to participating employees.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Vermont": [
+   {
+    "name": "Vermont Registered Apprenticeship Program",
+    "url": "https://labor.vermont.gov/workforce-development/apprenticeship",
+    "provides": "Enrolling in a registered apprenticeship program is described as a smart investment in your career.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "VSAC Funding for Job Training",
+    "url": "https://www.vsac.org/workforce-development-funding",
+    "provides": "VSAC programs can reduce or eliminate tuition for eligible students and help pay for college or training in critical job fields.",
+    "kind": "scholarship",
+    "note": ""
+   },
+   {
+    "name": "Vermont Workforce Expansion Program",
+    "url": "https://labor.vermont.gov/workforce-development/wep",
+    "provides": "The Workforce Expansion Program is designed to expand opportunities for workforce education, training and development for Vermonters.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Vermont Department of Labor - Workforce Development",
+    "url": "https://labor.vermont.gov/workforce-development",
+    "provides": "The Department provides workforce development services for both individuals and businesses.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Virginia": [
+   {
+    "name": "Virginia G3 Tuition Assistance",
+    "url": "https://virginiag3.com/",
+    "provides": "G3 assistance can help those who qualify pay for certifications and degrees in high-demand careers from Virginia's Community College.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "Virginia HIRED Apprenticeship Fund",
+    "url": "https://virginiaworks.gov/apprenticeship-fund/",
+    "provides": "The HIRED Apprenticeship Fund offers $4,000 for Registered Apprenticeship Training and $2,000 for Supportive Services (applications were shown as closed on the page).",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "Virginia Works",
+    "url": "https://virginiaworks.gov/",
+    "provides": "Virginia Works is Virginia's workforce development agency, with services for job seekers, employers and workforce partners.",
+    "kind": "workforce-agency",
+    "note": "For employers or training providers, not individuals."
+   },
+   {
+    "name": "Virginia Works - Registered Apprenticeship and On-the-Job Training",
+    "url": "https://virginiaworks.gov/im-an-employer/hire-and-retain/registered-apprenticeship-and-on-the-job-training/",
+    "provides": "Registered Apprenticeship and On-the-Job Training information for employers, including the On-the-Job Training and TAA programs.",
+    "kind": "apprenticeship",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Washington": [
+   {
+    "name": "Washington Employment Security Department - Job Training Support",
+    "url": "https://esd.wa.gov/jobs-and-training/job-training-support",
+    "provides": "Discover benefits the Employment Security Department offers to people in job training.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Washington L&I - Become an Apprentice",
+    "url": "https://lni.wa.gov/licensing-permits/apprenticeship/become-apprentice/",
+    "provides": "A Registered Apprenticeship combines on-the-job training with classroom instruction, all guided by a qualified professional.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "ESD Training Benefits Program",
+    "url": "https://esd.wa.gov/jobs-and-training/job-training-support/training-benefits-program",
+    "provides": "You may qualify for extra weeks of unemployment benefits while you train for a new career.",
+    "kind": "grant",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "WA Grant (Washington College Grant)",
+    "url": "https://wsac.wa.gov/wcg",
+    "provides": "WA Grant gives eligible people more money for more types of education and training beyond high school, including WA Grant for Apprenticeship.",
+    "kind": "grant",
+    "note": ""
+   }
+  ],
+  "Wisconsin": [
+   {
+    "name": "Wisconsin DWD - Employment & Training",
+    "url": "https://dwd.wisconsin.gov/det",
+    "provides": "Services, assistance, and opportunities for individuals seeking employment, through Wisconsin's Department of Workforce Development.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Wisconsin Apprenticeship",
+    "url": "https://dwd.wisconsin.gov/apprenticeship",
+    "provides": "Explains why to choose a Wisconsin Registered Apprenticeship, described on the page as a different kind of classroom.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Wisconsin Fast Forward",
+    "url": "https://wisconsinfastforward.com/",
+    "provides": "The Wisconsin Fast Forward worker training grant program helps address the crucial need for skilled workers in Wisconsin by making funds available for demand-driven workforce training.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "WisTRAIN",
+    "url": "https://dwd.wisconsin.gov/wistrain",
+    "provides": "WisTRAIN is an employer-led workforce training grant program that helps employers fast-track their workforce growth and expertise.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "Wyoming": [
+   {
+    "name": "Wyoming Department of Workforce Services - Find Work or Build Your Career",
+    "url": "https://dws.wyo.gov/individuals/i-need-help-finding-work-or-building-my-career/",
+    "provides": "Covers help for people searching for a job, building new skills, changing careers, or returning to work.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "Wyoming DWS - Apprenticeship Expansion and Pre-Apprenticeship Pathways",
+    "url": "https://dws.wyo.gov/dws-division/business-training-support-unit/apprenticeship/",
+    "provides": "The State Apprenticeship Expansion Formula offers a Sponsor Incentive of up to $10,000 to support development or expansion of registered apprenticeship programs.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "Hathaway Scholarship (University of Wyoming)",
+    "url": "https://www.uwyo.edu/sfa/scholarships/hathaway/index.html/",
+    "provides": "The Hathaway Scholarship rewards eligible Wyoming resident students with scholarship money to attend the University of Wyoming or a Wyoming community college.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "Wyoming Workforce Development Training Fund",
+    "url": "https://dws.wyo.gov/dws-division/business-training-support-unit/workforce-development-training-fund/",
+    "provides": "The Workforce Development Training Fund page lists funding opportunities for businesses and how to register to apply for WDTF grants.",
+    "kind": "grant",
+    "note": "For employers or training providers, not individuals."
+   }
+  ],
+  "West Virginia": [
+   {
+    "name": "WorkForce West Virginia - Workforce Development",
+    "url": "https://workforcewv.org/job-seeker/workforce-development/",
+    "provides": "WorkForce West Virginia offers support for people of all ages and backgrounds through programs like WIOA.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "WorkForce West Virginia - Apprenticeships",
+    "url": "https://workforcewv.org/job-seeker/find-a-job/apprenticeships/",
+    "provides": "An apprenticeship lets you gain real-world skills while earning a wage at the same time.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "West Virginia Invests Grant",
+    "url": "https://www.cfwv.com/financial-aid/wv-invests-grant/",
+    "provides": "West Virginia Invests covers tuition to any state Community and Technical College for a certificate or associate's degree in an in-demand, high-paying field.",
+    "kind": "grant",
+    "note": ""
+   },
+   {
+    "name": "West Virginia Future Workforce Grant",
+    "url": "https://www.cfwv.com/financial-aid/workforcegrant/",
+    "provides": "The Future Workforce Grant can help with enrolling in a certificate, industry recognized credential, or other skill development program.",
+    "kind": "grant",
+    "note": "Open to many students, not only trades."
+   }
+  ],
+  "District of Columbia": [
+   {
+    "name": "DC Department of Employment Services - Occupational Skills Training",
+    "url": "https://does.dc.gov/service/occupational-skills-training",
+    "provides": "Regardless of your goals for getting additional training and education, Employment Specialists can help you find what you are looking for.",
+    "kind": "workforce-agency",
+    "note": ""
+   },
+   {
+    "name": "DC DOES - Apprenticeships",
+    "url": "https://does.dc.gov/service/apprenticeships",
+    "provides": "Apprenticeships combine on-the-job training with classroom instruction, teaching workers the practical and theoretical aspects of highly skilled occupations.",
+    "kind": "apprenticeship",
+    "note": ""
+   },
+   {
+    "name": "DC Tuition Assistance Grant (DCTAG)",
+    "url": "https://osse.dc.gov/dctag",
+    "provides": "The DCTAG page lists eligibility, maximum income and eligible institutions for the DC Tuition Assistance Grant.",
+    "kind": "scholarship",
+    "note": "Open to many students, not only trades."
+   },
+   {
+    "name": "DC DOES - Grant Opportunities",
+    "url": "https://does.dc.gov/page/grant-opportunities",
+    "provides": "The grants support innovative workforce development solutions for District residents to attain and sustain employment.",
+    "kind": "grant",
+    "note": ""
+   }
+  ]
+ }
 }

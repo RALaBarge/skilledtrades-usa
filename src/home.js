@@ -74,7 +74,7 @@
     if (sf.length) {
       card.appendChild(el('h3', { text: 'Help getting started in ' + s.state }));
       card.appendChild(el('ul', { 'class': 'cards' }, sf.map(function (f) {
-        return el('li', {}, [el('h3', { text: f.name }), el('p', { text: f.provides }), el('p', {}, [link('Official page', f.url, 'btn alt')])]);
+        return el('li', {}, [el('h3', { text: f.name }), el('p', { text: f.provides }), f.note ? el('p', { 'class': 'sub note', text: f.note }) : null, el('p', {}, [link('Official page', f.url, 'btn alt')])]);
       })));
     }
     var tbl = stateTable(s.state);
