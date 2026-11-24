@@ -52,7 +52,7 @@ const retroSnippet = readFileSync(join(root, 'shared', 'retro-snippet.html'), 'u
 const retroSwitch = readFileSync(join(root, 'shared', 'retro-switch.html'), 'utf8').trim();
 const colleges = JSON.parse(readFileSync(join(root, 'data', 'colleges.json'), 'utf8'))
   .map((c) => Object.fromEntries(Object.entries(c).filter(([k, v]) => v != null && v !== '' && k !== 'notes' && k !== 'verified')));
-const occ = JSON.parse(readFileSync(join(root, 'data', 'michigan', 'occupations.json'), 'utf8'));
+const occ = JSON.parse(readFileSync(join(root, 'data', 'national', 'occupations.json'), 'utf8'));
 const safe = (v) => JSON.stringify(v).replace(/<\//g, '<\\/');
 const js = (f) => readFileSync(join(root, 'src', f), 'utf8').replace(/<\/script/gi, '<\\/script');
 const fill = {

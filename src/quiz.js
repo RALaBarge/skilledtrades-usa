@@ -1,6 +1,6 @@
 /* "Find your fit" quiz: questions and scoring. Plain JS, no libraries, runs in Node and in a browser.
    Input: answers {setting, social, physical, focus[], brain[], avoid[], training, priority[]} and the occupation
-   list in data.json (each with tags, path, wage, growth, ai, miWorkers, family, deepDive).
+   list in data.json (each with tags, path, wage, growth, ai, workers, family, deepDive).
    Output: the best matches, each with the reasons it matched.
    The quiz never asks about gender, race, family or appearance. */
 (function (root) {
@@ -51,7 +51,7 @@
       data: data,
       wageRank: pctRank(data.map(function (o) { return o.wage; })),
       growthRank: pctRank(data.map(function (o) { return o.growth; })),
-      workersRank: pctRank(data.map(function (o) { return o.miWorkers; }))
+      workersRank: pctRank(data.map(function (o) { return o.workers; }))
     };
   }
 
@@ -91,11 +91,11 @@
     (a.priority || []).forEach(function (p) {
       if (p === 'pay') { pts += 3 * ctx.wageRank(o.wage); }
       if (p === 'growth') { pts += 3 * ctx.growthRank(o.growth); if (o.growth != null && o.growth >= 8) why.push('growing (+' + o.growth + '% projected)'); }
-      if (p === 'manyJobs') { pts += 3 * ctx.workersRank(o.miWorkers); }
+      if (p === 'manyJobs') { pts += 3 * ctx.workersRank(o.workers); }
       if (p === 'safeFromAI') { if (o.ai === 'low') { pts += 3; why.push('hard to hand to software'); } else if (o.ai === 'medium') pts += 1; else if (o.ai === 'high') pts -= 1; }
     });
     // Prefer trades a student can actually find work in, and the ones this guide covers in depth.
-    pts += 4 * ctx.workersRank(o.miWorkers) + (o.deepDive ? 2 : 0);
+    pts += 4 * ctx.workersRank(o.workers) + (o.deepDive ? 2 : 0);
     return { pts: pts, why: why, blocked: blocked };
   }
 
@@ -110,7 +110,7 @@
         var s = score(o, answers, ctx, relax);
         if (!s.blocked) scored.push({ o: o, pts: s.pts, why: s.why });
       });
-      scored.sort(function (x, y) { return y.pts - x.pts || (y.o.miWorkers || 0) - (x.o.miWorkers || 0); });
+      scored.sort(function (x, y) { return y.pts - x.pts || (y.o.workers || 0) - (x.o.workers || 0); });
       var out = [], perFam = {};
       for (var i = 0; i < scored.length && out.length < n; i++) {
         var f = scored[i].o.family;

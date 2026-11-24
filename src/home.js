@@ -86,7 +86,7 @@
       var o = OCC.filter(function (x) { return x.soc === r.soc; })[0] || {};
       var kids = [el('h3', { text: r.name }), el('p', { 'class': 'meta', text: r.family }), el('p', { text: r.blurb })];
       if (r.because.length) kids.push(el('ul', { 'class': 'why' }, r.because.map(function (b) { return el('li', { text: b }); })));
-      kids.push(el('p', { 'class': 'sub note', text: 'Way in: ' + (PATHS[o.path] || 'Varies') + '. Michigan median pay ' + money(o.wage) + '.' }));
+      kids.push(el('p', { 'class': 'sub note', text: 'Way in: ' + (PATHS[o.path] || 'Varies') + '. US median pay ' + money(o.wage) + '.' }));
       ul.appendChild(el('li', {}, [el('div', { 'class': 'card' }, kids)]));
     });
     box.appendChild(ul);
@@ -108,7 +108,7 @@
   uniq(OCC.map(function (o) { return o.family; })).sort().forEach(function (f) { fam.appendChild(el('option', { value: f, text: f })); });
   uniq(OCC.map(function (o) { return o.path; })).forEach(function (p) { pth.appendChild(el('option', { value: p, text: PATHS[p] || p })); });
   var sorted = OCC.filter(function (o) { return !/all other|^miscellaneous|^helpers/i.test(o.name); })
-    .sort(function (a, b) { return (b.deepDive ? 1 : 0) - (a.deepDive ? 1 : 0) || (b.miWorkers || 0) - (a.miWorkers || 0); });
+    .sort(function (a, b) { return (b.deepDive ? 1 : 0) - (a.deepDive ? 1 : 0) || (b.workers || 0) - (a.workers || 0); });
   function renderBrowse(reset) {
     if (reset) shown = 24;
     var s = q.value.trim().toLowerCase();
@@ -121,7 +121,7 @@
     cards.textContent = '';
     rows.slice(0, shown).forEach(function (o) {
       cards.appendChild(el('li', {}, [el('h3', { text: o.name }), el('p', { 'class': 'sub', text: o.family }), el('p', { text: o.blurb }),
-        el('p', { 'class': 'sub', text: (PATHS[o.path] || 'Varies') + ' · MI median ' + money(o.wage) + (o.growth != null ? ' · ' + (o.growth > 0 ? '+' : '') + o.growth + '% growth' : '') })]));
+        el('p', { 'class': 'sub', text: (PATHS[o.path] || 'Varies') + ' · US median ' + money(o.wage) + (o.growth != null ? ' · ' + (o.growth > 0 ? '+' : '') + o.growth + '% growth' : '') })]));
     });
     count.textContent = 'Showing ' + Math.min(shown, rows.length) + ' of ' + rows.length + ' careers';
     more.hidden = shown >= rows.length;

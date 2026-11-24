@@ -1,7 +1,7 @@
 // Sanity tests for the quiz scoring. Run: node docs/trades/quiz-prototype/test.js
 const path = require('path');
 const Q = require('../src/quiz.js');
-const data = require('../data/michigan/occupations.json');
+const data = require('../data/national/occupations.json');
 const ctx = Q.prepare(data);
 let fail = 0;
 const ok = (c, m) => { console.log((c ? 'PASS ' : 'FAIL ') + m); if (!c) fail = 1; };
