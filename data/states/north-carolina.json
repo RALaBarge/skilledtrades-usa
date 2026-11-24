@@ -1116,6 +1116,23 @@
    "city": "Charlotte",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Carolinas AGC",
+   "kind": "contractor association",
+   "trades": "general construction",
+   "url": "https://www.cagc.org/",
+   "description": "Carolinas construction trade association; offers licensing board courses to members and runs industry events.",
+   "how_to_apply": "Membership via the CAGC site."
+  },
+  {
+   "name": "I.U.E.C. Local No. 80 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Garner",
+   "url": "https://www.iueclocal80.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iueclocal80.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

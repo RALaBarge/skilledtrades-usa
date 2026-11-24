@@ -324,6 +324,29 @@
     "Engineering Technology - Precision Machining",
     "Engineering Technology - Welding and Fabricating"
    ]
+  },
+  {
+   "name": "Alpena Community College",
+   "type": "community college",
+   "home_url": "https://www.alpenacc.edu/",
+   "trades_url": "https://www.alpenacc.edu/",
+   "programs": [
+    "Electrical Systems Technology",
+    "Machine Tool Technology",
+    "Welding",
+    "Concrete Technology",
+    "Utility Technology",
+    "Auto Service"
+   ]
+  },
+  {
+   "name": "West Shore Community College",
+   "type": "community college",
+   "home_url": "https://www.westshore.edu/",
+   "trades_url": "https://www.westshore.edu/",
+   "programs": [
+    "Manufacturing Technologies pathway: electrical systems, HVAC, machine operation and mechanics, welding"
+   ]
   }
  ],
  "unions": [
@@ -707,6 +730,24 @@
    "kind": "building trades council",
    "url": "https://www.michiganbuildingtrades.org/",
    "description": "Home Javascript must be enabled for the correct page display Home About Our Issues Trades Directory News Current News Past Issues MUST Apprenticeship Contact Here are candidates endorsed for the Nov."
+  },
+  {
+   "name": "I.U.E.C. Local No. 36 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Detroit",
+   "url": "https://www.iueclocal36detroit.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iueclocal36detroit.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 85 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Lansing",
+   "url": "https://www.iuec85.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iuec85.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

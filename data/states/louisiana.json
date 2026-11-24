@@ -134,6 +134,15 @@
     "Heavy Equipment Operator",
     "Machinist"
    ]
+  },
+  {
+   "name": "Louisiana Delta Community College",
+   "type": "community college",
+   "home_url": "https://www.ladelta.edu/",
+   "trades_url": "https://www.ladelta.edu/",
+   "programs": [
+    "Automotive career pathways (GM partnership news item)"
+   ]
   }
  ],
  "unions": [
@@ -247,6 +256,32 @@
    "city": "Oakdale",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "South East Louisiana Building & Construction Trades Council, AFL-CIO",
+   "kind": "regional building trades council (southeast Louisiana, not statewide)",
+   "trades": "carpenters & piledrivers; electricians; iron workers; plasterers & cement masons; plumbers/pipefitters/A-C mechanics; sheet metal; elevator constructors (IUEC Local 16)",
+   "url": "https://selabctc.org/",
+   "description": "Represents skilled building trades workers in all construction crafts; affiliate pages describe each trade, e.g. Carpenters & Piledrivers Local 1846 (carpentry prep courses, math and science).",
+   "how_to_apply": "Request Information and Contact Us pages on site"
+  },
+  {
+   "name": "SOUTH CENTRAL LABORERS TRAINING AND APPRENTICESHIP FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Torbert",
+   "url": "http://www.scltf.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.scltf.org/lander) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 16 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Metairie",
+   "url": "https://www.iueclocal16.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal16.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -267,6 +302,15 @@
    ],
    "url": "https://wwwcfprd.doa.louisiana.gov/boardsandcommissions/viewBoard.cfm?board=28",
    "description": "Examines and licenses plumbers under R.S. 37:1361 (board page on the state boards directory)."
+  },
+  {
+   "name": "Louisiana State Licensing Board for Contractors",
+   "trades": [
+    "General contracting",
+    "Plumbing"
+   ],
+   "url": "https://www.lslbc.louisiana.gov/",
+   "description": "Online contractor licensing portal; statutory-change notice lists plumbing among covered areas."
   }
  ],
  "funding": [
@@ -306,6 +350,27 @@
    "kind": "grant",
    "provides": "The Incumbent Worker Training Program offers Customized Training and Small Business Employee Training (SBET) for employers' workers.",
    "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "state": "LA",
+   "name": "TOPS (Taylor Opportunity Program for Students)",
+   "url": "https://www.osfa.la.gov/tops",
+   "provider": "Louisiana Office of Student Financial Assistance (LOSFA)",
+   "kind": "scholarship",
+   "provides": "Merit-based scholarship administered by LOSFA, per the LOSFA homepage. The TOPS section lists the Opportunity, Performance, Honors, Excellence and Tech award levels.",
+   "how_to_apply": "See the TOPS Applying and TOPS Status pages linked from the TOPS section.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "state": "LA",
+   "name": "Louisiana GO Grant",
+   "url": "https://www.osfa.la.gov/",
+   "provider": "Louisiana Office of Student Financial Assistance (LOSFA)",
+   "kind": "grant",
+   "provides": "Need-based scholarship administered by LOSFA, per the LOSFA homepage.",
+   "audience": "individual",
    "status": "unknown"
   }
  ]

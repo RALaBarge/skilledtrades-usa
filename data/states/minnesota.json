@@ -326,6 +326,18 @@
     "SCTCC, AgCentric, & Advanced Manufacturing Center Host HS Teachers",
     "Carpentry, Electrical, Plumbing finish project"
    ]
+  },
+  {
+   "name": "Century College",
+   "type": "community college",
+   "home_url": "https://www.century.edu/",
+   "trades_url": "https://www.century.edu/",
+   "programs": [
+    "Welding",
+    "Solar",
+    "Manufacturing"
+   ],
+   "credentials": "short-term credit and non-credit certificates"
   }
  ],
  "unions": [
@@ -743,6 +755,24 @@
    "city": "Virginia",
    "url": "https://map.carpenters.org/?councils=council-4085",
    "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "CONSTRUCTION LABORERS' EDUCATION, TRAINING, & APPRENTICESHIP FUND OF MINNESOTA AND NORTH DAKOTA",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Lino Lakes",
+   "url": "https://www.ltcmn.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.ltcmn.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 9 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Saint Paul",
+   "url": "https://www.local9.com",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.local9.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

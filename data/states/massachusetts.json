@@ -163,6 +163,18 @@
    "programs": [
     "Carpentry (Pre-Apprenticeship)"
    ]
+  },
+  {
+   "name": "Bristol Community College",
+   "type": "community college",
+   "home_url": "https://www.bristolcc.edu/",
+   "trades_url": "https://www.bristolcc.edu/learnatbristol/careertechnicaleducation/index.html",
+   "programs": [
+    "HVAC and Heat Pump",
+    "Welding",
+    "Precision Machining"
+   ],
+   "credentials": "Welding: 18-week free program; OSHA 10-hour construction and MA Hot Work certification; AWS testing optional. HVAC: free grant-funded program with paid on-the-job training at a local employer."
   }
  ],
  "unions": [
@@ -467,6 +479,24 @@
    "kind": "building trades council",
    "url": "https://massbuildingtrades.org/",
    "description": "Directory of Apprenticeships Union craftspeople learn their trade through state-of-the-art apprenticeship programs."
+  },
+  {
+   "name": "NEW ENGLAND LABORERS' TRAINING TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Hopkinton",
+   "url": "https://nelaborerstraining.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://nelaborerstraining.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 41 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "West Springfield",
+   "url": "https://www.iuec41.com",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iuec41.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -547,6 +577,42 @@
    "kind": "tax credit",
    "provides": "State page describing the Massachusetts EITC, a credit for people with low or moderate earned income, with credit amounts listed by filing status.",
    "eligibility": "Credit for people with low or moderate earned income, per the page overview.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "state": "MA",
+   "name": "MASSGrant",
+   "url": "https://www.mass.edu/osfa/programs/massgrant.asp",
+   "provider": "Massachusetts Department of Higher Education, Office of Student Financial Assistance",
+   "kind": "grant",
+   "provides": "Need-based state grant funded by the Legislature for undergraduates in Massachusetts enrolled in an approved public or independent college, university, school of nursing or other approved institution.",
+   "eligibility": "U.S. citizen, permanent legal resident or eligible non-citizen who has lived in Massachusetts at least one year with intent to remain. Full-time enrollment (12 or more credits) in a certificate, associate's or bachelor's program; no prior bachelor's degree; demonstrated financial need; satisfactory academic progress; not in default on student loans (per page).",
+   "how_to_apply": "Complete the FAFSA, or the Massachusetts Application for State Financial Aid (MASFA) if ineligible for the FAFSA.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "state": "MA",
+   "name": "MassEducate (Free Community College)",
+   "url": "https://www.mass.edu/osfa/programs/masseducate.asp",
+   "provider": "Massachusetts Department of Higher Education",
+   "kind": "tuition-free program",
+   "provides": "Community college tuition and fees are free for students through MassReconnect (ages 25 and older) and MassEducate.",
+   "eligibility": "Must complete the FAFSA or MASFA, not have a bachelor's degree or equivalent, meet satisfactory academic progress, and meet residency and citizenship requirements. A student who already holds an associate degree may use MassEducate for one additional associate degree (per page).",
+   "how_to_apply": "Complete the FAFSA, or the MASFA if ineligible for the FAFSA (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "state": "MA",
+   "name": "In-Demand Scholarship",
+   "url": "https://www.mass.edu/osfa/programs/indemand.asp",
+   "provider": "Massachusetts Department of Higher Education",
+   "kind": "scholarship",
+   "provides": "Scholarships for residents pursuing programs of study that meet Massachusetts workforce needs. Created in the FY2024 budget. Recipients are expected to remain in the Commonwealth to pursue their careers.",
+   "eligibility": "Admitted undergraduate or graduate student who meets citizenship and residency requirements, completes the FAFSA or MASFA each year, and is pursuing a program designated by the state labor market reports (per page).",
+   "how_to_apply": "Complete the FAFSA, or the MASFA if ineligible (per page).",
    "audience": "individual",
    "status": "unknown"
   }

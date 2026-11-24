@@ -1972,6 +1972,15 @@
    "kind": "building trades council",
    "url": "https://cabuildingtrades.org/",
    "description": "Homepage - CA Building Trades Skip To Content State Building and Construction Trades Council of California About Key Issues News Affiliations Videos Compliance Representing nearly half a million construction workers including 65,000 apprentices."
+  },
+  {
+   "name": "I.U.E.C. Local No. 8 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "San Francisco",
+   "url": "https://www.iuec8.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec8.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

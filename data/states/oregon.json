@@ -629,6 +629,23 @@
    "kind": "building trades council",
    "url": "https://www.oregonbuildingtrades.com/",
    "description": "Learn More Becoming an Apprentice Without a dime of public money, we have developed the best trained, most highly skilled construction workforce in the world, right here in Oregon."
+  },
+  {
+   "name": "Ironworkers Local 29",
+   "kind": "union local",
+   "trades": "ironworker (structural steel, reinforcing ironwork, rigging)",
+   "url": "https://ironworkers29.org/en",
+   "description": "Ironworkers Local 29 serving all of Oregon and Southwest Washington; four-year registered apprenticeship with four weeks of classroom and shop instruction per year.",
+   "how_to_apply": "Use the Become An Ironworker / Hire An Apprentice pages on the site."
+  },
+  {
+   "name": "I.U.E.C. Local No. 23 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Portland",
+   "url": "https://www.iueclocal23.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal23.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

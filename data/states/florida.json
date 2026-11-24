@@ -671,6 +671,24 @@
    "url": "https://www.smart-union.org/sm-local-435/",
    "apprenticeship_url": "https://www.smart-union.org/sm-local-435/",
    "description": "Whether you’re looking to start your apprenticeship or you’re an experienced journeyperson hoping to further your career, join us today."
+  },
+  {
+   "name": "I.U.E.C. Local No. 49 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Jacksonville",
+   "url": "https://www.iueclocal49.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal49.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 71 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Hollywood",
+   "url": "https://www.iuec71.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec71.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

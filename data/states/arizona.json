@@ -417,6 +417,15 @@
    "kind": "pre-apprenticeship",
    "url": "https://azbuildingtrades.org/preapprenticeships-apprenticeships/",
    "description": "Veterans: Helmets to Hardhats AZBTC has partnered with the Helmets to Hardhats program to connect veterans to opportunities with AZBTC-affiliated apprenticeship programs."
+  },
+  {
+   "name": "ARIZONA LABORERS' TRAINING AND APPRENTICESHIP TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Casa Grande",
+   "url": "https://www.arizonalts.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.arizonalts.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
   }
  ],
  "licensing": [
@@ -461,6 +470,18 @@
    "kind": "tax credit",
    "provides": "The Arizona Commerce Authority lists business programs including tax credits and incentives, such as the Angel Investment tax credit for investors in certified small businesses.",
    "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "state": "AZ",
+   "name": "Arizona Promise Program",
+   "url": "https://www.azregents.edu/programs/arizona-promise-program",
+   "provider": "Arizona Board of Regents",
+   "kind": "scholarship",
+   "provides": "A guaranteed scholarship program for eligible low-income Arizona students.",
+   "eligibility": "Arizona resident and high school graduate with a 2.5 GPA or higher; must receive a federal Pell Grant award; must enroll at Arizona State University, Northern Arizona University or the University of Arizona (per page).",
+   "how_to_apply": "Complete the FAFSA by April 1 of senior year to receive priority consideration (per page).",
+   "audience": "individual",
    "status": "unknown"
   }
  ]

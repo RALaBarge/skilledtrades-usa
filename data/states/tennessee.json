@@ -969,6 +969,15 @@
    "city": "La Vergne",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "I.U.E.C. Local No. 30 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Memphis",
+   "url": "https://www.iueclocal30.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal30.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -982,6 +991,12 @@
    ],
    "url": "https://www.tn.gov/commerce/regboards/contractors.html",
    "description": "State board that licenses general contractors and home improvement contractors and issues limited electrician and plumber licenses in Tennessee."
+  },
+  {
+   "name": "TN Board for Licensing Contractors",
+   "trades": "electrical (limited licensed electrician); plumbing (limited licensed plumber); general contractors",
+   "url": "https://www.tn.gov/commerce/regboards/contractors.html",
+   "description": "Licenses general contractors, home improvement contractors, limited licensed electricians (LLE) and limited licensed plumbers (LLP) under TCA Title 62 Chapter 6."
   }
  ],
  "funding": [

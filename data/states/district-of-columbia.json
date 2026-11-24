@@ -150,6 +150,27 @@
    "url": "https://www.ibew70.us/",
    "apprenticeship_url": "https://www.ibew70.us/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/apprenticehours.cfm",
    "description": "IBEW Local 70."
+  },
+  {
+   "name": "Ironworkers Local 5",
+   "kind": "union local",
+   "trades": [
+    "ironworking"
+   ],
+   "url": "https://www.ironworkers5.org/en",
+   "description": "Ironworkers Local Union 5 (chartered 1901), about 1,000 members in DC, Delaware, Maryland, Virginia and West Virginia; site describes a training facility and a nationally accredited apprenticeship program.",
+   "how_to_apply": "Use the Apprenticeship & Training section of the site; phone (301) 599-0960 is listed on the page."
+  },
+  {
+   "name": "International Union of Operating Engineers Local 99",
+   "kind": "union local",
+   "trades": [
+    "operating engineers",
+    "building systems operation"
+   ],
+   "url": "https://www.iuoelocal99.org/",
+   "description": "IUOE Local 99: members operate and maintain boilers, chillers, generators and automated building systems; site has a Training & Education section.",
+   "how_to_apply": "Use the Training & Education section of the site."
   }
  ],
  "licensing": [

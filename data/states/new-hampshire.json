@@ -113,6 +113,18 @@
     "Commercial Driver Training Certificate"
    ],
    "credentials": "Associate in Science; certificate"
+  },
+  {
+   "name": "Keene State College",
+   "type": "public four-year",
+   "city": "Keene",
+   "home_url": "https://www.keene.edu/",
+   "trades_url": "https://www.keene.edu/construction/",
+   "programs": [
+    "Construction Management (bachelor's)",
+    "Construction Safety Science (bachelor's)"
+   ],
+   "credentials": "bachelor's degree"
   }
  ],
  "unions": [

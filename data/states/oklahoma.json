@@ -448,6 +448,33 @@
    "kind": "building trades council",
    "url": "https://www.okbctc.org/",
    "description": "--> Oklahoma Building Trades Unions top of page Home About Trades Events Dollars Against Diabetes Apprenticeship Day Directory Contact More Use tab to navigate through the menu items."
+  },
+  {
+   "name": "SOUTHWEST LABORERS' TRAINING AND APPRENTICESHIP FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Springer",
+   "url": "https://swltaf.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://swltaf.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 63 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Oklahoma City",
+   "url": "https://www.iueclocal63.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal63.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 83 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Broken Arrow",
+   "url": "https://www.iueclocal83.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal83.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -492,6 +519,12 @@
    ],
    "url": "https://oklahoma.gov/labor/licensing.html",
    "description": "Oklahoma Department of Labor licensing hub listing occupational licenses and permits it administers."
+  },
+  {
+   "name": "Oklahoma Department of Labor, Licensing",
+   "trades": "welder; boiler and pressure vessel; elevator and escalator; alarm/fire sprinkler",
+   "url": "https://oklahoma.gov/labor/licensing.html",
+   "description": "Licensing programs include Welder Licensing and Inspection, Boiler and Pressure Vessels Licensing, and Elevator and Escalator Licensing (online applications)."
   }
  ],
  "funding": [

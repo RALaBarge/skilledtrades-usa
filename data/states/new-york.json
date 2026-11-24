@@ -1010,6 +1010,105 @@
    "kind": "pre-apprenticeship",
    "url": "https://www.nybuildingtrades.com/helmetstohardhats.aspx",
    "description": "NY Helmets to Hardhats has a team of dedicated professionals dedicated to your transition."
+  },
+  {
+   "name": "LABORERS' LOCAL 91 EDUCATIONAL AND TRAINING FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Niagara Falls",
+   "url": "https://www.laborerslocal91.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://laborerslocal91.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "LABORERS' LOCAL #17 TRAINING AND EDUCATIONAL TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Newburgh",
+   "url": "https://www.liuna17.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.liuna17.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "MASON TENDERS TRAINING CENTER",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Long Island City",
+   "url": "http://www.mttf.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.mttf.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "GENERAL BUILDING LABORERS' LOCAL #66 TRAINING FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Melville",
+   "url": "http://www.laborers66.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.local66.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "PAVERS & ROAD BUILDERS DISTRICT COUNCIL APPRENTICESHIP, SKILL IMPROVEMENT AND SAFETY FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Whitestone",
+   "url": "https://www.laborerslocal1010.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.laborerslocal1010.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "LABORERS' LOCAL 754",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Spring Valley",
+   "url": "http://www.local754.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.local754.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "LABORERS' LOCAL 147 TRAINING FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Bronx",
+   "url": "http://www.sandhogs147.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.sandhogs147.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 27 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Rochester",
+   "url": "https://www.iueclocal27.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal27.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 35 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Albany",
+   "url": "https://www.iueclocal35.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal35.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 62 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Syracuse",
+   "url": "https://www.iueclocal62.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal62.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 138 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Poughkeepsie",
+   "url": "https://www.local138.com",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.local138.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

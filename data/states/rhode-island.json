@@ -18,6 +18,19 @@
     "Engineering, Electrical - Associate in Science in Engineering"
    ],
    "credentials": "Welding: non-credit program, OSHA 10, AWS D1.1 performance qualification testing. CNC: Phase 1 earns 13 college credits and OSHA-10. Construction Trades Readiness: certificate. Also AS and certificate awards in advanced manufacturing; AS in engineering electrical."
+  },
+  {
+   "name": "Community College of Rhode Island (CCRI)",
+   "type": "public two-year",
+   "home_url": "https://www.ccri.edu/",
+   "trades_url": "https://ccri.edu/workforce/programs/",
+   "programs": [
+    "Electrical Apprenticeship (related instruction)",
+    "Fast Track to CNC Manufacturing",
+    "Welding",
+    "Maritime trades (Electric Boat partner training: electrical, pipefitting, rigging, sheet metal, paint)"
+   ],
+   "credentials": "workforce certificates and apprenticeship related instruction"
   }
  ],
  "unions": [
@@ -108,6 +121,23 @@
    "kind": "building trades council",
    "url": "https://www.buildingtradesri.com/",
    "description": "Rhode Island Building & Construction Trades Council Rhode Island Building & Construction Trades Council News News Home Who We Are Our Proud History Calendar Careers Why Work Union Apprenticeships Veterans in the Trades Interested in a Building Trades Career?"
+  },
+  {
+   "name": "Rhode Island Construction Training Academy (RICTA)",
+   "kind": "apprenticeship training school",
+   "trades": "carpentry, craft laborer, electrical, HVAC/refrigeration",
+   "url": "https://ricta.org/Courses",
+   "description": "Apprenticeship Training Program with core curriculum plus carpentry (4 yr), craft laborer (2 yr), electrical (4 yr, 576 related-training hours) and HVAC/refrigeration courses.",
+   "how_to_apply": "Class schedule and details on the Courses page; apprenticeship orientation video linked."
+  },
+  {
+   "name": "I.U.E.C. Local No. 39 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Warwick",
+   "url": "https://www.iueclocal39.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal39.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -144,6 +174,12 @@
    ],
    "url": "https://dbr.ri.gov/contractors-and-building-design-fire-professionals-board-accountancy/contractors-registration-and",
    "description": "Board that registers and licenses contractors in Rhode Island and publishes its enforcement orders."
+  },
+  {
+   "name": "RI Department of Labor and Training, Office of Apprenticeship",
+   "trades": "all registered apprenticeship trades",
+   "url": "https://dlt.ri.gov/regulation-and-safety/apprenticeship",
+   "description": "Registers apprenticeship programs that meet federal and state requirements, protects apprentices, and issues nationally recognized credentials."
   }
  ],
  "funding": [

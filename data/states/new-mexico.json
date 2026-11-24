@@ -108,6 +108,17 @@
     "Plumbing"
    ],
    "credentials": "certificate; AAS"
+  },
+  {
+   "name": "Luna Community College",
+   "type": "community college",
+   "home_url": "https://www.luna.edu/",
+   "trades_url": "https://www.luna.edu/",
+   "programs": [
+    "Welding",
+    "Automotive",
+    "Building Technologies"
+   ]
   }
  ],
  "unions": [
@@ -291,6 +302,42 @@
    "kind": "building trades council",
    "url": "https://nmbuildingtrades.org/",
    "description": "That’s because the NMBCTC and its affiliated member unions demonstrates a concerted commitment to world class skills development and training; coupled with a 21st century labor/management model that is founded upon the principles of performance, pride, cooperation and partnership."
+  },
+  {
+   "name": "UA Local 412 (Plumbers, Pipefitters and HVAC apprenticeship)",
+   "kind": "union apprenticeship program",
+   "trades": "plumbing, pipefitting, HVAC",
+   "city": "Albuquerque",
+   "url": "https://www.ualocal412.org/",
+   "description": "Local 412 apprenticeship program trains and places pipefitters, plumbers and HVAC workers.",
+   "how_to_apply": "Call 505-256-9257; the office says the apprenticeship program is not accepting new applications and suggests calling the last week of each month to check whether applications will be handed out the following month."
+  },
+  {
+   "name": "NEW MEXICO LABORERS TRAINING TRUST FUND TRAINING SITE",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Albuquerque",
+   "url": "http://www.nmlaborerstraining.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.nmlaborerstraining.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "NEW MEXICO LABORERS' TRAINING TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Albuquerque",
+   "url": "http://www.nmlaborerstraining.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.nmlaborerstraining.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 131 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Albuquerque",
+   "url": "https://www.iueclocal131.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal131.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

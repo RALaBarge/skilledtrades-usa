@@ -321,6 +321,12 @@
    ],
    "url": "https://llr.sc.gov/elevators/",
    "description": "SC LLR office that regulates elevators and amusement rides."
+  },
+  {
+   "name": "SC LLR Contractor's Licensing Board",
+   "trades": "general and mechanical contractors; sprinkler and boiler safety",
+   "url": "https://llr.sc.gov/clb/",
+   "description": "Licenses general and mechanical contractors, burglar/fire alarm and sprinkler contractors, and runs the boiler safety program."
   }
  ],
  "funding": [

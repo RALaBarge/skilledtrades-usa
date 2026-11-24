@@ -440,6 +440,13 @@
    "city": "Denver",
    "url": "https://map.carpenters.org/?councils=council-4140",
    "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Colorado Building and Construction Trades Council, AFL-CIO",
+   "kind": "state building trades council",
+   "trades": "multi-craft building trades",
+   "url": "https://www.cbctc.com/wp/",
+   "description": "Comprised of 24 craft local unions representing 14 national and international unions; site has About Us, Apprenticeship, Right to Organize and Prevailing Wage sections. The /wp/apprenticeship/ path returned 404."
   }
  ],
  "licensing": [

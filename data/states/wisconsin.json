@@ -596,6 +596,33 @@
    "city": "LaCrosse",
    "url": "https://map.carpenters.org/?councils=council-4085",
    "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "WISCONSIN LABORERS' APPRENTICESHIP AND TRAINING FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "DeForest",
+   "url": "https://liunawisconsin.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://liunawisconsin.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 15 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "New Berlin",
+   "url": "https://www.iuec15.com",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec15.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 132 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Madison",
+   "url": "https://www.iuec132.com",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec132.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

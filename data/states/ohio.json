@@ -787,6 +787,69 @@
    "kind": "pre-apprenticeship",
    "url": "https://ohiostatebtc.org/apprenticeship-readiness/",
    "description": "Apprenticeship Readiness | Ohio State Building & Construction Trades Council Skip to content Toggle Navigation HOME ABOUT EXECUTIVE BOARD MEMBERS APPRENTICESHIP APPRENTICESHIP READINESS MILITARY/VETERAN NEWS ISSUES PREVAILING WAGE PROJECT LABOR AGREEMENTS “RIGHT TO WORK” CONTACT US Loading..."
+  },
+  {
+   "name": "LABORERS' LOCAL 500",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Toledo",
+   "url": "https://www.laborerslocal500.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.laborerslocal500.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "OHIO LABORERS' TRAINING AND APPRENTICESHIP TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Howard",
+   "url": "http://www.oltc.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://oltc.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 11 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Cincinnati",
+   "url": "https://www.iuec11.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iuec11.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 17 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Cleveland",
+   "url": "https://www.iuec17.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec17.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 37 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Columbus",
+   "url": "https://www.iueclocal37.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal37.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 44 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Toledo",
+   "url": "https://www.iuec44.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec44.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 45 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Kent",
+   "url": "https://www.iueclocal45.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal45.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -799,6 +862,12 @@
    ],
    "url": "https://com.ohio.gov/divisions-and-programs/industrial-compliance",
    "description": "Regulates boilers and elevators/escalators and publishes the Ohio Building, Mechanical and Plumbing code rules; hosts the boiler contractor list and elevator database."
+  },
+  {
+   "name": "Ohio Department of Commerce, Division of Industrial Compliance",
+   "trades": "elevator contractors and mechanics",
+   "url": "https://com.ohio.gov/divisions-and-programs/industrial-compliance",
+   "description": "Industrial Compliance division handles licensing and compliance, including elevator contractor and mechanic licenses."
   }
  ],
  "funding": [

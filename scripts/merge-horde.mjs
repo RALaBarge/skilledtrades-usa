@@ -56,13 +56,28 @@ for (const f of ['union_ibew_ua.json', 'union_other.json', 'union_carp_iron_smar
   }
 }
 
+// Browserbox retry output (rows carry their own state code)
+for (const f of readdirSync(horde).filter((n) => /^retry_[A-Z]\.json$/.test(n))) {
+  const d = read(f);
+  for (const [list, bucket, kk] of [['colleges', 'colleges', 'name'], ['orgs', 'unions', 'url'], ['licensing', 'licensing', 'url']]) {
+    for (const r of d[list] || []) {
+      const a = code(r.state);
+      const url = list === 'colleges' ? r.trades_url : r.url;
+      if (!a || r.verified === false || !isHttp(url) || !r.name || (list === 'colleges' && searchy(url))) { stats.dropped++; continue; }
+      if (!once(a, list === 'colleges' ? 'c' : list === 'orgs' ? 'u' : 'l', list === 'orgs' ? r.url : kk === 'name' ? r.name : r.url, list === 'orgs' ? r.name : '')) continue;
+      out[a][bucket].push(clean(r, ['verified', 'notes', 'state']));
+    }
+  }
+}
+
 // funding
 const fed = [];
-for (const f of readdirSync(horde).filter((n) => /^funding_F\d+\.json$/.test(n))) {
-  const d = read(f);
-  for (const it of d.items || []) {
+const retryFunding = readdirSync(horde).filter((n) => /^retry_[A-Z]\.json$/.test(n)).flatMap((n) => (read(n).funding || []));
+const fundingSets = readdirSync(horde).filter((n) => /^funding_F\d+\.json$/.test(n)).map((n) => read(n).items || []).concat([retryFunding]);
+for (const items of fundingSets) {
+  for (const it of items) {
     if (it.verified === false || !isHttp(it.url) || !it.name) { stats.dropped++; continue; }
-    const scope = String(it.scope || '');
+    const scope = it.scope ? String(it.scope) : it.state ? 'state:' + (STATES[String(it.state).toUpperCase()] || it.state) : '';
     const m = /^state:(.+)$/.exec(scope);
     const row = clean(it, ['verified', 'scope']);
     if (m) {

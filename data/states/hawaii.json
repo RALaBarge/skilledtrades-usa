@@ -185,6 +185,40 @@
    "city": "Honolulu",
    "url": "https://map.carpenters.org/?councils=council-4053",
    "description": "Local union listed on the Hawaii Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Hawaii Building and Construction Trades Council",
+   "kind": "state building trades council",
+   "trades": "multi-craft building trades",
+   "url": "https://www.hbctc.org/",
+   "description": "Council site (hawaiibuildingtrades.org redirects here) states its goal of creating job opportunities and a healthy construction industry for its members and affiliates; sections include Supported Projects and Government Affairs."
+  },
+  {
+   "name": "LIUNA Training of HAWAII",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Wailuku",
+   "url": "https://hiltp.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://hiltp.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "HAWAII LABORERS' APPRENTICESHIP AND TRAINING TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Pearl City",
+   "url": "https://hiltp.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://hiltp.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 126 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Honolulu",
+   "url": "https://www.iuec126.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec126.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

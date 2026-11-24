@@ -868,6 +868,23 @@
    "kind": "building trades council",
    "url": "https://www.texasbuildingtrades.org/",
    "description": "APPRENTICESHIP: GET PAID TO LEARN A TRADE, DEBT-FREE 8/4/2026 Top Headlines MC3 ELIMINATES BARRIERS TO ENTERING A TRADE New research shows unionized construction crews are more cost-efficient, on-time TEXAS HAS LEVERAGE WITH DATA CENTERS."
+  },
+  {
+   "name": "IBEW Local 520",
+   "kind": "union local",
+   "trades": "electrical",
+   "url": "https://ibew520.org/",
+   "description": "Electrical workers' union covering Central Texas; offers an apprenticeship program and licensed-electrician membership.",
+   "how_to_apply": "Apply for the Apprenticeship program via the site."
+  },
+  {
+   "name": "I.U.E.C. Local No. 81 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "San Antonio",
+   "url": "https://www.iueclocal81.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal81.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

@@ -389,6 +389,24 @@
    "city": "West Patapsco Baltimore",
    "url": "https://map.carpenters.org/?councils=council-4085",
    "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Baltimore-DC Metro Building Trades Council",
+   "kind": "regional building trades council (Maryland and District of Columbia)",
+   "trades": "multi-craft building trades",
+   "city": "Baltimore",
+   "url": "https://bdcbt.org/",
+   "description": "Covers Maryland and DC. Apprenticeship section includes Why a Union Apprenticeship, Apprenticeship Readiness and MC3 pre-apprenticeship, and Raising the Bar and Pre-Apprenticeship pages.",
+   "how_to_apply": "https://bdcbt.org/apprenticeship/how-to-get-started/"
+  },
+  {
+   "name": "I.U.E.C. Local No. 10 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Lanham",
+   "url": "https://www.iueclocal10.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iueclocal10.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

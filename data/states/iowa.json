@@ -584,6 +584,25 @@
    "kind": "pre-apprenticeship",
    "url": "https://iowastatebuildingtrades.org/programs/",
    "description": "Pre-Apprenticeship Programs Pre-Apprenticeship and Apprenticeship Readiness Programs Many of our affiliated unions have pre-apprenticeship programs."
+  },
+  {
+   "name": "IBEW Local 231",
+   "kind": "union local",
+   "trades": [
+    "Electrical"
+   ],
+   "city": "Sioux City",
+   "url": "https://www.ibew231.org/",
+   "description": "Chartered May 10, 1916 in Sioux City, Iowa; serves electrical workers across the tri-state area. Site has an Apprenticeship section (not read)."
+  },
+  {
+   "name": "IOWA LABORERS' EDUCATION AND TRAINING FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Des Moines",
+   "url": "https://iowalaborers.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://iowalaborers.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
   }
  ],
  "licensing": [

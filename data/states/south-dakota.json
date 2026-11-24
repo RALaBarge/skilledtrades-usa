@@ -101,6 +101,18 @@
    "programs": [
     "Construction Management (B.S.)"
    ]
+  },
+  {
+   "name": "Southeast Technical College",
+   "type": "public two-year",
+   "city": "Sioux Falls",
+   "home_url": "https://southeasttech.edu/",
+   "trades_url": "https://southeasttech.edu/",
+   "programs": [
+    "Welding Certificate (named in campus events listing)",
+    "Construction trades (named in news item)"
+   ],
+   "credentials": "certificate"
   }
  ],
  "unions": [
@@ -295,6 +307,12 @@
    ],
    "url": "https://dlr.sd.gov/plumbing/",
    "description": "State commission within the Department of Labor and Regulation that licenses plumbers and plumbing contractors. Plumbing licenses renew annually, with forms for specialty and annual renewal."
+  },
+  {
+   "name": "South Dakota Electrical Commission (DLR)",
+   "trades": "electrical",
+   "url": "https://dlr.sd.gov/electrical/",
+   "description": "Administers state electrical wiring laws, inspections and electrician licensure; the online licensing portal was still being built when the page was read."
   }
  ],
  "funding": [

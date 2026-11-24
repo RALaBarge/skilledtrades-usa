@@ -332,6 +332,22 @@
    ],
    "url": "https://labor.alaska.gov/lss/",
    "description": "Inspects and certifies boilers and pressure vessels, elevators and amusement rides, and inspects electrical and plumbing installations. Issues certificates of fitness to people doing electrical work."
+  },
+  {
+   "name": "Alaska Division of Corporations, Business and Professional Licensing (CBPL) - Professional Licensing",
+   "trades": [
+    "all occupational boards (index)"
+   ],
+   "url": "https://www.commerce.alaska.gov/web/cbpl",
+   "description": "Division home page loaded; the Professional Licensing section lists occupations that require a license and their boards. The electrical and mechanical board pages were not reopened."
+  },
+  {
+   "name": "Alaska DMV commercial driver license (CDL)",
+   "trades": [
+    "commercial driving"
+   ],
+   "url": "https://dmv.alaska.gov/home/",
+   "description": "DMV home page loaded; it links CDL items (CDL military waiver forms, non-domiciled CLP/CDL issuance changes) and a credential-services page. The CDL credential page itself was not opened."
   }
  ],
  "funding": [

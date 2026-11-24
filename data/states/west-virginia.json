@@ -493,6 +493,15 @@
    "kind": "building trades council",
    "url": "https://www.wvtrades.org/",
    "description": "Earn While You Learn As an apprentice with the WV Building & Construction Trades, you get paid to learn your trade."
+  },
+  {
+   "name": "WEST VIRGINIA LABORERS' TRAINING TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Mineral Wells",
+   "url": "https://www.wvccl.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.wvccl.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
   }
  ],
  "licensing": [

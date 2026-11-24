@@ -1,7 +1,183 @@
 {
  "code": "CT",
  "state": "Connecticut",
- "colleges": [],
+ "colleges": [
+  {
+   "name": "Connecticut State Community College Asnuntuck",
+   "type": "community college",
+   "city": "Enfield",
+   "home_url": "https://ctstate.edu/locations/asnuntuck",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Technology Studies Certificate: Advanced Manufacturing Machine Technology Option 2",
+    "Technology Studies Certificate: Robotics and Mechatronics Technician Option",
+    "Technology Studies Certificate: Welding and Fabrication Technologies Option",
+    "Technology Studies Degree: Advanced Manufacturing Technology Option 2",
+    "Technology Studies Degree: Robotics and Mechatronics Technician Option",
+    "Technology Studies Degree: Welding and Fabrication Option",
+    "CDL Workforce Training (with New England Tractor Trailer Training School)"
+   ],
+   "credentials": "A.S.; Certificate"
+  },
+  {
+   "name": "Connecticut State Community College Capital",
+   "type": "community college",
+   "city": "Hartford",
+   "home_url": "https://ctstate.edu/locations/capital",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Construction Management Certificate",
+    "Construction Management Degree",
+    "Eversource Lineworker Program",
+    "Foundations of Manufacturing"
+   ],
+   "credentials": "A.S.; Certificate; Non-Credit: Workforce Development"
+  },
+  {
+   "name": "Connecticut State Community College Gateway",
+   "type": "community college",
+   "city": "New Haven",
+   "home_url": "https://ctstate.edu/locations/gateway",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Automotive Technology Certificate: Comprehensive Automotive Repair and Service (CARS) Option",
+    "Automotive Technology Certificate: Electric Vehicle Technician Option",
+    "Automotive Technology Certificate: General Automotive Service Option",
+    "Automotive Technology Certificate: General Motors Automotive Service Option",
+    "Automotive Technology Certificate: Honda Express Technician",
+    "Automotive Technology Certificate: Honda Professional Auto Career Training (PACT) Option",
+    "Automotive Technology Degree: Automotive Management Option",
+    "Automotive Technology Degree: Comprehensive Automotive Repair and Service (CARS) Option",
+    "Automotive Technology Degree: General Motors Automotive Service Education Program (ASEP) Option",
+    "Automotive Technology Degree: Honda Professional Automotive Career Training (PACT) Option",
+    "Skill-Up For Manufacturing",
+    "Technology Studies Degree: Manufacturing Engineering Technology Option"
+   ],
+   "credentials": "A.S.; Certificate"
+  },
+  {
+   "name": "Connecticut State Community College Housatonic",
+   "type": "community college",
+   "city": "Bridgeport",
+   "home_url": "https://ctstate.edu/locations/housatonic",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "CNC Machining Technology 1-2-3",
+    "Metrology Technology",
+    "Eversource Lineworker Program",
+    "Introduction to Utility Gas and Electric",
+    "Manufacturing Processes",
+    "Technology Studies Certificate: Advanced Manufacturing Machine Technology Option 2",
+    "Technology Studies Degree: Advanced Manufacturing Technology Option 2"
+   ],
+   "credentials": "A.S.; Certificate; Non-Credit: Continuing Education; Non-Credit: Workforce Development"
+  },
+  {
+   "name": "Connecticut State Community College Manchester",
+   "type": "community college",
+   "city": "Manchester",
+   "home_url": "https://ctstate.edu/locations/manchester",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Technology Studies Certificate: Precision Manufacturing Option",
+    "Technology Studies Degree: Manufacturing Engineering Technology Option",
+    "Technology Studies Degree: Precision Manufacturing Option"
+   ],
+   "credentials": "A.S.; Certificate"
+  },
+  {
+   "name": "Connecticut State Community College Middlesex",
+   "type": "community college",
+   "city": "Middletown",
+   "home_url": "https://ctstate.edu/locations/middlesex",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Plastic Injection Molding Technology Degree",
+    "Plastic Injection Molding Technology Certificate",
+    "Skill-Up For Manufacturing",
+    "Technology Studies Certificate: Advanced Manufacturing Machine Technology Option 2",
+    "Technology Studies Degree: Advanced Manufacturing Technology Option 2",
+    "Technology Studies Degree: Manufacturing Engineering Technology Option"
+   ],
+   "credentials": "A.S.; Certificate"
+  },
+  {
+   "name": "Connecticut State Community College Naugatuck Valley",
+   "type": "community college",
+   "city": "Waterbury",
+   "home_url": "https://ctstate.edu/locations/naugatuck-valley",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Automotive Technology Certificate: Advanced Engine Performance Option",
+    "Automotive Technology Certificate: Automotive Fundamentals Option",
+    "Automotive Technology Certificate: Comprehensive Automotive Repair and Service (CARS) Option",
+    "Automotive Technology Certificate: General Automotive Service Option",
+    "Automotive Technology Degree: Automotive Management Option",
+    "Automotive Technology Degree: Comprehensive Automotive Repair and Service (CARS) Option",
+    "Technology Studies Certificate: Advanced Manufacturing Machine Technology Option 1",
+    "Technology Studies Degree: Advanced Manufacturing Technology Option 1",
+    "Technology Studies Degree: Manufacturing Engineering Technology Option",
+    "Welding"
+   ],
+   "credentials": "A.S.; Certificate; Non-Credit: Workforce Development"
+  },
+  {
+   "name": "Connecticut State Community College Norwalk",
+   "type": "community college",
+   "city": "Norwalk",
+   "home_url": "https://ctstate.edu/locations/norwalk",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Architecture: Construction Technology Certificate",
+    "Construction Technology Career Program",
+    "Technology Studies Certificate: Architectural CAD Option"
+   ],
+   "credentials": "A.S.; Certificate"
+  },
+  {
+   "name": "Connecticut State Community College Quinebaug Valley",
+   "type": "community college",
+   "city": "Danielson",
+   "home_url": "https://ctstate.edu/locations/quinebaug-valley",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Eastern CT Manufacturing Pipeline Program",
+    "Technology Studies Certificate: Advanced Manufacturing Machine Technology Option 1",
+    "Technology Studies Certificate: Mechatronics Automation Technician Option",
+    "Technology Studies Degree: Advanced Manufacturing Technology Option 1",
+    "Technology Studies Degree: Mechatronics Automation Technician Option"
+   ],
+   "credentials": "A.S.; Certificate; Non-Credit: Workforce Development"
+  },
+  {
+   "name": "Connecticut State Community College Three Rivers",
+   "type": "community college",
+   "city": "Norwich",
+   "home_url": "https://ctstate.edu/locations/three-rivers",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Architecture: Construction Technology Certificate",
+    "Construction Technology Career Program",
+    "Eastern CT Manufacturing Pipeline Program",
+    "Technology Studies Degree: Manufacturing Engineering Technology Option"
+   ],
+   "credentials": "A.S.; Certificate; Non-Credit: Workforce Development"
+  },
+  {
+   "name": "Connecticut State Community College Tunxis",
+   "type": "community college",
+   "city": "Farmington",
+   "home_url": "https://ctstate.edu/locations/tunxis",
+   "trades_url": "https://ctstate.edu/academics/programs",
+   "programs": [
+    "Electrician License Renewal Training",
+    "Technology Studies Certificate: Advanced Manufacturing Machine Technology Option 2",
+    "Technology Studies Certificate: Architectural CAD Option",
+    "Technology Studies Degree: Advanced Manufacturing Technology Option 2"
+   ],
+   "credentials": "A.S.; Certificate"
+  }
+ ],
  "unions": [
   {
    "name": "IBEW Local 90 (NECA & Local 90 Joint Apprenticeship Training Committee)",
@@ -134,6 +310,41 @@
    "city": "Groton",
    "url": "https://map.carpenters.org/?councils=council-4064",
    "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Connecticut State Building Trades Council",
+   "kind": "state building trades council",
+   "trades": "multi-craft building trades",
+   "url": "https://csbtc.org/",
+   "description": "State council site with CSBT Training Institute link, Union and Government Affairs sections; a news item covers Building Trades at Torrington High School.",
+   "how_to_apply": "Phone 1-860-200-1545 (site header)"
+  },
+  {
+   "name": "Connecticut State Building Trades Training Institute (CT Building Trades Training Institute, BTTI)",
+   "kind": "pre-apprenticeship / construction readiness training institute",
+   "trades": "construction readiness; women's intro to welding",
+   "city": "Hartford",
+   "url": "https://csbtti.org/",
+   "description": "Founded by the CT State Building Trades Council in 2022 to prepare CT residents for registered union apprenticeship. Site offers Readiness Training, a Women Can Weld introduction to welding, and a Union Apprenticeship page.",
+   "how_to_apply": "20-28 Sargeant Street, Hartford, CT 06105; 1-860-200-1545; recruitment@csbtti.org; Register page on site"
+  },
+  {
+   "name": "NEW ENGLAND LABORERS' TRAINING TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Pomfret Center",
+   "url": "https://nelaborerstraining.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://nelaborerstraining.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 91 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "East Hartford",
+   "url": "https://www.iueclocal91.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal91.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -152,6 +363,23 @@
    ],
    "url": "https://portal.ct.gov/DCP/Occupational-and-Professional-Division/Occupational-Boards",
    "description": "State occupational board under the Department of Consumer Protection that oversees electrical work licensing; listed on the DCP Occupational Boards page."
+  },
+  {
+   "name": "Connecticut DMV commercial driver licensing (CDL)",
+   "trades": [
+    "commercial driving"
+   ],
+   "url": "https://portal.ct.gov/dmv",
+   "description": "CT DMV portal loaded; lists CDL medical certification submission and commercial driver manuals."
+  },
+  {
+   "name": "Plumbing and Piping Work Examining Board (Connecticut DCP)",
+   "trades": [
+    "plumbing",
+    "piping"
+   ],
+   "url": "https://portal.ct.gov/DCP/Occupational-and-Professional-Division/Occupational-Boards",
+   "description": "DCP occupational boards page loaded and lists a Plumbing and Piping Work Examining Board, along with the Heating, Piping, Cooling and Sheet Metal Work Examining Board and the Electrical Work Examining Board. The board-specific page was not opened."
   }
  ],
  "funding": [

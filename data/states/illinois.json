@@ -412,6 +412,57 @@
     "Automotive Service Specialist (AUM C526)",
     "Diesel Equipment Technology (DIESL D535)"
    ]
+  },
+  {
+   "name": "Richland Community College",
+   "type": "community college",
+   "home_url": "https://www.richland.edu/",
+   "trades_url": "https://www.richland.edu/",
+   "programs": [
+    "CDL training (facility expansion news item; program list not read)"
+   ]
+  },
+  {
+   "name": "Triton College",
+   "type": "community college",
+   "home_url": "https://www.triton.edu/",
+   "trades_url": "https://www.triton.edu/",
+   "programs": [
+    "Electric Vehicle (EV) Charger Installation and Maintenance (certificate)"
+   ],
+   "credentials": "Certificate"
+  },
+  {
+   "name": "College of DuPage",
+   "type": "community college",
+   "city": "Glen Ellyn",
+   "home_url": "https://www.cod.edu/",
+   "trades_url": "https://www.cod.edu/",
+   "programs": [
+    "Gas Metal Arc Welding Job Readiness Certificate"
+   ],
+   "credentials": "Job readiness certificate"
+  },
+  {
+   "name": "Joliet Junior College",
+   "type": "community college",
+   "city": "Joliet",
+   "home_url": "https://www.jjc.edu/",
+   "trades_url": "https://www.jjc.edu/",
+   "programs": [
+    "Architecture, Manufacturing & Automotive pathway",
+    "Non-credit truck driving",
+    "Non-credit forklift training"
+   ]
+  },
+  {
+   "name": "Southwestern Illinois College",
+   "type": "community college",
+   "home_url": "https://www.swic.edu/",
+   "trades_url": "https://www.swic.edu/",
+   "programs": [
+    "Welding Technology"
+   ]
   }
  ],
  "unions": [
@@ -2432,6 +2483,24 @@
    "url": "https://www.smart-union.org/smart-local-265-lays-foundation-for-the-next-112-years/",
    "apprenticeship_url": "https://www.smart-union.org/smart-local-265-lays-foundation-for-the-next-112-years/",
    "description": "In early September, SMART Local 265 (DuPage County, Illinois) held a ribbon-cutting and grand opening ceremony for its new union hall and training center during the local’s annual picnic and car show."
+  },
+  {
+   "name": "ILLINOIS LABORERS' AND CONTRACTORS JOINT APPRENTICESHIP AND TRAINING PROGRAM",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Marion",
+   "url": "https://www.illaborers.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.illaborers.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 55 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Peoria",
+   "url": "https://www.iueclocal55.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal55.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

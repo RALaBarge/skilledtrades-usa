@@ -424,6 +424,24 @@
    "city": "Louisville",
    "url": "https://map.carpenters.org/?councils=council-4014",
    "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "KENTUCKY LABORERS' JOINT APPRENTICESHIP AND TRAINING TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Lawrenceburg",
+   "url": "http://www.kltf.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://kltf.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 20 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Louisville",
+   "url": "https://www.iueclocal20.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal20.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -438,5 +456,17 @@
    "description": "Division of the Department of Housing, Buildings and Construction that licenses and handles renewals and continuing education for electricians. Phone (502) 573-1797, elec@ky.gov."
   }
  ],
- "funding": []
+ "funding": [
+  {
+   "state": "KY",
+   "name": "Kentucky Educational Excellence Scholarship (KEES)",
+   "url": "https://www.kheaa.com/web/scholarships-grants.faces#kees",
+   "provider": "Kentucky Higher Education Assistance Authority (KHEAA)",
+   "kind": "scholarship",
+   "provides": "Scholarship for Kentucky students who earn at least a 2.75 GPA each year they attend a certified Kentucky high school. Students can earn more for ACT/SAT scores and AP, IB or Cambridge (CAI) test results.",
+   "eligibility": "Kentucky resident, U.S. citizen, national or permanent resident, with a 2.75 GPA each year at a certified Kentucky high school. A KEES award ends after 8 semesters of KEES funding, 5 years after high school graduation, or on earning a bachelor's degree (per page).",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
 }

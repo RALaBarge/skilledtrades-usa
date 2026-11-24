@@ -329,6 +329,15 @@
    "city": "Russellville",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "I.U.E.C. Local No. 79 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "North Little Rock",
+   "url": "https://www.iueclocal79.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal79.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

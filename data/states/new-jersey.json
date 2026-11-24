@@ -408,6 +408,24 @@
    "kind": "pre-apprenticeship",
    "url": "https://www.njbctc.org/nj-h2h/online-registration/",
    "description": "Pre-apprenticeship program page on the state council website."
+  },
+  {
+   "name": "CONSTRUCTION CRAFT LABORERS' TRAINING AND APPRENTICESHIP FUND OF NEW JERSEY AND DELAWARE",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Monroe County",
+   "url": "https://trainliunanjde.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://trainliunanjde.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "NEW JERSEY CONSTRUCTION CRAFT LABORERS' APPRENTICESHIP PROGRAM",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Monroe County",
+   "url": "https://www.njlaborers.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.njlaborers.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
   }
  ],
  "licensing": [

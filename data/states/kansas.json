@@ -379,6 +379,18 @@
    "provides": "Explore the jobs, resumes, or training programs in your area.",
    "audience": "individual",
    "status": "unknown"
+  },
+  {
+   "state": "KS",
+   "name": "Kansas Promise Act Scholarship",
+   "url": "https://www.kansasregents.org/students/student_financial_aid/promise-act-scholarship",
+   "provider": "Kansas Board of Regents",
+   "kind": "scholarship",
+   "provides": "Scholarship for students in specified high-wage, high-demand or critical-need industry programs at eligible Kansas community colleges and technical colleges, Washburn Institute of Technology and certain private institutions. Two-year degrees and certificates only. Recipients agree to live and work in Kansas for two consecutive years after graduation.",
+   "eligibility": "U.S. citizen and Kansas resident. Household income of $100,000 or less for a family of one or two, $150,000 or less for a family of three, and for larger households $150,000 plus $4,800 per additional member. Must also meet one of the high school graduation or residency conditions listed on the page.",
+   "how_to_apply": "Apply online at sfa.kansasregents.org. Spring 2027 deadline is March 1, 2027. Awards are first come, first served and the application can close early if funds run out. The 2027-28 application opens in early January 2027 (per page).",
+   "audience": "individual",
+   "status": "open"
   }
  ]
 }

@@ -406,6 +406,58 @@
    "city": "Las Vegas",
    "url": "https://map.carpenters.org/?councils=council-4140",
    "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "IBEW Local 357 (JATC)",
+   "kind": "union apprenticeship program",
+   "trades": "electrical",
+   "city": "Las Vegas",
+   "url": "https://www.ibew357.org/",
+   "description": "IBEW Local 357 page lists JATC class schedules and apprenticeship information, plus an open house for electricians interested in organizing into the local.",
+   "how_to_apply": "Attend the Wednesday 3:00-4:00 PM open house at the main hall, or use the JATC class schedule and apprenticeship information on the site."
+  },
+  {
+   "name": "Nevada Office of the Labor Commissioner",
+   "kind": "state agency",
+   "trades": "apprenticeship oversight (State Apprenticeship Council)",
+   "city": "Carson City",
+   "url": "https://labor.nv.gov/",
+   "description": "Labor Commissioner site with an Apprenticeship section and State Apprenticeship Council pages; the Contact Us page covers registered apprenticeship information.",
+   "how_to_apply": "Contact the Office of the Labor Commissioner through the Contact Us page."
+  },
+  {
+   "name": "Southern Nevada Building Trades Unions (SNBTU)",
+   "kind": "regional building trades council (southern Nevada)",
+   "trades": "multi-craft building trades",
+   "url": "https://www.snbtu.org/en",
+   "description": "Site says it represents more than 25,000 skilled construction workers; Apprenticeship page explains the registered apprenticeship model; Affiliate Apprenticeship Programs form linked.",
+   "how_to_apply": "Affiliate Apprenticeship Programs form on site; (702) 452-8799"
+  },
+  {
+   "name": "Building and Construction Trades Council of Northern Nevada",
+   "kind": "regional building trades council (northern Nevada)",
+   "trades": "multi-craft building trades",
+   "url": "https://www.bctnn.org/",
+   "description": "Site nav lists Local Union Affiliates, Paid Training and Apprenticeships, Women Build Nevada, and Partner With Us pages.",
+   "how_to_apply": "About/Contact page on site"
+  },
+  {
+   "name": "SOUTHERN NEVADA LABORERS' TRAINING TRUST LOCAL #872",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Las Vegas",
+   "url": "https://www.local872.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.local872.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "LABORERS' TRAINING FUND FOR NORTHERN NEVADA",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Sparks",
+   "url": "https://local169.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://local169.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
   }
  ],
  "licensing": [

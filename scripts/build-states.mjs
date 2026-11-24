@@ -20,7 +20,7 @@ export function buildStates({ root, out, pageStyle, homeCss, retroSnippet, retro
     const slug = slugOf(s.state);
     const colleges = s.colleges.slice().sort((x, y) => x.name.localeCompare(y.name));
     const collegeHtml = colleges.map((c) => {
-      const progs = (c.programs || []).slice(0, 8).map((p) => `<li>${esc(p)}</li>`).join('');
+      const progs = [].concat(c.programs || []).slice(0, 8).map((p) => `<li>${esc(p)}</li>`).join('');
       return `<li class="card"><h3>${esc(c.name)}</h3><p class="meta">${esc([c.city, c.type].filter(Boolean).join(' · '))}</p>${progs ? `<ul class="chips">${progs}</ul>` : ''}<p class="actions">${a(c.trades_url, 'See trades programs', 'btn')}${c.home_url ? a(c.home_url, 'College website', 'btn alt') : ''}</p></li>`;
     }).join('');
     const groups = {};
@@ -31,7 +31,7 @@ export function buildStates({ root, out, pageStyle, homeCss, retroSnippet, retro
       const li = rows.map((u) => `<li>${a(u.url, u.name)}${u.city ? ` <span class="meta">(${esc(u.city)})</span>` : ''}${/map.carpenters.org/.test(u.url) ? ' <span class="note">(listing: opens its regional council’s page)</span>' : ''}${u.description ? `<br><span class="note">${esc(u.description.slice(0, 220))}</span>` : ''}</li>`).join('');
       return `<details${rows.length <= 8 ? ' open' : ''}><summary>${esc(k[0].toUpperCase() + k.slice(1))} (${rows.length})</summary><ul class="plain">${li}</ul></details>`;
     }).join('');
-    const licHtml = s.licensing.map((l) => `<li class="card"><h3>${a(l.url, l.name)}</h3>${l.trades && l.trades.length ? `<p class="meta">${esc(l.trades.join(', '))}</p>` : ''}${l.description ? `<p>${esc(l.description)}</p>` : ''}</li>`).join('');
+    const licHtml = s.licensing.map((l) => `<li class="card"><h3>${a(l.url, l.name)}</h3>${l.trades && l.trades.length ? `<p class="meta">${esc([].concat(l.trades).join(', '))}</p>` : ''}${l.description ? `<p>${esc(l.description)}</p>` : ''}</li>`).join('');
     const fundHtml = s.funding.map((f) => `<li class="card"><h3>${esc(f.name)}</h3>${f.provider ? `<p class="meta">${esc(f.provider)}</p>` : ''}<p>${esc(f.provides || '')}</p>${f.amount ? `<p class="note">${esc(f.amount)}</p>` : ''}<p>${a(f.url, 'Official page', 'btn alt')}</p></li>`).join('');
     const title = `${s.state}: trades colleges, apprenticeships and help paying | Skilled Trades USA`;
     const body = `<div class="wrap">

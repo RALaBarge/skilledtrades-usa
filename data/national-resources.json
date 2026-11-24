@@ -1127,5 +1127,83 @@
   "how_to_apply": "Complete the FAFSA and enroll in an approved program, per the page.",
   "audience": "individual",
   "status": "unknown"
+ },
+ {
+  "name": "Federal Pell Grant",
+  "url": "https://studentaid.gov/understand-aid/types/grants/pell",
+  "provider": "U.S. Department of Education, Federal Student Aid",
+  "kind": "grant",
+  "provides": "Federal Pell Grants are awarded mainly to undergraduates with exceptional financial need, and they do not have to be repaid except in certain circumstances.",
+  "eligibility": "Usually undergraduates with exceptional financial need who have not earned a bachelor's, graduate or professional degree. Some students in postbaccalaureate teacher certification or eligible workforce programs may also receive one (per page).",
+  "amount": "Maximum $7,395 for the 2026-27 award year (July 1, 2026 to June 30, 2027), per page. The actual award depends on the Student Aid Index, cost of attendance, enrollment status and remaining Pell eligibility.",
+  "how_to_apply": "Submit the FAFSA form; you must complete it every year to stay eligible.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Federal Supplemental Educational Opportunity Grant (FSEOG)",
+  "url": "https://studentaid.gov/understand-aid/types/grants/fseog",
+  "provider": "U.S. Department of Education, Federal Student Aid (administered by participating schools)",
+  "kind": "grant",
+  "provides": "A grant for undergraduates with exceptional financial need. The school's financial aid office administers it, and not all schools participate.",
+  "eligibility": "Undergraduates with exceptional financial need who are maintaining enrollment and have not earned a bachelor's degree (per page).",
+  "amount": "$100 to $4,000 a year, depending on financial need, other aid and the funds available at the school (per page).",
+  "how_to_apply": "Complete the FAFSA form. Schools award FSEOG to students with the most financial need, and each school sets its own deadline.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Federal Work-Study",
+  "url": "https://studentaid.gov/understand-aid/types/work-study",
+  "provider": "U.S. Department of Education, Federal Student Aid (administered by participating schools)",
+  "kind": "other",
+  "provides": "Part-time jobs for undergraduate and graduate students with financial need, on or off campus, to help pay education expenses. The program emphasizes community service and work related to the student's course of study.",
+  "eligibility": "Students with financial need at schools that participate in the program; full-time or part-time students (per page).",
+  "amount": "Pay is at least the current federal minimum wage. The total award depends on when you apply, financial need and the school's funding level.",
+  "how_to_apply": "Apply for aid early with the FAFSA form; funds are limited.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Good Jobs Challenge (EDA)",
+  "url": "https://www.eda.gov/funding/programs/good-jobs-challenge",
+  "provider": "U.S. Economic Development Administration",
+  "kind": "other",
+  "provides": "Supports regional workforce training systems that build sectoral partnerships to train and place workers in good jobs, including paid on-the-job training and support services such as childcare and transportation. The page says EDA will not run further competitions.",
+  "amount": "$25 million appropriated for FY2024; awards went to eight locally led programs on January 14, 2025 (per page).",
+  "audience": "individual",
+  "status": "closed"
+ },
+ {
+  "name": "Veteran Readiness and Employment (VR&E, Chapter 31)",
+  "url": "https://www.va.gov/careers-employment/vocational-rehabilitation/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "Employment support and training for veterans and service members with a service-connected disability that limits their ability to work. Services include job training, on-the-job training, apprenticeships, and post-secondary education and training at a college, vocational, technical or business school.",
+  "eligibility": "Veterans or service members with a service-connected disability that limits their ability to work or prevents them from working. Check the requirements on the page.",
+  "how_to_apply": "Check eligibility and apply online, mail VA Form 28-1900 to the VR&E Intake Center, apply in person at a VA regional office, or get help from an accredited attorney, claims agent or Veterans Service Organization representative.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "DoD SkillBridge",
+  "url": "https://skillbridge.mil/",
+  "provider": "Department of War (DoW) SkillBridge program",
+  "kind": "other",
+  "provides": "Lets service members with 180 days or fewer of service remaining train and gain work experience with industry partners in high-demand fields before discharge.",
+  "eligibility": "Service members with 180 days or fewer of service remaining before their military discharge date (per page).",
+  "how_to_apply": "Members find an opportunity on the site. Industry providers apply during the Fall FY27 intake, open October 1 to December 1, 2026 (per page).",
+  "audience": "mixed",
+  "status": "open"
+ },
+ {
+  "name": "Home Depot Foundation Path to Pro Scholarship Program",
+  "url": "https://corporate.homedepot.com/page/path-pro-our-commitment-skilled-trades",
+  "provider": "The Home Depot Foundation, in partnership with SkillPointe Foundation",
+  "kind": "scholarship",
+  "provides": "Awards scholarships to students pursuing a trade college or other postsecondary trades program (per the Home Depot Foundation Path to Pro page).",
+  "eligibility": "Students pursuing a trade college or postsecondary program (per page).",
+  "audience": "individual",
+  "status": "unknown"
  }
 ]

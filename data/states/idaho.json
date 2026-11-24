@@ -203,6 +203,14 @@
    ],
    "url": "https://dopl.idaho.gov/hvac/",
    "description": "Heating, Ventilation and Air Conditioning Board under the Idaho Division of Occupational and Professional Licenses."
+  },
+  {
+   "name": "Idaho Transportation Department, Division of Motor Vehicles (CDL)",
+   "trades": [
+    "Commercial driving"
+   ],
+   "url": "https://itd.idaho.gov/dmv/",
+   "description": "DMV page says CDL applications, renewals and reinstatements are handled here; CDL requirement details were not read."
   }
  ],
  "funding": [
@@ -224,6 +232,18 @@
    "how_to_apply": "Fill out and submit the request form on the page",
    "audience": "individual",
    "status": "unknown"
+  },
+  {
+   "state": "ID",
+   "name": "Idaho LAUNCH Grant",
+   "url": "https://nextsteps.idaho.gov/scholarship-idaho",
+   "provider": "Idaho State Board of Education (Next Steps Idaho / Scholarship Idaho)",
+   "kind": "grant",
+   "provides": "One of eight state-managed scholarships and grants applied for through the free Scholarship Idaho common application. The page lists Idaho LAUNCH as open and says FAFSA is not required.",
+   "eligibility": "All Scholarship Idaho programs require graduation from an Idaho high school, home school, or GED/HSE (per page). Recipients plan to attend a college, university or eligible training provider in Idaho.",
+   "how_to_apply": "Create an account on the Scholarship Idaho portal (no cost to apply), check qualifications, then apply. Contact idaholaunch@wdc.idaho.gov or 208-488-7575 with questions (per page).",
+   "audience": "individual",
+   "status": "open"
   }
  ]
 }

@@ -550,6 +550,24 @@
    "kind": "building trades council",
    "url": "https://www.buildmo.org/",
    "description": "Missouri State Building & Construction Trades What We Do Our purpose is to create more work opportunities, achieve family-sustaining wages and protect labor, training, safety, retirement and benefit standards, not just for our members, but for all construction workers."
+  },
+  {
+   "name": "AGC-EASTERN MISSOURI LABORERS' JOINT TRAINING FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Jonesburg",
+   "url": "https://lctcmo.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://lctcmo.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 12 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Kansas City",
+   "url": "https://www.iuec12.com",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec12.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
@@ -560,6 +578,12 @@
    ],
    "url": "https://dor.mo.gov/driver-license/issuance/commercial",
    "description": "Missouri Department of Revenue page on issuing commercial driver licenses."
+  },
+  {
+   "name": "Missouri Division of Professional Registration",
+   "trades": "electrical, plumbing, HVAC and other licensed trades (through individual boards)",
+   "url": "https://pr.mo.gov/",
+   "description": "State umbrella for professional licensing boards. Site offers licensee search, license renewal, applications, and fee payment; each trade is licensed by its own board."
   }
  ],
  "funding": [

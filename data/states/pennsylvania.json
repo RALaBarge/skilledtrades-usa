@@ -407,6 +407,15 @@
     "Carpentry",
     "CDL Training & Certification"
    ]
+  },
+  {
+   "name": "HACC, Central Pennsylvania's Community College",
+   "type": "public community college",
+   "home_url": "https://hacc.edu/",
+   "trades_url": "https://hacc.edu/",
+   "programs": [
+    "Technical Trades (program category on homepage; individual programs not extracted)"
+   ]
   }
  ],
  "unions": [
@@ -870,6 +879,76 @@
    "url": "https://www.smart-union.org/smartcareers/smart-local-44-sheet-metal-apprentice-application-northeast-pa/",
    "apprenticeship_url": "https://www.smart-union.org/smartcareers/smart-local-44-sheet-metal-apprentice-application-northeast-pa/",
    "description": "Start a Union Información en español Become an Apprentice at Local 44 in Northeastern Pennsylvania Take the first steps to success as an Apprentice with Local 44 Apply to become an apprentice with Local 44 here."
+  },
+  {
+   "name": "Pennsylvania State Building & Construction Trades Council",
+   "kind": "state building trades council",
+   "trades": "construction trades (examples given: electrician, plumber, sheet metal worker)",
+   "url": "https://pabuildingtrades.org/training.aspx",
+   "description": "Promotes pre-apprenticeship and registered apprenticeship training in the construction trades in Pennsylvania.",
+   "how_to_apply": "Determine the trade you want, then start the apprenticeship process via the Training and Apprenticeship pages."
+  },
+  {
+   "name": "Pennsylvania Building & Construction Trades Council",
+   "kind": "state building trades council",
+   "trades": "multi-craft building trades",
+   "url": "https://pabuildingtrades.org/",
+   "description": "Training page promotes Pre-Apprentice Training Programs from the BCTD Joint Apprenticeship Training Committee to feed registered apprenticeship; also covers safety training and organizing.",
+   "how_to_apply": "https://pabuildingtrades.org/training.aspx (Training and Apprenticeship section)"
+  },
+  {
+   "name": "WESTERN PENNSYLVANIA LABORERS' EDUCATION AND TRAINING TRUST FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Saxonburg",
+   "url": "http://www.palabortraining.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.palabortraining.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "PENNSYLVANIA LABORERS' TRAINING CENTER",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Harrisburg",
+   "url": "http://www.laborerseastpa.org/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://www.laborerseastpa.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 5 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Philadelphia",
+   "url": "https://www.iuec5.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://www.iuec5.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 6 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Pittsburgh",
+   "url": "https://www.iueclocal6.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal6.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 59 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Harrisburg",
+   "url": "https://www.iueclocal59.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal59.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 84 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Albrightsville",
+   "url": "https://www.iueclocal84.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal84.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

@@ -634,6 +634,15 @@
    "city": "McCleary",
    "url": "https://map.carpenters.org/?councils=council-4140",
    "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "I.U.E.C. Local No. 19 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Seattle",
+   "url": "https://www.iueclocal19.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal19.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [

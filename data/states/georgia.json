@@ -225,6 +225,17 @@
     "CDL Refresher",
     "CDL HazMat"
    ]
+  },
+  {
+   "name": "Lanier Technical College",
+   "type": "technical college",
+   "city": "Gainesville",
+   "home_url": "https://www.laniertech.edu/",
+   "trades_url": "https://www.laniertech.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Utility Technology"
+   ]
   }
  ],
  "unions": [
@@ -431,6 +442,24 @@
    "city": "Savannah",
    "url": "https://map.carpenters.org/?councils=council-4035",
    "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Georgia Construction Careers (Georgia Building Trades Academy, YouthBuild)",
+   "kind": "workforce / pre-apprenticeship nonprofit (NABTU link on site)",
+   "trades": "construction (multi-trade)",
+   "city": "Atlanta",
+   "url": "https://georgiaconstructioncareers.com/gabta",
+   "description": "Georgia Building Trades Academy is a 501(c)(3) YouthBuild training organization preparing Georgia residents to enter and succeed in registered apprenticeship programs.",
+   "how_to_apply": "Sign Me Up form on site; 404-584-0005"
+  },
+  {
+   "name": "LABORERS' SOUTHEAST TRAINING FUND",
+   "kind": "JATC / training center",
+   "trades": "Laborers",
+   "city": "Stone Mountain",
+   "url": "https://selaborer.com/",
+   "description": "LIUNA-affiliated training center listed on LIUNA Training's Find a Training Center page; its website (https://selaborer.com/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the center via its website (phone is on the LIUNA Training find-a-center listing)."
   }
  ],
  "licensing": [

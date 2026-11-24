@@ -47,6 +47,30 @@
     "Co-operative Education"
    ],
    "credentials": "NCCER Core Curriculum; NCCER Carpentry Level 1 and 2; OSHA 10-hour; S/P2 Mechanical Safety; post-secondary credit options."
+  },
+  {
+   "name": "River Valley Technical Center",
+   "type": "career technical center (CTE, Springfield VT)",
+   "city": "Springfield",
+   "home_url": "https://www.rvtc.org/",
+   "trades_url": "https://www.rvtc.org/programs",
+   "programs": [
+    "Carpentry",
+    "Industrial Trades",
+    "Advanced Manufacturing / Engineering"
+   ]
+  },
+  {
+   "name": "Southwest Tech",
+   "type": "career technical center",
+   "home_url": "https://www.swtech.org/",
+   "trades_url": "https://www.swtech.org/apps/pages/index.jsp?uREC_ID=2438180&type=d&pREC_ID=2233006",
+   "programs": [
+    "Building Trades (carpentry, basic electrical wiring, framing, roofing, plumbing, HVAC, blueprint reading)",
+    "Automotive Technologies",
+    "Forestry & Heavy Equipment"
+   ],
+   "credentials": "OSHA 10; NCCER (credential name truncated on page)"
   }
  ],
  "unions": [

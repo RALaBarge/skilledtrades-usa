@@ -435,6 +435,24 @@
    "kind": "building trades council",
    "url": "http://vatrades.org/",
    "description": "If you like to work with your hands and are willing to learn a trade an apprenticeship is for you."
+  },
+  {
+   "name": "I.U.E.C. Local No. 51 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Mechanicsville",
+   "url": "https://www.iueclocal51.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal51.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
+  },
+  {
+   "name": "I.U.E.C. Local No. 52 (IUEC)",
+   "kind": "union local",
+   "trades": "Elevator constructors",
+   "city": "Virginia Beach",
+   "url": "https://www.iueclocal52.org",
+   "description": "IUEC local listed on the IUEC Find Local Union page; its website (https://iueclocal52.org/) mentions training or apprenticeship.",
+   "how_to_apply": "Contact the local via its website (see the IUEC Find Local Union page)."
   }
  ],
  "licensing": [
