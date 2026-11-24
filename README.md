@@ -11,3 +11,8 @@ Static site: every page is one self-contained HTML file (CSS, fonts, JS and data
 `skilledtradesmichigan.com` will 301 to `/michigan.html`.
 
 MIT licensed.
+
+## Deploy
+
+Hosted on Cloudflare (Workers static assets, serving `dist/`; the Worker in `src/worker.js` handles the redirects from `skilledtradesmichigan.com` and `www`).
+After `node scripts/build.mjs`, run `npx wrangler deploy`. Custom domains are declared in `wrangler.jsonc`.
