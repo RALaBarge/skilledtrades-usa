@@ -90,15 +90,18 @@
    "social": "solo",
    "physical": "moderate",
    "focus": [
-    "operate"
+    "operate",
+    "care"
    ],
    "brain": [
-    "judgment"
+    "judgment",
+    "troubleshoot"
    ],
    "cond": [
     "danger",
     "travel",
-    "irregular-hours"
+    "irregular-hours",
+    "noise"
    ]
   },
   "path": "certificate",
@@ -383,7 +386,8 @@
     "danger",
     "tight-spaces",
     "heights",
-    "noise"
+    "noise",
+    "dirty"
    ]
   },
   "path": "apprenticeship",
@@ -497,7 +501,9 @@
    ],
    "cond": [
     "danger",
-    "noise"
+    "noise",
+    "dirty",
+    "tight-spaces"
    ]
   },
   "path": "apprenticeship",
@@ -651,7 +657,7 @@
   "family": "Building trades",
   "blurb": "Operates heavy equipment to move earth, materials, or supplies safely on construction sites.",
   "tags": {
-   "setting": "vehicle",
+   "setting": "mixed",
    "social": "crew",
    "physical": "moderate",
    "focus": [
@@ -716,12 +722,15 @@
    "social": "crew",
    "physical": "moderate",
    "focus": [
-    "fix"
+    "fix",
+    "inspect",
+    "operate"
    ],
    "brain": [
     "troubleshoot",
     "math",
-    "tech"
+    "tech",
+    "creative"
    ],
    "cond": [
     "noise",
@@ -748,16 +757,19 @@
    "physical": "moderate",
    "focus": [
     "make",
-    "build"
+    "build",
+    "fix"
    ],
    "brain": [
     "math",
-    "detail"
+    "detail",
+    "judgment"
    ],
    "cond": [
     "hot-cold",
     "noise",
-    "danger"
+    "danger",
+    "tight-spaces"
    ]
   },
   "path": "onjob-mid",
@@ -789,7 +801,9 @@
     "tight-spaces",
     "hot-cold",
     "danger",
-    "noise"
+    "noise",
+    "dirty",
+    "heights"
    ]
   },
   "path": "certificate",
@@ -1024,11 +1038,15 @@
    "social": "crew",
    "physical": "heavy",
    "focus": [
-    "fix"
+    "fix",
+    "build",
+    "inspect"
    ],
    "brain": [
     "troubleshoot",
-    "tech"
+    "tech",
+    "detail",
+    "judgment"
    ],
    "cond": [
     "dirty",
@@ -1050,15 +1068,18 @@
   "blurb": "Sets up and runs machine tools to make precise metal or plastic parts.",
   "tags": {
    "setting": "indoors",
-   "social": "crew",
+   "social": "solo",
    "physical": "moderate",
    "focus": [
     "make",
-    "operate"
+    "operate",
+    "build"
    ],
    "brain": [
     "math",
-    "detail"
+    "detail",
+    "troubleshoot",
+    "tech"
    ],
    "cond": [
     "noise"
@@ -2119,11 +2140,15 @@
    "physical": "heavy",
    "focus": [
     "build",
-    "fix"
+    "fix",
+    "care"
    ],
    "brain": [
     "math",
-    "troubleshoot"
+    "troubleshoot",
+    "tech",
+    "judgment",
+    "detail"
    ],
    "cond": [
     "heights",
@@ -4420,7 +4445,8 @@
    ],
    "brain": [
     "math",
-    "tech"
+    "tech",
+    "troubleshoot"
    ],
    "cond": [
     "heights",
@@ -4999,7 +5025,7 @@
   "family": "Building trades",
   "blurb": "Installs and repairs elevators and escalators, checks cables, and tests safety controls.",
   "tags": {
-   "setting": "mixed",
+   "setting": "indoors",
    "social": "crew",
    "physical": "heavy",
    "focus": [
@@ -6943,7 +6969,9 @@
     "heights",
     "danger",
     "hot-cold",
-    "noise"
+    "noise",
+    "travel",
+    "tight-spaces"
    ]
   },
   "path": "certificate",
