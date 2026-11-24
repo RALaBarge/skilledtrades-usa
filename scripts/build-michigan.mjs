@@ -15,6 +15,24 @@ const retroSwitch = readFileSync(join(root, 'shared', 'retro-switch.html'), 'utf
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const slug = (s) => s.toLowerCase().replace(/&amp;/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
 
+
+// ---- Michigan funding and licensing from the crawl (data/states/michigan.json)
+const miState = JSON.parse(readFileSync(join(root, 'data', 'states', 'michigan.json'), 'utf8'));
+const SKIP = /MIWISH|MIOSHA|Pathways to Potential|Marshall Plan|MiCareerQuest/i;
+const seenFund = new Set();
+const miFunding = (miState.funding || []).filter((f) => {
+  if (SKIP.test(f.name)) return false;
+  const k = f.name.toLowerCase().replace(/[^a-z]/g, '').slice(0, 30);
+  if (seenFund.has(k)) return false;
+  seenFund.add(k); return true;
+});
+const miOpen = miFunding.filter((f) => f.status !== 'closed');
+const miClosed = miFunding.filter((f) => f.status === 'closed');
+const fundItem = (f) => '<li><b><a href="' + esc(f.url) + '" rel="noopener">' + esc(f.name) + '</a></b>' + (f.status === 'closed' ? ' <em>(closed right now)</em>' : '') + (f.provides ? '<br>' + esc(f.provides) : '') + (f.eligibility ? '<br><small><b>Who qualifies:</b> ' + esc(f.eligibility) + '</small>' : '') + (f.amount ? '<br><small><b>Amount:</b> ' + esc(f.amount) + '</small>' : '') + '</li>';
+const seenLic = new Set();
+const miLic = (miState.licensing || []).filter((l) => !seenLic.has(l.url) && seenLic.add(l.url));
+const fundingHtml = miFunding.length ? '<details class="sec" id="funding"><summary><h2>Paying for training in Michigan</h2></summary>' + '<p>State programs and benefits we found on official pages. Check each page for current rules and deadlines before you rely on it.</p><ul>' + miOpen.map(fundItem).join('') + '</ul>' + (miClosed.length ? '<h3>Closed or not taking applications right now</h3><ul>' + miClosed.map(fundItem).join('') + '</ul>' : '') + (miLic.length ? '<h3>Licensing (state)</h3><ul>' + miLic.map((l) => '<li><a href="' + esc(l.url) + '" rel="noopener">' + esc(l.name) + '</a></li>').join('') + '</ul>' : '') + '</details>' : '';
+
 const urlText = (u) => {
   const m = u.match(/catalog\.wccnet\.edu\/current\/programs\/([a-z0-9]+)\.php/i);
   if (m && m[1].toLowerCase() !== 'index') return m[1].toUpperCase();
@@ -234,11 +252,13 @@ ${retroSwitch}
 <p class="kicker">Careers &middot; Michigan</p>
 <h1>Pick a Trade</h1>
 <p class="lede">Hands-on careers that do not depend on a screen: what the work is like, how people get in, and what Michigan numbers say about pay and demand. Fifteen trades in depth, what Washtenaw Community College (WCC) offers, and a short description of every other occupation we could count. The numbers come from the U.S. Bureau of Labor Statistics.</p>
-<nav class="jump" aria-label="Sections"><a href="#wcc">Washtenaw CC</a><a href="#in-depth">Fifteen in depth</a><a href="#more">More trades</a><a href="#compare">Compare all ${data.length}</a></nav>
+<nav class="jump" aria-label="Sections"><a href="#wcc">Washtenaw CC</a>${miFunding.length ? '<a href="#funding">Paying for it</a>' : ''}<a href="#in-depth">Fifteen in depth</a><a href="#more">More trades</a><a href="#compare">Compare all ${data.length}</a></nav>
 
 <details class="sec" id="wcc"><summary><h2>Washtenaw Community College (WCC)</h2></summary>
 ${convert(part2, { h1: 2 })}
 </details>
+
+${fundingHtml}
 
 <h2 id="in-depth">Fifteen trades in depth</h2>
 ${convert(intro1.replace('Health technician careers are in Part 3 and the appendix.', 'Health technician careers are in More trades and the comparison table.'))}
