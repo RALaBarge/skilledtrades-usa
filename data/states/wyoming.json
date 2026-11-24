@@ -1,0 +1,256 @@
+{
+ "code": "WY",
+ "state": "Wyoming",
+ "colleges": [
+  {
+   "name": "Casper College",
+   "type": "community college",
+   "city": "Casper",
+   "home_url": "https://www.caspercollege.edu/",
+   "trades_url": "https://www.caspercollege.edu/programs/welding/",
+   "programs": [
+    "Welding",
+    "Electrical Apprenticeship",
+    "Construction Technology"
+   ]
+  },
+  {
+   "name": "Central Wyoming College",
+   "type": "community college",
+   "city": "Riverton",
+   "home_url": "https://www.cwc.edu/",
+   "trades_url": "https://www.cwc.edu/programs/vocational/",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Apprenticeship",
+    "Welding",
+    "Technical Studies"
+   ]
+  },
+  {
+   "name": "Eastern Wyoming College",
+   "type": "community college",
+   "city": "Torrington",
+   "home_url": "https://ewc.wy.edu/",
+   "trades_url": "https://ewc.wy.edu/academics/programs/welding-and-joining-technology/",
+   "programs": [
+    "Welding & Joining Technology",
+    "CDL Training Program"
+   ],
+   "credentials": "AAS in Welding and Joining Technology (per page)"
+  },
+  {
+   "name": "Gillette College",
+   "type": "community college",
+   "city": "Gillette",
+   "home_url": "https://www.gillettecollege.org/",
+   "trades_url": "https://www.gillettecollege.org/academics/welding-technology/",
+   "programs": [
+    "Welding Technology",
+    "Machine Tool Technology",
+    "Diesel Technology",
+    "Industrial Technology",
+    "Industrial Electricity",
+    "Electrical Apprenticeship",
+    "CDL Training"
+   ]
+  },
+  {
+   "name": "Laramie County Community College",
+   "type": "community college",
+   "city": "Cheyenne",
+   "home_url": "https://www.lccc.wy.edu/",
+   "trades_url": "https://www.lccc.wy.edu/pathways/tradesTechnical/index.aspx",
+   "programs": [
+    "Automotive Technology",
+    "CNC Operator",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Foundations of Skilled Trades",
+    "Industrial Maintenance",
+    "Welding",
+    "Wind Energy",
+    "Technical Studies (Trades & Technical)"
+   ],
+   "credentials": "Credit Diploma; Associate of Applied Science (Technical Studies)"
+  },
+  {
+   "name": "Northwest College",
+   "type": "community college",
+   "city": "Powell",
+   "home_url": "https://www.nwc.edu/",
+   "trades_url": "https://www.nwc.edu/academics/career-and-technical-programs.html",
+   "programs": [
+    "Advanced Welding",
+    "Welding - Gas Metal Arc Welding (GMAW)",
+    "Welding - Gas Tungsten Arc Welding (GTAW)",
+    "Welding Technology",
+    "Welding Robotics Technology",
+    "Drafting Technology",
+    "Technical Studies",
+    "Building Trades (non-credit)",
+    "Electrical Apprenticeship (non-credit)",
+    "HVAC Apprenticeship Program (non-credit)",
+    "Plumbing Apprenticeship Program (non-credit)",
+    "Heavy Equipment (non-credit)",
+    "Construction Equipment Operator (non-credit)",
+    "Commercial Drivers License - CDL (non-credit)",
+    "Fork Lift (non-credit)",
+    "Hydraulic Excavator (non-credit)"
+   ],
+   "credentials": "Academic credit programs and non-credit programs"
+  },
+  {
+   "name": "Sheridan College",
+   "type": "community college",
+   "city": "Sheridan",
+   "home_url": "https://www.sheridan.edu/",
+   "trades_url": "https://www.sheridan.edu/department/career-technical-education/",
+   "programs": [
+    "Welding",
+    "Weekend Welding",
+    "Machine Tool Technology",
+    "Diesel Technology",
+    "Industrial Technology",
+    "Construction Technology",
+    "Carpentry Apprenticeship",
+    "Commercial Motor Vehicle (CDL)"
+   ]
+  },
+  {
+   "name": "Western Wyoming College",
+   "type": "community college",
+   "city": "Rock Springs",
+   "home_url": "https://www.westernwyoming.edu/",
+   "trades_url": "https://www.westernwyoming.edu/academics/major-programs/manufacturing-industry/index.php",
+   "programs": [
+    "Automotive Technology",
+    "Commercial Driver License (CDL)",
+    "Diesel Technology",
+    "Electrical & Instrumentation",
+    "Industrial Maintenance",
+    "Mining Maintenance",
+    "Powerline Technology",
+    "Substation Technology",
+    "Welding Technology",
+    "Plant Operations",
+    "Nuclear Technician"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 322",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Casper",
+   "url": "https://www.ibew322.org/",
+   "description": "Official website of IBEW Local 322, with job calls, contractor information and member resources."
+  },
+  {
+   "name": "IBEW Local 415",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Cheyenne",
+   "url": "https://www.ibew415.org/",
+   "description": "Official website of IBEW Local 415, with job calls, contractor information, member resources and an apprenticeship section.",
+   "how_to_apply": "Page has an 'Apply Here' link under Apprenticeship (not followed)."
+  },
+  {
+   "name": "LCCC Registered Apprenticeship Related Instruction (Outreach & Workforce Development)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "electrical",
+    "HVAC/R",
+    "plumbing"
+   ],
+   "city": "Laramie",
+   "url": "https://www.lccc.wy.edu/apprenticeships/index.aspx",
+   "description": "Provides related classroom instruction for registered apprenticeships in the electrical, HVAC/R and plumbing trades, designed to work with on-the-job training.",
+   "how_to_apply": "Contact Rachael McElroy, Skilled Trades & Healthcare Coordinator, 307-432-1629. Funding questions go to Wyoming Department of Workforce Services."
+  },
+  {
+   "name": "Northwest College Center for Training & Development Apprenticeships",
+   "kind": "apprenticeship program",
+   "trades": [
+    "electrical",
+    "HVAC",
+    "plumbing"
+   ],
+   "city": "Powell",
+   "url": "https://www.nwc.edu/workforce/apprenticeships/index.html",
+   "description": "Lists electrical, HVAC and plumbing apprenticeship programs offered through the Center for Training and Development at Northwest College.",
+   "how_to_apply": "Email PowellCTD@nwc.edu or call 307-754-6062."
+  },
+  {
+   "name": "Wyoming Department of Workforce Services - Apprenticeship Expansion and Pre-Apprenticeship Pathways",
+   "kind": "apprenticeship program",
+   "city": "Cheyenne",
+   "url": "https://dws.wyo.gov/dws-division/business-training-support-unit/apprenticeship/",
+   "description": "State page on State Apprenticeship Expansion funding and pre-apprenticeship pathways for Wyoming employers."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction and skilled trades careers"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Connects veterans with construction and trades careers through earn-while-you-learn apprenticeships, with GI Bill benefits.",
+   "how_to_apply": "Page directs veterans to 'Get Started'."
+  },
+  {
+   "name": "Wyoming Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Casper",
+   "url": "https://www.wyojatc.org/",
+   "apprenticeship_url": "https://www.wyojatc.org/?zone=/unionactive/view_page.cfm&page=APPRENTICE20RESOURCES",
+   "description": "Wyoming Statewide Electrical JATC."
+  },
+  {
+   "name": "IUOE Local 800 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Bar Nunn",
+   "url": "https://www.iuoe800training.com/",
+   "apprenticeship_url": "https://www.iuoe800training.com/home",
+   "description": "Address 4925 Wardwell Industrial Ave Bar Nunn, WY 82601 EMAIL us at : IUOElocal800Training@gmail.com Privacy Policy Google Sites Report abuse Page details Page updated Google Sites Report abuse"
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Wyoming Department of Fire Prevention and Electrical Safety - Electrical Board",
+   "trades": [
+    "electrician",
+    "electrical contractor"
+   ],
+   "url": "https://wsfm.wyo.gov/home-1/electrical-board-and-fire-council",
+   "description": "The Electrical Board operates with the Department of Fire Prevention and Electrical Safety and licenses electricians and electrical contractors statewide; the page is the Fire Council and Electrical Board page."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Wyoming Industry Driven Skills Training Grant",
+   "url": "https://dws.wyo.gov/zh/dws-division/business-training-support-unit/industry-driven-skills-training-grant/",
+   "provider": "Wyoming Department of Workforce Services",
+   "kind": "grant",
+   "provides": "Funding for Wyoming businesses in IDST target industries to address employee skill gaps through industry-specific training.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Wyoming Eligible Training Provider List (WIOA)",
+   "url": "https://dws.wyo.gov/zh/dws-division/workforce-centers-and-program-operations/partners/etpl-training-providers/",
+   "provider": "Wyoming Department of Workforce Services",
+   "kind": "training voucher",
+   "provides": "State Eligible Training Provider List of WIOA-recognized programs for adults and dislocated workers (page is written for training providers).",
+   "audience": "school",
+   "status": "open"
+  }
+ ]
+}

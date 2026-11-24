@@ -1,0 +1,846 @@
+{
+ "code": "MN",
+ "state": "Minnesota",
+ "colleges": [
+  {
+   "name": "Alexandria Technical and Community College",
+   "type": "technical college",
+   "city": "Alexandria",
+   "home_url": "https://www.alextech.edu/",
+   "trades_url": "https://www.alextech.edu/programs",
+   "programs": [
+    "Programs"
+   ]
+  },
+  {
+   "name": "Anoka Technical College",
+   "type": "technical college",
+   "city": "Anoka",
+   "home_url": "https://www.anokatech.edu/",
+   "trades_url": "https://www.anokatech.edu/programs",
+   "programs": [
+    "Advanced CNC Machine Technology",
+    "Architectural & Construction Technician",
+    "Automotive Electronic Diagnostic Specialist",
+    "Automotive Technician",
+    "Biomedical Equipment Technician",
+    "CNC Design & Manufacturing Technology",
+    "CNC Service Technician",
+    "Construction Electrician",
+    "Construction Estimating",
+    "Emergency Medical Technician",
+    "Machine Technology",
+    "Pipe Welder",
+    "Quality Technician",
+    "Robotic & Laser Welding",
+    "Welding",
+    "Welding Fabricator",
+    "Manufacturing Advanced CNC Machine Technology Diploma | 64 Credits",
+    "Automotive Automotive Electronic Diagnostic Specialist Diploma | 32 Credits",
+    "Automotive Automotive Technician AAS Degree | 72 Credits Diploma | 63 Credits",
+    "Manufacturing CNC Design & Manufacturing Technology AAS Degree | 69 Credits",
+    "Manufacturing CNC Service Technician Diploma | 64 Credits",
+    "Construction Construction Electrician Diploma | 82 Credits",
+    "Construction Construction Estimating Diploma | 49 Credits Certificate | 28 Credits",
+    "Health Science Emergency Medical Technician Certificate | 9 Credits",
+    "Manufacturing Machine Technology Certificate | 16 Credits",
+    "Manufacturing Pipe Welder Certificate | 17 Credits",
+    "Manufacturing Quality Inspector Certificate | 30 Credits",
+    "Manufacturing Quality Technician AAS Degree | 60 Credits",
+    "Manufacturing Robotic & Laser Welding AAS Degree | 67 Credits Certificate | 18 Credits",
+    "Electronic Engineering Technology Special Electronics Technician AAS Degree | 72 Credits",
+    "Construction Structural Design Certificate | 16 Credits",
+    "Manufacturing Welding Fabricator Certificate | 17 Credits"
+   ]
+  },
+  {
+   "name": "Central Lakes College",
+   "type": "community college",
+   "city": "Brainerd",
+   "home_url": "https://www.clcmn.edu/",
+   "trades_url": "https://www.clcmn.edu/heavy-equipment/",
+   "programs": [
+    "Heavy Equipment Operation & Maintenance"
+   ]
+  },
+  {
+   "name": "Dakota County Technical College",
+   "type": "technical college",
+   "city": "Rosemount",
+   "home_url": "https://www.dctc.edu/",
+   "trades_url": "https://www.dctc.edu/programs",
+   "programs": [
+    "Construction & Manufacturing",
+    "Commercial HVAC/R Technology",
+    "Construction Management",
+    "Electrical Construction & Maintenance",
+    "Electrical Lineworker",
+    "HVAC & Refrigeration Technology",
+    "Industrial Engineering Technician",
+    "Welding Technology",
+    "Veterinary Technician",
+    "Automotive Service Technology",
+    "Heavy Construction Equipment Technology",
+    "Mopar Career Automotive Program"
+   ]
+  },
+  {
+   "name": "Hennepin Technical College",
+   "type": "technical college",
+   "city": "Brooklyn Park",
+   "home_url": "https://hennepintech.edu/",
+   "trades_url": "https://hennepintech.edu/academic-programs/architecture-construction/",
+   "programs": [
+    "Architecture, HVAC & Construction",
+    "Manufacturing & Engineering",
+    "Manufacturing (CTS)",
+    "From the Classroom to the Shop: Automotive Student Builds His Future",
+    "Toro Foundation Helps Hennepin Tech Go Green with Electric Mower"
+   ]
+  },
+  {
+   "name": "Lake Superior College",
+   "type": "community college",
+   "city": "Duluth",
+   "home_url": "https://www.lsc.edu/",
+   "trades_url": "https://www.lsc.edu/stories/matt-gildner-cnc-programmer--machine-technology/",
+   "programs": [
+    "CNC Programmer - Machine Technology",
+    "Integrated Manufacturing Programs"
+   ]
+  },
+  {
+   "name": "Minneapolis College",
+   "type": "community college",
+   "city": "Minneapolis",
+   "home_url": "https://minneapolis.edu/",
+   "trades_url": "https://minneapolis.edu/academics/school-trade-technologies/welding-and-metal-fabrication",
+   "programs": [
+    "Welding and Metal Fabrication"
+   ]
+  },
+  {
+   "name": "Minnesota North College",
+   "type": "community college",
+   "city": "Virginia",
+   "home_url": "https://minnesotanorth.edu/",
+   "trades_url": "https://minnesotanorth.edu/programs",
+   "programs": [
+    "Automotive Technician Diploma Campus H Hibbing",
+    "Cisco Network Technician Certificate Campus H Hibbing",
+    "Diesel Mechanics & Heavy Equipment AAS, Diploma Campus H Hibbing",
+    "Electrical Controls & Maintenance AAS, Diploma Campus ME Mesabi Range - Eveleth",
+    "Electrical Maintenance & Construction Diploma Campus H Hibbing",
+    "Emergency Medical Technician Certificate Campus ME Mesabi Range - Eveleth V Vermilion",
+    "Heating & Cooling Technician Diploma Campus H Hibbing",
+    "Manufacturing Technologies Diploma Campus I Itasca",
+    "Medical Lab Technician AAS Campus H Hibbing Online Program",
+    "Veterinary Technician AAS Campus V Vermilion",
+    "Welding Certificate, Diploma Campus ME Mesabi Range - Eveleth"
+   ]
+  },
+  {
+   "name": "Minnesota State College Southeast",
+   "type": "technical college",
+   "city": "Red Wing",
+   "home_url": "https://www.southeastmn.edu/",
+   "trades_url": "https://www.southeastmn.edu/programs/welding-technology/welding-technology-diploma/",
+   "programs": [
+    "Welding-Technology-Diploma",
+    "Welding Technology",
+    "SMAW - Principles of Stick Welding",
+    "Oxy-fuel Weld, Cutting & Brazing",
+    "GTAW-Tungsten Inert Gas Weld I",
+    "GTAW - Tungsten Inert Gas Welding II",
+    "Welding Technology Diploma",
+    "Welding Technology CERT"
+   ]
+  },
+  {
+   "name": "Minnesota West Community and Technical College",
+   "type": "community college",
+   "city": "Granite Falls",
+   "home_url": "https://www.mnwest.edu/",
+   "trades_url": "https://www.mnwest.edu/academics/all-programs/welding.php",
+   "programs": [
+    "Electrician",
+    "Plumbing Technology"
+   ]
+  },
+  {
+   "name": "North Hennepin Community College",
+   "type": "community college",
+   "city": "Brooklyn Park",
+   "home_url": "https://www.nhcc.edu/",
+   "trades_url": "https://www.nhcc.edu/academics/degree-pathways/business-and-information-systems/construction-technology",
+   "programs": [
+    "Construction Management Certificate",
+    "Construction Management and Supervision AS",
+    "Construction Quality Assurance and Quality Control Certificate",
+    "Construction Technology AAS",
+    "Construction Technology AS",
+    "Construction Technology AS Full Time",
+    "Construction Technology AS Part Time",
+    "Construction Technology AS Program Roadmap Full Time",
+    "Construction Technology AS Program Roadmap Part Time"
+   ]
+  },
+  {
+   "name": "Northland Community and Technical College",
+   "type": "community college",
+   "city": "Thief River Falls",
+   "home_url": "https://www.northlandcollege.edu/",
+   "trades_url": "https://www.northlandcollege.edu/academics/programs/mechatronics-aas/",
+   "programs": [
+    "Mechatronics A.A.S. Degree Program at Northland Community & Technical College"
+   ]
+  },
+  {
+   "name": "Pine Technical and Community College",
+   "type": "technical college",
+   "city": "Pine City",
+   "home_url": "https://pine.edu/",
+   "trades_url": "https://pine.edu/programs",
+   "programs": [
+    "Advanced Manufacturing",
+    "Precision Machining Technology",
+    "Welding Technology",
+    "Automotive Technology",
+    "Construction Technology",
+    "Manufacturing Foundations, Production TechnologiesCertificate",
+    "Precision Machining TechnologyAAS, Diploma, Certificate",
+    "Welding TechnologyAAS, Diploma",
+    "Automotive TechnologyAAS, Diploma, Certificate",
+    "Construction TechnologyAAS, Diploma"
+   ]
+  },
+  {
+   "name": "Ridgewater College",
+   "type": "community college",
+   "city": "Willmar",
+   "home_url": "https://ridgewater.edu/",
+   "trades_url": "https://ridgewater.edu/academics",
+   "programs": [
+    "Advanced Manufacturing & Engineering Technology",
+    "Automotive Trades",
+    "Construction Trades",
+    "Commercial Driver Training (CDL)",
+    "Building & Construction Trades",
+    "Manufacturing & Industry",
+    "Machine Tool Technology Program",
+    "Welding Program",
+    "Welding and Nondestructive Testing Methods",
+    "Agronomy Applicator Technician",
+    "Automotive Service Technology Program",
+    "Electrician Program",
+    "Plumbing",
+    "Emergency Medical Technician (EMT) Program",
+    "Health Information Technician/Medical Coding Program"
+   ]
+  },
+  {
+   "name": "Riverland Community College",
+   "type": "community college",
+   "city": "Albert Lea",
+   "home_url": "https://www.riverland.edu/",
+   "trades_url": "https://www.riverland.edu/programs",
+   "programs": [
+    "Manufacturing and Engineering",
+    "Automation Robotics Technician",
+    "Automotive General Service Technician",
+    "Automotive Service Technology",
+    "Electric Vehicle and Hybrid Technician",
+    "Carpentry, Commercial",
+    "Construction",
+    "Carpentry, Residential",
+    "Diesel Technology",
+    "Electrician-Construction",
+    "Hair Technician",
+    "Industrial Maintenance Foundations",
+    "Industrial Maintenance",
+    "Nail Technician",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Rochester Community and Technical College",
+   "type": "technical college",
+   "city": "Rochester",
+   "home_url": "https://www.rctc.edu/",
+   "trades_url": "https://www.rctc.edu/program/welding/faculty/",
+   "programs": [
+    "Welding Program",
+    "Welding",
+    "Automotive Technician",
+    "Carpentry",
+    "Histology Technician",
+    "Veterinary Technician"
+   ]
+  },
+  {
+   "name": "Saint Paul College",
+   "type": "community college",
+   "city": "Saint Paul",
+   "home_url": "https://www.saintpaul.edu/",
+   "trades_url": "https://www.saintpaul.edu/programs",
+   "programs": [
+    "Automotive Service Technician AAS, Diploma",
+    "Carpentry Diploma",
+    "CNC Toolmaking Diploma",
+    "Commercial Driver’s License (CDL) Workforce Credential",
+    "EKG Technician Workforce Credential",
+    "Electrical Technology Diploma",
+    "Hybrid and Electric Vehicle Technology Certificate",
+    "Medical Laboratory Technician AAS",
+    "Medium and Heavy Duty Truck Technician Diploma",
+    "Nail Care Technician Certificate",
+    "Pharmacy Technician AAS, Diploma",
+    "Pipefitting Diploma",
+    "Sheet Metal & HVAC Diploma",
+    "Welding Diploma"
+   ]
+  },
+  {
+   "name": "South Central College",
+   "type": "community college",
+   "city": "North Mankato",
+   "home_url": "https://southcentral.edu/",
+   "trades_url": "https://southcentral.edu/apprenticeship/apprenticeship-and-dual-training-programs.html",
+   "programs": [
+    "Apprenticeship and Dual Training"
+   ]
+  },
+  {
+   "name": "St. Cloud Technical and Community College",
+   "type": "technical college",
+   "city": "St. Cloud",
+   "home_url": "https://sctcc.edu/",
+   "trades_url": "https://sctcc.edu/degrees-programs/plumbing",
+   "programs": [
+    "Trades in Construction",
+    "Trades in Manufacturing",
+    "Architectural Construction Technology",
+    "Carpentry",
+    "Electrical Construction Technology",
+    "Plumbing",
+    "SCTCC, AgCentric, & Advanced Manufacturing Center Host HS Teachers",
+    "Carpentry, Electrical, Plumbing finish project"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Minnesota Building & Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "multi-trade"
+   ],
+   "city": "Saint Paul",
+   "url": "https://mntrades.org/",
+   "description": "Minnesota State Building and Construction Trades Council and nine regional councils representing more than 70,000 skilled construction professionals."
+  },
+  {
+   "name": "IBEW Local 292 (Minneapolis Electrical Workers)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew292.org/",
+   "description": "IBEW Local 292 electrical workers union local in Minnesota."
+  },
+  {
+   "name": "IBEW Local 110",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew110.org/",
+   "description": "IBEW Local 110 electrical workers union local in Minnesota."
+  },
+  {
+   "name": "IBEW Local 160 (Duluth)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Duluth",
+   "url": "https://www.ibew160.org/",
+   "description": "IBEW Local 160 - Minnesota electricians union local."
+  },
+  {
+   "name": "Minneapolis Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://mplsjatc.org/about/",
+   "description": "Training center for IBEW Local 292 and Twin Cities NECA; five-year electrician apprenticeship.",
+   "how_to_apply": "Per FAQ at mplsjatc.org/faq/: be 17 at application, high school diploma or GED, one credit of algebra or higher with a C or better, valid driver's license."
+  },
+  {
+   "name": "South Central MN Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.scmnjatc.org/",
+   "description": "South Central Minnesota Electrical JATC home page."
+  },
+  {
+   "name": "Iron Range Electrical JATC (IBEW 294 / NECA Twin Ports Arrowhead Chapter)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew294-neca.org/faqs",
+   "description": "Joint apprenticeship program sponsored by IBEW Local 294 and the Twin Ports Arrowhead Chapter of NECA."
+  },
+  {
+   "name": "U.A. Plumbers & Gasfitters Local 15",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "gas fitting"
+   ],
+   "city": "Maple Grove",
+   "url": "https://www.plumberslocal15.com/",
+   "description": "United Association Plumbers and Gasfitters Local 15, representing about 2,000 members in central Minnesota since 1890.",
+   "how_to_apply": "Training 15 site: applications taken in person at the Maple Grove training center on posted dates."
+  },
+  {
+   "name": "Iron Workers Local 512",
+   "kind": "union local",
+   "trades": [
+    "ironworking"
+   ],
+   "url": "https://ironworkers512.com/",
+   "description": "Iron Workers Local 512 covering Minnesota, North Dakota and western Wisconsin."
+  },
+  {
+   "name": "SMART Local 10 (Sheet Metal Workers)",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://www.smw10.org/",
+   "description": "SMART Local 10 sheet metal workers union home page."
+  },
+  {
+   "name": "IUPAT District Council 82 (Painters)",
+   "kind": "union local",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://iupat82.org/",
+   "description": "IUPAT District Council 82 painters union home page."
+  },
+  {
+   "name": "Insulators Local 34 (Heat Frost Allied Workers)",
+   "kind": "union local",
+   "trades": [
+    "insulation"
+   ],
+   "city": "Saint Paul",
+   "url": "https://www.insulators34.org/",
+   "description": "Insulators Local 34 in St. Paul, serving Minnesota and Wisconsin; home page describes training and benefits."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters",
+   "kind": "building trades council",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://www.nmcarpenters.com/training/training-and-education",
+   "description": "Regional carpenters council; training and education page lists Minnesota training sites."
+  },
+  {
+   "name": "Construction Careers Foundation",
+   "kind": "nonprofit",
+   "trades": [
+    "multi-trade construction"
+   ],
+   "url": "https://constructioncareers.org/",
+   "description": "Nonprofit connecting young people with registered apprenticeship programs run by Minnesota construction trade unions."
+  },
+  {
+   "name": "Associated General Contractors of Minnesota (AGC)",
+   "kind": "contractor association",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://www.agcmn.org/",
+   "description": "Centralized point for information, education and training, and industry leadership for Minnesota general contractors."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Program connecting military service members with construction apprenticeship opportunities."
+  },
+  {
+   "name": "IBEW Local 160",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Minneapolis",
+   "url": "https://ibew160.org/",
+   "apprenticeship_url": "https://ibew160.org/apprentice",
+   "description": "IBEW Local 160 - Minnesota’s trusted electricians."
+  },
+  {
+   "name": "IBEW Local 292",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Minneapolis",
+   "url": "https://www.ibew292.org/",
+   "description": "IBEW Local 292 – Minneapolis Electrical Workers."
+  },
+  {
+   "name": "IBEW Local 294",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Hibbing",
+   "url": "https://www.ibew294-neca.org/",
+   "description": "The LLMCC (Local Labor Management Cooperation Committee) is a group of members of IBEW #294 / NECA and employers represented by the Twin Ports Arrowhead Chapter of the National Electrical Contractors. These two groups have a common interest to promote the unionized electrical."
+  },
+  {
+   "name": "IBEW Local 343",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Le Sueur",
+   "url": "https://www.ibewlocal343.org/",
+   "apprenticeship_url": "https://www.ibewlocal343.org/how-to-join/apprentices/",
+   "description": "International Brotherhood of Electrical Workers Union Local 343."
+  },
+  {
+   "name": "IBEW Local 949",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Burnsville",
+   "url": "http://www.ibewlocal949.org/",
+   "description": "IBEW, Local 949."
+  },
+  {
+   "name": "Minneapolis Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "St. Michael",
+   "url": "https://mplsjatc.org/",
+   "apprenticeship_url": "https://mplsjatc.org/",
+   "description": "Apprentices Continuing Ed Applicants Contractors Learn From Experts We are the training center for IBEW Local 292 and Twin Cities NECA. Our Apprenticeship is a."
+  },
+  {
+   "name": "Minnesota State Wide Limited Energy JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Fridley",
+   "url": "https://www.statewidelea.org/",
+   "apprenticeship_url": "https://www.statewidelea.org/apprenticeship-info/",
+   "description": "Minnesota Statewide Limited Energy JATC."
+  },
+  {
+   "name": "South Central Minnesota JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Rochester",
+   "url": "https://www.scmnjatc.org/",
+   "apprenticeship_url": "https://www.scmnjatc.org/",
+   "description": "The JATC is a group composed of IBEW and NECA representatives that oversees the education and training of Electrical Apprentices."
+  },
+  {
+   "name": "St. Paul Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "St. Paul",
+   "url": "https://www.jatc110.org/",
+   "apprenticeship_url": "https://www.jatc110.org/?zone=/unionactive/view_page.cfm&page=Test",
+   "description": "St. Paul Electrical JATC."
+  },
+  {
+   "name": "IUOE Local 49 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Minneapolis",
+   "url": "https://local49.org/",
+   "description": "LEARN MORE Training At Local 49’s Training Center we are committed to the best possible educational opportunities for members of IUOE Local 49 VISIT PAGE The road to a healthier you."
+  },
+  {
+   "name": "IUOE Local 70 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "White Bear Lake",
+   "url": "https://www.iuoe70.org/",
+   "apprenticeship_url": "https://www.iuoe70.org/?zone=/unionactive/private_view_page.cfm&page=Training",
+   "description": "IUOE Local 70 Login Register Contact &nbsp; &nbsp; &#9776; Home Member Resources Member Home Contracts BY-LAWS BY-LAWS Training Upcoming Training Online Courses available through IUOE Local 70 What is Training and why do we need it..."
+  },
+  {
+   "name": "IUPAT District Council 82",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://iupat82.org/",
+   "description": "Justice for All Workers The IUPAT stands with all workers, no matter where they are from, to fight for fair pay, safe work sites and proper job training."
+  },
+  {
+   "name": "BAC 01 Minnesota/North Dakota/South Dakota",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Minneapolis",
+   "url": "https://bac1mn-nd.org/",
+   "apprenticeship_url": "https://bac1mn-nd.org/members/bac-continues-showcase-training-world",
+   "description": "Flynn BAC/IMI International Training Center&nbsp;in Bowie, Maryland."
+  },
+  {
+   "name": "Construction Laborers’ Education, Training, &#038; Apprenticeship Fund of Minnesota and North Dakota",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Lino Lakes",
+   "url": "https://www.ltcmn.org/",
+   "apprenticeship_url": "https://www.ltcmn.org/apprenticeship.aspx",
+   "description": "The Laborers Training Center (LTC) provides industry-specific vocational skills and certification renewal training for its members in Minnesota and North Dakota."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Bemidji Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Bemidji",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - Jerry Alander Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Hermantown",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - LJ Shosten Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Saint Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - Rochester Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Rochester",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - Twin Cities Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Saint Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Floor Coverers Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Saint Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1934 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Bemidji",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 322 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Saint Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 361 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Hermantown",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 68 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Saint Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 464 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Mankato",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 548 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1382 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Rochester",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 930 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Saint Augusta",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2055 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Saint Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1847 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Paul",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 606 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Virginia",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1348 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Virginia",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Minnesota Board of Electricity (DLI)",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.dli.mn.gov/about-department/boards-and-councils/board-electricity",
+   "description": "DLI board page for electrical licensing; questions to dli.license@state.mn.us."
+  },
+  {
+   "name": "Minnesota Electricians Licensing (DLI)",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.dli.mn.gov/workers/electricians-and-electrical-installers",
+   "description": "DLI page for electrician, journeyworker, installer, lineman and power limited technician licenses."
+  },
+  {
+   "name": "Minnesota Electrical Contractors (DLI)",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.dli.mn.gov/business/electrical-contractors",
+   "description": "DLI page for electrical contractor licensing and permits."
+  },
+  {
+   "name": "Minnesota Plumbing Board (DLI)",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://www.dli.mn.gov/about-department/boards-and-councils/plumbing-board",
+   "description": "DLI page for the Minnesota Plumbing Board."
+  },
+  {
+   "name": "Minnesota Plumbers Licensing (DLI)",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://www.dli.mn.gov/workers/plumbers",
+   "description": "DLI page for plumber licensing."
+  },
+  {
+   "name": "Minnesota Plumbing and Mechanical Contractors (DLI)",
+   "trades": [
+    "plumbing",
+    "mechanical/HVAC"
+   ],
+   "url": "https://www.dli.mn.gov/business/plumbing-and-mechanical-contractors",
+   "description": "DLI page for plumbing and mechanical contractor licensing."
+  },
+  {
+   "name": "Minnesota Elevator Constructors (DLI)",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://www.dli.mn.gov/workers/elevator-constructors",
+   "description": "DLI page for elevator constructor licensing."
+  },
+  {
+   "name": "Minnesota Boiler Engineers (DLI)",
+   "trades": [
+    "boiler"
+   ],
+   "url": "https://www.dli.mn.gov/workers/boiler-engineers",
+   "description": "DLI page for boiler engineer and operator licenses."
+  },
+  {
+   "name": "Minnesota License Apply and Renew (DLI)",
+   "trades": [
+    "all DLI-licensed trades"
+   ],
+   "url": "https://www.dli.mn.gov/license",
+   "description": "DLI license application and renewal hub."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Minnesota CareerForce Training Program Finder",
+   "url": "https://careerforce.mn.gov/so/training-programs?page=0",
+   "provider": "Minnesota Department of Employment and Economic Development (CareerForce)",
+   "kind": "training voucher",
+   "provides": "Searchable finder of training programs in in-demand sectors; the page states that listed programs are free for eligible job seekers.",
+   "eligibility": "Eligible job seekers, per the page.",
+   "how_to_apply": "Browse or search the finder for programs and contact the listed provider.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Minnesota CareerForce Training Grant Programs",
+   "url": "https://careerforce.mn.gov/so/node/20473",
+   "provider": "Minnesota Department of Employment and Economic Development (CareerForce)",
+   "kind": "grant",
+   "provides": "Describes Minnesota employer training grant programs, including the Minnesota Job Skills Partnership, that offset training costs for businesses and their workers.",
+   "how_to_apply": "Contact a CareerForce specialist.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

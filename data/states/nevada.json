@@ -1,0 +1,435 @@
+{
+ "code": "NV",
+ "state": "Nevada",
+ "colleges": [
+  {
+   "name": "College of Southern Nevada",
+   "type": "community college",
+   "city": "Las Vegas",
+   "home_url": "https://www.csn.edu/",
+   "trades_url": "https://www.csn.edu/schools/school-of-advanced-and-applied-technologies/department-of-applied-technologies",
+   "programs": [
+    "Air Conditioning Technology Program",
+    "Automotive Technology Program",
+    "Aviation Technology Program",
+    "CADD Technology Program",
+    "Construction Management Program",
+    "Diesel/Heavy Equipment Program",
+    "Engineering Technology Program",
+    "Water/Wastewater Treatment Program",
+    "Welding Technology Program"
+   ],
+   "credentials": "Welding Technology - AAS (American Welding Society recognized); Air Conditioning Technology - AAS (HVAC Excellence accredited)"
+  },
+  {
+   "name": "Truckee Meadows Community College",
+   "type": "community college",
+   "city": "Reno",
+   "home_url": "https://www.tmcc.edu/",
+   "trades_url": "https://www.tmcc.edu/applied-technology",
+   "programs": [
+    "Advanced Manufacturing",
+    "Air Conditioning Technology",
+    "Apprenticeship",
+    "Architecture and Design",
+    "Automotive",
+    "Construction Management",
+    "Diesel",
+    "Machining",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Western Nevada College",
+   "type": "community college",
+   "city": "Carson City",
+   "home_url": "https://wnc.edu/",
+   "trades_url": "https://wnc.edu/areas/automotive-machining-welding.php",
+   "programs": [
+    "Automotive Mechanics",
+    "Automotive Collision Repair",
+    "Automotive Transmission/Transaxle (industry cert prep)",
+    "Automotive Heating & Air Conditioning (industry cert prep)",
+    "Electrical Technician (industry cert prep)",
+    "Machine Tool Technology",
+    "Welding Technology",
+    "Construction Management",
+    "Construction Gateway (industry cert prep)",
+    "Ramsdell Construction Academy (industry cert prep)",
+    "HVAC (Skills Certificate)",
+    "Industrial Electronics Technology (certificate)",
+    "Mechatronics and Electronics Technology (AAS)",
+    "Manufacturing Technician (industry cert prep)"
+   ],
+   "credentials": "AAS - Automotive Mechanics, Machine Tool Technology, Welding Technology, Technology Construction, Mechatronics and Electronics Technology; Certificates of Achievement; industry certification preparation courses"
+  },
+  {
+   "name": "Great Basin College",
+   "type": "community college",
+   "city": "Elko",
+   "home_url": "https://www.gbcnv.edu/",
+   "trades_url": "https://www.gbcnv.edu/catalog/current/programs/career-and-technical-education/index.html",
+   "programs": [
+    "Diesel Technology (AAS, CT)",
+    "Electrical Technology (AAS, CT)",
+    "Industrial Maintenance Technology (AAS, CT)",
+    "Instrumentation Technology (CT, BAS)",
+    "Manufacturing Machining Technology (AAS, CT)",
+    "Mining Industry (CT)",
+    "Welding Technology (AAS, CT)"
+   ],
+   "credentials": "AAS, CT (certificate), BAS for Instrumentation Technology"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 357",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Las Vegas",
+   "url": "https://ibew357.net/",
+   "description": "Home page of IBEW Local 357, the Las Vegas electrical workers local, with member, contractor and traveling-apprentice forms."
+  },
+  {
+   "name": "Electrical Joint Apprenticeship and Training Committee of Southern Nevada (Electricians)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Electricians apprenticeship contact listed on CSN's apprenticeship contacts page, at 620 Leigon Way, Las Vegas, NV 89110, (702) 459-7949."
+  },
+  {
+   "name": "Plumbers and Pipefitters JATC (Local 525 training center)",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing",
+    "pipefitting",
+    "HVAC"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Plumbers and pipefitters apprenticeship contact listed on CSN's apprenticeship contacts page, at 750 Leigon Way, Las Vegas, NV 89110, (702) 459-3473."
+  },
+  {
+   "name": "Operating Engineers Local 12 JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment operator"
+   ],
+   "city": "North Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Operating engineers apprenticeship contact listed on CSN's apprenticeship contacts page, at 6350 Howdy Wells Avenue, North Las Vegas, NV 89115, (702) 643-1212."
+  },
+  {
+   "name": "Stationary Operating Engineers (Las Vegas)",
+   "kind": "union local",
+   "trades": [
+    "stationary engineering"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Stationary operating engineers contact listed on CSN's apprenticeship contacts page, at 313 Deauville Street, Las Vegas, NV 89106, (702) 385-5005."
+  },
+  {
+   "name": "Sheet Metal Workers apprenticeship (Las Vegas)",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Sheet metal apprenticeship contact listed on CSN's apprenticeship contacts page, at 2540 Marco Street, Las Vegas, NV 89115, (702) 632-3014."
+  },
+  {
+   "name": "Bricklayers and Tile Setters apprenticeship (Las Vegas)",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry",
+    "tile setting"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Bricklayers and tile setters apprenticeship contact listed on CSN's apprenticeship contacts page, at 3900 West Quail Avenue, Las Vegas, NV 89118, (702) 876-6563."
+  },
+  {
+   "name": "Carpenters apprenticeship (Las Vegas)",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Carpenters apprenticeship contact listed on CSN's apprenticeship contacts page, at 4131 East Bonanza Road, Las Vegas, NV 89110, (702) 452-5099."
+  },
+  {
+   "name": "Laborers apprenticeship (Las Vegas)",
+   "kind": "JATC / training center",
+   "trades": [
+    "construction labor"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Laborers apprenticeship contact listed on CSN's apprenticeship contacts page, at 4211 E. Bonanza Road, Las Vegas, NV 89110, (702) 452-9410."
+  },
+  {
+   "name": "Heat and Frost Insulators apprenticeship (Las Vegas)",
+   "kind": "JATC / training center",
+   "trades": [
+    "insulation"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Heat and frost insulators contact listed on CSN's apprenticeship contacts page, at 4400 East Alexander Road, Las Vegas, NV 89115, (702) 649-7897."
+  },
+  {
+   "name": "Iron Workers apprenticeship (Henderson)",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironworking"
+   ],
+   "city": "Henderson",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Iron workers contact listed on CSN's apprenticeship contacts page, at 960 Wigwam Parkway, Henderson, NV 89014, (702) 643-7991."
+  },
+  {
+   "name": "Painters apprenticeship (Henderson)",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting",
+    "floor covering"
+   ],
+   "city": "Henderson",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Painters and floor covering joint apprenticeship contact listed on CSN's apprenticeship contacts page, at 1701 Whitney Mesa Drive #106, Henderson, NV 89014, (702) 438-2611."
+  },
+  {
+   "name": "Glaziers Local 2001 JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "glazing"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Glaziers JATC contact listed on CSN's apprenticeship contacts page, at 3060 Ali Baba Lane, Las Vegas, (702) 262-5541."
+  },
+  {
+   "name": "Plasterers and Cement Masons apprenticeship (Las Vegas)",
+   "kind": "JATC / training center",
+   "trades": [
+    "plastering",
+    "concrete finishing"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Plasterers and cement masons contact listed on CSN's apprenticeship contacts page, at 4241 W. Oquendo, Las Vegas, (702) 452-8809."
+  },
+  {
+   "name": "Roofers and Waterproofers apprenticeship (Las Vegas)",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Roofers and waterproofers contact listed on CSN's apprenticeship contacts page, at 4125 Arctic Spring Ste. 6, Las Vegas, NV 89115."
+  },
+  {
+   "name": "Teamsters Local 631",
+   "kind": "union local",
+   "trades": [
+    "truck driving"
+   ],
+   "city": "Las Vegas",
+   "url": "https://www.csn.edu/apprenticeship-program-contacts",
+   "description": "Teamsters Local 631 contact listed on CSN's apprenticeship contacts page, at 4601 E. Cheyenne Ste. 103, Las Vegas, NV 89115, (702) 651-0344 ext. 100."
+  },
+  {
+   "name": "Building and Construction Trades Council of Northern Nevada",
+   "kind": "building trades council",
+   "trades": [
+    "HVAC",
+    "plumbing",
+    "construction labor",
+    "electrical",
+    "painting",
+    "welding",
+    "sheet metal"
+   ],
+   "city": "Reno",
+   "url": "https://www.bctnn.org/about",
+   "description": "Reno-based council of building trades affiliates that has trained Northern Nevada construction workers since 1928 and runs paid apprenticeships.",
+   "how_to_apply": "If you are 17 or older with a high school diploma or GED, you can apply for earn-while-you-learn training through the council's affiliates (https://www.bctnn.org/paid-training-apprenticeships)."
+  },
+  {
+   "name": "Operating Engineers Local 3 Nevada Training Center",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment operator"
+   ],
+   "city": "Wadsworth",
+   "url": "https://www.oe3.org/nevada-training/",
+   "description": "Operating Engineers Local 3 Nevada training page describing paid apprenticeships for heavy equipment operators, at 17308 Interstate 80, Wadsworth, NV 89442."
+  },
+  {
+   "name": "TMCC ABE Pre-Apprenticeship Program",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "skilled trades",
+    "manufacturing",
+    "healthcare",
+    "hospitality",
+    "information technology"
+   ],
+   "city": "Reno",
+   "url": "https://www.tmcc.edu/adult-basic-education/pre-apprenticeship-application",
+   "description": "Free pre-apprenticeship program from Truckee Meadows Community College Adult Basic Education, with five tracks including skilled trades.",
+   "how_to_apply": "Eligible ESL and High School Equivalency (HSE) preparation students can apply on the TMCC Adult Basic Education pre-apprenticeship application page."
+  },
+  {
+   "name": "Electrical JATC for Southern Nevada",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Las Vegas",
+   "url": "https://earnwhileyoulearn.org/",
+   "apprenticeship_url": "https://earnwhileyoulearn.org/apprenticeship-and-application/",
+   "description": "EJATC – Electrical Joint Apprenticeship Training Center of Southern Nevada."
+  },
+  {
+   "name": "IBEW Local 357",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Las Vegas",
+   "url": "https://www.ibew357.net/",
+   "apprenticeship_url": "https://www.ibew357.net/index.cfm?zone=/unionactive/form_page.cfm&formID=108823",
+   "description": "IBEW Local 357."
+  },
+  {
+   "name": "IBEW Local 396",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Las Vegas",
+   "url": "http://www.ibew396.org/",
+   "description": "IBEW Local 396."
+  },
+  {
+   "name": "Northern Nevada Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Reno",
+   "url": "https://www.northernnevadaelectricians.com/",
+   "apprenticeship_url": "https://www.northernnevadaelectricians.com/jatc-and-staff/",
+   "description": "NNETC."
+  },
+  {
+   "name": "IUOE Local 3 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Reno",
+   "url": "https://www.oe3.org/nevada-contact/",
+   "apprenticeship_url": "https://www.oe3.org/training-schedules/",
+   "description": "Reno, NV 89502 Phone (775) 857-4440 Back Up Phone (510) 748-8365 Business Hours Mon – Fri 9am – 5pm Other Offices Elko Office 555 West Silver Street, Suite 104 Elko, NV 89801 Phone (775) 753-8761 Back Up Phone (510) 748-8366 Business Hours Mon – Fri 9am – 5pm Northern Nevada Training Center P.O."
+  },
+  {
+   "name": "IUOE Local 501 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Las Vegas",
+   "url": "https://local501.org/",
+   "apprenticeship_url": "https://local501.org/training/"
+  },
+  {
+   "name": "BAC Mountain West Administrative District Council",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Las Vegas",
+   "url": "https://www.mwbac.org/",
+   "description": "BAC Mountain West represents bricklayers and allied craftworkers across Nevada, Utah, Arizona, Colorado, New Mexico, and Wyoming."
+  },
+  {
+   "name": "Southern Nevada Laborers’ Training Trust Local #872",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Las Vegas",
+   "url": "https://www.local872.com/",
+   "apprenticeship_url": "https://www.local872.com/training",
+   "description": "Home Page for the Laborer"
+  },
+  {
+   "name": "Laborers’ Training Fund for Northern Nevada",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Sparks",
+   "url": "https://local169.com/",
+   "apprenticeship_url": "https://local169.com/training/",
+   "description": "Join LIUNA Local 169 for apprenticeship training, family-supporting wages, great benefits, contractor partnerships, and rewarding construction careers."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Las Vegas Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Las Vegas",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Reno Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Financial Boulevard Reno",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1977 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Las Vegas",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 971 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Reno",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Las Vegas Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Las Vegas",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Nevada State Contractors Board",
+   "trades": [
+    "plumbing and heating (C-1)",
+    "electrical (C-2)",
+    "refrigeration and air-conditioning (C-21)"
+   ],
+   "url": "https://www.nvcontractorsboard.com/",
+   "description": "Licenses Nevada contractors by classification, including C-1 plumbing and heating, C-2 electrical, and C-21 refrigeration and air-conditioning; general requirements include four years of journeyman, foreman, supervisor or contractor experience in the classification (https://www.nvcontractorsboard.com/licensing/faq-for-general-requirements/)."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Nevada Career Enhancement Program (CEP)",
+   "url": "https://detr.nv.gov/page/Career_Enhancement_Program_(CEP)",
+   "provider": "Nevada Department of Employment, Training and Rehabilitation (DETR)",
+   "kind": "tools",
+   "provides": "Pays for job-related expenses such as certifications, work permits, uniforms and small tools to help job seekers enter or re-enter the labor force.",
+   "how_to_apply": "Contact DETR (see page).",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

@@ -7,6 +7,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
+import { buildStates } from './build-states.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const out = join(root, 'dist');
@@ -65,8 +66,11 @@ let home = readFileSync(join(root, 'src', 'home.html'), 'utf8');
 for (const [k, v] of Object.entries(fill)) home = home.split(k).join(v);
 writeFileSync(join(out, 'index.html'), a11y(home));
 
+// ---- state pages ----
+const stateSlugs = buildStates({ root, out, pageStyle, homeCss: fill.__HOME_CSS__, retroSnippet, retroSwitch, a11y, site: SITE });
+
 // ---- sitemap / robots ----
-const urls = ['', 'michigan.html'].map((p) => `<url><loc>${SITE}/${p}</loc></url>`).join('');
+const urls = ['', 'michigan.html', ...stateSlugs.map((s) => 'states/' + s + '.html')].map((p) => `<url><loc>${SITE}/${p}</loc></url>`).join('');
 writeFileSync(join(out, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls}</urlset>\n`);
 writeFileSync(join(out, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${SITE}/sitemap.xml\n`);
 console.log('built dist/: index.html michigan.html', colleges.length + 1, 'states');

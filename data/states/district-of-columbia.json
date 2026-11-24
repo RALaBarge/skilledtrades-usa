@@ -1,0 +1,220 @@
+{
+ "code": "DC",
+ "state": "District of Columbia",
+ "colleges": [
+  {
+   "name": "University of the District of Columbia (UDC) Workforce Development and Lifelong Learning (WDLL)",
+   "type": "state college",
+   "city": "Washington",
+   "home_url": "https://www.udc.edu/",
+   "trades_url": "https://www.udc.edu/workforce-development/pathway",
+   "programs": [
+    "Construction Craft Skills and Application (CORE)",
+    "Construction Craft Skills and Carpentry I-A",
+    "Carpentry 1-B",
+    "Construction Craft Skills and Electrical I-A",
+    "Electrical 1-B",
+    "Construction Craft Skills and NCCER HVAC Level 1-A",
+    "NCCER HVAC Level 1-B",
+    "Apartment Maintenance"
+   ],
+   "credentials": "Page lists NCCER-based construction craft skills levels and program flyers. Continuing Education also offers HVAC/R Technician (Voucher Included) and a Skilled Trades and Industrial category."
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 26",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Washington",
+   "url": "https://ibewlocal26.org/",
+   "description": "IBEW Local 26 represents electricians in DC, Maryland and Virginia and runs tuition-free, earn-while-you-learn apprenticeship training.",
+   "how_to_apply": "Training page: https://ibewlocal26.org/join-as-individual/training/ ; individual join page: https://ibewlocal26.org/join-as-individual/"
+  },
+  {
+   "name": "Plumbers & Gasfitters Local Union 5 (Apprenticeship School)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "plumbing",
+    "pipefitting",
+    "gasfitting"
+   ],
+   "url": "https://www.local5plumbers.org/apprenticeship.aspx",
+   "description": "Plumbers and Gasfitters Local 5 runs a UA-affiliated apprenticeship school for plumbers and gasfitters, with training classes and apprentice applications.",
+   "how_to_apply": "Apprentice applications: https://www.local5plumbers.org/apprenticeship-applications.aspx"
+  },
+  {
+   "name": "SMART Local 100 (Sheet Metal Workers)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "sheet metal"
+   ],
+   "city": "Washington",
+   "url": "https://smart100.org/apprenticeships/",
+   "description": "SMART Local 100 trains apprentices to become journeymen sheet metal workers.",
+   "how_to_apply": "Apply through the apprenticeship page: https://smart100.org/apprenticeships/"
+  },
+  {
+   "name": "BAC Local 1 MVD (Bricklayers, Maryland, Virginia and DC)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "masonry",
+    "bricklaying"
+   ],
+   "url": "https://baclocal1.org/apprenticeship",
+   "description": "BAC Local 1 MD, VA and DC trains masons to contemporary construction, code and safety standards."
+  },
+  {
+   "name": "Metropolitan Washington Council, AFL-CIO (Apprenticeship Directory)",
+   "kind": "building trades council",
+   "trades": [
+    "construction",
+    "building trades (directory of affiliate union apprenticeships)"
+   ],
+   "city": "Washington",
+   "url": "https://www.dclabor.org/apprenticeships",
+   "description": "Central labor council whose apprenticeship directory lists affiliate union apprenticeship programs; applications are accepted year round through an online form.",
+   "how_to_apply": "Use the online apprenticeship directory form listed on the page."
+  },
+  {
+   "name": "ABC Metropolitan Washington - Apprenticeship and Skills Training (CraftMasters Trades Education)",
+   "kind": "contractor association",
+   "trades": [
+    "construction craft trades"
+   ],
+   "city": "Washington",
+   "url": "https://www.abcmetrowashington.org/Career-Workforce-Development/CraftMasters-Trades-Education/Apprenticeship-Skills-Training",
+   "description": "Associated Builders and Contractors chapter offering non-union apprenticeship and construction craft skills training through CraftMasters Trades Education."
+  },
+  {
+   "name": "DC Students Construction Trades Foundation",
+   "kind": "nonprofit",
+   "trades": [
+    "construction",
+    "NCCER craft training",
+    "pre-apprenticeship"
+   ],
+   "city": "Washington",
+   "url": "https://dcstudentsctf.org/",
+   "description": "DC Students Construction Trades Foundation sponsors career tech and adult job training and pre-apprenticeship instruction for construction work in the District.",
+   "how_to_apply": "Adult job training (ages 18+) via contact form: https://dcstudentsctf.org/adult-job-training/ . Training is delivered through community partners including Catholic Charities and United Planning Organization."
+  },
+  {
+   "name": "Catholic Charities DC - Pre-Apprenticeship Green Construction Training",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "green construction",
+    "weatherization",
+    "construction"
+   ],
+   "city": "Washington",
+   "url": "https://www.catholiccharitiesdc.org/program/pre-apprenticeship-green-construction-training/",
+   "description": "Pre-apprenticeship program that prepares participants for careers in green building; open to DC, Maryland and Virginia residents over 18."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction (veterans; national program)"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Connects veterans with construction apprenticeship careers and explains how to use GI Bill benefits for apprenticeship training.",
+   "how_to_apply": "Start at the Veterans page on the site: https://helmetstohardhats.org/"
+  },
+  {
+   "name": "DC Department of Employment Services - Office of Apprenticeship, Information and Training (OAIT)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction",
+    "registered apprenticeship (all trades)"
+   ],
+   "city": "Washington",
+   "url": "https://does.dc.gov/service/apprenticeships",
+   "description": "DC government office for registered apprenticeships, the DC Apprenticeship Council and construction project compliance."
+  },
+  {
+   "name": "IBEW Local 1200",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Washington",
+   "url": "https://ibew1200.org/",
+   "description": "IBEW – Local 1200."
+  },
+  {
+   "name": "IBEW Local 70",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Washington",
+   "url": "https://www.ibew70.us/",
+   "apprenticeship_url": "https://www.ibew70.us/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/apprenticehours.cfm",
+   "description": "IBEW Local 70."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "DC Board of Industrial Trades (Department of Licensing and Consumer Protection, DLCP)",
+   "trades": [
+    "plumbers",
+    "electricians",
+    "refrigeration and air conditioning mechanics (HVAC/R)",
+    "steam and operating engineers",
+    "asbestos workers",
+    "elevator trades"
+   ],
+   "url": "https://dlcp.dc.gov/page/board-industrial-trades-0",
+   "description": "Licenses plumbers, electricians, refrigeration and air conditioning mechanics, steam and operating engineers, asbestos workers and elevator trades in DC. Board meets quarterly; applicants apply for a license through the DLCP site."
+  }
+ ],
+ "funding": [
+  {
+   "name": "DC Tuition Assistance Grant (DCTAG)",
+   "url": "https://osse.dc.gov/dctag",
+   "provider": "DC Office of the State Superintendent of Education (OSSE)",
+   "kind": "grant",
+   "provides": "Grant for DC residents attending eligible public or private colleges and universities, applied for through DC OneApp.",
+   "eligibility": "US citizen or eligible non-citizen; attend an eligible college; DC resident for at least 12 consecutive months before first enrolling, and meet the other listed requirements (per page).",
+   "how_to_apply": "DC OneApp; the 2026-27 application period closed August 21, 2026 (per page). Must reapply yearly.",
+   "audience": "individual",
+   "status": "closed"
+  },
+  {
+   "name": "Mayor's Scholars Undergraduate Program",
+   "url": "https://osse.dc.gov/mayorsscholars",
+   "provider": "DC Office of the State Superintendent of Education (OSSE)",
+   "kind": "scholarship",
+   "provides": "Need-based last-dollar funding for DC residents earning a first associate or bachelor's degree at select area colleges and universities.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "DC Occupational Skills Training (Individual Training Accounts)",
+   "url": "https://does.dc.gov/service/occupational-skills-training",
+   "provider": "DC Department of Employment Services (DOES)",
+   "kind": "training voucher",
+   "provides": "Individual Training Accounts for occupational skills training in high-demand sectors such as IT, health care, construction and sales/service.",
+   "eligibility": "Eligibility determined by a DOES Employment Specialist under WIOA criteria (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "DC Registered Apprenticeships (OAIT)",
+   "url": "https://does.dc.gov/service/apprenticeships",
+   "provider": "DC Department of Employment Services, Office of Apprenticeship, Information and Training",
+   "kind": "apprenticeship",
+   "provides": "Apprenticeship that combines on-the-job training with classroom instruction; OAIT oversees DC apprenticeship programs.",
+   "audience": "mixed",
+   "status": "open"
+  },
+  {
+   "name": "DC Youth Services (Office of Youth Programs)",
+   "url": "https://does.dc.gov/node/107082",
+   "provider": "DC Department of Employment Services (DOES)",
+   "kind": "supportive services",
+   "provides": "Youth programs offering skills training, work experience, academic enrichment and life skills training.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

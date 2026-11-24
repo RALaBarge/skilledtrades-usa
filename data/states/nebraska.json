@@ -1,0 +1,415 @@
+{
+ "code": "NE",
+ "state": "Nebraska",
+ "colleges": [
+  {
+   "name": "Southeast Community College",
+   "type": "community college",
+   "city": "Lincoln",
+   "home_url": "https://www.southeast.edu/",
+   "trades_url": "https://www.southeast.edu/academics/programs/index.php",
+   "programs": [
+    "Auto Collision Repair Technology",
+    "Automotive Technology",
+    "Electrician Construction (LEJATC)",
+    "Electronic Systems Technology",
+    "John Deere Tech",
+    "Manufacturing Engineering Technology",
+    "Nondestructive Testing Technology",
+    "Powersports Technology",
+    "Utility Lineworker",
+    "Welding Technology",
+    "Diesel Technology (program page)"
+   ],
+   "credentials": "Certificate, Diploma, A.A.S. (per program pages); apprenticeships listed"
+  },
+  {
+   "name": "Metropolitan Community College",
+   "type": "community college",
+   "city": "Omaha",
+   "home_url": "https://www.mccneb.edu/",
+   "trades_url": "https://www.mccneb.edu/afalanding/afaskilledtrades",
+   "programs": [
+    "Auto Collision Technology",
+    "Automotive Technology",
+    "CDL-A Truck Driving",
+    "Construction and Building Science",
+    "Diesel Technology",
+    "Electrical Apprenticeship",
+    "Electrical Mechanical Maintenance Technology",
+    "Electrical Technology",
+    "Facilities Operations and Maintenance Technology",
+    "Heating, Air Conditioning and Refrigeration",
+    "Industrial and Commercial Trades",
+    "Manufacturing, Power & Process Operations Technology",
+    "Plumbing Apprenticeship",
+    "Pre-Apprenticeship Plumbing",
+    "Powersports and Outdoor Power Technology",
+    "Precision Machine Technology",
+    "Utility Line Technician",
+    "Welding Technology",
+    "Mechanical Design Technology",
+    "Prototype Design"
+   ],
+   "credentials": "Program pages list degree and certificate options; workforce Tier 1 and Tier 2 certifications listed on MCC Logistics & Industrial Automation Academy page"
+  },
+  {
+   "name": "Central Community College",
+   "type": "community college",
+   "city": "Hastings",
+   "home_url": "https://cccneb.edu/",
+   "trades_url": "https://cccneb.edu/programs/apprenticeships/apprenticeship-partners/",
+   "programs": [
+    "Advanced Manufacturing Design Technology",
+    "General Manufacturing Certificate",
+    "CNC Manufacturing Certificate",
+    "Plastic Mold Maker Certificate",
+    "Tool & Die Certificate",
+    "Auto Body Technology",
+    "Automotive Technology",
+    "Automotive Technology Degree",
+    "Automotive Technology Diploma",
+    "Collision Repair Certificate",
+    "Construction Technology",
+    "Construction Technology Diploma",
+    "Interior Finish Carpentry Certificate",
+    "Residential Framing Certificate",
+    "Basic Metal Certificate",
+    "Advanced Welding"
+   ],
+   "credentials": "Certificate, diploma, degree; apprenticeship options per program PDFs"
+  },
+  {
+   "name": "Northeast Community College",
+   "type": "community college",
+   "city": "Norfolk",
+   "home_url": "https://northeast.edu/",
+   "trades_url": "https://northeast.edu/academics/fields-of-study/skilled-technical",
+   "programs": [
+    "Welding",
+    "Welding Apprenticeship",
+    "Electrician Apprenticeship",
+    "Electrical Construction and Control",
+    "Electromechanical Apprenticeship",
+    "HVAC Technician Apprenticeship",
+    "Building Construction",
+    "Plumbing Technology",
+    "Automotive Technology",
+    "Automotive Light Service Technician",
+    "Diesel Technology",
+    "Ag Diesel Apprenticeship",
+    "Drafting CAD Technician Apprenticeship"
+   ],
+   "credentials": "Certificate or diploma (welding); AAS (building construction)"
+  },
+  {
+   "name": "Western Nebraska Community College",
+   "type": "community college",
+   "city": "Scottsbluff",
+   "home_url": "https://www.wncc.edu/",
+   "trades_url": "https://www.wncc.edu/academics/programs-of-study/automotive-tech.php",
+   "programs": [
+    "Automotive Technology, AAS",
+    "Automotive Technology, Drivetrain & Under Hood Repair Certificate",
+    "Automotive Technology, Powertrain & Chassis Repair Certificate"
+   ],
+   "credentials": "AAS and certificates per catalog links"
+  },
+  {
+   "name": "Mid-Plains Community College",
+   "type": "community college",
+   "city": "North Platte",
+   "home_url": "https://www.mpcc.edu/",
+   "trades_url": "https://www.mpcc.edu/academics/programs/index.php",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Welding Technology",
+    "Commercial Driver Training"
+   ],
+   "credentials": "Program pages fetched 200 for each trade listed; credential detail not captured"
+  },
+  {
+   "name": "Nebraska College of Technical Agriculture",
+   "type": "state college",
+   "city": "Curtis",
+   "home_url": "https://ncta.unl.edu/",
+   "trades_url": "https://ncta.unl.edu/agricultural-mechanics-degree-options-and-certificates/",
+   "programs": [
+    "Agricultural Mechanics"
+   ],
+   "credentials": "Degree options and certificates on the program page"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 22 (Omaha)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Omaha",
+   "url": "https://www.ibew22.org/",
+   "description": "IBEW Local 22 member site with apprenticeship, continuing education, and Nebraska licensing pages."
+  },
+  {
+   "name": "IBEW Local 265 (Lincoln)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Lincoln",
+   "url": "https://www.ibew265.org/",
+   "description": "IBEW Local 265 site listing signatory contractors, office locations and member resources."
+  },
+  {
+   "name": "Lincoln Electrical JATC (Electrician Construction program)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Lincoln",
+   "url": "https://www.southeast.edu/academics/building-construction/electrician-construction/index.php",
+   "description": "Southeast Community College program page for the Electrician Construction (LEJATC) option tied to the Lincoln electrical joint apprenticeship committee."
+  },
+  {
+   "name": "IUOE Local 571",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment operating",
+    "stationary engineering"
+   ],
+   "url": "https://iuoe571.org/training-apprenticeship/",
+   "description": "IUOE Local 571 page on its training and apprenticeship program for operating and stationary engineers."
+  },
+  {
+   "name": "Associated Builders and Contractors Nebraska Chapter (ABC NESD)",
+   "kind": "contractor association",
+   "trades": [
+    "construction",
+    "electrical"
+   ],
+   "url": "https://www.abcnesd.org/",
+   "description": "ABC Nebraska chapter site listing apprenticeship programs, craft and continuing education, electrical continuing education, and safety training."
+  },
+  {
+   "name": "Nebraska Department of Labor - Registered Apprenticeship",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction",
+    "multiple"
+   ],
+   "city": "Lincoln",
+   "url": "https://dol.nebraska.gov/ReemploymentServices/EmployerResources/RegisteredApprenticeship",
+   "description": "Nebraska Department of Labor page on the state registered apprenticeship program."
+  },
+  {
+   "name": "NABTU Nebraska building trades council directory",
+   "kind": "building trades council",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://nabtu.org/councils/nebraska/?type=local",
+   "description": "North America's Building Trades Unions directory page for Nebraska councils and local affiliates. The page did not expose a full affiliate roster."
+  },
+  {
+   "name": "IBEW Local 1920",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "North Platte",
+   "url": "https://www.ibew1920.org/",
+   "apprenticeship_url": "https://www.ibew1920.org/?PageRequest=Login&Resume=Notices%2CVacationsTraining",
+   "description": "IBEW Local 1920 - Supporting Electrical Workers in North Platte, NE."
+  },
+  {
+   "name": "IBEW Local 22",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Omaha",
+   "url": "https://www.ibew22.org/",
+   "apprenticeship_url": "https://www.ibew22.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 22."
+  },
+  {
+   "name": "IBEW Local 265",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Lincoln",
+   "url": "https://www.ibew265.org/",
+   "apprenticeship_url": "https://www.ibew265.org/index.cfm?zone=/unionactive/view_page.cfm&page=Training",
+   "description": "IBEW Local 265."
+  },
+  {
+   "name": "Lincoln Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Lincoln",
+   "url": "https://lincolnelectricaljatc.org/",
+   "apprenticeship_url": "https://lincolnelectricaljatc.org/",
+   "description": "We at Lincoln Electrical Joint Apprenticeship & Training Committee train premiere electricians in and around the Lincoln area. We take great pride in delivering the most efficient in the industry. We provide the best electrical education. Look no further and contact us to know."
+  },
+  {
+   "name": "IUOE Local 571 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Omaha",
+   "url": "https://www.iuoe571.org/",
+   "apprenticeship_url": "https://iuoe571.org/training-apprenticeship/",
+   "description": "IUOE Local 571 Skip to content Home About Training &amp; Apprenticeship Member Resources Stationary engineers Contractors Join Local 571 Contact Home About Training &amp; Apprenticeship Member Resources Stationary engineers Contractors Join Local 571 Contact IUOE LOCAL 571 Skilled."
+  },
+  {
+   "name": "Contractors-Laborers Training and Apprentice Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Omaha",
+   "url": "https://laborers1140.com/",
+   "apprenticeship_url": "https://laborers1140.com/training-schedule/"
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Carpenters Training Institute - Omaha Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Papillion",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 427 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Papillion",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1306 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Papillion",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1463 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Papillion",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Nebraska State Electrical Division",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://electrical.nebraska.gov/licensing",
+   "description": "State agency that licenses journeyman and master electricians, electrical contractors and fire alarm installers, and handles apprentice registration, under the Nebraska State Electrical Act."
+  },
+  {
+   "name": "City of Lincoln Building and Safety (licensed trade professionals)",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://www.lincoln.ne.gov/City/Departments/PDS/Building-Safety/Join-Our-Team/What-it-Takes-to-Become-a-Licensed-Trade-Professional",
+   "description": "City of Lincoln page on how to become a licensed trade professional locally, including the plumbing journeyman exam requirement."
+  }
+ ],
+ "funding": [
+  {
+   "name": "NE Career Scholarship at Community Colleges",
+   "url": "https://ccpe.nebraska.gov/ne-career-scholarship-community-colleges",
+   "provider": "Nebraska Coordinating Commission for Postsecondary Education",
+   "kind": "scholarship",
+   "provides": "Renewable scholarship for tuition, fees, required tools and equipment, room and board for degree programs leading to high-wage, high-skill, high-demand careers.",
+   "amount": "Up to $15,000 per year, per the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NE Career Scholarship at Private Colleges",
+   "url": "https://ccpe.nebraska.gov/ne-career-scholarship-private-colleges",
+   "provider": "Nebraska Coordinating Commission for Postsecondary Education",
+   "kind": "scholarship",
+   "provides": "Renewable scholarship at participating private colleges for tuition, fees, required tools and equipment, room and board for high-wage, high-skill, high-demand programs.",
+   "amount": "Up to $10,000 per year, per the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Nebraska Opportunity Grant (NOG)",
+   "url": "https://ccpe.nebraska.gov/nebraska-opportunity-grant-nog",
+   "provider": "Nebraska Coordinating Commission for Postsecondary Education",
+   "kind": "grant",
+   "provides": "State grant for students who meet qualifications, awarded through participating Nebraska postsecondary institutions.",
+   "eligibility": "Nebraska resident attending a Nebraska postsecondary institution with a minimum Student Aid Index from the FAFSA.",
+   "how_to_apply": "Apply to the school, which considers the student for the grant.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Door to College (DTC) Scholarship Program",
+   "url": "https://ccpe.nebraska.gov/door-college-dtc-scholarship-program",
+   "provider": "Nebraska Coordinating Commission for Postsecondary Education",
+   "kind": "scholarship",
+   "provides": "Scholarship toward educational expenses for undergraduates at Nebraska postsecondary institutions who graduated from a YRTC or an approved high school, or earned a GED after YRTC discharge.",
+   "eligibility": "Graduated from a Youth Rehabilitation and Treatment Center, an approved or accredited high school, or earned a GED after YRTC discharge.",
+   "amount": "Up to $5,000 per year, per the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Access College Early (ACE) Scholarship Program",
+   "url": "https://ccpe.nebraska.gov/access-college-early-ace-scholarship-program",
+   "provider": "Nebraska Coordinating Commission for Postsecondary Education",
+   "kind": "scholarship",
+   "provides": "Pays tuition and mandatory fees for qualified low-income high school students taking college courses through dual or early enrollment agreements.",
+   "eligibility": "Qualified low-income high school students, per the page.",
+   "how_to_apply": "Complete the ACE Student Application, reviewed by the Coordinating Commission.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Nebraska Career-Readiness and Dual-Credit Education (CRDC) Grant",
+   "url": "https://ccpe.nebraska.gov/career-readiness-and-dual-credit-education-grant-program",
+   "provider": "Nebraska Coordinating Commission for Postsecondary Education",
+   "kind": "grant",
+   "provides": "Grants covering tuition and fees for teachers pursuing coursework to teach dual-credit and career and technical education courses.",
+   "eligibility": "Teachers, per the page.",
+   "audience": "school",
+   "status": "unknown"
+  },
+  {
+   "name": "Nebraska Workforce Development Grant Program",
+   "url": "https://dol.nebraska.gov/ReemploymentServices/WDGP",
+   "provider": "Nebraska Department of Labor",
+   "kind": "grant",
+   "provides": "Commissioner of Labor awards grants for projects supporting Nebraska workforce development; the Nebraska Workforce Development Board accepts proposals and forwards selections.",
+   "how_to_apply": "Proposals go through the Nebraska Workforce Development Board, per the page.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Nebraska Registered Apprenticeship (employer resources)",
+   "url": "https://dol.nebraska.gov/ReemploymentServices/EmployerResources/RegisteredApprenticeship",
+   "provider": "Nebraska Department of Labor",
+   "kind": "apprenticeship",
+   "provides": "Registered apprenticeship combining supervised on-the-job training with classroom instruction; the Good Life, Great Careers goal is 6,000 new registered active apprentices by December 31, 2030.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Nebraska Trade Adjustment Assistance (TAA)",
+   "url": "https://dol.nebraska.gov/ReemploymentServices/LayoffServices/TradeAdjustmentAssistance",
+   "provider": "Nebraska Department of Labor",
+   "kind": "other",
+   "provides": "Trade Act programs (TAA, RTAA, ATAA) help individuals who became unemployed from increased imports or production shifts return to suitable employment.",
+   "eligibility": "Individuals unemployed as a result of increased imports or shifts in production to foreign countries, per the page.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

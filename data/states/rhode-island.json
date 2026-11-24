@@ -1,0 +1,163 @@
+{
+ "code": "RI",
+ "state": "Rhode Island",
+ "colleges": [
+  {
+   "name": "Community College of Rhode Island (CCRI)",
+   "type": "community college",
+   "city": "Warwick",
+   "home_url": "https://www.ccri.edu/",
+   "trades_url": "https://www.ccri.edu/workforce/programs/welding.html",
+   "programs": [
+    "Welding (14-week, 420-hour non-credit program; SMAW, GMAW, FCAW, GTAW, AWS D1.1 testing)",
+    "Fast Track to CNC Manufacturing (Phase 1 earns 13 credits; held at Liston Campus, Providence)",
+    "Electrical Apprenticeship (CCRI as RIDLT-approved related instruction provider)",
+    "Construction Trades Readiness Certificate (based on MC3 curriculum; OSHA-10, electrical fundamentals)",
+    "Advanced Manufacturing and Design - Associate in Science",
+    "Advanced Manufacturing and Design - CNC Manufacturing certificates",
+    "Engineering, Electrical - Associate in Science in Engineering"
+   ],
+   "credentials": "Welding: non-credit program, OSHA 10, AWS D1.1 performance qualification testing. CNC: Phase 1 earns 13 college credits and OSHA-10. Construction Trades Readiness: certificate. Also AS and certificate awards in advanced manufacturing; AS in engineering electrical."
+  }
+ ],
+ "unions": [
+  {
+   "name": "Rhode Island Construction Training Academy (RICTA)",
+   "kind": "JATC / training center",
+   "trades": [
+    "Carpentry",
+    "Craft Laborer",
+    "Electrical",
+    "HVAC",
+    "Painting",
+    "Pipefitting",
+    "Plumbing",
+    "Roofing",
+    "Sheet Metal",
+    "Sprinkler Fitting"
+   ],
+   "city": "Pawtucket",
+   "url": "https://www.ricta.org/Courses",
+   "description": "Apprenticeship training program for construction trades, closely affiliated with Associated Builders and Contractors of Rhode Island.",
+   "how_to_apply": "Classes begin each September, two nights a week 6-9pm. 2026/2027 apprenticeship registration is open per the home page; online and paper registration forms are linked. Contact Director of Education and Apprenticeship Nicole Foley at 401-205-2053. School address 249 Roosevelt Avenue, Lower Level, Pawtucket."
+  },
+  {
+   "name": "IBEW Local 99 Joint Apprenticeship and Training Committee (JATC)",
+   "kind": "JATC / training center",
+   "trades": [
+    "Electrician"
+   ],
+   "url": "https://ibew99.org/electrician-apprenticeship/",
+   "description": "IBEW Local 99 electrician apprenticeship program run through the JATC; the NECA/IBEW joint program is also described on the JATC page.",
+   "how_to_apply": "Page says entry-level applications are currently closed and to watch for next application dates. Applications carry a $25 fee (card, money order or certified check). Applications are begun at the Training Facility. Registered apprentices from other programs and completed pre-apprenticeship graduates may apply with documentation."
+  },
+  {
+   "name": "Associated Builders and Contractors Rhode Island Chapter (ABC RI)",
+   "kind": "contractor association",
+   "url": "https://www.abcri.org/",
+   "description": "Rhode Island chapter of Associated Builders and Contractors, a merit-shop construction contractor association; closely affiliated with RICTA.",
+   "how_to_apply": "Membership information is at https://www.abcri.org/Membership/Membership-Application."
+  },
+  {
+   "name": "RI Department of Labor and Training - Apprenticeship",
+   "kind": "apprenticeship program",
+   "city": "Cranston",
+   "url": "https://dlt.ri.gov/regulation-and-safety/apprenticeship",
+   "description": "State overview of Registered Apprenticeship, which combines paid on-the-job learning with related instruction and a nationally recognized credential.",
+   "how_to_apply": "Page has 'Become an Apprentice' and 'Register an Apprenticeship' sections (https://dlt.ri.gov/individuals/become-apprentice)."
+  },
+  {
+   "name": "CCRI Office of Apprenticeships",
+   "kind": "apprenticeship program",
+   "trades": [
+    "Electrical"
+   ],
+   "city": "Warwick",
+   "url": "https://www.ccri.edu/apprenticeships/index.html",
+   "description": "CCRI office that connects students and employers with Registered Apprenticeships and related instruction.",
+   "how_to_apply": "Separate 'For Students' and 'For Employers' sections on the page."
+  },
+  {
+   "name": "IBEW Local 99",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Providence",
+   "url": "https://ibew99.org/",
+   "apprenticeship_url": "https://ibew99.org/electrician-apprenticeship/",
+   "description": "IBEW Local 99."
+  },
+  {
+   "name": "IUOE Local 57 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Johnston",
+   "url": "https://iuoelocal57.org/",
+   "apprenticeship_url": "https://iuoelocal57.org/training/",
+   "description": "Training We have a state of the art apprenticeship program and a variety of training all of our eligible Local 57 members."
+  },
+  {
+   "name": "Local 330 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Warwick",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Rhode Island Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://www.buildingtradesri.com/",
+   "description": "Rhode Island Building & Construction Trades Council Rhode Island Building & Construction Trades Council News News Home Who We Are Our Proud History Calendar Careers Why Work Union Apprenticeships Veterans in the Trades Interested in a Building Trades Career?"
+  }
+ ],
+ "licensing": [
+  {
+   "name": "RI DLT Board of Examiners for Electricians",
+   "trades": [
+    "Electrician"
+   ],
+   "url": "https://dlt.ri.gov/regulation-and-safety/professional-regulation/board-of-examiners-electricians",
+   "description": "State board that examines and licenses electricians in Rhode Island; meets at DLT, 1511 Pontiac Avenue, Cranston."
+  },
+  {
+   "name": "RI DLT Board of Examiners of Plumbers (Plumbers and Irrigators)",
+   "trades": [
+    "Plumbing",
+    "Irrigation"
+   ],
+   "url": "https://dlt.ri.gov/regulation-and-safety/professional-regulation/board-of-examiners-plumbers-and-irrigators",
+   "description": "State board that examines and licenses plumbers and irrigators in Rhode Island; meets at DLT, 1511 Pontiac Avenue, Cranston."
+  },
+  {
+   "name": "RI DLT Licensed Elevator Companies list",
+   "trades": [
+    "Elevator"
+   ],
+   "url": "https://dlt.ri.gov/regulation-and-safety/occupational-safety/licensed-elevator-companies",
+   "description": "DLT list of elevator companies licensed to do business in Rhode Island."
+  },
+  {
+   "name": "RI Contractors' Registration and Licensing Board (CRLB), RI Department of Business Regulation",
+   "trades": [
+    "General contracting",
+    "Building trades contracting"
+   ],
+   "url": "https://dbr.ri.gov/contractors-and-building-design-fire-professionals-board-accountancy/contractors-registration-and",
+   "description": "Board that registers and licenses contractors in Rhode Island and publishes its enforcement orders."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Rhode Island Promise",
+   "url": "https://www.ccri.edu/ripromise/",
+   "provider": "Community College of Rhode Island",
+   "kind": "tuition-free program",
+   "provides": "Tuition-free associate degree education at CCRI for eligible Rhode Island students coming right out of high school.",
+   "eligibility": "Must be a Rhode Island resident; maintain at least a 2.5 GPA to keep the scholarship for two years (per page).",
+   "amount": "Tuition and mandatory fees (remaining cost after other aid)",
+   "how_to_apply": "Submit the Free Application for Enrollment to CCRI; complete enrollment steps after acceptance.",
+   "audience": "individual",
+   "status": "open"
+  }
+ ]
+}

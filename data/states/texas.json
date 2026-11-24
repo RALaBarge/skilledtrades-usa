@@ -1,0 +1,982 @@
+{
+ "code": "TX",
+ "state": "Texas",
+ "colleges": [
+  {
+   "name": "Alamo Colleges District",
+   "type": "community college",
+   "city": "San Antonio",
+   "home_url": "https://www.alamo.edu/",
+   "trades_url": "https://www.alamo.edu/alamo-academies/programs/diesel-tech-academy/",
+   "programs": [
+    "Diesel Tech Academy"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Amarillo College",
+   "type": "community college",
+   "city": "Amarillo",
+   "home_url": "https://www.actx.edu/",
+   "trades_url": "https://www.actx.edu/ce/truck",
+   "programs": [
+    "Truck driving (continuing education)"
+   ]
+  },
+  {
+   "name": "Angelina College",
+   "type": "community college",
+   "city": "Lufkin",
+   "home_url": "https://www.angelina.edu/",
+   "trades_url": "https://www.angelina.edu/hvac/",
+   "programs": [
+    "HVAC",
+    "Welding Technology",
+    "Automotive Technology",
+    "Diesel Technology"
+   ],
+   "credentials": "certificate, diploma"
+  },
+  {
+   "name": "Blinn College",
+   "type": "community college",
+   "city": "Brenham",
+   "home_url": "https://www.blinn.edu/",
+   "trades_url": "https://www.blinn.edu/hvac/index.html",
+   "programs": [
+    "HVAC",
+    "Carpentry"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Brazosport College",
+   "type": "community college",
+   "city": "Lake Jackson",
+   "home_url": "https://www.brazosport.edu/",
+   "trades_url": "https://www.brazosport.edu/areas-of-study/mechanical-and-construction-technology/",
+   "programs": [
+    "Automotive Technology - A.A.S.",
+    "Heating, Air Conditioning, and Refrigeration Technology - A.A.S.",
+    "Industrial and Commercial Electricity - A.A.S.",
+    "Machine Technology: Machinist Specialty - A.A.S.",
+    "Machine Technology: Millwright Specialty - A.A.S.",
+    "Welding Technology - A.A.S."
+   ],
+   "credentials": "A.A.S., certificate, diploma, apprenticeship"
+  },
+  {
+   "name": "Cisco College",
+   "type": "community college",
+   "city": "Cisco",
+   "home_url": "https://www.cisco.edu/",
+   "trades_url": "https://www.cisco.edu/degrees-programs",
+   "programs": [
+    "Automotive Technology",
+    "HVAC-R",
+    "Welding"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education"
+  },
+  {
+   "name": "Clarendon College",
+   "type": "community college",
+   "city": "Clarendon",
+   "home_url": "https://www.clarendoncollege.edu/",
+   "trades_url": "https://www.clarendoncollege.edu/academics/cte.html",
+   "programs": [
+    "CDL Truck Driving",
+    "Industrial Maintenance",
+    "Welding"
+   ]
+  },
+  {
+   "name": "College of the Mainland",
+   "type": "community college",
+   "city": "Texas City",
+   "home_url": "https://www.com.edu/",
+   "trades_url": "https://www.com.edu/academics/areas-of-study/industry/hvacr/index.html",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning and Refrigeration (HVACR)",
+    "Welding",
+    "Instrumentation & Electrical Technology",
+    "Explore Continuing Education HVACR"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education, noncredit"
+  },
+  {
+   "name": "Coastal Bend College",
+   "type": "community college",
+   "city": "Beeville",
+   "home_url": "https://www.coastalbend.edu/",
+   "trades_url": "https://www.coastalbend.edu/instruction/index.html",
+   "credentials": "associate of applied science, continuing education, non-credit"
+  },
+  {
+   "name": "Collin College",
+   "type": "community college",
+   "city": "McKinney",
+   "home_url": "https://www.collin.edu/",
+   "trades_url": "https://www.collin.edu/ce/classes/welding",
+   "programs": [
+    "Welding I (continuing education)",
+    "Welding II (continuing education)",
+    "Modern Automotive Service & Repair Certificate Series"
+   ],
+   "credentials": "continuing education"
+  },
+  {
+   "name": "Dallas College",
+   "type": "community college",
+   "city": "Dallas",
+   "home_url": "https://www.dallascollege.edu/",
+   "trades_url": "https://www.dallascollege.edu/study/welding/",
+   "programs": [
+    "Welding",
+    "Air Conditioning and Refrigeration Technology (HVAC)",
+    "Auto Body Technology"
+   ],
+   "credentials": "associate of applied science, certificate, occupational skills award, continuing education"
+  },
+  {
+   "name": "Del Mar College",
+   "type": "community college",
+   "city": "Corpus Christi",
+   "home_url": "https://www.delmar.edu/",
+   "trades_url": "https://delmar.edu/ce/wsa/hvac/index.html",
+   "programs": [
+    "Air Conditioning Helper",
+    "Automotive Helper WSA",
+    "Diesel Engine WSA",
+    "Electrical Helper",
+    "Millwright Helper",
+    "Plumbing Helper",
+    "Welding Helper"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education, diploma"
+  },
+  {
+   "name": "El Paso Community College",
+   "type": "community college",
+   "city": "El Paso",
+   "home_url": "https://www.epcc.edu/",
+   "trades_url": "https://www.epcc.edu:443/Academics/AdvancedTechnologyCenter/hvac",
+   "programs": [
+    "Heating, Ventilation, and Air Conditioning",
+    "Automotive Technology"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Hill College",
+   "type": "community college",
+   "city": "Hillsboro",
+   "home_url": "https://www.hillcollege.edu/",
+   "trades_url": "https://www.hillcollege.edu/JobTraining/TDA/CDL.html",
+   "programs": [
+    "Truck Driving Academy - CDL",
+    "Heating, Air Conditioning, & Refrigeration",
+    "Welding",
+    "Automotive"
+   ]
+  },
+  {
+   "name": "Houston Community College",
+   "type": "community college",
+   "city": "Houston",
+   "home_url": "https://www.hccs.edu/",
+   "trades_url": "https://www.hccs.edu/programs--courses/explore-all-programs/tig-welding/",
+   "programs": [
+    "TIG Welding"
+   ]
+  },
+  {
+   "name": "Howard College",
+   "type": "community college",
+   "city": "Big Spring",
+   "home_url": "https://www.howardcollege.edu/",
+   "trades_url": "https://howardcollege.edu/academics/workforce-training-continuing-education/cdl-program.html",
+   "programs": [
+    "Commercial Driver's License Program"
+   ],
+   "credentials": "continuing education"
+  },
+  {
+   "name": "Kilgore College",
+   "type": "community college",
+   "city": "Kilgore",
+   "home_url": "https://www.kilgore.edu/",
+   "trades_url": "https://www.kilgore.edu/courses/diesel-technology/",
+   "programs": [
+    "Electric Power Technology (Lineman)",
+    "Commercial and Residential Electrical Technology",
+    "Transportation Institute (CDL)",
+    "Diesel Technology"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education"
+  },
+  {
+   "name": "Laredo College",
+   "type": "community college",
+   "city": "Laredo",
+   "home_url": "https://www.laredo.edu/",
+   "trades_url": "https://catalog.laredo.edu/",
+   "programs": [
+    "Automotive Service Technician, Certificate I",
+    "Diesel Heavy Truck Technician, Certificate I",
+    "Electrical Technology",
+    "Heating, Ventilation, Air-Conditioning and Refrigeration Technology",
+    "Welding Technology",
+    "Welding Assistant, Certificate I",
+    "Carpentry Technology",
+    "Plumbing"
+   ],
+   "credentials": "associate of applied science, certificate"
+  },
+  {
+   "name": "Lee College",
+   "type": "community college",
+   "city": "Baytown",
+   "home_url": "https://www.lee.edu/",
+   "trades_url": "https://www.lee.edu/lchc/",
+   "programs": [
+    "Automotive Technician",
+    "Truck and Heavy Equipment Operator",
+    "Welding Technology",
+    "HVAC Technology Program"
+   ],
+   "credentials": "continuing education"
+  },
+  {
+   "name": "Lone Star College System",
+   "type": "community college",
+   "city": "The Woodlands / Houston area",
+   "home_url": "https://www.lonestar.edu/",
+   "trades_url": "https://www.lonestar.edu/hvac-dept.htm",
+   "programs": [
+    "HVAC"
+   ],
+   "credentials": "certificate"
+  },
+  {
+   "name": "Lamar Institute of Technology",
+   "type": "technical college",
+   "city": "Beaumont",
+   "home_url": "https://www.lit.edu/",
+   "trades_url": "https://www.lit.edu/Programs/Manufacturing-and-Trades-Technology/Welding/Associate-of-Applied-Science-aas",
+   "programs": [
+    "Welding (A.A.S.)",
+    "Industrial Mechanics Technology (certificate)",
+    "Heating, Ventilation and Air Conditioning (certificate)"
+   ],
+   "credentials": "associate of applied science, certificate"
+  },
+  {
+   "name": "Lamar State College Orange",
+   "type": "state college",
+   "city": "Orange",
+   "home_url": "https://www.lsco.edu/",
+   "trades_url": "https://www.lsco.edu/programs/degrees-certificates/machining/index.php",
+   "programs": [
+    "Machining"
+   ]
+  },
+  {
+   "name": "Lamar State College Port Arthur",
+   "type": "state college",
+   "city": "Port Arthur",
+   "home_url": "https://www.lamarpa.edu/",
+   "trades_url": "https://www.lamarpa.edu/programs-degrees/educational-programs/industry/hvac.html",
+   "programs": [
+    "HVAC"
+   ]
+  },
+  {
+   "name": "Midland College",
+   "type": "community college",
+   "city": "Midland",
+   "home_url": "https://www.midland.edu/",
+   "trades_url": "https://www.midland.edu/academics/degrees/energy/diesel.php",
+   "programs": [
+    "Diesel Technology",
+    "Automotive Technology",
+    "Welding Technology",
+    "HVAC Technician",
+    "Electrician",
+    "Air Conditioning, Heating & Refrigeration Technology"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education"
+  },
+  {
+   "name": "Navarro College",
+   "type": "community college",
+   "city": "Corsicana",
+   "home_url": "https://www.navarrocollege.edu/",
+   "trades_url": "https://www.navarrocollege.edu/academics/welding.html",
+   "programs": [
+    "Welding Technology (Associate of Applied Science)",
+    "Production Welder Certificate (Dual Credit)",
+    "Welding Technology II Certificate",
+    "Gas Tungsten and Metal Arc Welding Certificate",
+    "Entry Level Welding Certificate"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education"
+  },
+  {
+   "name": "Northeast Texas Community College",
+   "type": "community college",
+   "city": "Mount Pleasant",
+   "home_url": "https://www.ntcc.edu/",
+   "trades_url": "https://www.ntcc.edu/academics/programs-study/workforce/carroll-shelby-automotive-institute",
+   "programs": [
+    "Carroll Shelby Automotive Institute",
+    "Electric Vehicle Service Technician Level 1 Certificate"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education"
+  },
+  {
+   "name": "Odessa College",
+   "type": "community college",
+   "city": "Odessa",
+   "home_url": "https://www.odessa.edu/",
+   "trades_url": "https://www.odessa.edu/programs/ce/workforce/hvac/index.html",
+   "programs": [
+    "HVAC (continuing education)"
+   ],
+   "credentials": "certificate, continuing education, diploma"
+  },
+  {
+   "name": "Panola College",
+   "type": "community college",
+   "city": "Carthage",
+   "home_url": "https://www.panola.edu/",
+   "trades_url": "https://www.panola.edu/welding",
+   "programs": [
+    "Department of Welding",
+    "Truck Driver Training (CDL)"
+   ],
+   "credentials": "continuing education"
+  },
+  {
+   "name": "Paris Junior College",
+   "type": "community college",
+   "city": "Paris",
+   "home_url": "https://www.parisjc.edu/",
+   "trades_url": "https://www.parisjc.edu/pathways/industry/welding.php",
+   "programs": [
+    "Welding Technology"
+   ],
+   "credentials": "continuing education, diploma"
+  },
+  {
+   "name": "Ranger College",
+   "type": "community college",
+   "city": "Ranger",
+   "home_url": "https://www.rangercollege.edu/",
+   "trades_url": "https://www.rangercollege.edu/academics/workforce-programs/",
+   "programs": [
+    "Machining",
+    "Machining Dual Credit",
+    "Welding"
+   ],
+   "credentials": "associate of applied science, continuing education"
+  },
+  {
+   "name": "Tarrant County College",
+   "type": "community college",
+   "city": "Fort Worth",
+   "home_url": "https://www.tccd.edu/",
+   "trades_url": "https://www.tccd.edu/academics/courses-and-programs/programs-a-z/credit/hvac-r/",
+   "programs": [
+    "Heating, Air Conditioning and Refrigeration Technology: Commercial HVAC/R Technician, AAS",
+    "HVAC/R Commercial Technician",
+    "HVAC Installer",
+    "HVAC Residential Technician I",
+    "HVAC Residential Technician II"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education, non-credit"
+  },
+  {
+   "name": "Temple College",
+   "type": "community college",
+   "city": "Temple",
+   "home_url": "https://www.templecollege.edu/",
+   "trades_url": "https://www.templecollege.edu/programs/advanced-manufacturing.html",
+   "programs": [
+    "Advanced Manufacturing",
+    "CDL Training"
+   ]
+  },
+  {
+   "name": "Texarkana College",
+   "type": "community college",
+   "city": "Texarkana",
+   "home_url": "https://www.texarkanacollege.edu/",
+   "trades_url": "https://www.texarkanacollege.edu/programs/welding/",
+   "programs": [
+    "Welding Certificate",
+    "Welding Technology Occupational Skills Award",
+    "Industrial Maintenance",
+    "Air Conditioning/Refrigeration",
+    "Electrical Technology",
+    "Diesel Technology"
+   ],
+   "credentials": "certificate, non-credit"
+  },
+  {
+   "name": "Texas Southmost College",
+   "type": "community college",
+   "city": "Brownsville",
+   "home_url": "https://www.tsc.edu/",
+   "trades_url": "https://www.tsc.edu/academics-and-career-programs/wtce/career-training/pipefitting/",
+   "programs": [
+    "Pipefitting",
+    "Welding",
+    "Combo Welding",
+    "Structural Welding",
+    "Diesel Technician",
+    "Electrical Technician"
+   ],
+   "credentials": "certificate, continuing education"
+  },
+  {
+   "name": "South Plains College",
+   "type": "community college",
+   "city": "Levelland",
+   "home_url": "https://www.southplainscollege.edu/",
+   "trades_url": "https://www.southplainscollege.edu/welding/index.php",
+   "programs": [
+    "Welding Technology (A.A.S.)",
+    "Welding Technology Advanced Processes Certificate",
+    "Welding Technology Basic Processes Certificate",
+    "Diesel Technology"
+   ],
+   "credentials": "associate of applied science, certificate"
+  },
+  {
+   "name": "South Texas College",
+   "type": "community college",
+   "city": "McAllen",
+   "home_url": "https://www.southtexascollege.edu/",
+   "trades_url": "https://catalog.southtexascollege.edu/programs/",
+   "programs": [
+    "Automotive Technology",
+    "Diesel Technology",
+    "Electrician Technology",
+    "Heating, Ventilation, Air Conditioning and Refrigeration Technology",
+    "Welding",
+    "Robotics & Mechatronics Technology"
+   ],
+   "credentials": "associate of applied science, certificate, continuing education"
+  },
+  {
+   "name": "Tyler Junior College",
+   "type": "community college",
+   "city": "Tyler",
+   "home_url": "https://tjc.edu/",
+   "trades_url": "https://tjc.edu/programs/hvac-refrigeration/",
+   "programs": [
+    "HVAC / Refrigeration",
+    "Welding Technology, AAS",
+    "Welding Technology: Advanced Level Option, CERT",
+    "Welding Technology: Basic Welder, OSA",
+    "Welding Technology: Entry Level Option, CERT"
+   ],
+   "credentials": "associate of applied science, certificate, occupational skills award"
+  },
+  {
+   "name": "Vernon College",
+   "type": "community college",
+   "city": "Vernon",
+   "home_url": "https://www.vernoncollege.edu/",
+   "trades_url": "https://www.vernoncollege.edu/hvac",
+   "programs": [
+    "Automotive Technology",
+    "HVAC",
+    "Machining",
+    "Welding"
+   ],
+   "credentials": "continuing education"
+  },
+  {
+   "name": "Victoria College",
+   "type": "community college",
+   "city": "Victoria",
+   "home_url": "https://www.victoriacollege.edu/",
+   "trades_url": "https://weldercenter.org/"
+  },
+  {
+   "name": "Weatherford College",
+   "type": "community college",
+   "city": "Weatherford",
+   "home_url": "https://www.wc.edu/",
+   "trades_url": "https://wc.edu/programs/all-programs/cnc/index.php",
+   "programs": [
+    "Machining/Computer Numerical Control (CNC)",
+    "Industrial Automation",
+    "Heating, Ventilation, Air-Conditioning and Refrigeration (HVAC)",
+    "Industrial Maintenance & Automation (IMAT)",
+    "Welding"
+   ],
+   "credentials": "certificate, continuing education"
+  },
+  {
+   "name": "Western Texas College",
+   "type": "community college",
+   "city": "Snyder",
+   "home_url": "https://www.wtc.edu/",
+   "trades_url": "https://www.wtc.edu/page/lineworker/",
+   "programs": [
+    "Electrical Lineworker Program",
+    "Welding",
+    "Truck Driving"
+   ]
+  },
+  {
+   "name": "Alvin Community College",
+   "type": "community college",
+   "city": "Alvin",
+   "home_url": "https://www.alvincollege.edu/",
+   "trades_url": "https://www.alvincollege.edu/welding-technology/pla.html",
+   "programs": [
+    "Welding Technology"
+   ],
+   "credentials": "continuing education, non-credit"
+  },
+  {
+   "name": "Texas State Technical College",
+   "type": "technical college",
+   "city": "Waco (system HQ)",
+   "home_url": "https://www.tstc.edu/",
+   "trades_url": "https://www.tstc.edu/programs/hvactechnology/",
+   "programs": [
+    "HVAC Technology",
+    "HVAC Technician",
+    "HVAC Residential Service Technician",
+    "NCCER Basic Rigger (workforce training)"
+   ],
+   "credentials": "associate of applied science, certificate"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 520",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Austin",
+   "url": "https://www.ibew520.org/",
+   "description": "Home page of IBEW Local 520 in Austin."
+  },
+  {
+   "name": "ABC South Texas (Education & Training)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction craft training",
+    "electrical",
+    "plumbing",
+    "HVAC"
+   ],
+   "city": "San Antonio",
+   "url": "https://www.abcsouthtexas.org/education-training/",
+   "description": "Education & Training section of the ABC South Texas chapter site, covering its craft training and apprenticeship offerings."
+  },
+  {
+   "name": "Associated General Contractors of Texas",
+   "kind": "contractor association",
+   "trades": [
+    "general construction"
+   ],
+   "city": "Austin",
+   "url": "https://www.agctx.org/",
+   "description": "Statewide association of general contractors in Texas."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "National program that connects veterans and service members to construction apprenticeships."
+  },
+  {
+   "name": "Texas State Building and Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "building trades (multiple crafts)"
+   ],
+   "city": "Austin",
+   "url": "https://nabtu.org/councils/texas/",
+   "description": "Texas state council listing in the NABTU directory, which names IBEW Local 520 as its contact."
+  },
+  {
+   "name": "Beaumont Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Nederland",
+   "url": "https://electricaltrainingsetx.org/",
+   "apprenticeship_url": "https://electricaltrainingsetx.org/",
+   "description": "Electrical Training Alliance of Southeast Texas."
+  },
+  {
+   "name": "IBEW Local 20",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Dallas-Fort Worth",
+   "url": "https://www.ibew20.org/",
+   "apprenticeship_url": "https://www.ibew20.org/additional-training",
+   "description": "Being part of IBEW Local 20 means you're never alone. From jobsite protections to family-supporting benefits, our union stands behind every member — building a better life together."
+  },
+  {
+   "name": "IBEW Local 220",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Arlington",
+   "url": "https://www.ibewlu220.com/",
+   "description": "IBEW Local 220."
+  },
+  {
+   "name": "IBEW Local 278",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Corpus Christi",
+   "url": "https://www.ibew278.com/",
+   "apprenticeship_url": "https://www.ibew278.com/training.aspx",
+   "description": "IBEW Local 278."
+  },
+  {
+   "name": "IBEW Local 527",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Galveston",
+   "url": "http://www.ibew527.com/",
+   "apprenticeship_url": "http://www.ibew527.com/apprenticeship.html",
+   "description": "Home."
+  },
+  {
+   "name": "IBEW Local 583",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "El Paso",
+   "url": "https://www.ibew583.com/",
+   "description": "IBEW Local 583 | IBEW Local 583."
+  },
+  {
+   "name": "IBEW Local 60",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "San Antonio",
+   "url": "https://www.ibewlu60.org/",
+   "apprenticeship_url": "https://www.ibewlu60.org/news.aspx?zone=homepage&nID=18296",
+   "description": "IBEW 60 - International Brotherhood of Electrical Workers."
+  },
+  {
+   "name": "IBEW Local 602",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Amarillo",
+   "url": "https://ibew602.org/",
+   "description": "Official IBEW Local 602 site for Amarillo and West Texas, the Oklahoma Panhandle, and parts of New Mexico jobs, sign books, events, documents, apprenticeship links, and hall contact."
+  },
+  {
+   "name": "IBEW Local 66",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Houston",
+   "url": "https://ibew66.com/",
+   "description": "Official IBEW Local 66 site for Pasadena and Gulf Coast jobs, sign books, events, documents, apprenticeship links, and hall contact."
+  },
+  {
+   "name": "IBEW Local 681",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Wichita Falls",
+   "url": "https://ibew681.org/",
+   "apprenticeship_url": "https://ibew681.org/neca-training-alliance/",
+   "description": "IBEW 681."
+  },
+  {
+   "name": "IBEW Local 69",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Dallas",
+   "url": "http://www.ibewlocal69.com/",
+   "description": "Local 69 represents over 1000 members working in the Utility and Broadcasting industries - electrical utilities, television and communications systems."
+  },
+  {
+   "name": "IBEW Local 716",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Houston",
+   "url": "https://ibew716.net/",
+   "apprenticeship_url": "https://ibew716.net/become-an-apprentice/",
+   "description": "IBEW Local Union 716 represents any and all electricians in the Houston Gulf Coast Area. The International Brotherhood of Electrical Workers (IBEW)."
+  },
+  {
+   "name": "IBEW Local 72",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Waco",
+   "url": "https://www.ibewlu72.com/",
+   "apprenticeship_url": "https://www.ibewlu72.com/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 72."
+  },
+  {
+   "name": "North Texas Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Grand Prairie",
+   "url": "https://ntejatc.org/",
+   "apprenticeship_url": "https://ntejatc.org/",
+   "description": "North Texas Electrical Training Center – Apprenticeship in electrical construction."
+  },
+  {
+   "name": "South Texas Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "San Antonio",
+   "url": "https://www.sotxjatc.org:443/",
+   "apprenticeship_url": "https://www.sotxjatc.org:443/apprentices.html",
+   "description": "Since 1946 we have been the standard bearer of trade education excellence. A true “earn while you learn” program. Apprentices gain trade skills, knowledge, and licensure through both “On the Job Training” and structured classroom training, all while earning outstanding wages and."
+  },
+  {
+   "name": "West Texas Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Amarillo",
+   "url": "https://wtxjatc.org/",
+   "apprenticeship_url": "https://wtxjatc.org/apprentices",
+   "description": "Good wages and health and retirement benefits through apprentice training that leads to a life long rewarding career."
+  },
+  {
+   "name": "IUOE Local 351 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Borger",
+   "url": "https://local351.com/",
+   "description": "Local 351 provides continuing training and education to the Union Stewards to insure each Union Steward understands the role of a Union Steward versus just being an employee of his/her employer."
+  },
+  {
+   "name": "IUOE Local 450 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Dayton",
+   "url": "https://iuoelocal450.org/",
+   "description": "Local 450 has negotiated fair working conditions, wages, and benefits for working men and women while providing the best qualified workforce for our signatory contractors."
+  },
+  {
+   "name": "IUOE Local 564 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Richwood",
+   "url": "https://www.local564.com/",
+   "apprenticeship_url": "https://www.local564.com/training",
+   "description": "Texas City Metal Trades Council members are on an Unfair Labor Practice strike against Ashland Specialty Chemicals. Meet the workers on the line and learn how to help."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Amarillo Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Amarillo",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Arlington Carpenter & Millwright Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Arlington",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Austin Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Austin",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Houston Carpenters and Millwrights Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Pasadena",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - San Antonio Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "San Antonio",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 665 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Amarillo",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 429 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Arlington",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1421 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Arlington",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1266 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Austin",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 551 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pasadena",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2232 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pasadena",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Texas State Building and Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://www.texasbuildingtrades.org/",
+   "description": "APPRENTICESHIP: GET PAID TO LEARN A TRADE, DEBT-FREE 8/4/2026 Top Headlines MC3 ELIMINATES BARRIERS TO ENTERING A TRADE New research shows unionized construction crews are more cost-efficient, on-time TEXAS HAS LEVERAGE WITH DATA CENTERS."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Texas Department of Licensing and Regulation (TDLR), Electricians program",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://www.tdlr.texas.gov/electricians/",
+   "description": "State program that licenses electrical apprentices, journeyman and master electricians, and electrical contractors."
+  },
+  {
+   "name": "TDLR, Air Conditioning and Refrigeration Contractors program",
+   "trades": [
+    "HVAC",
+    "air conditioning and refrigeration"
+   ],
+   "url": "https://www.tdlr.texas.gov/ACR/",
+   "description": "State program that licenses air conditioning and refrigeration contractors."
+  },
+  {
+   "name": "Texas State Board of Plumbing Examiners",
+   "trades": [
+    "plumbing",
+    "pipefitting"
+   ],
+   "url": "https://tsbpe.texas.gov/",
+   "description": "State board that licenses plumbers, including tradesman plumber, journeyman, master plumber, and plumbing inspector."
+  }
+ ],
+ "funding": [
+  {
+   "name": "TEXAS Grant",
+   "url": "https://www.highered.texas.gov/state-financial-aid/grant-loan-programs/",
+   "provider": "Texas Higher Education Coordinating Board",
+   "kind": "grant",
+   "provides": "Need-based state grant for eligible students attending General Academic Teaching Institutions in Texas.",
+   "eligibility": "Eligible students attending General Academic Teaching Institutions (GATIs), excluding Lamar State College-Orange and Port Arthur (per page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Texas Workforce Pell (WFP) Program",
+   "url": "https://www.highered.texas.gov/grants/workforce-pell-grant-wfp-program/",
+   "provider": "Texas Higher Education Coordinating Board",
+   "kind": "grant",
+   "provides": "Expands federal Pell aid to short-term, high-value workforce training programs aligned with Texas economic priorities.",
+   "how_to_apply": "FAFSA, then enrollment in an approved WFP program (per page). Page status: pending federal implementation.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Financial Aid for Swift Transfer (FAST)",
+   "url": "https://www.highered.texas.gov/state-financial-aid/fast/",
+   "provider": "Texas Higher Education Coordinating Board",
+   "kind": "tuition-free program",
+   "provides": "Funds public institutions to offer dual credit courses at no cost to educationally disadvantaged students.",
+   "eligibility": "Students eligible for the national free/reduced-price lunch program in the enrollment year or any of the four prior school years (per page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "TRUE Grant (Texas Reskilling and Upskilling through Education)",
+   "url": "https://www.highered.texas.gov/grants/texas-reskilling-and-upskilling-through-education-true-grant-program-2026-28/",
+   "provider": "Texas Higher Education Coordinating Board",
+   "kind": "grant",
+   "provides": "Competitive grants to public colleges to create or expand short-term career training (under six months) in high-demand occupations, developed with employers and workforce boards.",
+   "how_to_apply": "Competitive Request-for-Applications process (per page).",
+   "audience": "school",
+   "status": "unknown"
+  },
+  {
+   "name": "TWC Registered Apprenticeship Training Programs",
+   "url": "https://www.twc.texas.gov/services/job-training/find-apprenticeships",
+   "provider": "Texas Workforce Commission",
+   "kind": "apprenticeship",
+   "provides": "Registered apprenticeship: learn a skilled trade on the job while getting paid, with related classroom instruction.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "WIOA Eligible Training Providers and Individual Training Accounts (Texas)",
+   "url": "https://www.twc.texas.gov/agency/workforce-development-boards/eligible-training-providers",
+   "provider": "Texas Workforce Commission / Local Workforce Development Boards",
+   "kind": "training voucher",
+   "provides": "WIOA-funded Individual Training Accounts let local boards pay for training at statewide Eligible Training Providers for adult and dislocated worker participants.",
+   "how_to_apply": "Contact your local Workforce Solutions Office (per TWC job training page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "Skills for Small Business",
+   "url": "https://www.twc.texas.gov/programs/skills-small-business",
+   "provider": "Texas Workforce Commission",
+   "kind": "grant",
+   "provides": "Grant supporting training of new and incumbent employees at businesses with fewer than 100 employees.",
+   "eligibility": "Businesses with fewer than 100 employees (per page).",
+   "amount": "Up to $2 million available across the program (per page)",
+   "audience": "employer",
+   "status": "open"
+  },
+  {
+   "name": "Skills Development Fund",
+   "url": "https://www.twc.texas.gov/programs/skills-development-fund",
+   "provider": "Texas Workforce Commission",
+   "kind": "grant",
+   "provides": "Fund for businesses that want to train new workers or upgrade the skills of current ones.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

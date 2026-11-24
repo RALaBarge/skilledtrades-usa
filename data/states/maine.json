@@ -1,0 +1,384 @@
+{
+ "code": "ME",
+ "state": "Maine",
+ "colleges": [
+  {
+   "name": "Washington County Community College",
+   "type": "community college",
+   "city": "Calais",
+   "home_url": "https://wccc.me.edu/",
+   "trades_url": "https://wccc.me.edu/professional-development/pathways-in-industrial-technology-transportation/",
+   "programs": [
+    "Heating Technology",
+    "Heavy Equipment Maintenance (not accepting new applications)",
+    "Mechanical Technology - Passenger Vehicle Specialty",
+    "Electro-Mechanical Instrumentation Technology",
+    "Automotive Services Excellence (ASE)",
+    "Manufacturing Skills Standards Council (MSSC)",
+    "Natural Gas & Propane",
+    "Introduction to Heavy Truck/Equipment HVAC Systems",
+    "Apprenticeship"
+   ],
+   "credentials": "Per individual program pages linked from the pathway page"
+  },
+  {
+   "name": "Central Maine Community College",
+   "type": "community college",
+   "city": "Auburn",
+   "home_url": "https://www.cmcc.edu/",
+   "trades_url": "https://www.cmcc.edu/programs-training/program-pathways/industrial-technology-transportation/",
+   "programs": [
+    "HVAC/R",
+    "Electromechanical Technology",
+    "Plumbing & Heating Technology",
+    "Precision Machining Technology",
+    "Facilities Maintenance & Management",
+    "Building Construction Technology",
+    "Automotive Technology"
+   ],
+   "credentials": "Associate in Applied Science degree and certificates"
+  },
+  {
+   "name": "Eastern Maine Community College",
+   "type": "community college",
+   "city": "Bangor",
+   "home_url": "https://www.emcc.edu/",
+   "trades_url": "https://www.emcc.edu/academics/pathways/industrial-technology-transportation/",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction",
+    "Welding Technology",
+    "Plumbing",
+    "Diesel, Truck & Heavy Equipment",
+    "Electricians Technology",
+    "Electrical & Automation Technology",
+    "Oil Burner Technician (non-credit)",
+    "Commercial Driving License (non-credit)",
+    "Electric & Hybrid Automotive Technician Training (non-credit)",
+    "Heat Pump Installation (non-credit)",
+    "Propane & Natural Gas Technician (non-credit)",
+    "Civil Construction Technician (non-credit)",
+    "One-Year Electrician Course",
+    "Certified MIG Welder Application"
+   ],
+   "credentials": "Associate degrees and non-credit certificates per program pages"
+  },
+  {
+   "name": "Kennebec Valley Community College",
+   "type": "community college",
+   "city": "Fairfield",
+   "home_url": "https://www.kvcc.me.edu/",
+   "trades_url": "https://www.kvcc.me.edu/academics/pathways/industrial-technology-transportation/",
+   "programs": [
+    "Plumbing",
+    "Plumbing and Heating Technology",
+    "Electrical Lineworker",
+    "Electrical Technology",
+    "Precision Machining Technology",
+    "Welding",
+    "Trade and Technology Occupations"
+   ],
+   "credentials": "Per program pages"
+  },
+  {
+   "name": "Northern Maine Community College",
+   "type": "community college",
+   "city": "Presque Isle",
+   "home_url": "https://www.nmcc.edu/",
+   "trades_url": "https://www.nmcc.edu/academics/programs/academic-programs/",
+   "programs": [
+    "Wind Power Technology",
+    "Structural Welding",
+    "Computer-Aided Machining",
+    "Plumbing and Heating",
+    "Electrical Construction & Maintenance",
+    "Building Construction Technology",
+    "Automotive Technology",
+    "Automotive Collision Repair",
+    "Diesel Hydraulics Technology",
+    "CDL Program (request information page)"
+   ],
+   "credentials": "Per program pages"
+  },
+  {
+   "name": "Southern Maine Community College",
+   "type": "community college",
+   "city": "South Portland",
+   "home_url": "https://www.smccme.edu/",
+   "trades_url": "https://www.smccme.edu/academics/pathways/industrial-technology-transportation/",
+   "programs": [
+    "Manufacturing Technician Short-Term Training",
+    "Oil Burner Technician Short-Term Training",
+    "Propane & Natural Gas Training",
+    "Welding Academy Short-Term Training",
+    "Construction Institute Short-Term Training",
+    "Electrician Technology Certificate",
+    "Automotive Powertrain Systems Certificate",
+    "CNC Machine Operator Certificate",
+    "Heating Certificate",
+    "Plumbing Certificate",
+    "Refrigeration & Air Conditioning Certificate",
+    "Electric Vehicle & Hybrid Repair Short-Term Training",
+    "Construction Technology Associate Degree",
+    "Heating, Air Conditioning, Refrigeration & Plumbing Associate Degree",
+    "Water Treatment Technology Associate Degree & Certificate",
+    "Electrical Engineering Technologies Associate Degree",
+    "Automotive Technology Associate Degree"
+   ],
+   "credentials": "Associate degrees, certificates and short-term training per program pages"
+  },
+  {
+   "name": "York County Community College",
+   "type": "community college",
+   "city": "Wells",
+   "home_url": "https://www.yccc.edu/",
+   "trades_url": "https://www.yccc.edu/degree/trade-technical-occupations/",
+   "programs": [
+    "Electrician Technology certificate",
+    "CNC Machining Academy (no-cost, 14 weeks)",
+    "CDL-A Training (with NMCC)",
+    "Welding Technology certificate",
+    "Industrial Welding Techniques (no-cost, 10 weeks)",
+    "Foundations of Machining (no-cost, 3 weeks)",
+    "Skilled & Technical Trades certificate",
+    "Industrial Trades Foundations (marine trades, no-cost, 6 weeks)"
+   ],
+   "credentials": "Certificates and no-cost training per program pages"
+  },
+  {
+   "name": "Saint John Valley Technology Center",
+   "type": "career-tech center",
+   "city": "Frenchville",
+   "home_url": "https://sjvtc.mainecte.org/",
+   "trades_url": "https://sjvtc.mainecte.org/",
+   "programs": [
+    "Automotive",
+    "Building construction",
+    "CDL",
+    "Construction",
+    "Diesel",
+    "Electrical",
+    "Heavy equipment",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Region 10 Technical High School",
+   "type": "career-tech center",
+   "city": "Brunswick",
+   "home_url": "https://www.r10tech.org/",
+   "trades_url": "https://www.r10tech.org/",
+   "programs": [
+    "Building trades",
+    "Electrical",
+    "HVAC",
+    "Plumbing",
+    "Welding"
+   ]
+  },
+  {
+   "name": "St. Croix Regional Technical Center",
+   "type": "career-tech center",
+   "city": "Calais",
+   "home_url": "https://www.calaisschools.org/o/scrtc/",
+   "trades_url": "https://www.calaisschools.org/o/scrtc/",
+   "programs": [
+    "Automotive",
+    "Building trades",
+    "CDL",
+    "Construction",
+    "Electrical",
+    "Machining",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Oxford Hills Technical School",
+   "type": "career-tech center",
+   "city": "Oxford",
+   "home_url": "https://www.ohts.net/",
+   "trades_url": "https://www.ohts.net/",
+   "programs": [
+    "Automotive",
+    "Building trades",
+    "Construction",
+    "Electrical",
+    "Heavy equipment",
+    "Plumbing"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 567 Portland Joint Apprenticeship and Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Portland",
+   "url": "https://ibew567.com/apprenticeship/",
+   "description": "The Portland JATC runs IBEW Local 567's electrician apprenticeship, organized to meet Maine's classroom requirements over three years."
+  },
+  {
+   "name": "IBEW Local Union 1253 (Augusta)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Augusta",
+   "url": "https://ibew1253.org/",
+   "description": "IBEW Local 1253, chartered in Augusta in 1946, covers central, eastern, mid-coast and Downeast Maine and offers an electrician apprenticeship."
+  },
+  {
+   "name": "Maine AFL-CIO Union Construction Academy",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction",
+    "carpentry",
+    "ironworking",
+    "multi-trades"
+   ],
+   "city": "Statewide sessions",
+   "url": "https://maineaflcio.org/uca",
+   "description": "A four-week union pre-apprenticeship that prepares people for registered apprenticeships with Maine building trades unions."
+  },
+  {
+   "name": "Maine Apprenticeship Program (Maine Department of Labor)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "registered trades"
+   ],
+   "city": "Augusta",
+   "url": "https://www.maine.gov/labor/apprenticeship/",
+   "description": "The state's registered apprenticeship program, administered by the Maine Department of Labor; the page redirects to apprenticeship.maine.gov."
+  },
+  {
+   "name": "IBEW Local 1253",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Augusta",
+   "url": "https://www.ibew1253.org/",
+   "apprenticeship_url": "https://www.ibew1253.org/apprentices/",
+   "description": "Home - IBEW Local Union 1253 - Maine."
+  },
+  {
+   "name": "IBEW Local 1837",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Manchester",
+   "url": "https://ibew1837.org/",
+   "apprenticeship_url": "https://ibew1837.org/contact/",
+   "description": "IBEW Local 1837 represents workers across Maine and New Hampshire, including electrical utility and broadcasting professionals."
+  },
+  {
+   "name": "IBEW Local 2327",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Augusta",
+   "url": "https://ibew2327.org/",
+   "apprenticeship_url": "https://ibew2327.org/forms-documents/pre-test-training-request/",
+   "description": "IBEW Local 2327 – International Brotherhood of Electrical Workers Local 2327."
+  },
+  {
+   "name": "IBEW Local 567",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Portland",
+   "url": "https://www.ibew567.com/",
+   "apprenticeship_url": "https://www.ibew567.com/join-us/apprentices/",
+   "description": "IBEW 567 is home to the highly skilled electricians of Lewiston, Maine and throughout the rest of the state. Learn more about Local 567."
+  },
+  {
+   "name": "Local 349 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Portland",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Electricians' Examining Board (Office of Professional and Occupational Regulation)",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://www.maine.gov/pfr/professionallicensing/professions/electricians",
+   "description": "Licenses electricians in Maine through the Office of Professional and Occupational Regulation."
+  },
+  {
+   "name": "Plumbers' Examining Board (Office of Professional and Occupational Regulation)",
+   "trades": [
+    "plumber"
+   ],
+   "url": "https://www.maine.gov/pfr/professionallicensing/professions/plumbers-examining-board",
+   "description": "Licenses journeyman, master and trainee plumbers; applications and renewals are done online."
+  },
+  {
+   "name": "Maine Bureau of Motor Vehicles (Secretary of State)",
+   "trades": [
+    "CDL / commercial driving"
+   ],
+   "url": "https://www.maine.gov/sos/bmv/",
+   "description": "Maine's motor vehicle agency, which handles commercial driver licensing."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Maine State Grant Program",
+   "url": "https://www.famemaine.com/affording-education/pay-for-school/maine-grant-tuition-programs/maine-state-grant-program/",
+   "provider": "Finance Authority of Maine (FAME)",
+   "kind": "grant",
+   "provides": "Administered by FAME, the Maine State Grant Program provides need-based grants to Maine undergraduate students of all ages.",
+   "eligibility": "Need-based; Maine undergraduate students of all ages (per page)",
+   "how_to_apply": "Your completed FAFSA is your Maine State Grant application.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Harold Alfond Center training programs",
+   "url": "https://www.mccs.me.edu/",
+   "provider": "Maine Community College System",
+   "kind": "tuition-free program",
+   "provides": "Through the Harold Alfond Center, programs are grant-funded, offered statewide year-round, and often free for students.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maine Free College Scholarship (community college program made permanent)",
+   "url": "https://www.mccs.me.edu/about/news-media/news-item/after-uncertainty-maines-free-college-program-is-here-to-stay/",
+   "provider": "Maine Community College System",
+   "kind": "tuition-free program",
+   "provides": "Maine community college free-tuition program that a supplemental budget signed in April 2026 made permanent, with some cost-saving changes.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Free short-term workforce training at Maine community colleges (Harold Alfond Center)",
+   "url": "https://www.mccs.me.edu/about/news-media/news-item/back-to-school-bonus-8-3-million-fuels-free-short-term-workforce-training-for-6700-mainers-in-2025-26/",
+   "provider": "Maine Community College System, Harold Alfond Center for the Advancement of Maine's Workforce",
+   "kind": "tuition-free program",
+   "provides": "Free short-term workforce training programs at Maine community colleges, funded by $8.3 million from the Alfond Center; the July 2025 release said 6,700 Mainers would attend in 2025-26.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maine Community College System Workforce Training Programs",
+   "url": "https://www.maine.gov/jobsplan/program/maine-community-college-system-workforce-training-programs",
+   "provider": "State of Maine (Maine Jobs and Recovery Plan)",
+   "kind": "other",
+   "provides": "Maine Jobs and Recovery Plan program listing for Maine community college workforce training programs.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "FAME Maine: Affording Higher Education",
+   "url": "https://www.famemaine.com/education/",
+   "provider": "Finance Authority of Maine (FAME)",
+   "kind": "other",
+   "provides": "FAME guide to affording higher education, including planning for adult learners, filing the FAFSA and getting financial aid.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,522 @@
+{
+ "code": "OK",
+ "state": "Oklahoma",
+ "colleges": [
+  {
+   "name": "Canadian Valley Technology Center",
+   "type": "career-tech center",
+   "city": "El Reno",
+   "home_url": "https://www.cvtech.edu/",
+   "trades_url": "https://www.cvtech.edu/fulltimeprograms/welding/",
+   "programs": [
+    "Precision Machining Technology",
+    "Welding",
+    "Electrical Trades",
+    "Pipe Structural Welder-Fitter (El Reno)"
+   ]
+  },
+  {
+   "name": "Central Tech",
+   "type": "career-tech center",
+   "city": "Drumright",
+   "home_url": "https://www.centraltech.edu/",
+   "trades_url": "https://www.centraltech.edu/page/welding-phases/",
+   "programs": [
+    "CNC Machining 301",
+    "Welding phases",
+    "Creative Welding"
+   ]
+  },
+  {
+   "name": "Eastern Oklahoma County Technology Center",
+   "type": "career-tech center",
+   "city": "Choctaw",
+   "home_url": "https://www.eoctech.edu/",
+   "trades_url": "https://www.eoctech.edu/apprenticeships/",
+   "programs": [
+    "Apprenticeship (electrical, HVAC, welding, automotive per page)",
+    "HVAC",
+    "Full-time programs (electrical, welding, automotive)"
+   ]
+  },
+  {
+   "name": "Gordon Cooper Technology Center",
+   "type": "career-tech center",
+   "city": "Shawnee",
+   "home_url": "https://www.gctech.edu/",
+   "trades_url": "https://www.gctech.edu/page/lineworkertraining/",
+   "programs": [
+    "Lineworker Training"
+   ]
+  },
+  {
+   "name": "Indian Capital Technology Center",
+   "type": "career-tech center",
+   "city": "Sallisaw",
+   "home_url": "https://www.ictech.edu/",
+   "trades_url": "https://www.ictech.edu/page/industrial-maintenance/",
+   "programs": [
+    "Industrial Maintenance",
+    "Residential Electrician"
+   ]
+  },
+  {
+   "name": "Metro Technology Centers",
+   "type": "career-tech center",
+   "city": "Oklahoma City",
+   "home_url": "https://www.metrotech.edu/",
+   "trades_url": "https://www.metrotech.edu/fs/pages/944",
+   "programs": [
+    "Construction Trades",
+    "Electrical Technology",
+    "Heat & Air (HVAC/R)",
+    "Automotive Service Technician"
+   ]
+  },
+  {
+   "name": "Mid-Del Technology Center",
+   "type": "career-tech center",
+   "city": "Midwest City",
+   "home_url": "https://www.middeltech.com/",
+   "trades_url": "https://www.middeltech.com/page/industrial-maintenance/",
+   "programs": [
+    "Industrial Maintenance"
+   ]
+  },
+  {
+   "name": "Meridian Technology Center",
+   "type": "career-tech center",
+   "city": "Stillwater",
+   "home_url": "https://www.meridiantech.edu/",
+   "trades_url": "https://www.meridiantech.edu/full-time-programs",
+   "programs": [
+    "Full-Time Programs (automotive, carpentry, CNC, electrical, apprenticeship mentions per page)"
+   ]
+  },
+  {
+   "name": "Northeast Technology Center",
+   "type": "career-tech center",
+   "city": "Afton",
+   "home_url": "https://www.netech.edu/",
+   "trades_url": "https://www.netech.edu/page/hvac/",
+   "programs": [
+    "HVAC",
+    "Electrical & Electronics Technology",
+    "AC/DC Electrical Theory"
+   ]
+  },
+  {
+   "name": "Northwest Technology Center",
+   "type": "career-tech center",
+   "city": "Alva",
+   "home_url": "https://www.nwtech.edu/",
+   "trades_url": "https://nwtech.edu/classes/career-programs/alva-campus-full-time-programs/electrical-trades-alva-campus/",
+   "programs": [
+    "Electrical Trades - Alva Campus",
+    "Electrician's Assistant - Alva Campus",
+    "Automotive Service Technician (Alva and Fairview campuses)"
+   ]
+  },
+  {
+   "name": "Pioneer Technology Center",
+   "type": "career-tech center",
+   "city": "Ponca City",
+   "home_url": "https://pioneertech.edu/",
+   "trades_url": "https://www.pioneertech.edu/page/apprenticeships/",
+   "programs": [
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "Pontotoc Technology Center",
+   "type": "career-tech center",
+   "city": "Ada",
+   "home_url": "https://www.pontotoctech.edu/",
+   "trades_url": "https://www.pontotoctech.edu/",
+   "programs": [
+    "Full-time programs (automotive, HVAC, heavy equipment, lineworker, welding per page text)"
+   ]
+  },
+  {
+   "name": "Southern Oklahoma Technology Center",
+   "type": "career-tech center",
+   "city": "Ardmore",
+   "home_url": "https://www.sotech.edu/",
+   "trades_url": "https://www.sotech.edu/career-programs",
+   "programs": [
+    "Heavy Equipment Operation",
+    "Commercial Driving (CDL)"
+   ]
+  },
+  {
+   "name": "Tri-County Technology Center",
+   "type": "career-tech center",
+   "city": "Bartlesville",
+   "home_url": "https://tricountytech.edu/",
+   "trades_url": "https://tricountytech.edu/program/electrical/",
+   "programs": [
+    "Welding 1 - MIG",
+    "Welding 2 - Stick",
+    "Welding 3 - TIG",
+    "Electrical"
+   ]
+  },
+  {
+   "name": "Tulsa Technology Center",
+   "type": "career-tech center",
+   "city": "Tulsa",
+   "home_url": "https://tulsatech.edu/",
+   "trades_url": "https://tulsatech.edu/full-time-programs/architecture-and-construction/hvac-technician/",
+   "programs": [
+    "HVAC Technician",
+    "Introduction to Construction"
+   ]
+  },
+  {
+   "name": "Western Technology Center",
+   "type": "career-tech center",
+   "city": "Burns Flat",
+   "home_url": "https://www.westtech.edu/",
+   "trades_url": "https://www.westtech.edu/full-time-programs/electrical-trades",
+   "programs": [
+    "Electrical Trades",
+    "Diesel Technology",
+    "Construction",
+    "Welding (Sayre)"
+   ]
+  },
+  {
+   "name": "Wes Watkins Technology Center",
+   "type": "career-tech center",
+   "city": "Wilburton",
+   "home_url": "https://wwtech.edu/",
+   "trades_url": "https://wwtech.edu/carpentry-masonry",
+   "programs": [
+    "Carpentry - Masonry",
+    "Facility Maintenance Tech - Plumbing",
+    "Facility Maintenance Tech - Welding",
+    "Facility Maintenance Technician"
+   ]
+  },
+  {
+   "name": "Francis Tuttle Technology Center",
+   "type": "career-tech center",
+   "city": "Oklahoma City",
+   "home_url": "https://www.francistuttle.edu/",
+   "trades_url": "https://www.francistuttle.edu/trades",
+   "programs": [
+    "Flex Trades: HVAC / Electrician",
+    "Carpentry and Cabinetry",
+    "Welding",
+    "Automotive Service Technology"
+   ]
+  },
+  {
+   "name": "Mid-America Technology Center",
+   "type": "career-tech center",
+   "home_url": "https://www.matech.edu/",
+   "trades_url": "https://www.matech.edu/apps/pages/lineworker",
+   "programs": [
+    "Lineworker Technology"
+   ]
+  },
+  {
+   "name": "Moore Norman Technology Center",
+   "type": "career-tech center",
+   "city": "Norman",
+   "home_url": "https://www.mntc.edu/",
+   "trades_url": "https://www.mntc.edu/classes/constructionandmanufacturing",
+   "programs": [
+    "Construction & Manufacturing",
+    "Construction Trades",
+    "Engineering & Manufacturing"
+   ]
+  },
+  {
+   "name": "Redlands Community College",
+   "type": "community college",
+   "city": "El Reno",
+   "home_url": "https://www.redlandscc.edu/",
+   "trades_url": "https://www.redlandscc.edu/academics/careertech/electrical-trades.php",
+   "programs": [
+    "Applied Technology - Diesel Technology Emphasis",
+    "Applied Technology - Electrical Trades Emphasis",
+    "Applied Technology - HVACR Technology Emphasis"
+   ],
+   "credentials": "Applied Technology degree (A.A.S.-type emphasis pages)"
+  },
+  {
+   "name": "Oklahoma City Community College",
+   "type": "community college",
+   "city": "Oklahoma City",
+   "home_url": "https://www.occc.edu/",
+   "trades_url": "https://www.occc.edu/academics/areas-of-study/auto-tech/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Technology Internship Program"
+   ]
+  },
+  {
+   "name": "Tulsa Community College",
+   "type": "community college",
+   "city": "Tulsa",
+   "home_url": "https://www.tulsacc.edu/",
+   "trades_url": "https://www.tulsacc.edu/academics/programs-courses/industrial-maintenance-technology-electronics-technology-certificate",
+   "programs": [
+    "Industrial Maintenance Technology - Electronics Technology Certificate",
+    "Electronics Technology, A.A.S."
+   ],
+   "credentials": "Certificate; A.A.S."
+  },
+  {
+   "name": "Northeastern Oklahoma A&M College",
+   "type": "community college",
+   "city": "Miami",
+   "home_url": "https://www.neo.edu/",
+   "trades_url": "https://neo.edu/courses/introduction-to-electrical-construction-2/",
+   "programs": [
+    "Introduction to Electrical Construction",
+    "Introduction to Carpentry"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local Union 1141 (Western Oklahoma Electrical JATC)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Oklahoma City",
+   "url": "https://www.ibew1141.org/",
+   "description": "IBEW Local 1141 site describes its apprenticeship school for electrical apprentices, subjourneymen and teledata technicians."
+  },
+  {
+   "name": "UA Local 344 Plumbers and Pipefitters",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "pipefitting"
+   ],
+   "city": "Oklahoma City",
+   "url": "https://ua344.org/",
+   "description": "UA Local 344 site lists apprentices and training for plumbers and pipefitters."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction",
+    "building trades"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Nonprofit site describing apprenticeship pathways in the building trades for military veterans."
+  },
+  {
+   "name": "Plumbing-Heating-Cooling Contractors Association (PHCC)",
+   "kind": "contractor association",
+   "trades": [
+    "plumbing",
+    "HVAC"
+   ],
+   "url": "https://www.phccweb.org/",
+   "description": "National PHCC association homepage says it provides education, advocacy and connections for the plumbing-heating-cooling industry."
+  },
+  {
+   "name": "SMACNA of Oklahoma",
+   "kind": "contractor association",
+   "trades": [
+    "sheet metal",
+    "HVAC"
+   ],
+   "url": "https://www.smacna.org/government-affairs/state-issues/article/2025/11/12/chapter-highlight---smacna-of-oklahoma",
+   "description": "SMACNA Oklahoma chapter highlight describes its work on apprenticeship and workforce development and legislative advocacy."
+  },
+  {
+   "name": "Apprenticeship Oklahoma (CareerTech)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "registered apprenticeships (all trades)"
+   ],
+   "url": "https://oklahoma.gov/careertech/business-and-industry/apprenticeship-oklahoma.html",
+   "description": "State CareerTech page on registered apprenticeship pathways connecting education with Oklahoma employers."
+  },
+  {
+   "name": "IBEW Local 1002",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Tulsa",
+   "url": "https://ibew1002.com/",
+   "description": "IBEW 1002 | Powering the Sooner State for 100 years."
+  },
+  {
+   "name": "IBEW Local 1141",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Oklahoma City",
+   "url": "https://www.ibew1141.org/",
+   "apprenticeship_url": "https://www.ibew1141.org/employment-and-training/",
+   "description": "Skilled electricians building Oklahoma City, Lawton, and beyond."
+  },
+  {
+   "name": "IBEW Local 584",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Tulsa",
+   "url": "https://www.ibew584.com/",
+   "apprenticeship_url": "https://www.ibew584.com/ATTENTION%20JW%20REVISED.pdf",
+   "description": "IBEW Local 584."
+  },
+  {
+   "name": "Tulsa Electricians JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Tulsa",
+   "url": "https://www.tulsajatc.org/",
+   "description": "Home."
+  },
+  {
+   "name": "Western Oklahoma Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Oklahoma City",
+   "url": "https://etawok.org/",
+   "apprenticeship_url": "https://etawok.org/",
+   "description": "Electrical Apprenticeship Program, Electrical trade school, trade school, OKC trade school, trade school Oklahoma, apprentice, electrical apprentice, electricity, apprenticeship, OKC apprenticeship, electrical apprentice, electrical apprenticeship, Oklahoma apprenticeship."
+  },
+  {
+   "name": "IUOE Local 351 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Wynnewood",
+   "url": "https://local351.com/",
+   "description": "Local 351 provides continuing training and education to the Union Stewards to insure each Union Steward understands the role of a Union Steward versus just being an employee of his/her employer."
+  },
+  {
+   "name": "IUOE Local 627 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Tulsa",
+   "url": "https://www.iuoelocal627.org/",
+   "apprenticeship_url": "https://www.iuoelocal627.org/apprenticeship.html",
+   "description": "IUOE Local 627 - HOME HOME ABOUT OFFICERS AND STAFF APPRENTICESHIP BENEFITS CONTACT International Union Of Operating Engineers Local 627 LOCATION AND HOURS IUOE Local 627 Locations Tulsa 12109 E Skelly Dr."
+  },
+  {
+   "name": "BAC 05 Oklahoma/Arkansas/Texas/New Mexico",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Oklahoma City",
+   "url": "https://baclocal5.com/",
+   "apprenticeship_url": "https://baclocal5.com/",
+   "description": "BAC Local 5 represents the most skilled bricklayers and craftworkers across Texas, Oklahoma, New Mexico, and Arkansas."
+  },
+  {
+   "name": "Southwest Laborers’ Training and Apprenticeship Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Springer",
+   "url": "https://swltaf.org/",
+   "apprenticeship_url": "https://swltaf.org/apprenticeship/",
+   "description": "Learn More Texas • Oklahoma • Arkansas Southwest Laborers’ Training &amp; Apprenticeship Fund The Southwest Laborers Training and Apprenticeship Fund is a non-profit labor/management trust fund built on a foundation of collaboration and success."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Oklahoma City Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Oklahoma City",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Tulsa Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Tulsa",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 943 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Tulsa",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Oklahoma Building Trades Unions",
+   "kind": "building trades council",
+   "url": "https://www.okbctc.org/",
+   "description": "--> Oklahoma Building Trades Unions top of page Home About Trades Events Dollars Against Diabetes Apprenticeship Day Directory Contact More Use tab to navigate through the menu items."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Oklahoma Construction Industries Board (CIB)",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "mechanical/HVAC"
+   ],
+   "url": "https://oklahoma.gov/cib/about.html",
+   "description": "State board that licenses electrical, plumbing and mechanical (HVAC) contractors and journeyman trades under the Electrical and Mechanical licensing acts."
+  },
+  {
+   "name": "Oklahoma Department of Labor - Welders Licensing Program",
+   "trades": [
+    "welding"
+   ],
+   "url": "https://oklahoma.gov/labor/safety-and-health/safety-standards/welders.html",
+   "description": "Oklahoma Department of Labor page for the welders licensing program."
+  },
+  {
+   "name": "Oklahoma Department of Labor - Elevators and Escalators",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://oklahoma.gov/labor/safety-and-health/safety-standards/elevator.html",
+   "description": "Oklahoma Department of Labor safety-standards page on elevators and escalators."
+  },
+  {
+   "name": "Oklahoma Department of Labor - Boilers, Pressure Vessels and HWH",
+   "trades": [
+    "boiler"
+   ],
+   "url": "https://oklahoma.gov/labor/safety-and-health/safety-standards/boiler-pressure-vessels.html",
+   "description": "Oklahoma Department of Labor safety-standards page on boilers, pressure vessels and hot water heaters."
+  },
+  {
+   "name": "Oklahoma Department of Labor - Licensing",
+   "trades": [
+    "multiple occupational licenses"
+   ],
+   "url": "https://oklahoma.gov/labor/licensing.html",
+   "description": "Oklahoma Department of Labor licensing hub listing occupational licenses and permits it administers."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Oklahoma's Promise",
+   "url": "https://okhighered.org/OKPROMISE/",
+   "provider": "Oklahoma State Regents for Higher Education",
+   "kind": "scholarship",
+   "provides": "A tuition scholarship for qualifying Oklahoma students to attend Oklahoma colleges, universities and technology centers.",
+   "eligibility": "Students apply from grades 8 through 11 (page: apply any time from grades 8-11 through Dec.); U.S. citizen or lawfully present; parents' federal adjusted gross income at enrollment not over $60,000 (1-2 dependent children), $70,000 (3-4), or $80,000 (5 or more); special income provisions for children of certified public school teachers; FAFSA required each year of college.",
+   "how_to_apply": "Start the application online at okhighered.org/OKPROMISE; all documents must be submitted.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "CareerTech technology center tuition waivers and scholarships",
+   "url": "https://www.oklahoma.gov/careertech/educators/stem/career-planning/tuition-scholarships.html",
+   "provider": "Oklahoma CareerTech (center-by-center listing)",
+   "kind": "scholarship",
+   "provides": "A state listing of tuition waivers and scholarships offered by individual Oklahoma technology centers, such as Caddo Kiowa Technology Center's scholarship for in-district graduates and the Canadian Valley Technology Center Next Step Tuition Waiver.",
+   "eligibility": "Set by each technology center (for example, in-district graduates of CKTC partner schools; FAFSA required for Canadian Valley).",
+   "amount": "Up to $2,500 at Caddo Kiowa Technology Center (per the page); other centers vary",
+   "how_to_apply": "Contact the technology center; Canadian Valley forms are available from counselors after program acceptance.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

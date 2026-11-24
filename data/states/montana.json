@@ -1,0 +1,428 @@
+{
+ "code": "MT",
+ "state": "Montana",
+ "colleges": [
+  {
+   "name": "Flathead Valley Community College",
+   "type": "community college",
+   "city": "Kalispell",
+   "home_url": "https://www.fvcc.edu/",
+   "trades_url": "https://www.fvcc.edu/academics/programs-courses/programs",
+   "programs": [
+    "Electrical Technology (AAS)",
+    "Electrical Technology (CAS)",
+    "Industrial Machine Technology (AAS)",
+    "Industrial Machine Technology (CAS)",
+    "Welding and Fabrication Technology (AAS)",
+    "Welding and Fabrication Technology (CAS)",
+    "Building Trades (CTS)",
+    "Electrical Apprentice (CTS)",
+    "Heating, Ventilation, Air-conditioning and Refrigeration (HVAC) (CTS)",
+    "Heavy Equipment Operator (CTS)",
+    "Plumbing Apprentice (CTS)",
+    "Welding Technology (CTS)",
+    "Commercial Driver's License (CDL) Training Course"
+   ],
+   "credentials": "AAS, CAS, CTS"
+  },
+  {
+   "name": "Dawson Community College",
+   "type": "community college",
+   "city": "Glendive",
+   "home_url": "https://www.dawson.edu/academics/",
+   "trades_url": "https://www.dawson.edu/future-students/degrees-programs.html",
+   "programs": [
+    "Welding Technology"
+   ],
+   "credentials": "AAS, CAS"
+  },
+  {
+   "name": "Great Falls College Montana State University",
+   "type": "community college",
+   "city": "Great Falls",
+   "home_url": "https://www.gfcmsu.edu/",
+   "trades_url": "https://www.gfcmsu.edu/academic-programs/",
+   "programs": [
+    "Welding Technology Fabrication",
+    "Welding (academic division page)",
+    "Structural Welding (non-credit, CET)",
+    "Commercial Driver's License (CDL) Training (CET)"
+   ]
+  },
+  {
+   "name": "Helena College University of Montana",
+   "type": "community college",
+   "city": "Helena",
+   "home_url": "https://helenacollege.edu/",
+   "trades_url": "https://helenacollege.edu/academics/",
+   "programs": [
+    "Automotive Technology (AAS, CAS)",
+    "CNC Machining (AAS)",
+    "Diesel Technology (AAS, CAS)",
+    "Industrial Welding and Metal Fabrication (AAS)",
+    "Manual Machining (CAS)",
+    "Welding Technology (CAS)"
+   ],
+   "credentials": "AAS, CAS"
+  },
+  {
+   "name": "Montana State University Northern College of Technical Sciences",
+   "type": "state college",
+   "city": "Havre",
+   "home_url": "https://www.msun.edu/",
+   "trades_url": "https://www.msun.edu/academics/cots/index.aspx",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Tech Fast Track",
+    "Diesel Technology",
+    "Diesel Tech: Equipment Management",
+    "Diesel Tech: Field Maintenance",
+    "Electrical Technology",
+    "Pipefitting",
+    "Plumbing Technology",
+    "Trades Management",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Miles Community College",
+   "type": "community college",
+   "city": "Miles City",
+   "home_url": "https://www.milescc.edu/",
+   "trades_url": "https://www.milescc.edu/DegreesPrograms/default.aspx",
+   "programs": [
+    "Automotive Technology",
+    "CDL - Commercial Drivers License",
+    "CDL - Basic Transportation Entrepreneurship",
+    "Heavy Equipment (on moratorium, not accepting applicants)"
+   ]
+  },
+  {
+   "name": "Montana Technological University Highlands College",
+   "type": "technical college",
+   "city": "Butte",
+   "home_url": "https://www.mtech.edu/",
+   "trades_url": "https://www.mtech.edu/academics/highlands-college/",
+   "programs": [
+    "Automotive Technology",
+    "Construction Technology - Carpentry",
+    "Heavy Equipment Operation",
+    "Pre-Apprentice Line (one-semester certificate, groundman and line trade)",
+    "Precision Machining Technology",
+    "Welding Technology",
+    "CDL Program"
+   ]
+  },
+  {
+   "name": "Gallatin College Montana State University",
+   "type": "community college",
+   "city": "Bozeman",
+   "home_url": "https://gallatin.montana.edu/",
+   "trades_url": "https://gallatin.montana.edu/programs/",
+   "programs": [
+    "Carpentry",
+    "CNC Machining Technology",
+    "CNC Robotic Tending and Integration",
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Blackfeet Community College",
+   "type": "community college",
+   "city": "Browning",
+   "home_url": "https://bfcc.edu/",
+   "trades_url": "https://bfcc.edu/Workforce-Development",
+   "programs": [
+    "Industry Trades (one-year certificate)"
+   ],
+   "credentials": "One Year Certificate"
+  },
+  {
+   "name": "Salish Kootenai College",
+   "type": "community college",
+   "city": "Pablo",
+   "home_url": "https://www.skc.edu/",
+   "trades_url": "https://www.skc.edu/basic-construction-skill-training-at-skc/",
+   "programs": [
+    "NCCER Construction Core (7 courses)",
+    "Basic Construction Skill Training",
+    "Highway Construction Training (Certificate of Completion)",
+    "SKC Welding Course (direct path to apprenticeship)"
+   ],
+   "credentials": "Certificate of Completion; NCCER Construction Core certification"
+  },
+  {
+   "name": "Fort Peck Community College",
+   "type": "community college",
+   "city": "Poplar",
+   "home_url": "https://www.fpcc.edu/",
+   "trades_url": "https://www.fpcc.edu/academics/academics-resources",
+   "programs": [
+    "Automotive Technician",
+    "Welding Technician",
+    "Welding Technology",
+    "Truck Driver (CDL)",
+    "10 Hour OSHA Construction Safety Training"
+   ]
+  },
+  {
+   "name": "Missoula College University of Montana",
+   "type": "community college",
+   "city": "Missoula",
+   "home_url": "https://www.umt.edu/missoula-college/",
+   "trades_url": "https://www.umt.edu/missoula-college-outreach/default.php",
+   "programs": [
+    "Commercial Driver's License (CDL) Training",
+    "Workforce Fundamentals Training (featured non-credit courses, including welding)"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Montana Electrical Training Center (IBEW Locals 233, 532, 768 JATC)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Helena",
+   "url": "http://www.mtelectricaljatc.org/",
+   "description": "Joint apprenticeship and training center for IBEW Locals 233, 532 and 768, with registered apprentice programs and CEU classes.",
+   "how_to_apply": "Site has a 'Request an Application' link and an 'Application Process' page."
+  },
+  {
+   "name": "Ironworkers Local 732",
+   "kind": "union local",
+   "trades": [
+    "ironwork",
+    "welding"
+   ],
+   "url": "https://www.iw732.org/en",
+   "description": "Ironworkers Local 732 website, with apprenticeship news and union information."
+  },
+  {
+   "name": "John S. Romasko Training Center and Laborers AGC Apprenticeship, Training and Work Preparedness Trust of Montana",
+   "kind": "JATC / training center",
+   "trades": [
+    "laborers",
+    "construction"
+   ],
+   "url": "http://montanalaborerstrusts.org/",
+   "description": "Joint Laborers and AGC training program for Montana, linked to Laborers Local 1686.",
+   "how_to_apply": "Site has an 'Apprenticeship Application' link."
+  },
+  {
+   "name": "SMART Local 103 (Sheet Metal Workers, Montana, Idaho, Wyoming)",
+   "kind": "union local",
+   "trades": [
+    "sheet metal",
+    "HVAC"
+   ],
+   "url": "http://smw103.org/",
+   "description": "Sheet metal workers union local covering Montana, Idaho and Wyoming."
+  },
+  {
+   "name": "Boilermakers Local Lodge 11 Montana",
+   "kind": "union local",
+   "trades": [
+    "boilermaking",
+    "welding"
+   ],
+   "url": "https://www.boilermakers11.org/",
+   "description": "Boilermakers union lodge serving Montana."
+  },
+  {
+   "name": "Montana Carpenters Training Center",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry",
+    "millwright"
+   ],
+   "url": "https://www.carpenters.org/training_centers/mt/",
+   "description": "Montana training center page of the United Brotherhood of Carpenters, with apprenticeship and training information."
+  },
+  {
+   "name": "Montana Operating Engineers Joint Apprenticeship and Training (MTOEJATT, Local 400)",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment operation",
+    "CDL"
+   ],
+   "url": "https://www.local400training.org/",
+   "description": "Joint apprenticeship and training trust for Montana operating engineers."
+  },
+  {
+   "name": "IBEW Local 206",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Helena",
+   "url": "https://www.ibew206.org/",
+   "description": "IBEW Local 206."
+  },
+  {
+   "name": "IBEW Local 233",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Helena",
+   "url": "http://www.ibew233.org/",
+   "description": "IBEW 233."
+  },
+  {
+   "name": "IBEW Local 44",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Butte",
+   "url": "http://www.ibew44.org/",
+   "apprenticeship_url": "http://www.ibew44.org/?zone=/unionactive/view_page.cfm&page=Upcoming20training",
+   "description": "IBEW 44."
+  },
+  {
+   "name": "IBEW Local 532",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Billings",
+   "url": "https://www.ibew532.com/",
+   "apprenticeship_url": "https://www.ibew532.com/?zone=/unionactive/view_article.cfm&HomeID=918799&page=CEU20Upgrade20",
+   "description": "IBEW Local 532."
+  },
+  {
+   "name": "IBEW Local 768",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Kalispell",
+   "url": "http://www.ibew768.com/",
+   "apprenticeship_url": "http://www.ibew768.com/?zone=/unionactive/view_page.cfm&page=Apprenticeship20Information",
+   "description": "IBEW LU 768."
+  },
+  {
+   "name": "MT Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Helena",
+   "url": "http://www.mtelectricaljatc.org/",
+   "apprenticeship_url": "http://www.mtelectricaljatc.org/?zone=/unionactive/view_page.cfm&page=JATC20Staff",
+   "description": "Montana Electrical Training Center."
+  },
+  {
+   "name": "IUOE Local 302 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Helena",
+   "url": "https://www.iuoe302.org/",
+   "apprenticeship_url": "https://www.iuoe302.org/?zone=/unionactive/view_page.cfm&page=STEWARD20TRAINING"
+  },
+  {
+   "name": "IUOE Local 302 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Missoula",
+   "url": "https://www.iuoe302.org/",
+   "apprenticeship_url": "https://www.iuoe302.org/?zone=/unionactive/view_page.cfm&page=STEWARD20TRAINING"
+  },
+  {
+   "name": "Laborers-AGC Training Program for Montana",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Helena",
+   "url": "http://www.montanalaborerstrusts.org/",
+   "apprenticeship_url": "http://www.montanalaborerstrusts.org/?zone=/unionactive/view_page.cfm&page=Training20Schedule",
+   "description": "The Ultimate Website Management and Communications Tool for Unions"
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Billings Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Billings",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Helena Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Helena",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 82 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Great Falls",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Billings Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Billings",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Montana Electrical Board (Department of Labor and Industry)",
+   "trades": [
+    "electrical",
+    "electrician"
+   ],
+   "url": "https://boards.bsd.dli.mt.gov/electrical/index.html",
+   "description": "State board that licenses electricians and electrical contractors."
+  },
+  {
+   "name": "Montana Board of Plumbers (Department of Labor and Industry)",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://boards.bsd.dli.mt.gov/plumbers/index.html",
+   "description": "State board that licenses plumbers."
+  },
+  {
+   "name": "Montana Construction Contractor License Program (Department of Labor and Industry)",
+   "trades": [
+    "general construction contractors"
+   ],
+   "url": "https://boards.bsd.dli.mt.gov/construction-contractor/index.html",
+   "description": "State license program for construction contractors. Montana has no separate HVAC contractor license on the board list checked."
+  },
+  {
+   "name": "Elevator Contractors, Mechanics, and Inspectors Licensing Program (Department of Labor and Industry)",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://boards.bsd.dli.mt.gov/elevator-contractors/index.html",
+   "description": "State licensing program for elevator contractors, mechanics and inspectors."
+  },
+  {
+   "name": "Boiler Operator Program (Department of Labor and Industry)",
+   "trades": [
+    "boiler operation"
+   ],
+   "url": "https://boards.bsd.dli.mt.gov/boiler-operator-program/index.html",
+   "description": "State program that licenses boiler operators."
+  },
+  {
+   "name": "Montana Fire Protection License Program (Department of Labor and Industry)",
+   "trades": [
+    "fire protection",
+    "fire sprinkler"
+   ],
+   "url": "https://boards.bsd.dli.mt.gov/fire-protection/index.html",
+   "description": "State license program for fire protection contractors and workers."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Montana Incumbent Worker Training (IWT)",
+   "url": "https://wsd.dli.mt.gov/employers/incumbent-worker-training-program/index.html",
+   "provider": "Montana Department of Labor and Industry",
+   "kind": "grant",
+   "provides": "Grant that helps offset skills-based training costs for incumbent workers employed by Montana's private sector, where training increases skill level, earns a promotion or wage gain, or expands the business.",
+   "eligibility": "Montana private-sector employers training existing workers.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

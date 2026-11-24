@@ -1,0 +1,1099 @@
+{
+ "code": "NY",
+ "state": "New York",
+ "colleges": [
+  {
+   "name": "SUNY Adirondack",
+   "type": "community college",
+   "city": "Queensbury",
+   "home_url": "https://www.sunyacc.edu/",
+   "trades_url": "https://www.sunyacc.edu/programs-courses/degrees-certificates/mechatronics",
+   "programs": [
+    "Mechatronics",
+    "Technician Fundamentals - HVAC (microcredential)",
+    "Technician Fundamentals - Industrial Maintenance (microcredential)",
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "Alfred State College",
+   "type": "state college",
+   "city": "Alfred",
+   "home_url": "https://www.alfredstate.edu/",
+   "trades_url": "https://www.alfredstate.edu/academics/majors-and-programs/building-trades-building-construction",
+   "programs": [
+    "Building Trades: Building Construction",
+    "Automotive Service Technician",
+    "CNC Manufacturing and Machining",
+    "Electrical Construction and Maintenance Electrician",
+    "Heavy Equipment Operations",
+    "Heavy Equipment, Truck & Diesel Technician",
+    "Masonry",
+    "Mechatronics Technology",
+    "Basic Weld Methods (microcredential)",
+    "Heavy-Duty HVAC (microcredential)",
+    "NYSDOT Welding Certification (continuing ed)"
+   ]
+  },
+  {
+   "name": "SUNY Canton",
+   "type": "state college",
+   "city": "Canton",
+   "home_url": "https://www.canton.edu/",
+   "trades_url": "https://www.canton.edu/csoet/apprentice/",
+   "programs": [
+    "Apprentice Training: Industrial Trades AAS",
+    "HVAC Trades AOS",
+    "Automotive",
+    "Mechatronics",
+    "Welding",
+    "Electrical"
+   ]
+  },
+  {
+   "name": "Cayuga Community College",
+   "type": "community college",
+   "city": "Auburn",
+   "home_url": "https://www.cayuga-cc.edu/",
+   "trades_url": "https://www.cayuga-cc.edu/community/workforce-development/advanced-manufacturing/",
+   "programs": [
+    "Advanced Manufacturing Short-Term Training",
+    "Electrical Technology - Electronics AAS"
+   ]
+  },
+  {
+   "name": "Clinton Community College",
+   "type": "community college",
+   "city": "Plattsburgh",
+   "home_url": "https://www.clinton.edu/",
+   "trades_url": "https://www.clinton.edu/degrees-and-programs/degrees-and-certificates/industrial-commercial-electrician-Certificate.php",
+   "programs": [
+    "Industrial/Commercial Electrician Certificate",
+    "Industrial/Commercial Electrician A.O.S.",
+    "Welding Academy"
+   ]
+  },
+  {
+   "name": "SUNY Cobleskill",
+   "type": "state college",
+   "city": "Cobleskill",
+   "home_url": "https://www.cobleskill.edu/",
+   "trades_url": "https://www.cobleskill.edu/academics/programs/agricultural-engineering/diesel-technology-aas.aspx",
+   "programs": [
+    "Diesel Technology AAS",
+    "Agricultural Power Machinery AAS"
+   ]
+  },
+  {
+   "name": "Columbia-Greene Community College",
+   "type": "community college",
+   "city": "Hudson",
+   "home_url": "https://www.columbiagreene.edu/",
+   "trades_url": "https://www.columbiagreene.edu/academics/programs/construction-technology/",
+   "programs": [
+    "Construction Technology",
+    "Automotive Technology"
+   ]
+  },
+  {
+   "name": "Corning Community College",
+   "type": "community college",
+   "city": "Corning",
+   "home_url": "https://www.corning-cc.edu/",
+   "trades_url": "https://www.corning-cc.edu/academics/advanced-manufacturing.php",
+   "programs": [
+    "Machine Tool Technology Certificate",
+    "CNC Machinist Part 1 and 2 (microcredentials)",
+    "CNC Operator Microcredential",
+    "Manual Machinist Microcredential",
+    "Manufacturing Basics Microcredential",
+    "Mechatronics",
+    "Electrical Technology - Electronics",
+    "Applied Electronics for Manufacturing Technicians/Assemblers"
+   ]
+  },
+  {
+   "name": "SUNY Delhi",
+   "type": "state college",
+   "city": "Delhi",
+   "home_url": "https://www.delhi.edu/",
+   "trades_url": "https://www.delhi.edu/academics/majors-programs/associates/automotive-technology/index.php",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Mechanics",
+    "Electrical Construction and Instrumentation",
+    "Electrical Construction and Plumbing"
+   ]
+  },
+  {
+   "name": "Dutchess Community College",
+   "type": "community college",
+   "city": "Poughkeepsie",
+   "home_url": "https://www.sunydutchess.edu/",
+   "trades_url": "https://www.sunydutchess.edu/academics/programs/engineering-sciences-technology/hvac-technician.html",
+   "programs": [
+    "HVAC Technician",
+    "Air Conditioning & Refrigeration Technology",
+    "Electrical Technology AAS",
+    "Mechatronics",
+    "Apprenticeship Training"
+   ]
+  },
+  {
+   "name": "Erie Community College",
+   "type": "community college",
+   "city": "Buffalo",
+   "home_url": "https://www.ecc.edu/",
+   "trades_url": "https://www.ecc.edu/academics/programs/building-trades-residential-light-commercial.html",
+   "programs": [
+    "Building Trades/Residential Light Commercial",
+    "Building Construction Fundamentals (microcredential)",
+    "CNC Precision Machining",
+    "Automotive Technology",
+    "Mechatronics",
+    "Construction Management Technology (certificate)",
+    "Construction Management Engineering Technology"
+   ]
+  },
+  {
+   "name": "Finger Lakes Community College",
+   "type": "community college",
+   "city": "Canandaigua",
+   "home_url": "https://www.flcc.edu/",
+   "trades_url": "https://www.flcc.edu/workforce/workforce-programs/welding-technician/",
+   "programs": [
+    "Welding Technician",
+    "Foundations in Advanced Manufacturing",
+    "Robotics and Manufacturing Technology"
+   ]
+  },
+  {
+   "name": "Genesee Community College",
+   "type": "community college",
+   "city": "Batavia",
+   "home_url": "https://www.genesee.edu/",
+   "trades_url": "https://www.genesee.edu/academics/programs/solar-electric-technician/",
+   "programs": [
+    "Solar Electric Technician Certificate / AAS concentration",
+    "Mechatronics Registration"
+   ]
+  },
+  {
+   "name": "Hudson Valley Community College",
+   "type": "community college",
+   "city": "Troy",
+   "home_url": "https://www.hvcc.edu/",
+   "trades_url": "https://www.hvcc.edu/programs/all/stem/electrical-construction-maintenance-aos.html",
+   "programs": [
+    "Electrical Construction and Maintenance AOS",
+    "Heating/Air Conditioning/Refrigeration Technical Services AOS",
+    "Mechatronics AOS",
+    "Electric and Autonomous Vehicles AOS and certificate",
+    "Honda Professional Automotive Career Training AOS"
+   ]
+  },
+  {
+   "name": "Jefferson Community College",
+   "type": "community college",
+   "city": "Watertown",
+   "home_url": "https://sunyjefferson.edu/",
+   "trades_url": "https://sunyjefferson.edu/academics/programs/welding.php",
+   "programs": [
+    "Welding",
+    "CNC Machinist",
+    "Manual Machinist",
+    "HVAC Technician",
+    "CDL Class A",
+    "Pre-Apprenticeship Construction Training",
+    "SUNY Apprenticeship Program"
+   ]
+  },
+  {
+   "name": "Mohawk Valley Community College",
+   "type": "community college",
+   "city": "Utica",
+   "home_url": "https://www.mvcc.edu/",
+   "trades_url": "https://www.mvcc.edu/academics/stem/carpentry-masonry/index.php",
+   "programs": [
+    "Carpentry and Masonry Certificate",
+    "Computer Numeric Controlled Machinist Technology (CNC) Certificate",
+    "Air Conditioning Technology: Refrigeration AOS",
+    "Electrical Service Technician AOS",
+    "Mechatronics Certificate",
+    "Welding",
+    "Carpentry Fundamentals (microcredential)",
+    "Fabrication Welding (microcredential)",
+    "Masonry Fundamentals (microcredential)"
+   ]
+  },
+  {
+   "name": "Monroe Community College",
+   "type": "community college",
+   "city": "Rochester",
+   "home_url": "https://www.monroecc.edu/",
+   "trades_url": "https://www.monroecc.edu/academics/programs/precision-machining/index.html",
+   "programs": [
+    "Precision Machining & Tooling",
+    "Automotive Technology"
+   ]
+  },
+  {
+   "name": "SUNY Morrisville",
+   "type": "state college",
+   "city": "Morrisville",
+   "home_url": "https://www.morrisville.edu/",
+   "trades_url": "https://www.morrisville.edu/program/diesel-technology-aas-aos",
+   "programs": [
+    "Diesel Technology A.A.S./A.O.S.",
+    "Diesel Mechanics Certificate",
+    "Automotive Technology A.A.S.",
+    "Automotive Technology B.Tech",
+    "Automotive Technology - Ford ASSET A.A.S."
+   ]
+  },
+  {
+   "name": "SUNY Sullivan",
+   "type": "community college",
+   "city": "Loch Sheldrake",
+   "home_url": "https://sunysullivan.edu/",
+   "trades_url": "https://sunysullivan.edu/construction-technology-aos/",
+   "programs": [
+    "Construction Technology AOS",
+    "CDL Training"
+   ]
+  },
+  {
+   "name": "SUNY Suffolk County Community College",
+   "type": "community college",
+   "city": "Selden",
+   "home_url": "https://www.sunysuffolk.edu/",
+   "trades_url": "https://ce.sunysuffolk.edu/workforce-training/advanced-manufacturing-training-center/",
+   "programs": [
+    "Advanced Manufacturing Training Center (CNC machining training)"
+   ]
+  },
+  {
+   "name": "Tompkins Cortland Community College",
+   "type": "community college",
+   "city": "Dryden",
+   "home_url": "https://www.tompkinscortland.edu/",
+   "trades_url": "https://www.tompkinscortland.edu/programs/electrical-engineering-technician",
+   "programs": [
+    "Electrical Engineering Technician",
+    "Pathways to Manufacturing"
+   ]
+  },
+  {
+   "name": "SUNY Ulster",
+   "type": "community college",
+   "city": "Stone Ridge",
+   "home_url": "https://www.sunyulster.edu/",
+   "trades_url": "https://www.sunyulster.edu/learn-at-suny-ulster/areas-of-study/technology/advanced-manufacturing-aos.php",
+   "programs": [
+    "Advanced Manufacturing Technician AOS",
+    "Manufacturing Technology Certificate",
+    "CNC Operator Microcredential",
+    "CNC Programmer Microcredential",
+    "CNC Pre-Apprenticeship Microcredential",
+    "Advanced Manufacturing Pre-Apprenticeship Microcredential"
+   ]
+  },
+  {
+   "name": "SUNY Westchester Community College",
+   "type": "community college",
+   "city": "Valhalla",
+   "home_url": "https://www.sunywcc.edu/",
+   "trades_url": "https://www.sunywcc.edu/academics/majors-programs/heating-ventilation-and-air-conditioning-hvac/",
+   "programs": [
+    "Heating Ventilation and Air Conditioning (HVAC)",
+    "Electrical Technology A.A.S."
+   ]
+  },
+  {
+   "name": "Borough of Manhattan Community College (CUNY)",
+   "type": "community college",
+   "city": "New York",
+   "home_url": "https://www.bmcc.cuny.edu/",
+   "trades_url": "https://www.bmcc.cuny.edu/ce/online-courses/online-electrician-training/",
+   "programs": [
+    "Online Electrician Training",
+    "Online Certified HVACR Technician Training"
+   ]
+  },
+  {
+   "name": "Bronx Community College (CUNY)",
+   "type": "community college",
+   "city": "Bronx",
+   "home_url": "https://www.bcc.cuny.edu/",
+   "trades_url": "https://www.bcc.cuny.edu/academics/academic-departments/engineering-physics-and-technology/degree-certificate-courses/automotive-technology-aas/",
+   "programs": [
+    "Automotive Technology AAS"
+   ]
+  },
+  {
+   "name": "Kingsborough Community College (CUNY)",
+   "type": "community college",
+   "city": "Brooklyn",
+   "home_url": "https://www.kbcc.cuny.edu/",
+   "trades_url": "https://www.kbcc.cuny.edu/ce/construction-trades.html",
+   "programs": [
+    "Construction Trades",
+    "Electrical Technology (online, ed2go)",
+    "HVAC Technician (online, ed2go)",
+    "Plumber (online, ed2go)",
+    "Residential Electrician (online, ed2go)"
+   ]
+  },
+  {
+   "name": "New York City College of Technology (CUNY)",
+   "type": "state college",
+   "city": "Brooklyn",
+   "home_url": "https://www.citytech.cuny.edu/",
+   "trades_url": "https://www.citytech.cuny.edu/construction-engineering/",
+   "programs": [
+    "Construction Management & Civil Engineering Technology",
+    "Electrical & Telecommunications Engineering Technology"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Building & Construction Trades Council of Greater New York",
+   "kind": "building trades council",
+   "trades": [
+    "building and construction trades (multi-union)"
+   ],
+   "city": "New York",
+   "url": "https://www.nycbuildingtrades.org/",
+   "description": "The Building & Construction Trades Council of Greater New York."
+  },
+  {
+   "name": "North Atlantic States Regional Council of Carpenters (NASRCC)",
+   "kind": "union local",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://www.nasrcc.org/",
+   "description": "Regional council of carpenters; the home page presents carpentry as a trade and career path for members."
+  },
+  {
+   "name": "IBEW Local 1049",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew1049.org/",
+   "description": "IBEW Local 1049 home page (page gives no description)."
+  },
+  {
+   "name": "Ironworkers Local 40",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://www.ironworkers40.org/",
+   "description": "Ironworkers Local 40 home page (page gives no description)."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction trades (veterans)"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Helmets to Hardhats home page (page gives no description)."
+  },
+  {
+   "name": "NYS Department of Labor - Apprenticeships",
+   "kind": "apprenticeship program",
+   "trades": [
+    "registered apprenticeship trades (see DOL trade list)"
+   ],
+   "city": "Albany",
+   "url": "https://dol.ny.gov/apprenticeships",
+   "description": "State registered apprenticeship information for apprentices, employers and sponsors.",
+   "how_to_apply": "Apprentices and sponsors use the DOL apprenticeship pages linked from the site."
+  },
+  {
+   "name": "Manufacturers Intermediary Apprenticeship Program (MIAP)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "manufacturing"
+   ],
+   "url": "https://www.nysapprenticeship.org/",
+   "description": "Join NY's Manufacturers Intermediary Apprenticeship Program (MIAP) to start a registered apprenticeship or build a customized program for your company.",
+   "how_to_apply": "Join through the program's site."
+  },
+  {
+   "name": "IBEW Local 106",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Jamestown",
+   "url": "https://www.ibew106.org/",
+   "apprenticeship_url": "https://www.ibew106.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 106."
+  },
+  {
+   "name": "IBEW Local 1212",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "New York",
+   "url": "https://ibew1212.org/",
+   "description": "IBEW Local 1212 – …the right choice!"
+  },
+  {
+   "name": "IBEW Local 1249",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Syracuse",
+   "url": "https://www.ibew1249.org/",
+   "apprenticeship_url": "https://www.ibew1249.org/apprentice-lineman",
+   "description": "Since 1941, IBEW Local 1249 has been a proud member of the International Brotherhood of Electrical Workers (IBEW), specializing in outside electrical construction."
+  },
+  {
+   "name": "IBEW Local 139",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Elmira",
+   "url": "https://ibew139.com/",
+   "apprenticeship_url": "https://ibew139.com/apprenticeship/",
+   "description": "IBEW - International Brotherhood of Electrical Workers | Local 139."
+  },
+  {
+   "name": "IBEW Local 139 JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Elmira",
+   "url": "https://ibew139.com/",
+   "apprenticeship_url": "https://ibew139.com/apprenticeship/",
+   "description": "IBEW - International Brotherhood of Electrical Workers | Local 139."
+  },
+  {
+   "name": "IBEW Local 2032",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Massena",
+   "url": "https://www.ibewlocal2032.org/",
+   "apprenticeship_url": "https://www.ibewlocal2032.org/content/apprenticeship-information",
+   "description": "IBEW 2032 |."
+  },
+  {
+   "name": "IBEW Local 236",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Albany",
+   "url": "https://www.ibew236.org/",
+   "apprenticeship_url": "https://www.ibew236.org/members/online-training/",
+   "description": "IBEW Local 236 – Albany, NY."
+  },
+  {
+   "name": "IBEW Local 237",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Niagara Falls",
+   "url": "https://www.ibew237.com/",
+   "apprenticeship_url": "https://www.ibew237.com/application-process",
+   "description": "Ibew237 is the Electricians Union in Niagara County."
+  },
+  {
+   "name": "IBEW Local 241",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Ithaca",
+   "url": "https://www.ibewlocal241.com/",
+   "description": "IBEW LU 241 is located in Ithaca, Tompkins Co., NY, with a long and proud heritage. If you need electrical work, call (607) 272-2809."
+  },
+  {
+   "name": "IBEW Local 25",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Long Island",
+   "url": "https://www.ibew25.org/",
+   "apprenticeship_url": "https://www.ibew25.org/content/apprenticeship-opportunities",
+   "description": "Long Island's Most Experienced Electricians."
+  },
+  {
+   "name": "IBEW Local 3",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "New York",
+   "url": "https://local3ibew.org/",
+   "apprenticeship_url": "https://local3ibew.org/news/request-apprentice-application-october-19th",
+   "description": "Always Leading The Way."
+  },
+  {
+   "name": "IBEW Local 325",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Binghamton",
+   "url": "https://ibew325.net/",
+   "apprenticeship_url": "https://ibew325.net/jatc/",
+   "description": "IBEW 325 represents highly skilled electricians serving residential, commercial, and industrial projects across Binghamton and New York’s Southern Tier."
+  },
+  {
+   "name": "IBEW Local 41",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Buffalo",
+   "url": "https://www.ibewlocal41.com/",
+   "apprenticeship_url": "https://www.ibewlocal41.com/?zone=/unionactive/view_page.cfm&page=Apprentice20Information",
+   "description": "IBEW Local 41, Buffalo, NY."
+  },
+  {
+   "name": "IBEW Local 43",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Syracuse",
+   "url": "https://www.ibew43.org/?AspxAutoDetectCookieSupport=1",
+   "apprenticeship_url": "https://www.ibew43.org/training?AspxAutoDetectCookieSupport=1",
+   "description": "IBEW Local 43 Syracuse, NY."
+  },
+  {
+   "name": "IBEW Local 503",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Monroe",
+   "url": "http://www.ibew503.org/",
+   "apprenticeship_url": "http://www.ibew503.org/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/view_article.cfm&homeID=765837",
+   "description": "IBEW Local 503."
+  },
+  {
+   "name": "IBEW Local 840",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Geneva",
+   "url": "https://www.ibew840.org/",
+   "apprenticeship_url": "https://www.ibew840.org/ejatc/",
+   "description": "IBEW Local 840 represents 170 hard-working men & women in parts of Cayuga, Onondaga, Ontario, Seneca, Wayne and Yates counties: Phone: 315 789-3330."
+  },
+  {
+   "name": "IBEW Local 910",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Watertown",
+   "url": "https://ibew910.org/",
+   "apprenticeship_url": "https://ibew910.org/apprenticeship/",
+   "description": "International Brotherhood of Electrical Workers (IBEW), Local 910."
+  },
+  {
+   "name": "Local Union 41 IBEW",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Orchard Park",
+   "url": "https://www.ibewlocal41.com/",
+   "apprenticeship_url": "https://www.ibewlocal41.com/?zone=/unionactive/view_page.cfm&page=Apprentice20Information",
+   "description": "IBEW Local 41, Buffalo, NY."
+  },
+  {
+   "name": "IUOE Local 14 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Flushing",
+   "url": "https://www.iuoelocal14.com/?AspxAutoDetectCookieSupport=1"
+  },
+  {
+   "name": "IUOE Local 17 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Lakeview",
+   "url": "http://iuoe-17.com/",
+   "apprenticeship_url": "http://iuoe-17.com/?page_id=461",
+   "description": "International Union of Operating Engineers &#8211; Local 17 MONTHLY MEMBERSHIP MEETING &nbsp; | &nbsp; FRIDAY, DECEMBER 4th, 2026 --> Menu About Us Resource Center Training School News &#038; Events Contact Us LOGIN The Encompass Pipeline construction site featuring IUOE-17 members."
+  },
+  {
+   "name": "IUOE Local 15 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Long Island City",
+   "url": "https://iuoelocal15.org/",
+   "apprenticeship_url": "https://iuoelocal15.org/",
+   "description": "International Union Of Operating Engineers Local 15"
+  },
+  {
+   "name": "IUOE Local 94 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "New York",
+   "url": "https://www.local94.com/",
+   "apprenticeship_url": "https://www.local94.com/affiliated-funds/training-fund.aspx",
+   "description": "Welcome to the IUOE Local 94 home page. Learn about the Local 94 Union and the Union"
+  },
+  {
+   "name": "IUOE Local 137 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Briarcliff Manor",
+   "url": "https://www.iuoelocal137.com/",
+   "apprenticeship_url": "https://www.iuoelocal137.com/?zone=/unionactive/calendar.cfm",
+   "description": "HVLC 2024 Scholarship Winners &nbsp; Work Card &nbsp; Pay Dues &nbsp; Training Center &nbsp; Unemployment &nbsp; Scholarship Information &nbsp; Pension and Welfare Download Our App!"
+  },
+  {
+   "name": "IUOE Local 138 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Farmingdale",
+   "url": "https://www.local138.com/",
+   "apprenticeship_url": "https://www.local138.com/news/site-safety-traininf/",
+   "description": "News Upcoming Events Funeral Services"
+  },
+  {
+   "name": "IUOE Local 211 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "New York",
+   "url": "https://iuoe211.com/",
+   "apprenticeship_url": "https://iuoe211.com/training-information",
+   "description": "The IUOE Local 211 was founded in the 1970&#x27;s to service over 1,000 employees of the New York City Department of Buildings and Department of Housing Preservation &amp; Development working as Inspectors throughout the largest city in the United States."
+  },
+  {
+   "name": "IUOE Local 158 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Glenmont",
+   "url": "https://www.iuoe158.org/",
+   "apprenticeship_url": "https://www.iuoe158.org/apprenticeship-training/",
+   "description": "International Union of Operating Engineers Local 158 (IUOE Local 158) represents more than 4,000 members across 43 counties in New York State."
+  },
+  {
+   "name": "IUOE Local 295 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Maspeth",
+   "url": "https://www.iuoelocal295.org/",
+   "apprenticeship_url": "https://www.iuoelocal295.org/training-opportunities",
+   "description": "BENEFIT FUNDS TRAINING JOIN THE TEAM Local 295 services Greater New York, Long Island, and Connecticut."
+  },
+  {
+   "name": "IUOE Local 825 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "New Hampton",
+   "url": "https://www.iuoe825.org/",
+   "apprenticeship_url": "https://www.iuoe825.org/home/training/",
+   "description": "With our training, experience and drive, we build value for our contractors."
+  },
+  {
+   "name": "IUPAT District Council 4",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.dc4.org/",
+   "apprenticeship_url": "https://www.dc4.org/apprenticeship-and-training/",
+   "description": "Apprentice Drywall Finisher- Local 112 Slide 2 \"I enjoy being able to work all over the area where I live and see jobs I worked on in my travels."
+  },
+  {
+   "name": "IUPAT District Council 9",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.districtcouncil9.net/",
+   "apprenticeship_url": "https://www.districtcouncil9.net/ftiny/",
+   "description": "We also value service to our community, leadership that is accessible to our members, as well as safety and training for our members."
+  },
+  {
+   "name": "BAC 01 New York",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Long Island City",
+   "url": "https://www.baclocal1ny.org/",
+   "apprenticeship_url": "https://www.baclocal1ny.org/",
+   "description": "Bricklayers and Allied Craftworkers Local 1, NY is dedicated to the craft of bricklaying, stonesetting, stone tending, masonry restoration and plastering."
+  },
+  {
+   "name": "BAC 03 New York",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Rochester",
+   "url": "https://bac3ny.com/",
+   "apprenticeship_url": "https://bac3ny.com/training-education-safety"
+  },
+  {
+   "name": "BAC 07 New York &amp; New Jersey",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Long Island City",
+   "url": "https://www.baclocal7.org/",
+   "apprenticeship_url": "https://www.baclocal7.org/training.aspx",
+   "description": "Labor Facts News Archive Links Events Training Center Contractors Contact Welcome to BAC Local 7 A Mega Local!"
+  },
+  {
+   "name": "Laborers’ Local #17 Training and Educational Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Newburgh",
+   "url": "https://www.liuna17.com/",
+   "apprenticeship_url": "https://www.liuna17.com/?zone=/unionactive/view_page.cfm&page=Training"
+  },
+  {
+   "name": "Laborers’ Local 91 Educational and Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Niagara Falls",
+   "url": "https://laborerslocal91.org/",
+   "apprenticeship_url": "https://laborerslocal91.org/training/"
+  },
+  {
+   "name": "General Building Laborers’ Local #66 Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Melville",
+   "url": "https://www.local66.org/",
+   "apprenticeship_url": "https://www.local66.org/training/"
+  },
+  {
+   "name": "Local 1010 Skill Improvement Apprenticeship and Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Whitestone",
+   "url": "https://www.laborerslocal1010.com/",
+   "apprenticeship_url": "https://www.laborerslocal1010.com/training-fund",
+   "description": "Laborers"
+  },
+  {
+   "name": "Mason Tenders Training Center",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Long Island City",
+   "url": "https://www.mttf.org/",
+   "apprenticeship_url": "https://www.mttf.org/about/",
+   "description": "MASON TENDERS&#039; TRAINING FUND OF NEW YORK Register Now We are the Training Home for LiUNA! Local 78 &amp; 79 Journeyworkers and Apprentices as well as our Responsible Contractors who are signatory with the Mason Tenders’ District Council. At the MTTF, we work tirelessly to provide the"
+  },
+  {
+   "name": "Laborers’ Local 754",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Spring Valley",
+   "url": "http://www.local754.com/",
+   "apprenticeship_url": "http://www.local754.com/training",
+   "description": "Laborers International Union of North America (LIUNA) Local 754 - Rockland County, New York"
+  },
+  {
+   "name": "Laborers’ Local 147 Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Bronx",
+   "url": "https://www.sandhogs147.org/",
+   "apprenticeship_url": "https://www.sandhogs147.org/training.aspx",
+   "description": "You can learn more About Us or the Training that makes us the highly skilled workers that we are."
+  },
+  {
+   "name": "Pavers &#038; Road Builders District Council Apprenticeship, Skill Improvement and Safety Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Whitestone",
+   "url": "https://www.laborerslocal1010.com/",
+   "apprenticeship_url": "https://www.laborerslocal1010.com/training-fund",
+   "description": "Laborers"
+  },
+  {
+   "name": "New York City & Vicinity District Council",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "New York",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Albany",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Albany",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Binghamton",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Binghamton",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Buffalo",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Elma",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Horseheads",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Horseheads",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Hudson Valley",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Rock Tavern",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Long Island",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "- Dept. B Hauppauge",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Rochester",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Rochester",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Syracuse",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Syracuse",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Fund - Millwrights New York",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Liverpool",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 291 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Albany",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 276 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Cheektowaga",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 277 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Binghamton",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 290 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Hauppauge",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 279 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Rock Tavern",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1163 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Syracuse",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "New York City & Vicinity District Council - New York City District Council of Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "New York",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Training center listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 926 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Brooklyn",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 212 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "floor New York",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 20 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Staten Island",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 157 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "New York",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1556 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "New York",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 740 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Woodhaven",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2287 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Staten Island",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 45 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Floral Park",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2790 (New York City & Vicinity District Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Woodhaven",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Local union listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Sheet Metal Local 38",
+   "union": "SMART",
+   "kind": "union local",
+   "url": "https://www.smart-union.org/smartcareers/sheet-metal-union-work-opportunities-new-york-connecticut/",
+   "apprenticeship_url": "https://www.smart-union.org/smartcareers/sheet-metal-union-work-opportunities-new-york-connecticut/",
+   "description": "Starting pay for Apprentices is over $40.00 per hour – benefits included."
+  },
+  {
+   "name": "NYS Building & Construction Trades Council",
+   "kind": "pre-apprenticeship",
+   "url": "https://www.nybuildingtrades.com/pre-apprenticeship.aspx",
+   "description": "Pre-apprenticeship program page on the state council website."
+  },
+  {
+   "name": "NYS Building & Construction Trades Council",
+   "kind": "pre-apprenticeship",
+   "url": "https://www.nybuildingtrades.com/helmetstohardhats.aspx",
+   "description": "NY Helmets to Hardhats has a team of dedicated professionals dedicated to your transition."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "NYC Department of Buildings - Licensing",
+   "trades": [
+    "electrician",
+    "plumbing and fire suppression (master and journeyman)",
+    "elevator",
+    "high-pressure boiler operating engineer",
+    "gas work qualification",
+    "oil burner equipment installer",
+    "hoisting machine operator"
+   ],
+   "url": "https://www.nyc.gov/site/buildings/industry/license-types.page",
+   "description": "Licenses for skilled trades in New York City, including electricians, plumbers, and boiler and hoisting operators. Applies only inside the five boroughs."
+  },
+  {
+   "name": "NYS Department of Labor - License and Certification Unit",
+   "trades": [
+    "crane operator",
+    "asbestos handling",
+    "blaster",
+    "explosives",
+    "laser operator"
+   ],
+   "url": "https://dol.ny.gov/licensing-and-certification",
+   "description": "Issues state work licenses and certificates such as crane operator certificates, asbestos handling licenses and blaster certificates."
+  },
+  {
+   "name": "NYS Department of Motor Vehicles - Commercial Driver License (CDL)",
+   "trades": [
+    "commercial truck driving (CDL)"
+   ],
+   "url": "https://dmv.ny.gov/driver-license/commercial-driver-license",
+   "description": "New York state commercial driver license (CDL) information from the DMV."
+  }
+ ],
+ "funding": [
+  {
+   "name": "New York Tuition Assistance Program (TAP)",
+   "url": "https://www.hesc.ny.gov/find-aid/nys-grants-scholarships/tuition-assistance-program-tap",
+   "provider": "New York State Higher Education Services Corporation (HESC)",
+   "kind": "grant",
+   "provides": "A state grant to help cover tuition expenses for eligible New York students attending full-time, part-time or as non-degree students.",
+   "eligibility": "Legal NYS resident for 12 continuous months before enrolling (or NYS DREAM Act eligible); net taxable income no more than $125,000 for dependent students, $60,000 for married independent students with no dependents, or $30,000 for independent single students with no dependents.",
+   "amount": "$1,000 to $5,665 (per the page; determined by income, family size and financial status)",
+   "how_to_apply": "Apply through the FAFSA and the TAP application each year.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "New York Excelsior Scholarship",
+   "url": "https://www.hesc.ny.gov/find-aid/nys-grants-scholarships/excelsior-scholarship-program",
+   "provider": "New York State Higher Education Services Corporation (HESC)",
+   "kind": "tuition-free program",
+   "provides": "Lets students from families earning $125,000 or less attend a state-operated SUNY or CUNY college tuition-free; it is a last-dollar scholarship applied after PELL, TAP and other tuition-applicable aid.",
+   "eligibility": "Household combined federal adjusted gross income of $125,000 or less; undergraduate degree at a SUNY or CUNY college; enroll full time and complete at least 30 credits per year; FAFSA and TAP application each year.",
+   "amount": "Covers remaining tuition at a SUNY or CUNY college, per the page",
+   "how_to_apply": "Apply through the FAFSA and TAP/DREAM Act application each year.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "New York Enhanced Tuition Award (ETA)",
+   "url": "https://www.hesc.ny.gov/find-aid/nys-grants-scholarships/enhanced-tuition-award-eta",
+   "provider": "New York State Higher Education Services Corporation (HESC)",
+   "kind": "grant",
+   "provides": "Up to $6,000 in tuition assistance for students at participating private colleges, combining TAP, ETA and a private college match.",
+   "eligibility": "Household combined federal AGI of $125,000 or less; undergraduate at a participating private college; full-time study (at least 12 credits); U.S. citizen or eligible noncitizen.",
+   "amount": "Maximum of $6,000 per year (per the page)",
+   "how_to_apply": "Complete the FAFSA and the TAP application each year.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "New York State Registered Apprenticeship",
+   "url": "https://dol.ny.gov/apprenticeships",
+   "provider": "New York State Department of Labor",
+   "kind": "apprenticeship",
+   "provides": "Information on registered apprenticeships, where apprentices have a job from day one with hands-on learning and related instruction.",
+   "how_to_apply": "Use the 'Information for Apprentices' section of the page.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

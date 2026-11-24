@@ -1,0 +1,721 @@
+{
+ "code": "WA",
+ "state": "Washington",
+ "colleges": [
+  {
+   "name": "Bates Technical College",
+   "type": "technical college",
+   "city": "Tacoma",
+   "home_url": "https://www.batestech.edu/",
+   "trades_url": "https://www.batestech.edu/areas-of-study/apprenticeships/",
+   "programs": [
+    "Apprenticeships",
+    "Construction",
+    "Electrical",
+    "Sheet Metal",
+    "Diesel and Heavy Equipment"
+   ]
+  },
+  {
+   "name": "Bellingham Technical College",
+   "type": "technical college",
+   "city": "Bellingham",
+   "home_url": "https://www.btc.edu/",
+   "trades_url": "https://www.btc.edu/Academics/DegreesAndCertificates/WeldingAndFabricatingTechnology/index.html",
+   "programs": [
+    "Welding and Fabricating Technology - AAS",
+    "Welding and Fabricating Technology - AAS-T"
+   ],
+   "credentials": "AAS, AAS-T"
+  },
+  {
+   "name": "Big Bend Community College",
+   "type": "community college",
+   "city": "Moses Lake",
+   "home_url": "https://www.bigbend.edu/",
+   "trades_url": "https://www.bigbend.edu/academics/industry-manufacturing-and-trades-area-of-interest.html",
+   "programs": [
+    "Welding",
+    "Automotive Technology AAS",
+    "Manufacturing & Process Technology AAS"
+   ],
+   "credentials": "AAS"
+  },
+  {
+   "name": "Centralia College",
+   "type": "community college",
+   "city": "Centralia",
+   "home_url": "https://www.centralia.edu/",
+   "trades_url": "https://www.centralia.edu/pathways/trades/default.aspx",
+   "programs": [
+    "Welding",
+    "Diesel Equipment Technology",
+    "Commercial Driver License"
+   ]
+  },
+  {
+   "name": "Clark College",
+   "type": "community college",
+   "city": "Vancouver",
+   "home_url": "https://www.clark.edu/",
+   "trades_url": "https://www.clark.edu/academics/programs/advanced-manufacturing-and-mechanical/advanced-manufacturing/",
+   "programs": [
+    "Advanced Manufacturing",
+    "Welding",
+    "Diesel",
+    "Automotive"
+   ]
+  },
+  {
+   "name": "Clover Park Technical College",
+   "type": "technical college",
+   "city": "Lakewood",
+   "home_url": "https://www.cptc.edu/",
+   "trades_url": "https://www.cptc.edu/programs/welding",
+   "programs": [
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Columbia Basin College",
+   "type": "community college",
+   "city": "Pasco",
+   "home_url": "https://www.columbiabasin.edu/",
+   "trades_url": "https://www.columbiabasin.edu/learn/discover-your-path/career-technical-education/apprenticeship/index.html",
+   "programs": [
+    "Multi-Occupational Trades Degree AAS",
+    "Apprenticeship"
+   ],
+   "credentials": "AAS"
+  },
+  {
+   "name": "Grays Harbor College",
+   "type": "community college",
+   "city": "Aberdeen",
+   "home_url": "https://www.ghc.edu/",
+   "trades_url": "https://www.ghc.edu/news/ghc-carpentry-technology-students-build-floor-systems",
+   "programs": [
+    "Carpentry Technology"
+   ]
+  },
+  {
+   "name": "Green River College",
+   "type": "community college",
+   "city": "Auburn",
+   "home_url": "https://www.greenriver.edu/",
+   "trades_url": "https://www.greenriver.edu/consumer-information/gainful-employment-information/machining-manufacturing-tech.html",
+   "programs": [
+    "Machining and Manufacturing Technology",
+    "Welding Tech - Basic Arc and Flame Certificate",
+    "Welding Tech - Intermediate Arc and Flame",
+    "Welding Tech - Advanced Arc Welding Certificate"
+   ],
+   "credentials": "Certificates"
+  },
+  {
+   "name": "Lake Washington Institute of Technology",
+   "type": "technical college",
+   "city": "Kirkland",
+   "home_url": "https://www.lwtech.edu/",
+   "trades_url": "https://www.lwtech.edu/academics/school-of-engineering-and-manufacturing/welding-technology/index.aspx",
+   "programs": [
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Lower Columbia College",
+   "type": "community college",
+   "city": "Longview",
+   "home_url": "https://lowercolumbia.edu/",
+   "trades_url": "https://lowercolumbia.edu/programs/trades/index.php",
+   "programs": [
+    "Welding Programs",
+    "Automotive Technology Programs",
+    "Diesel/Heavy Equipment Technology Programs"
+   ]
+  },
+  {
+   "name": "North Seattle College",
+   "type": "community college",
+   "city": "Seattle",
+   "home_url": "https://northseattle.edu/",
+   "trades_url": "https://northseattle.edu/programs/mechatronics",
+   "programs": [
+    "Mechatronics AAS",
+    "Industrial Automation and Electronic Controls Certificate"
+   ],
+   "credentials": "AAS, certificate"
+  },
+  {
+   "name": "Olympic College",
+   "type": "community college",
+   "city": "Bremerton",
+   "home_url": "https://www.olympic.edu/",
+   "trades_url": "https://www.olympic.edu/academics/academic-pathways/manufacturing-trades",
+   "programs": [
+    "Manufacturing & Trades",
+    "Industrial Trades Technician & Helper Programs"
+   ]
+  },
+  {
+   "name": "Peninsula College",
+   "type": "community college",
+   "city": "Port Angeles",
+   "home_url": "https://pencol.edu/",
+   "trades_url": "https://pencol.edu/areas-study/skilled-trades",
+   "programs": [
+    "Construction Technology",
+    "Welding",
+    "Commercial Driver's License Course"
+   ]
+  },
+  {
+   "name": "Renton Technical College",
+   "type": "technical college",
+   "city": "Renton",
+   "home_url": "https://rtc.edu/",
+   "trades_url": "https://rtc.edu/academics/apprenticeships/index.php",
+   "programs": [
+    "Multi-Occupational Trades Associate of Applied Science Degree",
+    "AJAC: Advanced Manufacturing Apprenticeship",
+    "Machinists Institute"
+   ],
+   "credentials": "AAS"
+  },
+  {
+   "name": "Seattle Central College",
+   "type": "community college",
+   "city": "Seattle",
+   "home_url": "https://seattlecentral.edu/",
+   "trades_url": "https://seattlecentral.edu/programs/construction-and-wood-technology/construction-training-certificate",
+   "programs": [
+    "Construction Training Certificate",
+    "Carpentry AAS",
+    "Boat Building and Repair AAS",
+    "Marine Engineering Technology Certificate",
+    "Marine Deck Technology Certificate"
+   ],
+   "credentials": "AAS, certificates"
+  },
+  {
+   "name": "Shoreline Community College",
+   "type": "community college",
+   "city": "Shoreline",
+   "home_url": "https://www.shoreline.edu/",
+   "trades_url": "https://www.shoreline.edu/automotive-dept/programs.aspx",
+   "programs": [
+    "Automotive"
+   ]
+  },
+  {
+   "name": "Skagit Valley College",
+   "type": "community college",
+   "city": "Mount Vernon",
+   "home_url": "https://www.skagit.edu/",
+   "trades_url": "https://www.skagit.edu/academics/areas-of-study/industrial-technology-transportation/apprenticeships.html",
+   "programs": [
+    "Welding Technology",
+    "Automotive Technology",
+    "Marine Maintenance Technology",
+    "Diesel Power Technology",
+    "Advanced Manufacturing and Design"
+   ]
+  },
+  {
+   "name": "South Puget Sound Community College",
+   "type": "community college",
+   "city": "Olympia",
+   "home_url": "https://spscc.edu/",
+   "trades_url": "https://spscc.edu/automotive-welding-machining",
+   "programs": [
+    "Automotive, Welding & Machining"
+   ]
+  },
+  {
+   "name": "South Seattle College",
+   "type": "community college",
+   "city": "Seattle",
+   "home_url": "https://southseattle.edu/",
+   "trades_url": "https://southseattle.edu/apprenticeship-training-programs",
+   "programs": [
+    "Apprenticeship Training Programs",
+    "Welding Fabrication Technology AAS",
+    "Automotive Technology AAS",
+    "Maritime Shipyard Welding Certificate"
+   ],
+   "credentials": "AAS, certificate"
+  },
+  {
+   "name": "Spokane Community College",
+   "type": "community college",
+   "city": "Spokane",
+   "home_url": "https://scc.spokane.edu/",
+   "trades_url": "https://scc.spokane.edu/About-Us/Locations/Colville/What-to-Study-at-Colville/Industria-Manufacturing-Technology",
+   "programs": [
+    "Industrial and Manufacturing Technology"
+   ]
+  },
+  {
+   "name": "Walla Walla Community College",
+   "type": "community college",
+   "city": "Walla Walla",
+   "home_url": "https://www.wwcc.edu/",
+   "trades_url": "https://www.wwcc.edu/academics/educational-pathways/manufacturing-electrical-and-transportation/",
+   "programs": [
+    "Manufacturing, Electrical, and Transportation"
+   ]
+  },
+  {
+   "name": "Yakima Valley College",
+   "type": "community college",
+   "city": "Yakima",
+   "home_url": "https://yvcc.edu/",
+   "trades_url": "https://yvcc.edu/academics/automotive.php",
+   "programs": [
+    "Automotive Service Technology"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Washington State Building & Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "boilermakers",
+    "bricklayers",
+    "cement masons",
+    "elevator constructors",
+    "electrical workers",
+    "heat & frost insulators",
+    "iron workers",
+    "laborers",
+    "operating engineers",
+    "painters & allied trades",
+    "plumbers & pipefitters",
+    "roofers",
+    "sheet metal workers",
+    "teamsters"
+   ],
+   "url": "https://www.wabuildingtrades.org/",
+   "description": "State council that lists its affiliated unions, regional building trades councils, and an Apprenticeship & Training section."
+  },
+  {
+   "name": "Puget Sound Electrical Joint Apprenticeship and Training Committee (PSEJATC)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.psejatc.org/",
+   "description": "Apprenticeship programs for electrical contractors in the Puget Sound region."
+  },
+  {
+   "name": "IBEW Local 46",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://ibew46.com/",
+   "description": "Union local site with classes and CEUs, union FAQs, and a resource library."
+  },
+  {
+   "name": "IBEW Local 76",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew76.org/",
+   "description": "Union local site with an electrical apprenticeship section, dispatch, and officers and staff pages."
+  },
+  {
+   "name": "UA Local 26",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "pipefitting",
+    "steamfitting",
+    "gas fitting",
+    "marine fitting",
+    "HVAC/R",
+    "welding"
+   ],
+   "url": "https://ua26.org/",
+   "description": "Represents plumbers, pipefitters, welders, HVACR technicians and other piping professionals throughout Western Washington, through apprenticeship training."
+  },
+  {
+   "name": "AGC of Washington",
+   "kind": "contractor association",
+   "trades": [
+    "commercial construction"
+   ],
+   "url": "https://agcwa.com/",
+   "description": "Professional association of contractors in Washington focused on safety standards, advocacy and member connections.",
+   "how_to_apply": "Join AGC link on the site."
+  },
+  {
+   "name": "ABC Western Washington",
+   "kind": "contractor association",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://www.abcwestwa.org/",
+   "description": "Membership association for construction businesses that offers membership benefits and a leadership program.",
+   "how_to_apply": "Download the membership application on the site."
+  },
+  {
+   "name": "Construction Industry Training Council of Washington (CITC)",
+   "kind": "JATC / training center",
+   "trades": [
+    "construction craft training"
+   ],
+   "url": "https://citcwa.org/",
+   "description": "Source for career training and continuing education, with a craft training catalog."
+  },
+  {
+   "name": "Columbia Basin Electrical Training Alliance",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Kennewick",
+   "url": "https://www.jatc112.org/",
+   "apprenticeship_url": "https://www.jatc112.org/?zone=/unionactive/view_page.cfm&page=Apprentice20Resources",
+   "description": "Columbia Basin Electrical Training Alliance - IBEW Local Union 112."
+  },
+  {
+   "name": "IBEW Local 112",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Kennewick",
+   "url": "https://ibewlu112.com/",
+   "apprenticeship_url": "https://ibewlu112.com/?zone=/unionactive/private_view_page.cfm&page=Journeyman20Training20",
+   "description": "IBEW Local 112."
+  },
+  {
+   "name": "IBEW Local 191",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Everett",
+   "url": "https://www.ibew191.com/",
+   "description": "IBEW Local 191."
+  },
+  {
+   "name": "IBEW Local 483",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Tacoma",
+   "url": "http://www.ibew483.org/",
+   "apprenticeship_url": "http://www.ibew483.org/?zone=/unionactive/view_page.cfm&page=Apprenticeships",
+   "description": "IBEW Local 483."
+  },
+  {
+   "name": "IBEW Local 73",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Spokane",
+   "url": "https://www.ibew73.org/",
+   "apprenticeship_url": "https://www.ibew73.org/?zone=/unionactive/view_page.cfm&page=CEU20Classes2020",
+   "description": "IBEW Local 73."
+  },
+  {
+   "name": "IBEW Local 77",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Seattle",
+   "url": "https://www.ibew77.org/",
+   "description": "IBEW Local 77."
+  },
+  {
+   "name": "IBEW Local 89",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Seattle",
+   "url": "http://ibew89.com/",
+   "apprenticeship_url": "https://ibew89.com/nwe-jatc-clerical/",
+   "description": "IBEW Local 89."
+  },
+  {
+   "name": "Inland Empire Electrical Training Trust",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Spokane",
+   "url": "https://www.inlandelectrical.org/",
+   "apprenticeship_url": "https://www.inlandelectrical.org/apprenticeships/",
+   "description": "Inland Empire Electrical Electrical Training Trust | Spokane, Washington | Inland Empire Electrical Apprenticeship – Dedicated to producing Washington's best trained and most qualified electrical workers."
+  },
+  {
+   "name": "NW Line JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Battle Ground",
+   "url": "https://nwlinejatc.com/",
+   "apprenticeship_url": "https://nwlinejatc.com/about-us/",
+   "description": "Start your electrical career with NW Line JATC — IBEW/NECA-affiliated lineman, tree trimmer & VOLTA apprenticeship training programs."
+  },
+  {
+   "name": "Northwest Wash. Electrical Industry JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Mt. Vernon",
+   "url": "https://www.nwejatc.org/",
+   "apprenticeship_url": "https://www.nwejatc.org/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/view_article.cfm&homeID=830577",
+   "description": "Northwest Electrical Industry JATC."
+  },
+  {
+   "name": "Puget Sound Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Renton",
+   "url": "https://www.psejatc.org/",
+   "apprenticeship_url": "https://www.psejatc.org/contact/",
+   "description": "Apprenticeship programs for electrical contractors in the Puget Sound region."
+  },
+  {
+   "name": "IUOE Local 302 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Bothell",
+   "url": "https://www.IUOE302.org/",
+   "apprenticeship_url": "https://www.IUOE302.org/?zone=/unionactive/view_page.cfm&page=STEWARD20TRAINING"
+  },
+  {
+   "name": "IUOE Local 302 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Bellingham",
+   "url": "https://www.IUOE302.org/",
+   "apprenticeship_url": "https://www.IUOE302.org/?zone=/unionactive/view_page.cfm&page=STEWARD20TRAINING"
+  },
+  {
+   "name": "IUPAT District Council 5",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.iupatdc5.org/",
+   "description": "International Union of Painters and Allied Trades District Council 5 represents thirteen local unions across Alaska, Idaho, Oregon, Utah, and Washington."
+  },
+  {
+   "name": "BAC 01 Washington and Alaska",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Tukwila",
+   "url": "https://bac1wa-ak.org/",
+   "apprenticeship_url": "https://bac1wa-ak.org/apprenticeship"
+  },
+  {
+   "name": "Northwest Laborers-Employers Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Kingston",
+   "url": "https://www.nwlett.edu/",
+   "apprenticeship_url": "https://www.nwlett.edu/course/tunneling-training/",
+   "description": "Construction apprenticeship training in Washington, Idaho &amp; Utah. Earn while you learn with paid, on-the-job laborer training."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Burlington Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Burlington",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - DuPont Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "DuPont",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Kennewick Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kennewick",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Kent Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kent",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Spokane Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Spokane",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Burlington Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Burlington",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - DuPont Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "DuPont",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Kennewick Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kennewick",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Kent Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kent",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Spokane Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Spokane",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 59 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Spokane",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1136 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Kettle Falls",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 206 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Kent",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 360 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lacey",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 425 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pacific Drive, Ste. E Burlington",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2761 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "McCleary",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Washington State Department of Labor & Industries - Electrical Program",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://lni.wa.gov/licensing-permits/electrical/",
+   "description": "L&I electrical program page with electrical basics for home and business owners."
+  },
+  {
+   "name": "Washington State Department of Labor & Industries - Plumber Certification",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://www.lni.wa.gov/licensing-permits/plumbing/about-the-plumber-program",
+   "description": "Certifies plumbing professionals; only L&I-certified plumbers can legally perform plumbing work on someone else's property."
+  },
+  {
+   "name": "Washington State Department of Labor & Industries - Contractor Registration",
+   "trades": [
+    "construction contractors"
+   ],
+   "url": "https://lni.wa.gov/licensing-permits/contractors/register-as-a-contractor/",
+   "description": "Construction contractors must register with L&I; state law also requires them to be bonded and insured."
+  },
+  {
+   "name": "Washington State Department of Labor & Industries - Apprenticeship",
+   "trades": [
+    "registered apprenticeship (all trades)"
+   ],
+   "url": "https://lni.wa.gov/licensing-permits/apprenticeship/become-apprentice/",
+   "description": "Explains how to become a registered apprentice."
+  }
+ ],
+ "funding": [
+  {
+   "name": "WA Grant (Washington College Grant)",
+   "url": "https://wsac.wa.gov/wcg",
+   "provider": "Washington Student Achievement Council (WSAC)",
+   "kind": "grant",
+   "provides": "Need-based aid that gives eligible people more money for education and training beyond high school.",
+   "how_to_apply": "See WSAC 'How Do I Get WA Grant?' page linked from this page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "WA Grant for Apprenticeship",
+   "url": "https://wsac.wa.gov/wcg-apprentices",
+   "provider": "Washington Student Achievement Council (WSAC)",
+   "kind": "grant",
+   "provides": "Helps income-eligible apprentices pay for tuition, fees and materials.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Washington Award for Vocational Excellence (WAVE)",
+   "url": "https://wsac.wa.gov/WAVE",
+   "provider": "Washington Student Achievement Council (WSAC)",
+   "kind": "scholarship",
+   "provides": "Scholarship for outstanding students in career and technical education programs.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Opportunity Grant (Washington)",
+   "url": "https://wtb.wa.gov/policy-overview/opportunity-partnership-prog/",
+   "provider": "Washington Workforce Training and Education Coordinating Board",
+   "kind": "grant",
+   "provides": "Financial aid and services that help low-income adults train for high-wage, high-demand careers at state community and technical colleges (described on the Opportunity Partnership Program page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Workforce Pell (Washington)",
+   "url": "https://wtb.wa.gov/workforce-pell/",
+   "provider": "Washington Workforce Training and Education Coordinating Board",
+   "kind": "grant",
+   "provides": "Federal Pell expansion that lets eligible learners use federal aid for short-term (8 to 15 week) workforce programs.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

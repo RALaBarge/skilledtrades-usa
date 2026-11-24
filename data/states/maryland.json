@@ -1,0 +1,564 @@
+{
+ "code": "MD",
+ "state": "Maryland",
+ "colleges": [
+  {
+   "name": "Allegany College of Maryland",
+   "type": "community college",
+   "home_url": "https://www.allegany.edu/",
+   "trades_url": "https://www.allegany.edu/career-and-technical-education/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Engineering - Automated Manufacturing Technology"
+   ]
+  },
+  {
+   "name": "Anne Arundel Community College",
+   "type": "community college",
+   "home_url": "https://www.aacc.edu/",
+   "trades_url": "https://www.aacc.edu/get-job-training/",
+   "programs": [
+    "Diesel Technology",
+    "Electrical Pre-apprenticeships",
+    "HVAC",
+    "Welding"
+   ],
+   "credentials": "Noncredit job training"
+  },
+  {
+   "name": "Baltimore City Community College",
+   "type": "community college",
+   "city": "Baltimore",
+   "home_url": "https://www.bccc.edu/",
+   "trades_url": "https://www.bccc.edu/academics/",
+   "programs": [
+    "Construction Supervision Certificate",
+    "Construction Supervision, AAS",
+    "Electrical Engineering, ASE",
+    "Robotics/Mechatronics Technology, AAS",
+    "Robotics and Mechatronics, Certificate",
+    "Construction (workforce development)"
+   ],
+   "credentials": "AAS, ASE, certificates"
+  },
+  {
+   "name": "Carroll Community College",
+   "type": "community college",
+   "city": "Westminster",
+   "home_url": "https://www.carrollcc.edu/",
+   "trades_url": "https://www.carrollcc.edu/programs/professional-skills-job-training/trades-apprenticeship-programs/",
+   "programs": [
+    "Trades Apprenticeship Programs (journeyman license path)",
+    "Welder / Advanced Welder certificate",
+    "CDL Training: Truck Driver CDL-A certificate",
+    "Construction & Trades (find-whats-right-for-me/construction-trades/)",
+    "Advanced Manufacturing Training"
+   ],
+   "credentials": "Certificates; apprenticeship certificates (plumbing, electrical, HVAC) listed in sitemap"
+  },
+  {
+   "name": "Cecil College",
+   "type": "community college",
+   "city": "North East",
+   "home_url": "https://www.cecil.edu/",
+   "trades_url": "https://www.cecil.edu/programs-courses/cewd/workforce-training/skilled-trades",
+   "programs": [
+    "Automotive Engine Repair (ASE A1)",
+    "Automotive Suspension and Steering (ASE A4)",
+    "Automotive Brake Systems (ASE A5)",
+    "Automotive Electrical Systems (ASE A6)",
+    "Automotive Engine Performance (ASE A8)",
+    "Certified Manufacturing Associate I and II",
+    "Basic Construction Skills",
+    "Apprenticeships (HVAC, IEC electrical)"
+   ],
+   "credentials": "Skilled Trades AAS degree with concentrations (degrees-certificates/skilled-trades page)"
+  },
+  {
+   "name": "Chesapeake College",
+   "type": "community college",
+   "city": "Wye Mills",
+   "home_url": "https://www.chesapeake.edu/",
+   "trades_url": "https://www.chesapeake.edu/programs/explore/skilled-trades/",
+   "programs": [
+    "Manufacturing Technology Certificate",
+    "Welding/Fabrication MIG & TIG Certificate",
+    "Welding/Fabrication Stick & Flux-cored Certificate",
+    "Welding/Metal Fabrication Technologies Certificate",
+    "Advanced Manufacturing",
+    "CORE Training for Skilled Trades",
+    "Project Management for Construction",
+    "Electrical",
+    "HVAC Technician",
+    "Marine Service Technician",
+    "Piping & Plumbing"
+   ],
+   "credentials": "Certificates"
+  },
+  {
+   "name": "College of Southern Maryland",
+   "type": "community college",
+   "city": "La Plata",
+   "home_url": "https://www.csmd.edu/",
+   "trades_url": "https://www.csmd.edu/programs-courses/program-finder/index.html",
+   "programs": [
+    "Electrical Engineering",
+    "Electrical Power Technician",
+    "Electrical Wiring Technician"
+   ]
+  },
+  {
+   "name": "Community College of Baltimore County",
+   "type": "community college",
+   "city": "Catonsville",
+   "home_url": "https://www.ccbcmd.edu/",
+   "trades_url": "https://www.ccbcmd.edu/Programs-and-Courses/Continuing-Education/Workforce/Skilled-Trades-Apprenticeships/index.html",
+   "programs": [
+    "Skilled-Trades Apprenticeships",
+    "HVAC Technology",
+    "Automotive Technology"
+   ]
+  },
+  {
+   "name": "Frederick Community College",
+   "type": "community college",
+   "city": "Frederick",
+   "home_url": "https://www.frederick.edu/",
+   "trades_url": "https://www.frederick.edu/programs/trades-vocational-skills-dev.html",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Apprenticeships",
+    "Electrical Workforce Training",
+    "HVAC Workforce Training",
+    "Welding Workforce Training",
+    "Building Trades Technology Certificate (HVAC, Welding, Electrical)",
+    "Construction Management Technology AOC"
+   ],
+   "credentials": "Certificate and AOC"
+  },
+  {
+   "name": "Hagerstown Community College",
+   "type": "community college",
+   "city": "Hagerstown",
+   "home_url": "https://www.hagerstowncc.edu/",
+   "trades_url": "https://www.hagerstowncc.edu/manufacturing-skilled-trades",
+   "programs": [
+    "Welding Technology",
+    "Diesel Service Technician",
+    "Heavy Equipment Operator",
+    "Automotive Service Technician",
+    "CDL B Transportation",
+    "Manufacturing Technology",
+    "Electric Vehicle Technician Certificate",
+    "Construction Trades Pre-Apprenticeship Courses",
+    "Mobile Crane Operator Certification",
+    "Small Engine Service Technician",
+    "Forklift Operator"
+   ]
+  },
+  {
+   "name": "Harford Community College",
+   "type": "community college",
+   "city": "Bel Air",
+   "home_url": "https://www.harford.edu/",
+   "trades_url": "https://www.harford.edu/academics/workforce-career-programs/trades.php",
+   "programs": [
+    "Construction and Trades Programs",
+    "Applied Science Technology Trades (credit program page)"
+   ]
+  },
+  {
+   "name": "Howard Community College",
+   "type": "community college",
+   "city": "Columbia",
+   "home_url": "https://www.howardcc.edu/",
+   "trades_url": "https://www.howardcc.edu/programs-courses/academics/departments/skilled-trades/workforce-development-trades-center/",
+   "programs": [
+    "Skilled Trades (Cathy and Danny Bell Workforce Development & Trades Center)",
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "Montgomery College",
+   "type": "community college",
+   "city": "Rockville",
+   "home_url": "https://www.montgomerycollege.edu/",
+   "trades_url": "https://www.montgomerycollege.edu/workforce-development-continuing-education/gite/index.html",
+   "programs": [
+    "Automotive (GITE)",
+    "Building and Construction (GITE)",
+    "Construction Management (GITE)",
+    "Apartment Maintenance Technician CAMT (GITE)",
+    "Welding (GITE)",
+    "Skilled Trades Apprenticeship Opportunities (GITE)",
+    "Building Trades Technology (AAS and certificate)",
+    "Automotive Technology (AAS and certificates)",
+    "Commercial Driver's License (CDL)"
+   ],
+   "credentials": "AAS, certificates, CDL"
+  },
+  {
+   "name": "Prince George's Community College",
+   "type": "community college",
+   "city": "Largo",
+   "home_url": "https://www.pgcc.edu/",
+   "trades_url": "https://www.pgcc.edu/programs-courses/continuing-education/",
+   "programs": [
+    "Carpentry (NCCER)",
+    "Electrical & Residential Wiring (NCCER)",
+    "HVAC/R (NCCER)",
+    "Plumbing (NCCER)",
+    "Welding",
+    "Automotive Technology",
+    "Motorcycle Mechanics & Repair",
+    "Distribution, Logistics, and Manufacturing",
+    "Apprenticeships"
+   ],
+   "credentials": "Noncredit"
+  },
+  {
+   "name": "Wor-Wic Community College",
+   "type": "community college",
+   "city": "Salisbury",
+   "home_url": "https://www.worwic.edu/",
+   "trades_url": "https://www.worwic.edu/programs-courses/skilled-trades-transportation/",
+   "programs": [
+    "Welding (credit certificate)",
+    "Skilled Trades & Manufacturing (noncredit): Construction",
+    "Skilled Trades & Manufacturing (noncredit): Electrical",
+    "Skilled Trades & Manufacturing (noncredit): HVACR",
+    "Skilled Trades & Manufacturing (noncredit): Welding, Machining & Metal Fabrication",
+    "CDL / heavy equipment operator training"
+   ],
+   "credentials": "Welding certificate; noncredit"
+  }
+ ],
+ "unions": [
+  {
+   "name": "SMART Local 100",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://smart100.org/",
+   "description": "SMART Local 100 provides advocacy, support and employment services for skilled sheet metal workers."
+  },
+  {
+   "name": "SMART Local 100 Apprenticeships",
+   "kind": "apprenticeship program",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://smart100.org/apprenticeships/",
+   "description": "SMART Local 100 trains apprentices to become journeymen sheet metal workers.",
+   "how_to_apply": "Apply through the apprenticeship page on the site."
+  },
+  {
+   "name": "Maryland PHCC (Plumbing Heating Cooling Contractors Association)",
+   "kind": "contractor association",
+   "trades": [
+    "plumbing",
+    "HVAC"
+   ],
+   "url": "https://marylandphcc.com/",
+   "description": "Maryland chapter of the Plumbing Heating Cooling Contractors Association."
+  },
+  {
+   "name": "Maryland PHCC Plumbing Apprenticeship Program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://marylandphcc.com/plumbing-apprenticeship-program-maryland/",
+   "description": "Plumbing Apprenticeship Program run by Maryland PHCC.",
+   "how_to_apply": "Application linked from the site (marylandphcc.com/apply/)."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Helmets to Hardhats connects military service members and veterans with construction apprenticeship and career opportunities."
+  },
+  {
+   "name": "Maryland Apprenticeship Locator (Maryland Department of Labor)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "all registered apprenticeships"
+   ],
+   "url": "https://labor.maryland.gov/employment/appr/apprsearch.shtml",
+   "description": "State locator for registered apprenticeship programs in Maryland, run by the Office of Apprenticeship."
+  },
+  {
+   "name": "IBEW Local 1718",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Waldorf",
+   "url": "https://ibewlocal1718.org/en",
+   "description": "IBEW 1718 | Home."
+  },
+  {
+   "name": "IBEW Local 24",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Baltimore",
+   "url": "https://www.ibewlocal24.org/",
+   "description": "IBEW 24."
+  },
+  {
+   "name": "IBEW Local 307",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Cumberland",
+   "url": "https://www.ibew307.org/",
+   "apprenticeship_url": "https://www.ibew307.org/wmd-jatc",
+   "description": "IBEW Local Union 307."
+  },
+  {
+   "name": "L.U. 26, JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Lanham",
+   "url": "https://www.jatc26.org/",
+   "apprenticeship_url": "https://www.jatc26.org/",
+   "description": "Joint Apprenticeship & Training Committee – Learning from the Past, Training for Our Future."
+  },
+  {
+   "name": "IUOE Local 37 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Baltimore",
+   "url": "https://www.iuoe37.org/",
+   "apprenticeship_url": "https://www.iuoe37.org/training/",
+   "description": "Local 37 going strong since 1900 Welcome to Local 37 Local 37 is a mid-sized mixed local union representing 1500 members. Mixed local means we represent both Operating Engineers working as heavy equipment operators, mechanic, and welders in the construction industry, and stationary"
+  },
+  {
+   "name": "IUPAT District Council 51",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.iupatdc51.com/",
+   "description": "International Union of Painters &amp; Allied Trades - District Council 51"
+  },
+  {
+   "name": "BAC 01 Maryland, Virginia and District of Columbia",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Laurel",
+   "url": "https://baclocal1.org/",
+   "description": "Learn More &nbsp; &nbsp; Training &amp; Certifications Provides training, certifications, and continuing education programs to members &amp; contractors, through a partnership between the members of the IUBAC and the contractors who employ them."
+  },
+  {
+   "name": "Baltimore-Washington Laborers-Joint Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Baltimore",
+   "url": "https://www.dcltf.org/",
+   "apprenticeship_url": "https://www.dcltf.org/apprenticeship/",
+   "description": "Our staff is qualified to deliver the latest in technological skills to every apprentice and journeyman."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Upper Marlboro",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Upper Marlboro",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 197 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Upper Marlboro",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 491 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "West Patapsco Baltimore",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 491 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "West Patapsco Baltimore",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Maryland State Board of Electricians (Division of Occupational and Professional Licensing)",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.maryland.gov/license/elec/",
+   "description": "State board that licenses electricians in Maryland."
+  },
+  {
+   "name": "Maryland Board of Plumbing (Division of Occupational and Professional Licensing)",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://labor.maryland.gov/license/pl/",
+   "description": "State board that licenses plumbers in Maryland."
+  },
+  {
+   "name": "Maryland Board of Heating, Ventilation, Air Conditioning and Refrigeration Contractors",
+   "trades": [
+    "HVAC",
+    "refrigeration"
+   ],
+   "url": "https://labor.maryland.gov/license/hvacr/",
+   "description": "State board that licenses HVACR contractors in Maryland."
+  },
+  {
+   "name": "Maryland Elevator Safety Review Board (Division of Occupational and Professional Licensing)",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://labor.maryland.gov/license/elev/",
+   "description": "State board overseeing elevator safety review in Maryland."
+  }
+ ],
+ "funding": [
+  {
+   "name": "EARN Maryland",
+   "url": "https://labor.maryland.gov/earn/",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "other",
+   "provides": "EARN Maryland aligns training with industry demand across key sectors to address persistent skills gaps and personnel shortages.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland Eligible Training Provider List",
+   "url": "https://labor.maryland.gov/employment/train/",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "other",
+   "provides": "WIOA mandates that each state have an eligible training provider list (or system, as it is called in Maryland) so the consumer can research career and training options suitable to their interests.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland Office of Apprenticeship",
+   "url": "https://labor.maryland.gov/employment/appr/",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "apprenticeship",
+   "provides": "The Office of Apprenticeship develops, supports, and tracks Registered Apprenticeship programs across the state and safeguards the health and safety of Maryland's apprentices.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland Re-Entry Initiative",
+   "url": "https://labor.maryland.gov/employment/reentry.shtml",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "supportive services",
+   "provides": "Services include access to expungement information, job training and resume assistance.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Veteran Services priority of service",
+   "url": "https://labor.maryland.gov/employment/veteranservices.shtml",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "supportive services",
+   "provides": "Priority of service is given to veterans and their eligible spouses who meet certain eligibility requirements.",
+   "eligibility": "Veterans and eligible spouses who meet the page's eligibility requirements",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Military Personnel and Service-Disabled Veterans No-Interest Loan Program",
+   "url": "https://labor.maryland.gov/employment/vetsloan.shtml",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "loan",
+   "provides": "The program was established to assist military reservists and National Guard members called to active duty, service-disabled veterans, and businesses which employ or are owned by such persons.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Adult Education and Literacy Services",
+   "url": "https://labor.maryland.gov/adultliteracy/",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "other",
+   "provides": "Instruction is available for eligible individuals who are not currently enrolled or required to be enrolled in high school.",
+   "eligibility": "Not currently enrolled or required to be enrolled in high school (per page)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland Higher Education Commission financial aid",
+   "url": "https://mhec.maryland.gov/",
+   "provider": "Maryland Higher Education Commission",
+   "kind": "other",
+   "provides": "Financial Aid Quick Guide for Families & Students (FAFSA Tips, Videos, and More).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland New Start Grant Program",
+   "url": "https://labor.maryland.gov/employment/newstart/",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "grant",
+   "provides": "Grant program created by the Maryland New Start Act of 2022 to support people returning from incarceration in entrepreneurship and self-employment.",
+   "eligibility": "Returning citizens transitioning back to the community from incarceration.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland Apprenticeship Incentive Program",
+   "url": "https://labor.maryland.gov/employment/appr/apprgrants.shtml",
+   "provider": "Maryland Department of Labor, Office of Apprenticeship",
+   "kind": "grant",
+   "provides": "Per-apprentice reimbursement that helps Maryland registered apprenticeship sponsors and employers offset the cost of recruiting and training Registered Apprentices.",
+   "eligibility": "Maryland Registered Apprenticeship sponsors and employers.",
+   "amount": "Up to $3,000 per adult Registered Apprentice, per the page.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Become an Apprentice (Maryland)",
+   "url": "https://labor.maryland.gov/employment/appr/apprbecomeappr.shtml",
+   "provider": "Maryland Department of Labor, Office of Apprenticeship",
+   "kind": "apprenticeship",
+   "provides": "Guide explaining that apprentices are paid jobs from day one and that people can search Maryland's Apprenticeship Locator by county, occupation, industry or sponsor to find a program.",
+   "how_to_apply": "Search the Maryland Apprenticeship Locator, then contact the program for positions and requirements.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland Career Pathways Program",
+   "url": "https://labor.maryland.gov/employment/careerpathways/",
+   "provider": "Maryland Department of Labor, Division of Workforce Development and Adult Learning",
+   "kind": "grant",
+   "provides": "State career pathways grant program; the page defines a career pathway as aligned education, training and services that prepare an individual for postsecondary education or registered apprenticeship.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland State Apprenticeship and Training Fund",
+   "url": "https://labor.maryland.gov/employment/apprfund/",
+   "provider": "Maryland Department of Labor, Office of Apprenticeship",
+   "kind": "other",
+   "provides": "Explains that contractors on certain public works contracts contribute to apprenticeship, through a registered program, a contribution to an organization running one, or a fund payment.",
+   "eligibility": "Contractors and certain subcontractors on certain public work contracts.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Maryland Financial Aid Resources (MHEC)",
+   "url": "https://mhec.maryland.gov/preparing/Pages/FinancialAid/index.aspx",
+   "provider": "Maryland Higher Education Commission",
+   "kind": "other",
+   "provides": "MHEC index of state financial aid for higher education, including grants, scholarships and other awards, both need-based and merit-based.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,237 @@
+{
+ "code": "HI",
+ "state": "Hawaii",
+ "colleges": [
+  {
+   "name": "Hawaii Community College",
+   "type": "community college",
+   "city": "Hilo",
+   "home_url": "https://hawaii.hawaii.edu/",
+   "trades_url": "https://hawaii.hawaii.edu/carpentry",
+   "programs": [
+    "Auto Body Repair and Painting",
+    "Automotive Mechanics Technology",
+    "Carpentry",
+    "Diesel Mechanics",
+    "Electrical Installation and Maintenance Technology",
+    "Machine, Welding and Industrial Mechanics Technologies",
+    "Electronics Technology"
+   ]
+  },
+  {
+   "name": "Honolulu Community College",
+   "type": "community college",
+   "city": "Honolulu",
+   "home_url": "https://honolulu.hawaii.edu/",
+   "trades_url": "https://www.honolulu.hawaii.edu/academics/construction-trades/",
+   "programs": [
+    "Applied Trades",
+    "Carpentry Technology",
+    "Electrical Installation & Maintenance Technology",
+    "Refrigeration & Air Conditioning Technology",
+    "Sheet Metal & Plastics Technology",
+    "Welding Technology",
+    "Automotive Technology",
+    "Diesel Mechanics Technology",
+    "Aeronautics Maintenance Technology",
+    "Apprenticeship & Journeyworker Training"
+   ]
+  },
+  {
+   "name": "Kauai Community College",
+   "type": "community college",
+   "city": "Lihue",
+   "home_url": "https://www.kauai.hawaii.edu/",
+   "trades_url": "https://ocet.kauai.hawaii.edu/apprenticeship-training-program/",
+   "programs": [
+    "Apprenticeship Training Program (Office of Continuing Education)"
+   ]
+  },
+  {
+   "name": "Leeward Community College",
+   "type": "community college",
+   "city": "Pearl City",
+   "home_url": "https://www.leeward.hawaii.edu/",
+   "trades_url": "https://www.leeward.hawaii.edu/auto",
+   "programs": [
+    "Automotive Technology"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 1260",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew1260.org/en",
+   "description": "Home page of IBEW Local 1260, an electrical workers union in Hawaii."
+  },
+  {
+   "name": "Hawaii Training Center (OE3 Local 3)",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment operation"
+   ],
+   "url": "https://www.oe3.org/hawaii-training/",
+   "description": "Produces skilled journey persons who operate and maintain heavy equipment, with apprenticeship training in Hawaii.",
+   "how_to_apply": "Page has apprenticeship application information for Oahu residents with an application period; the dates were cut off in the fetched text."
+  },
+  {
+   "name": "ABC Hawaii (Associated Builders and Contractors)",
+   "kind": "contractor association",
+   "trades": [
+    "construction"
+   ],
+   "city": "Honolulu",
+   "url": "https://abchawaii.org/",
+   "description": "Construction association in Honolulu."
+  },
+  {
+   "name": "Honolulu Community College Apprenticeship and Journeyworker Training",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction trades"
+   ],
+   "city": "Honolulu",
+   "url": "https://www.honolulu.hawaii.edu/academics/apprenticeship/",
+   "description": "Apprenticeship and journeyworker training program page at Honolulu Community College."
+  },
+  {
+   "name": "IBEW Local 1186",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Honolulu",
+   "url": "https://ibew1186.org/",
+   "description": "IBEW 1186 – National Brotherhood of Electrical Workers."
+  },
+  {
+   "name": "IBEW Local 1357",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Honolulu",
+   "url": "https://www.ibew1357.org/",
+   "description": "Home | IBEW Local Union 1357."
+  },
+  {
+   "name": "IUOE Local 3 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Kapolei",
+   "url": "https://www.oe3.org/hawaii-contact-us/",
+   "apprenticeship_url": "https://www.oe3.org/training-schedules/"
+  },
+  {
+   "name": "BAC 01 Hawaii",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Honolulu",
+   "url": "https://hawaiimasonsunion.org/",
+   "apprenticeship_url": "https://hawaiimasonsunion.org/training-education-safety"
+  },
+  {
+   "name": "Maui",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Wailuku",
+   "url": "https://hiltp.org/",
+   "apprenticeship_url": "https://hiltp.org/"
+  },
+  {
+   "name": "Big Island",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Kailua Kona",
+   "url": "https://hiltp.org/",
+   "apprenticeship_url": "https://hiltp.org/"
+  },
+  {
+   "name": "Hawaii Laborers’ Apprenticeship and Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Pearl City",
+   "url": "https://hiltp.org/",
+   "apprenticeship_url": "https://hiltp.org/"
+  },
+  {
+   "name": "Hawaii Regional Council of Carpenters",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "Honolulu",
+   "url": "https://map.carpenters.org/?councils=council-4053",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "Hawaii Regional Council of Carpenters - Hawaii Carpenters and Drywall Training Fund Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kapolei",
+   "url": "https://map.carpenters.org/?councils=council-4053",
+   "description": "Training center listed on the Hawaii Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 745 (Hawaii Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Honolulu",
+   "url": "https://map.carpenters.org/?councils=council-4053",
+   "description": "Local union listed on the Hawaii Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 746 (Hawaii Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Honolulu",
+   "url": "https://map.carpenters.org/?councils=council-4053",
+   "description": "Local union listed on the Hawaii Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Board of Electricians and Plumbers (DCCA Professional and Vocational Licensing)",
+   "trades": [
+    "electrician",
+    "plumber"
+   ],
+   "url": "https://cca.hawaii.gov/pvl/boards/electrician/",
+   "description": "State board that licenses electricians and plumbers in Hawaii."
+  },
+  {
+   "name": "Contractor License Board (DCCA Professional and Vocational Licensing)",
+   "trades": [
+    "contractor"
+   ],
+   "url": "https://cca.hawaii.gov/pvl/boards/contractor/",
+   "description": "State board that licenses contractors in Hawaii."
+  },
+  {
+   "name": "Elevator Mechanics Licensing Board (DCCA Professional and Vocational Licensing)",
+   "trades": [
+    "elevator mechanic"
+   ],
+   "url": "https://cca.hawaii.gov/pvl/boards/elevator/",
+   "description": "State board that licenses elevator mechanics in Hawaii."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Eligible Training Provider List",
+   "url": "https://labor.hawaii.gov/wdc/eligible-training-provider-list/",
+   "provider": "Hawaii Workforce Development Council",
+   "kind": "other",
+   "provides": "In order to be eligible to receive Workforce Innovation and Opportunity funds to train participants, the training provider and its programs of study must be on the Eligible Provider List.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "UH System Financial Aid",
+   "url": "https://www.hawaii.edu/costs/financial-aid",
+   "provider": "University of Hawaii System",
+   "kind": "other",
+   "provides": "Financial aid offices at each campus have professional staff members to administer these programs and advise students and families regarding the financial aid and scholarship opportunities available to them throughout the UH System.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

@@ -403,6 +403,7 @@ fieldset.q legend{font-size:1.2rem;font-weight:700;margin:0 0 .8rem;padding:0}
     if (s.trades_page_url) acts.push(link('See trades programs', s.trades_page_url));
     if (s.college_home_url) acts.push(link('College website', s.college_home_url, 'btn alt'));
     if (s.state_workforce_url) acts.push(link('State workforce office', s.state_workforce_url, 'btn alt'));
+    if (!s.local) acts.push(el('a', { href: 'states/' + s.state.toLowerCase().replace(/[^a-z0-9]+/g, '-') + '.html', 'class': 'btn', text: 'Everything we found for ' + s.state }));
     kids.push(el('div', { 'class': 'actions' }, acts));
     kids.push(el('p', { 'class': 'note', text: 'One college to start from. Others in ' + s.state + ' may offer more, and many trades also train through paid apprenticeships.' }));
     card.appendChild(el('div', { 'class': 'card' }, kids));

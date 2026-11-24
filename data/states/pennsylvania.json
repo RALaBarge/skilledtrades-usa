@@ -1,0 +1,924 @@
+{
+ "code": "PA",
+ "state": "Pennsylvania",
+ "colleges": [
+  {
+   "name": "Community College of Allegheny County",
+   "type": "community college",
+   "city": "Pittsburgh",
+   "home_url": "https://www.ccac.edu/",
+   "trades_url": "https://www.ccac.edu/academics/programs/industrial-technology-trades-and-transportation/index.php",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction",
+    "Carpentry Apprenticeship",
+    "Electrical Construction Technology",
+    "Facilities Maintenance",
+    "Heating & Air Conditioning",
+    "Heavy Equipment Operating Engineers Apprenticeship",
+    "Ironworker Apprenticeship",
+    "Mechatronics Technology",
+    "Plumbing",
+    "Sheet Metal Worker Apprenticeship",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Community College of Beaver County",
+   "type": "community college",
+   "city": "Monaca",
+   "home_url": "https://www.ccbc.edu/",
+   "trades_url": "https://ccbc.edu/building-trades-technology-and-management/",
+   "programs": [
+    "Building Trades Technology and Management",
+    "Mechatronics"
+   ]
+  },
+  {
+   "name": "Butler County Community College",
+   "type": "community college",
+   "city": "Butler",
+   "home_url": "https://www.bc3.edu/",
+   "trades_url": "https://bc3.edu/programs/manufacturing-skills.html",
+   "programs": [
+    "Industrial Equipment Technician Training",
+    "Welding Certificate",
+    "Manufacturing Skills Training"
+   ],
+   "credentials": "Certificate (welding)"
+  },
+  {
+   "name": "Bucks County Community College",
+   "type": "community college",
+   "city": "Newtown",
+   "home_url": "https://www.bucks.edu/",
+   "trades_url": "https://www.bucks.edu/workforce/",
+   "programs": [
+    "Building & Construction Trades",
+    "Electrical Training",
+    "HVAC Technician",
+    "Industrial Maintenance Pre-Apprenticeship",
+    "Metalwork Training",
+    "Welding Training",
+    "Commercial Driver's License (CDL)"
+   ]
+  },
+  {
+   "name": "Community College of Philadelphia",
+   "type": "community college",
+   "city": "Philadelphia",
+   "home_url": "https://www.ccp.edu/",
+   "trades_url": "https://www.ccp.edu/degrees-programs/all-academic-offerings/continuing-education-noncredit",
+   "programs": [
+    "Structural Welding",
+    "Welding Technology",
+    "CNC Precision Machining",
+    "Advanced Manufacturing",
+    "Online HVAC/R Technician Training",
+    "Online Residential Electrician Training",
+    "Entry-Level Driver Training (ELDT)",
+    "Apprenticeship Programs"
+   ],
+   "credentials": "Noncredit"
+  },
+  {
+   "name": "Delaware County Community College",
+   "type": "community college",
+   "city": "Media",
+   "home_url": "https://www.dccc.edu/",
+   "trades_url": "https://www.dccc.edu/field-of-study/skilled-trades/",
+   "programs": [
+    "Skilled Trades, AAS (SKTR)",
+    "Automotive Technology I (certificate of competency)",
+    "Automotive Technology II (certificate of competency)",
+    "Carpentry (Residential), Certificate of Proficiency",
+    "Computer-Aided Machining Lathe, Mill and EDM, Certificate of Competency",
+    "Construction Supervision, Certificate",
+    "Machine Tool Technology, AAS",
+    "Manufacturing CNC, Certificate of Proficiency",
+    "Plumbing Technology, Certificate of Competency",
+    "Residential Electrical, Certificate of Competency",
+    "Welding Technology, Certificate of Competency",
+    "Building and Facilities Maintenance, Certificate of Competency"
+   ],
+   "credentials": "AAS and certificates of competency/proficiency"
+  },
+  {
+   "name": "HACC, Central Pennsylvania's Community College",
+   "type": "community college",
+   "city": "Harrisburg",
+   "home_url": "https://www.hacc.edu/",
+   "trades_url": "https://www.hacc.edu/ProgramsandCourses/index.cfm?fosid=Technical_Trades",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction Management",
+    "Commercial Driver's License Certificate",
+    "CNC Precision and Machining Technology",
+    "Electrical Technology",
+    "Heating, Ventilation, and Air Conditioning/Refrigeration (HVAC-R)",
+    "Industrial Technology",
+    "Mechatronics",
+    "Welding Technology",
+    "General Motors Technician Trainee I and II",
+    "Advanced Automotive Specialty Skills"
+   ]
+  },
+  {
+   "name": "Lackawanna College",
+   "type": "community college",
+   "city": "Scranton",
+   "home_url": "https://www.lackawanna.edu/",
+   "trades_url": "https://www.lackawanna.edu/career-pathways/manufacturing-and-trades/",
+   "programs": [
+    "Electrical Technology",
+    "Welding and Fabrication Technology",
+    "Carpentry and Construction Technology",
+    "Advanced Automotive Technologies",
+    "Robotics-Integrated Manufacturing Technology"
+   ],
+   "credentials": "Degree programs"
+  },
+  {
+   "name": "Lehigh Carbon Community College",
+   "type": "community college",
+   "city": "Schnecksville",
+   "home_url": "https://www.lccc.edu/",
+   "trades_url": "https://www.lccc.edu/workforce-training/industrial-manufacturing/",
+   "programs": [
+    "Construction Technology A.A.S.",
+    "Construction Technology Certificate",
+    "Construction Management A.A.S.",
+    "Electrical Technology A.A.S.",
+    "Electrical Technology Certificate",
+    "Electrical Technology Quickstart",
+    "HVACR Technology Certificate",
+    "Mechatronics AM/IST Level I",
+    "Tool and Die Machinist Apprenticeship Certificate",
+    "CDL Training Program"
+   ],
+   "credentials": "A.A.S., certificates"
+  },
+  {
+   "name": "Luzerne County Community College",
+   "type": "community college",
+   "city": "Nanticoke",
+   "home_url": "https://www.luzerne.edu/",
+   "trades_url": "https://www.luzerne.edu/academics/catalog/dept.jsp?m=1&c=MFG",
+   "programs": [
+    "Advanced Manufacturing Program"
+   ]
+  },
+  {
+   "name": "Montgomery County Community College",
+   "type": "community college",
+   "city": "Blue Bell",
+   "home_url": "https://www.mc3.edu/",
+   "trades_url": "https://www.mc3.edu/degrees-and-programs/non-credit/industrial-and-manufacturing-training/machinist-cnc-operator-certificate.aspx",
+   "programs": [
+    "Machinist-CNC Operator Certificate of Completion",
+    "Machinist CNC Operator Levels 1 and 2",
+    "Welding 1",
+    "Introduction to Mechanical Blueprint Reading",
+    "MontcoWorks Apprenticeship Program"
+   ],
+   "credentials": "Certificate of completion (noncredit)"
+  },
+  {
+   "name": "Northampton Community College",
+   "type": "community college",
+   "city": "Bethlehem",
+   "home_url": "https://www.northampton.edu/",
+   "trades_url": "https://www.northampton.edu/business-and-community/workforce-training/construction-and-trades/index.html",
+   "programs": [
+    "Industrial Maintenance Millwright",
+    "HVAC/R Training Programs",
+    "Welding",
+    "Precision Machining",
+    "Automotive Technology",
+    "Electrical Technology",
+    "Construction Management",
+    "CDL Truck Driver Training",
+    "Lineworker Trainee Program",
+    "Automotive Inspection Training",
+    "Industrial Skills in Manufacturing"
+   ]
+  },
+  {
+   "name": "Reading Area Community College",
+   "type": "community college",
+   "city": "Reading",
+   "home_url": "https://www.racc.edu/",
+   "trades_url": "https://www.racc.edu/academics/mechatronics",
+   "programs": [
+    "Mechatronics",
+    "Manufacturing Technology & Processes"
+   ],
+   "credentials": "Short-term technical certificate (STTC) per page label"
+  },
+  {
+   "name": "Westmoreland County Community College",
+   "type": "community college",
+   "city": "Youngwood",
+   "home_url": "https://www.westmoreland.edu/",
+   "trades_url": "https://www.westmoreland.edu/workforce-development/workforce-programs/technical-assessment-and-training.html",
+   "programs": [
+    "AWS Welder Testing",
+    "Technical Assessment & Training"
+   ]
+  },
+  {
+   "name": "Pennsylvania Highlands Community College",
+   "type": "community college",
+   "city": "Johnstown",
+   "home_url": "https://www.pennhighlands.edu/",
+   "trades_url": "https://www.pennhighlands.edu/workforce-community/career-advancement-training/hvacr-technician-voucher-included/",
+   "programs": [
+    "HVAC/R Technician (voucher included)"
+   ]
+  },
+  {
+   "name": "Erie County Community College (EC3)",
+   "type": "community college",
+   "city": "Erie",
+   "home_url": "https://www.ec3pa.org/",
+   "trades_url": "https://www.ec3pa.org/pathways-to-careers-at-ec3pa/welding-technology",
+   "programs": [
+    "Welding Technology (1-year certificate)",
+    "CNC Operator & Programmer Certificate",
+    "Industrial Maintenance Program",
+    "Industrial Maintenance: Electrical",
+    "Industrial Maintenance: Mechanical",
+    "Automated Electrical Systems"
+   ],
+   "credentials": "1-year certificate (welding)"
+  },
+  {
+   "name": "Pennsylvania College of Technology",
+   "type": "state college",
+   "city": "Williamsport",
+   "home_url": "https://www.pct.edu/",
+   "trades_url": "https://www.pct.edu/business-industry/workforce-development/apprenticeships",
+   "programs": [
+    "Heating, Ventilation & Air Conditioning",
+    "Welding (certificate and A.A.S.)",
+    "Automotive Technology",
+    "Electrical",
+    "Plumbing (certificate)",
+    "Building Construction",
+    "Construction Management",
+    "Heavy Equipment Operations",
+    "Industrial Maintenance Mechanic (apprenticeship)",
+    "Mechatronics Technician (apprenticeship)",
+    "CNC Apprenticeship Programs",
+    "Bus Maintenance Technician Apprenticeship"
+   ],
+   "credentials": "A.A.S., certificates, apprenticeships"
+  },
+  {
+   "name": "Thaddeus Stevens College of Technology",
+   "type": "technical college",
+   "city": "Lancaster",
+   "home_url": "https://www.stevenscollege.edu/",
+   "trades_url": "https://www.stevenscollege.edu/academics/programs/",
+   "programs": [
+    "HVAC/R Technology (A.S.)",
+    "Diesel Technology (A.S.)",
+    "Welding Technology (A.S.)",
+    "Plumbing Technology (A.S.)",
+    "Carpentry Technology (A.S.)",
+    "Masonry Construction Technology (A.S.)",
+    "Automotive Technology (A.S.)",
+    "Electrical Technology (A.S.)",
+    "Computer Integrated Machining (A.S.)",
+    "Electrical Construction and Maintenance Certificate",
+    "Masonry Construction Certificate",
+    "Welding Technology Certificate"
+   ],
+   "credentials": "Associate degrees and certificates; short-term trainings also offered"
+  },
+  {
+   "name": "Penn Commercial Business/Technical School",
+   "type": "technical college",
+   "city": "Washington",
+   "home_url": "https://penncommercial.edu/",
+   "trades_url": "https://penncommercial.edu/programs/trade-technical/",
+   "programs": [
+    "CDL Training",
+    "Electrician Training",
+    "HVAC-R Training",
+    "Welding Technology Training"
+   ]
+  },
+  {
+   "name": "Fayette County Career & Technical Institute",
+   "type": "career-tech center",
+   "city": "Uniontown",
+   "home_url": "https://www.fayettecti.org/?p=1648",
+   "trades_url": "https://www.fayettecti.org/?p=1648",
+   "programs": [
+    "Building Construction",
+    "Diesel Mechanics",
+    "Electrical Construction",
+    "Machine Production",
+    "Masonry",
+    "Welding",
+    "Vehicle Maintenance and Repair (Power Sports)",
+    "Advanced Manufacturing Academy",
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "Central Westmoreland Career & Technology Center",
+   "type": "career-tech center",
+   "home_url": "https://www.cwctc.org/index.php/adult-education/",
+   "trades_url": "https://www.cwctc.org/index.php/adult-education/",
+   "programs": [
+    "Construction Trades",
+    "Electrical Technology",
+    "HVAC & Steamfitting",
+    "Welding & Metal Fabrication",
+    "Automotive Mechanics Technology",
+    "Automotive Collision Repair Technology",
+    "Robotics Engineering and Manufacturing"
+   ]
+  },
+  {
+   "name": "Greater Altoona Career & Technology Center",
+   "type": "career-tech center",
+   "city": "Altoona",
+   "home_url": "https://www.gactc.edu/",
+   "trades_url": "https://www.gactc.edu/",
+   "programs": [
+    "Electrical Trades (adult full-time diploma)",
+    "HVAC with Related Plumbing & Electrical (adult full-time)",
+    "Maintenance Technician (adult online training)",
+    "Carpentry/Construction",
+    "Precision Machining",
+    "Masonry",
+    "HVAC/R",
+    "Automotive/Diesel Technology"
+   ],
+   "credentials": "Adult diploma programs"
+  },
+  {
+   "name": "Somerset County Technology Center",
+   "type": "career-tech center",
+   "city": "Somerset",
+   "home_url": "https://sctc.net/",
+   "trades_url": "https://sctc.net/",
+   "programs": [
+    "CDL Training",
+    "Electrical Occupations",
+    "Welding Technology",
+    "Machine Technology",
+    "Masonry",
+    "Carpentry",
+    "Automotive Technology"
+   ]
+  },
+  {
+   "name": "Greater Johnstown Career & Technology Center",
+   "type": "career-tech center",
+   "city": "Johnstown",
+   "home_url": "https://www.gjctc.org/",
+   "trades_url": "https://www.gjctc.org/",
+   "programs": [
+    "Construction Technology",
+    "Welding",
+    "Machine Tool Technology",
+    "Diesel Technology",
+    "Automotive Technology",
+    "Advanced Manufacturing/Robotics",
+    "Short-Term Programs"
+   ]
+  },
+  {
+   "name": "Lehigh Career & Technical Institute",
+   "type": "career-tech center",
+   "home_url": "https://www.lcti.org/",
+   "trades_url": "https://www.lcti.org/adult-education-course/building-trades-2/",
+   "programs": [
+    "Building Trades",
+    "Industrial Electrical Maintenance Technology",
+    "HVAC Technician Training",
+    "Masonry",
+    "Welding Training",
+    "Plumbing Training & Certification",
+    "Carpentry",
+    "CDL Training & Certification"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Western Pennsylvania Electrical JATC (IBEW Local 5)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://ibewlocal5jatc.org/",
+   "description": "The Western Pennsylvania Electrical Joint Apprenticeship Training Committee runs the electrical apprenticeship for IBEW Local 5.",
+   "how_to_apply": "Page says applications are closed for the 2026-2027 school year."
+  },
+  {
+   "name": "IBEW Local 98 Apprentice Training",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Philadelphia",
+   "url": "https://www.ibew98.org/training/",
+   "description": "IBEW Local 98 runs an electrical apprenticeship training program for Philadelphia."
+  },
+  {
+   "name": "Chester Joint Apprenticeship and Training Committee (IBEW 654)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Chester",
+   "url": "https://www.ibew654.net/apprenticeship",
+   "description": "The Chester JATC for the electrical industry offers a five-year apprenticeship to become a journeyman electrician."
+  },
+  {
+   "name": "UA Plumbers Local 27 Apprenticeship",
+   "kind": "apprenticeship program",
+   "trades": [
+    "plumbing",
+    "pipefitting"
+   ],
+   "city": "Coraopolis",
+   "url": "https://ua27.org/pittsburgh-erie-union-training/apprenticeship/",
+   "description": "Plumbers Union Local 27 runs a plumbing apprenticeship and training program covering western Pennsylvania from Erie to Pittsburgh.",
+   "how_to_apply": "Page has a How to Apply section (details not captured)."
+  },
+  {
+   "name": "IUOE Local 66 Apprenticeships",
+   "kind": "apprenticeship program",
+   "trades": [
+    "heavy equipment operator",
+    "heavy equipment mechanic"
+   ],
+   "url": "https://iuoe66.org/apprenticeships",
+   "description": "Operating Engineers Local 66 runs a heavy equipment operator apprenticeship with field training on assigned machines."
+  },
+  {
+   "name": "Pennsylvania Building & Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "building and construction trades"
+   ],
+   "url": "https://www.pabuildingtrades.org/training.aspx",
+   "description": "The Pennsylvania Building & Construction Trades Council has an apprenticeship and training section and lists its local councils and local unions.",
+   "how_to_apply": "Site has a Join page (https://www.pabuildingtrades.org/join.aspx); details not captured."
+  },
+  {
+   "name": "ABC Keystone Apprenticeship Program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction (merit shop, multiple trades)"
+   ],
+   "url": "https://abckeystone.org/apprenticeship/",
+   "description": "ABC Keystone runs apprenticeship and pre-apprenticeship programs for merit-shop construction contractors in Pennsylvania.",
+   "how_to_apply": "Apprenticeship enrollment application linked from the page."
+  },
+  {
+   "name": "IBEW Local 126",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "url": "https://www.ibewlu126.com/",
+   "apprenticeship_url": "https://www.ibewlu126.com/become_an_apprentice/",
+   "description": "IBEW 126."
+  },
+  {
+   "name": "IBEW Local 1319",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Wilkes-Barre",
+   "url": "https://ibew1319.org/",
+   "apprenticeship_url": "https://ibew1319.org/oshe/",
+   "description": "We are IBEW 1319."
+  },
+  {
+   "name": "IBEW Local 143",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Harrisburg",
+   "url": "https://ibewlocal143.org/",
+   "apprenticeship_url": "https://ibewlocal143.org/apprentice/",
+   "description": "IBEW Local 143 provides the best electrical workforce to the Greater Harrisburgh elite electrical contractors."
+  },
+  {
+   "name": "IBEW Local 163",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Wilkes-Barre",
+   "url": "https://www.ibew163.org/",
+   "apprenticeship_url": "https://www.ibew163.org/apprentices/",
+   "description": "Learn more about International Brotherhood of Electrical Workers (IBEW) Local 163 on our website: Contractors, join and construction issues."
+  },
+  {
+   "name": "IBEW Local 1914",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Harwick",
+   "url": "https://www.ibew1914.org/en",
+   "description": "Ibew 1914 | Home."
+  },
+  {
+   "name": "IBEW Local 1919",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Pittsburgh",
+   "url": "https://www.ibew1919.org/",
+   "apprenticeship_url": "https://www.ibew1919.org/training/",
+   "description": "Local 1919 card-carrying Journeymen Tree Trimmers are in demand & the Best Trained Line Clearance Tree Trimmers in the industry; learn more 412-921-5757."
+  },
+  {
+   "name": "IBEW Local 229",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "York",
+   "url": "https://www.ibew229.org/",
+   "apprenticeship_url": "https://www.ibew229.org/training-events",
+   "description": "York's Most Experienced Electricians."
+  },
+  {
+   "name": "IBEW Local 375",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Allentown",
+   "url": "https://ibew375.org/",
+   "apprenticeship_url": "https://ibew375.org/apprenticeship-training/",
+   "description": "Home | IBEW 375."
+  },
+  {
+   "name": "IBEW Local 5",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Pittsburgh",
+   "url": "https://ibew5.org/",
+   "description": "Founded in 1897, IBEW Local 5 has been leading the way for over 125 years in fighting for fair wages, pension, annuity, healthcare and industry-leading."
+  },
+  {
+   "name": "IBEW Local 56",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Erie",
+   "url": "https://www.ibewlocal56.org/",
+   "apprenticeship_url": "https://www.ibewlocal56.org/careers-page/",
+   "description": "IBEW Local Union 56 is the largest construction union in Erie, Pennsylvania with over 280 members serving 35+ contractors; professionally trained men and women capable of performing all aspects of the Residential, Commercial and Industrial electrical industry."
+  },
+  {
+   "name": "IBEW Local 607",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Shamokin",
+   "url": "https://ibew607.com/",
+   "apprenticeship_url": "https://ibew607.com/apprenticeship",
+   "description": "IBEW Local Union 607."
+  },
+  {
+   "name": "IBEW Local 712",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Beaver",
+   "url": "https://ibew712.org/",
+   "description": "IBEW LOCAL 712 POWERING WESTERN PENNSYLVANIA With more than 600 members serving Beaver, Lawrence, Mercer, and Crawford Counties, Local 712 is proud to power our region while training the next generation of skilled electrical professionals.  JOB CALLS  JOIN US  RE-SIGN ."
+  },
+  {
+   "name": "IBEW Local 743",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Reading",
+   "url": "https://ibewlocal743.org/",
+   "apprenticeship_url": "https://ibewlocal743.org/apprenticeship-training/",
+   "description": "IBEW Local 743 represents over 600 electricians working in Berks, Schuylkill, Lancaster, Chester and Montgomery counties."
+  },
+  {
+   "name": "IBEW Local 81",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Scranton",
+   "url": "https://www.ibew81.org/",
+   "apprenticeship_url": "https://www.ibew81.org/content/apprenticeship-scranton-electricians",
+   "description": "Scranton's Most Experienced Electricians."
+  },
+  {
+   "name": "IBEW Local 812",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Williamsport",
+   "url": "https://ibew812.com/",
+   "apprenticeship_url": "https://ibew812.com/apprentices/",
+   "description": "IBEW Local 812 – The Ampere Strikes Back."
+  },
+  {
+   "name": "IBEW Local 98",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "url": "https://www.ibew98.org/",
+   "apprenticeship_url": "https://www.ibew98.org/training/",
+   "description": "IBEW LOCAL 98 – International Brotherhood of Electrical Workers Local Union 98."
+  },
+  {
+   "name": "NorthEastern AJATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Douglassville",
+   "url": "https://www.neat1968.org/",
+   "apprenticeship_url": "https://www.neat1968.org/apprenticeship/",
+   "description": "Welcome - The Northeastern Apprenticeship and Training Program."
+  },
+  {
+   "name": "Pittsburgh JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Pittsburgh",
+   "url": "https://ibewlocal5jatc.org/",
+   "apprenticeship_url": "https://ibewlocal5jatc.org/",
+   "description": "The Western Pennsylvania Electrical Joint Apprenticeship Training Committee Apprenticeship serves as a training ground for the electricians of Local 5."
+  },
+  {
+   "name": "Western Central PA Electricians JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Beaver",
+   "url": "http://www.wcpaejatc.org/",
+   "apprenticeship_url": "http://www.wcpaejatc.org/apprentices-and-journeymen",
+   "description": "Electrician apprenticeship for Beaver, Lawrence, Mercer and Crawford Counties, Pennsylvania. Applications are accepted September 1 to March 31."
+  },
+  {
+   "name": "IUOE Local 95 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Pittsburgh",
+   "url": "https://iuoelocal95.org/",
+   "apprenticeship_url": "https://iuoelocal95.org/classes-and-training",
+   "description": "Join IUOE Local 95 for fair wages, training, and community support. Sign up today to enhance your career with union benefits!"
+  },
+  {
+   "name": "IUOE Local 66 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Pittsburgh",
+   "url": "https://iuoe66.org/",
+   "apprenticeship_url": "https://iuoe66.org/apprenticeships",
+   "description": "Operating Engineers Local 66 Labor Union represents heavy equipment operators and mechanics in the construction industry. Operating Engineers is the 10th largest union in the AFL-CIO."
+  },
+  {
+   "name": "IUOE Local 835 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Drexel Hill",
+   "url": "https://iuoelocal835.org/",
+   "apprenticeship_url": "https://iuoelocal835.org/new-page",
+   "description": "The International Union of The Operating Engineers Local 835 is a progressive, diversified trade union that represents stationary engineers, who work in operations and maintenance in buildings and industrial complexes, and in the service industries. Comprised of almost 2,000 members, Local 835 also "
+  },
+  {
+   "name": "IUPAT District Council 21",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.dc21.org/",
+   "description": "IUPAT DC 21 provides career opportunities to apprentices and journeypersons in the construction industry. We ensure the best wages and benefits for Painters, Drywall Finishers, Wall Coverers, Glaziers, and Glass Workers."
+  },
+  {
+   "name": "IUPAT District Council 57",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.iupatdc57.org/",
+   "apprenticeship_url": "https://www.iupatdc57.org/join/",
+   "description": "Contact Us APPRENTICESHIPS MEMBER RESOURCES JOIN DC 57 Member Spotlight Member Spotlight: Yianni Smallis Becoming a bridge and industrial painter with Local 6 changed Yianni Smallis’ life."
+  },
+  {
+   "name": "BAC 09 Pennsylvania",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Pittsburgh",
+   "url": "https://local9pa.com/",
+   "apprenticeship_url": "https://local9pa.com/training-education",
+   "description": "Click Here to Learn More Get in touch Facebook Twitter Instagram Youtube Quick Links About Us News Training &amp; Education Resources Meeting Members Search site Search Copyright © The International Union of Bricklayers &amp; Allied Craftworkers Log In &copy; 2026 All rights reserved."
+  },
+  {
+   "name": "Western Pennsylvania Laborers’ Education and Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Saxonburg",
+   "url": "https://www.palabortraining.org/",
+   "apprenticeship_url": "https://www.palabortraining.org/",
+   "description": "The Pennsylvania Laborers"
+  },
+  {
+   "name": "Pennsylvania Laborers’ Training Center",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Harrisburg",
+   "url": "https://www.laborerseastpa.org/",
+   "apprenticeship_url": "https://www.laborerseastpa.org/",
+   "description": "The Pennsylvania Laborers Training Center is a first-class facility with the expertise to train Laborers in all the current craft skills. We are proud to train our Union Members and Contractors from throughout the 29 counties in Central and Northeastern Pennsylvania."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "Philadelphia",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Carpenters Apprentice School of Allentown ISC",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Allentown",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Duncansville",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Duncansville",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Lebanon",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Lebanon",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Philadelphia Main Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Philadelphia",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Pittsburgh",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Pittsburgh",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 158 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 164 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 167 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Allentown",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 420 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Sheakleyville",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 423 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Duncansville",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 431 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lebanon",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 432 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pittsburgh",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 445 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Scranton",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 787 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 426 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lebanon",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 274 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pittsburgh",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 474 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Philadelphia",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Sheet Metal Local 44",
+   "union": "SMART",
+   "kind": "union local",
+   "url": "https://www.smart-union.org/smartcareers/smart-local-44-sheet-metal-apprentice-application-northeast-pa/",
+   "apprenticeship_url": "https://www.smart-union.org/smartcareers/smart-local-44-sheet-metal-apprentice-application-northeast-pa/",
+   "description": "Start a Union Información en español Become an Apprentice at Local 44 in Northeastern Pennsylvania Take the first steps to success as an Apprentice with Local 44 Apply to become an apprentice with Local 44 here."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "PA Department of State, Bureau of Professional and Occupational Affairs (Boards & Commissions)",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://www.dos.pa.gov/ProfessionalLicensing/BoardsCommissions/Pages/default.aspx",
+   "description": "The Department of State boards and commissions page lists Electricians among the professions it licenses."
+  },
+  {
+   "name": "PA Department of Labor & Industry (Elevator Safety Board)",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://www.pa.gov/agencies/dli",
+   "description": "The Labor & Industry site lists an Elevator Safety Board among its boards."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Pennsylvania apprenticeship and training (Department of Labor and Industry)",
+   "url": "https://www.dli.pa.gov/Individuals/Workforce-Development/apprenticeship/Pages/default.aspx",
+   "provider": "Pennsylvania Department of Labor and Industry",
+   "kind": "apprenticeship",
+   "provides": "Registered apprenticeship and pre-apprenticeship programs in which apprentices are paid employees who learn skills on the job with mentorship.",
+   "how_to_apply": "Find career and training services through PA CareerLink or contact the Apprenticeship and Training Office (see page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "PA CareerLink Registered Apprenticeship and Pre-Apprenticeship",
+   "url": "https://www.pacareerlink.pa.gov/jponline/Apprenticeships",
+   "provider": "Pennsylvania CareerLink (Department of Labor and Industry)",
+   "kind": "apprenticeship",
+   "provides": "Lists Registered Apprenticeship and Pre-Apprenticeship programs and resources for individuals who want to become an apprentice or pre-apprentice; apprentices are paid employees who learn with mentorship.",
+   "how_to_apply": "Use the 'I want to Become an Apprentice/Pre-Apprentice' path on the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "PA Employment and Training Programs (career pathway services)",
+   "url": "https://www.dhs.pa.gov/Services/Assistance/Pages/ET.aspx",
+   "provider": "Pennsylvania Department of Human Services",
+   "kind": "supportive services",
+   "provides": "Employment and training programs offering a career pathway of education, training and other services to prepare for a GED, college, or completing an apprenticeship.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

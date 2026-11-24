@@ -1,0 +1,342 @@
+{
+ "code": "SD",
+ "state": "South Dakota",
+ "colleges": [
+  {
+   "name": "Mitchell Technical College",
+   "type": "technical college",
+   "city": "Mitchell",
+   "home_url": "https://www.mitchelltech.edu/",
+   "trades_url": "https://www.mitchelltech.edu/programs/",
+   "programs": [
+    "Progressive Welding Technology (Welding Engineering Technology)",
+    "Machining & Manufacturing",
+    "Heating & Cooling Technology",
+    "Electrical Construction & Maintenance",
+    "Electrical Utilities & Substation Technology",
+    "Power Line Construction & Maintenance",
+    "Utilities Technology",
+    "Utilities Pipeline Technology",
+    "Diesel Power - Ag Power Technology",
+    "Diesel Power - Light Truck Technology",
+    "Powersports & Marine Technology",
+    "Automation Controls / SCADA",
+    "Architectural Design & Building Construction"
+   ]
+  },
+  {
+   "name": "Southeast Technical College",
+   "type": "technical college",
+   "city": "Sioux Falls",
+   "home_url": "https://www.southeasttech.edu/",
+   "trades_url": "https://www.southeasttech.edu/programs/industrial/index.php",
+   "programs": [
+    "Electrician",
+    "HVAC/R Technology",
+    "Mechanical Systems",
+    "Plumbing Technology",
+    "Welding",
+    "Mechatronics Technology",
+    "Automotive Technology",
+    "Industrial Technology",
+    "Construction Management Technology",
+    "Construction Career Academy",
+    "Architectural Engineering Technology"
+   ],
+   "credentials": "two-year associate degree, one-year diploma or one-semester certificate (per industrial technology page)"
+  },
+  {
+   "name": "Lake Area Technical College",
+   "type": "technical college",
+   "city": "Watertown",
+   "home_url": "https://www.lakeareatech.edu/",
+   "trades_url": "https://www.lakeareatech.edu/programs/additional-information/course-catalog/building-trades-technology/",
+   "programs": [
+    "Building Trades Technology",
+    "Precision Machining",
+    "CNC Operator Certificate",
+    "Manufacturing Maintenance Certificate",
+    "Automotive Technology",
+    "Auto Body & Paint Technology",
+    "Heavy Equipment Operator",
+    "Diesel Technology (Ag/Industrial Tractor & Truck)",
+    "Diesel Technology (Case New Holland)",
+    "Diesel Technology (Kubota)",
+    "Diesel Technology (ButlerMAX)",
+    "Diesel Technology (John Deere TechKnowledge)",
+    "Diesel Technology (Caterpillar DCAT)",
+    "Aviation Maintenance Technology",
+    "Commercial Driver's License (CDL)"
+   ]
+  },
+  {
+   "name": "Western Dakota Technical College",
+   "type": "technical college",
+   "city": "Rapid City",
+   "home_url": "https://www.wdt.edu/",
+   "trades_url": "https://www.wdt.edu/degree-programs/",
+   "programs": [
+    "Automotive Technology",
+    "Construction Technology",
+    "Construction and Manufacturing",
+    "Diesel Technology",
+    "Electrical Trades",
+    "Electrical Trades - Autonomous Equipment Technician",
+    "HVAC & Refrigeration Technology",
+    "Industrial Technology",
+    "Machining and Engineering Technology",
+    "Plumbing Technology",
+    "Precision Machining Technology",
+    "Professional Truck Driving",
+    "Transportation Technology",
+    "Welding and Fabrication"
+   ]
+  },
+  {
+   "name": "South Dakota State University",
+   "type": "state college",
+   "city": "Brookings",
+   "home_url": "https://www.sdstate.edu/",
+   "trades_url": "https://www.sdstate.edu/construction-concrete-industry-management",
+   "programs": [
+    "Construction Management (B.S.)"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Bricklayers and Allied Craftworkers Local Union 1 (South Dakota branch)",
+   "kind": "union local",
+   "trades": [
+    "masonry",
+    "bricklaying"
+   ],
+   "city": "Sioux Falls",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Lists a South Dakota apprenticeship office for Bricklayers and Allied Craftworkers Local Union 1, which covers Minnesota, North Dakota and South Dakota.",
+   "how_to_apply": "Contact the Sioux Falls office at 101 S Fairfax Avenue, Sioux Falls, SD 57103, phone 605-553-7913, email sdadcbac@gmail.com (as listed on the page)."
+  },
+  {
+   "name": "North Central States Regional Council of Carpenters",
+   "kind": "union local",
+   "trades": [
+    "carpentry"
+   ],
+   "city": "Sioux Falls",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Listed on the South Dakota AFL-CIO apprenticeship page as a carpenters apprenticeship sponsor with a Sioux Falls office.",
+   "how_to_apply": "Office at 4208 N Hainje Avenue, Sioux Falls, SD 57104, phone 605-838-6776, email lsteinberg@nsrcc.org (as listed on the page)."
+  },
+  {
+   "name": "IBEW Dakota JATC (Joint Apprenticeship and Training Committee)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Sioux Falls",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Listed on the South Dakota AFL-CIO apprenticeship page as the IBEW apprenticeship program for South Dakota, based in Sioux Falls.",
+   "how_to_apply": "Office at 101 S Fairfax Avenue, Sioux Falls, SD 57103, phone 605-335-7672, email aaron@dakotajatc.org (as listed on the page)."
+  },
+  {
+   "name": "United Association Plumbers and Pipefitters Local 300 (Sioux Falls)",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "pipefitting"
+   ],
+   "city": "Sioux Falls",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Listed on the South Dakota AFL-CIO apprenticeship page as a UA plumbing and pipefitting apprenticeship sponsor in Sioux Falls.",
+   "how_to_apply": "Office at 612 E 4th Street, Sioux Falls, SD 57103, phone 605-334-8351, email ua300sf@qwestoffice.net (as listed on the page)."
+  },
+  {
+   "name": "Sheet Metal Workers International Association, SMART Local 10",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "city": "Sioux Falls",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Listed on the South Dakota AFL-CIO apprenticeship page as the sheet metal workers apprenticeship sponsor with a Sioux Falls office.",
+   "how_to_apply": "Office at 101 S Fairfax Avenue, Sioux Falls, SD 57103, phone 605-321-2202, email mrogers@smw10.org (as listed on the page)."
+  },
+  {
+   "name": "Laborers International Union of North America Local 620",
+   "kind": "union local",
+   "trades": [
+    "construction laborer"
+   ],
+   "city": "Sioux Falls",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Listed on the South Dakota AFL-CIO apprenticeship page as a LIUNA apprenticeship sponsor in Sioux Falls.",
+   "how_to_apply": "Office at 606 N Kiwanis Avenue, Sioux Falls, SD 57104, phone 605-330-0205, email local620@msn.com (as listed on the page)."
+  },
+  {
+   "name": "International Union of Operating Engineers Local 49",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment operator"
+   ],
+   "city": "Hinckley, MN (serves South Dakota per AFL-CIO listing)",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Listed on the South Dakota AFL-CIO apprenticeship page as an Operating Engineers apprenticeship sponsor. The office is in Minnesota.",
+   "how_to_apply": "40276 Fishtail Road, Hinckley, MN 55037, phone 320-384-7093 (as listed on the page)."
+  },
+  {
+   "name": "International Brotherhood of Boilermakers (Local 647)",
+   "kind": "union local",
+   "trades": [
+    "boilermaker"
+   ],
+   "city": "Ramsey, MN (listed on South Dakota apprenticeship page)",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Listed on the South Dakota AFL-CIO apprenticeship page as a Boilermakers apprenticeship sponsor. The office is in Minnesota.",
+   "how_to_apply": "9459 NW Highway 10 Ste 105, Ramsey, MN 55303, phone 763-712-9930, email carey@bm647.com (as listed on the page)."
+  },
+  {
+   "name": "South Dakota Associated General Contractors (AGC of South Dakota)",
+   "kind": "contractor association",
+   "trades": [
+    "general construction"
+   ],
+   "city": "South Dakota (statewide)",
+   "url": "https://www.sdagc.org/",
+   "description": "The AGC of South Dakota and its members promote skill, responsibility and integrity through construction and services; the site lists a training section and a workforce development section.",
+   "how_to_apply": "Join through the membership page on sdagc.org. Membership is not required to attend listed events."
+  },
+  {
+   "name": "South Dakota State Federation of Labor, AFL-CIO (apprenticeship directory)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "boilermaker",
+    "masonry",
+    "carpentry",
+    "electrical",
+    "plumbing",
+    "pipefitting",
+    "sheet metal",
+    "construction laborer",
+    "heavy equipment operator"
+   ],
+   "city": "Sioux Falls",
+   "url": "https://sd.aflcio.org/south-dakota-apprenticeship-programs",
+   "description": "Directory page listing building-trades apprenticeship programs with South Dakota contacts, presented as a way to become a building trades apprentice (learn on the job and get paid to train).",
+   "how_to_apply": "Contact the individual program listed; the page gives phone and email for each one."
+  },
+  {
+   "name": "South Dakota Department of Labor and Regulation, apprenticeship training opportunities",
+   "kind": "apprenticeship program",
+   "trades": [
+    "registered apprenticeship (multiple trades)"
+   ],
+   "city": "Pierre",
+   "url": "https://dlr.sd.gov/workforce_services/individuals/Training_opportunities/apprenticeship.aspx",
+   "description": "State Department of Labor and Regulation page for individuals on training opportunities, including registered apprenticeship.",
+   "how_to_apply": "Use the apprenticeship page on dlr.sd.gov to find registered programs."
+  },
+  {
+   "name": "IBEW Local 1250",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Rapid City",
+   "url": "https://www.ibewlocal1250.org/",
+   "apprenticeship_url": "https://www.ibewlocal1250.org/?zone=/unionactive/view_page.cfm&page=APPRENTICESHIP",
+   "description": "IBEW Local 1250."
+  },
+  {
+   "name": "IBEW Local 426",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Sioux Falls",
+   "url": "https://www.ibewsd.com/",
+   "apprenticeship_url": "https://www.ibewsd.com/apprenticeships",
+   "description": "Welcome to IBEW Local 426 in Sioux Falls SD, offering Electrician, Union, Apprentice and Lineman and More."
+  },
+  {
+   "name": "IUOE Local 49 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Sioux Falls",
+   "url": "https://local49.org/",
+   "description": "LEARN MORE Training At Local 49’s Training Center we are committed to the best possible educational opportunities for members of IUOE Local 49 VISIT PAGE The road to a healthier you."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - Sioux Falls Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Sioux Falls",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 587 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Sioux Falls",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "South Dakota Electrical Commission (Department of Labor and Regulation)",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://dlr.sd.gov/electrical/",
+   "description": "State commission within the Department of Labor and Regulation that licenses electricians and handles electrical licensing applications and forms."
+  },
+  {
+   "name": "South Dakota Plumbing Commission (Department of Labor and Regulation)",
+   "trades": [
+    "plumbing",
+    "plumbing contractor"
+   ],
+   "url": "https://dlr.sd.gov/plumbing/",
+   "description": "State commission within the Department of Labor and Regulation that licenses plumbers and plumbing contractors. Plumbing licenses renew annually, with forms for specialty and annual renewal."
+  }
+ ],
+ "funding": [
+  {
+   "name": "SD UpSkill Certificate Program",
+   "url": "https://dlr.sd.gov/workforce_services/individuals/sdupskill/default.aspx",
+   "provider": "South Dakota Department of Labor and Regulation",
+   "kind": "training voucher",
+   "provides": "Helps pay for a certificate in in-demand South Dakota industries for little or no cost, using programs on the state Eligible Training Provider List.",
+   "how_to_apply": "Contact your Job Service office or request services online (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "Build Dakota Scholarship",
+   "url": "https://www.builddakotascholarships.com/",
+   "provider": "South Dakota Board of Regents / technical colleges",
+   "kind": "scholarship",
+   "provides": "Scholarship that makes a technical degree free for students entering high-demand programs at South Dakota's four technical colleges.",
+   "eligibility": "Enter a high-demand program at one of four South Dakota technical colleges (Lake Area, Mitchell, Southeast, Western Dakota Tech).",
+   "amount": "100% free tuition for the technical degree (per page)",
+   "how_to_apply": "Apply to the technical college, then complete the Build Dakota application for that school. Next window January 1 to March 31, 2027 (per page).",
+   "audience": "individual",
+   "status": "closed"
+  },
+  {
+   "name": "SD Workforce Training for Adults and Dislocated Workers",
+   "url": "https://dlr.sd.gov/workforce_services/individuals/training_opportunities/adults_dislocated_workers.aspx",
+   "provider": "South Dakota Department of Labor and Regulation",
+   "kind": "training voucher",
+   "provides": "Workforce training programs for adults and dislocated workers, customized to participant needs and employer demand.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "SD Registered Apprenticeship (Start Today SD)",
+   "url": "https://dlr.sd.gov/workforce_services/individuals/training_opportunities/apprenticeship.aspx",
+   "provider": "South Dakota Department of Labor and Regulation",
+   "kind": "apprenticeship",
+   "provides": "Information on registered apprenticeships in South Dakota, including the Start Today SD apprenticeship program.",
+   "audience": "individual",
+   "status": "open"
+  }
+ ]
+}

@@ -1,0 +1,759 @@
+{
+ "code": "MI",
+ "state": "Michigan",
+ "colleges": [
+  {
+   "name": "Delta College",
+   "type": "community college",
+   "city": "University Center",
+   "home_url": "https://www.delta.edu/",
+   "trades_url": "https://www.delta.edu/programs/",
+   "programs": [
+    "Automotive (Associate, Certificate)",
+    "Automotive Service Educational Program (GM ASEP)",
+    "Computer Numerical Control (CNC) Certificate",
+    "Construction Management",
+    "Electrician (Associate, Certificate)",
+    "HVACR (Associate, Certificate)",
+    "Heavy Duty Diesel Service Technology",
+    "Manufacturing (Associate, Certificate)",
+    "Mechatronics (Associate, Certificate)",
+    "Residential Construction (Associate, Certificate)",
+    "Skilled Trades (Associate, Certificate)",
+    "Welding Technology (Associate, Certificate)"
+   ],
+   "credentials": "Associate degrees and certificates"
+  },
+  {
+   "name": "Grand Rapids Community College",
+   "type": "community college",
+   "city": "Grand Rapids",
+   "home_url": "https://www.grcc.edu/",
+   "trades_url": "https://www.grcc.edu/programs",
+   "programs": [
+    "Automotive Technology (A.A.A.S., Certificate)",
+    "Automotive Maintenance and Light Repair Certificate",
+    "CNC Programming Certificate",
+    "Machinist/CNC Technician",
+    "Machine Tool Certificate",
+    "Construction Electrician Certificate",
+    "Electrical Controls / Mechatronics Certificate",
+    "Electrical Controls Engineering Technology",
+    "HVACR Technology (A.A.A.S., Certificate)",
+    "Industrial Maintenance (Certificate, A.A.A.S.)",
+    "Manufacturing Apprenticeship Certificate",
+    "Residential Construction Certificate",
+    "Tooling and Manufacturing Technology Certificate"
+   ],
+   "credentials": "A.A.A.S. degrees and certificates of completion"
+  },
+  {
+   "name": "Henry Ford College",
+   "type": "community college",
+   "city": "Dearborn",
+   "home_url": "https://www.hfcc.edu/",
+   "trades_url": "https://www.hfcc.edu/programs",
+   "programs": [
+    "Architecture / Construction Technology",
+    "Automotive Technology",
+    "Automotive Student Service Educational Training (ASSET)",
+    "Electrical Technology",
+    "Machine Tool Technology / CNC",
+    "Mechatronics Technology",
+    "Residential Electrician",
+    "Residential Plumbing",
+    "Trade and Apprentice Education"
+   ]
+  },
+  {
+   "name": "Kellogg Community College",
+   "type": "community college",
+   "city": "Battle Creek",
+   "home_url": "https://kellogg.edu/",
+   "trades_url": "https://kellogg.edu/about/departments/trades/",
+   "programs": [
+    "Industrial Trades",
+    "Industrial Electricity & Electronics",
+    "Industrial HVACR",
+    "Industrial Millwright",
+    "Industrial Pipefitting",
+    "Industrial Welding",
+    "Machining Technology",
+    "General Industrial Trades",
+    "Electrical Production Operator",
+    "Apprenticeship"
+   ]
+  },
+  {
+   "name": "Lake Michigan College",
+   "type": "community college",
+   "city": "Benton Harbor",
+   "home_url": "https://www.lakemichigancollege.edu/",
+   "trades_url": "https://www.lakemichigancollege.edu/academics",
+   "programs": [
+    "Machine Tool Technology (AAS, Certificate of Achievement, Advanced Certificate)",
+    "Mechatronics Technology (AAS, Certificate of Achievement)",
+    "Skilled Trades Technology (AAS, Advanced Certificate)",
+    "Welding Production Technology (AAS, Certificate of Achievement)",
+    "Manufacturing Production Certificate of Achievement",
+    "Commercial Drivers License (CDL)",
+    "Apprenticeships"
+   ],
+   "credentials": "AAS degrees and certificates of achievement"
+  },
+  {
+   "name": "Macomb Community College",
+   "type": "community college",
+   "city": "Warren",
+   "home_url": "https://www.macomb.edu/",
+   "trades_url": "https://www.macomb.edu/trades/",
+   "programs": [
+    "Apprenticeships",
+    "Maritime Manufacturing Training"
+   ]
+  },
+  {
+   "name": "Mid Michigan Community College",
+   "type": "community college",
+   "city": "Harrison",
+   "home_url": "https://midmich.edu/",
+   "trades_url": "https://midmich.edu/degrees-programs/programs/",
+   "programs": [
+    "Automotive & Diesel Service Technology (AAS, Training Credential)",
+    "Commercial Drivers License (CDL-A, CDL-B)",
+    "Electrical Apprenticeship (Short-Term Training)",
+    "Electrical Engineering Technology (AAS)",
+    "Facilities, Heating, & Electricity Specialist Training Credential",
+    "Machine Tool (AAS, Training Credential)",
+    "Manufacturing Engineering Technology (AAS)",
+    "Manufacturing Pre-Employment Training Series",
+    "Refrigeration & Air Conditioning Specialist Training Credential",
+    "Welding (Short-Term Training)",
+    "Welding Associate in Applied Science",
+    "Welding Pre-Apprentice Certificate",
+    "Welding Training Credential",
+    "Advanced Integrated Manufacturing Pre-Apprentice Certificate"
+   ],
+   "credentials": "AAS degrees, training credentials, certificates"
+  },
+  {
+   "name": "Montcalm Community College",
+   "type": "community college",
+   "city": "Sidney",
+   "home_url": "https://www.montcalm.edu/",
+   "trades_url": "https://www.montcalm.edu/programs/",
+   "programs": [
+    "Welding Job Training Program",
+    "Workforce & Skilled Trades",
+    "Noncredit Courses"
+   ]
+  },
+  {
+   "name": "Mott Community College",
+   "type": "community college",
+   "city": "Flint",
+   "home_url": "https://www.mcc.edu/",
+   "trades_url": "https://www.mcc.edu/programs/",
+   "programs": [
+    "Apprenticeship Training",
+    "Workforce Development Training Programs"
+   ],
+   "credentials": "Industry-recognized credentials (workforce)"
+  },
+  {
+   "name": "Muskegon Community College",
+   "type": "community college",
+   "city": "Muskegon",
+   "home_url": "https://www.muskegoncc.edu/",
+   "trades_url": "https://www.muskegoncc.edu/academics/workforce-development/",
+   "programs": [
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "North Central Michigan College",
+   "type": "community college",
+   "city": "Petoskey",
+   "home_url": "https://www.ncmich.edu/",
+   "trades_url": "https://www.ncmich.edu/academics/programs/",
+   "programs": [
+    "Manufacturing Technology",
+    "Welding",
+    "Explore Skilled Trades Programs"
+   ]
+  },
+  {
+   "name": "Northwestern Michigan College",
+   "type": "community college",
+   "city": "Traverse City",
+   "home_url": "https://www.nmc.edu/",
+   "trades_url": "https://www.nmc.edu/programs/",
+   "programs": [
+    "Automotive Service Technology",
+    "Automotive Technology",
+    "Master Automotive Technician",
+    "Carpentry Technology",
+    "Construction Technology",
+    "Construction Management",
+    "Electrical Technology",
+    "Electrical and Drivability Specialist",
+    "HVAC/R Technology",
+    "Manufacturing Technology",
+    "Renewable Energy Technology - Electrical",
+    "Renewable Energy Technology - HVAC/R",
+    "Welding",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Oakland Community College",
+   "type": "community college",
+   "city": "Bloomfield Hills",
+   "home_url": "https://www.oaklandcc.edu/",
+   "trades_url": "https://www.oaklandcc.edu/skilledtrades/",
+   "programs": [
+    "Automotive Hybrid & Electric Vehicles",
+    "Construction Management",
+    "Electrical Trades",
+    "HVAC/R Systems Technology (Heating, Air Conditioning, Refrigeration certificates)",
+    "Industrial Skilled Trades",
+    "Machine Tool Technology",
+    "Mechatronics",
+    "Welding/Fabrication Technology",
+    "Apprenticeship"
+   ]
+  },
+  {
+   "name": "Southwestern Michigan College",
+   "type": "community college",
+   "city": "Dowagiac",
+   "home_url": "https://www.swmich.edu/",
+   "trades_url": "https://www.swmich.edu/academics/",
+   "programs": [
+    "Automotive Technology",
+    "Construction Trades Green Technology",
+    "Electrical and Automation Technology",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Kirtland Community College",
+   "type": "community college",
+   "city": "Roscommon",
+   "home_url": "https://www.kirtland.edu/",
+   "trades_url": "https://www.kirtland.edu/programs-we-offer/",
+   "programs": [
+    "Automotive Technology (Associate in Applied Science)",
+    "Automotive Technology Diesel Specialist (Certificate of Completion)",
+    "Automotive Technology Master Certification (Certificate of Completion)",
+    "Electrician (Associate in Applied Science, Certificate of Completion)",
+    "HVACR (Associate in Applied Science, Certificate of Completion)"
+   ],
+   "credentials": "AAS degrees and certificates of completion"
+  },
+  {
+   "name": "Jackson College",
+   "type": "community college",
+   "city": "Jackson",
+   "home_url": "https://www.jccmi.edu/",
+   "trades_url": "https://www.jccmi.edu/explore-programs/pathways/professional-trades-pathway/",
+   "programs": [
+    "Electrician (Associate, Certificate)",
+    "Utilities Technician Certificate, Pre-Apprentice",
+    "HVAC Technician Certificate",
+    "Advanced Manufacturing Associate"
+   ]
+  },
+  {
+   "name": "Monroe County Community College",
+   "type": "community college",
+   "city": "Monroe",
+   "home_url": "https://www.monroeccc.edu/",
+   "trades_url": "https://www.monroeccc.edu/programs/apprenticeship-programs",
+   "programs": [
+    "Apprenticeship Readiness Program",
+    "Pathway to Apprenticeships Certificate"
+   ],
+   "credentials": "Certificate"
+  },
+  {
+   "name": "Washtenaw Community College",
+   "type": "community college",
+   "city": "Ann Arbor",
+   "home_url": "https://www.wccnet.edu/",
+   "trades_url": "https://catalog.wccnet.edu/current/academic-pathways/advanced-manufacturing-automotive-skilled-trades-pathway.php",
+   "programs": [
+    "Advanced Manufacturing, Automotive & Skilled Trades pathway"
+   ]
+  },
+  {
+   "name": "Wayne County Community College District",
+   "type": "community college",
+   "city": "Detroit",
+   "home_url": "https://www.wcccd.edu/",
+   "trades_url": "https://www.wcccd.edu/academic-and-career-programs/advanced-manufacturing-and-skilled-trades",
+   "programs": [
+    "Auto Body Technology",
+    "Automotive Service Technology",
+    "Aviation Mechanics: Airframe/Powerplant",
+    "Electrical Electronics Engineering Technology",
+    "Facility Maintenance",
+    "Heating, Ventilation and Air Conditioning (HVAC)",
+    "Light Rail Engineering Technology (Certificate)",
+    "Manufacturing Technology",
+    "Mechatronics Technology",
+    "Renewable Energy Technology",
+    "Water and Environmental Technology",
+    "Welding Technology",
+    "Welding Technology - Artistic Welding",
+    "Product Development Prototyping",
+    "Civil Testing and Inspection Technician",
+    "Bio-Medical Equipment Repair Technology",
+    "Craft Brewing"
+   ],
+   "credentials": "A.A.S. and certificates (CERT)"
+  },
+  {
+   "name": "St. Clair County Community College",
+   "type": "community college",
+   "city": "Port Huron",
+   "home_url": "https://sc4.edu/",
+   "trades_url": "https://sc4.edu/programs/science-technology-engineering-math/engineering-technology/",
+   "programs": [
+    "Engineering Technology - Mechatronics",
+    "Engineering Technology - Precision Machining",
+    "Engineering Technology - Welding and Fabricating"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Michigan Building and Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "all building trades (council)"
+   ],
+   "url": "https://www.michiganbuildingtrades.org/about",
+   "description": "The Michigan Building and Construction Trades Council supports the interests of nearly 100,000 construction workers in the State of Michigan."
+  },
+  {
+   "name": "Construction Careers MI",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction trades (multiple)"
+   ],
+   "url": "https://www.constructioncareersmi.com",
+   "description": "Statewide Michigan construction careers site with a Training Locator, linked from the Michigan Building and Construction Trades Council as its apprenticeship resource."
+  },
+  {
+   "name": "LIUNA Michigan Laborers District Council",
+   "kind": "JATC / training center",
+   "trades": [
+    "laborers",
+    "construction training"
+   ],
+   "city": "Perry, Wayne, Iron Mountain, St. Joseph (training centers)",
+   "url": "https://www.mi-laborers.org/training/",
+   "description": "Michigan Laborers District Council offers paid training at four Michigan training centers (Perry, Wayne, Iron Mountain and St. Joseph) with about 80 classes.",
+   "how_to_apply": "Join LIUNA via https://www.mi-laborers.org/ (Apply Now link on the site)."
+  },
+  {
+   "name": "Ironworkers (Michigan) apprenticeship program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "ironworking"
+   ],
+   "url": "https://www.ironworkers25.org/apprenticeship",
+   "description": "Ironworkers apprenticeship page answering how to become an apprentice, steady work, and who regulates and operates the apprenticeship; it also links Washtenaw Community College degree programs.",
+   "how_to_apply": "Page includes a How do I Become An Apprentice? section."
+  },
+  {
+   "name": "IUPAT (International Union of Painters and Allied Trades)",
+   "kind": "union local",
+   "trades": [
+    "painting",
+    "glazing",
+    "drywall finishing",
+    "allied trades"
+   ],
+   "url": "https://www.iupat.org/our-programs/",
+   "description": "The International Union of Painters and Allied Trades runs training programs and an Education section for its roughly 140,000 members in the United States and Canada.",
+   "how_to_apply": "Join the Union link on the site."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction trades (veterans)"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Helmets to Hardhats is a national program connecting military veterans with apprenticeship opportunities in the construction trades.",
+   "how_to_apply": "Site has a Learn more section for apprentices and a Contact Us page."
+  },
+  {
+   "name": "Ann Arbor Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Chelsea",
+   "url": "https://www.aaejatc.org/",
+   "apprenticeship_url": "https://www.aaejatc.org/want-to-become-an-electrician",
+   "description": "Home | Aaejatc."
+  },
+  {
+   "name": "Flint Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Flint",
+   "url": "https://www.fsejatc.com/",
+   "apprenticeship_url": "https://www.fsejatc.com/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "Flint / Saginaw Electrical JATC."
+  },
+  {
+   "name": "IBEW Local 131",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Kalamazoo",
+   "url": "https://www.ibew131.com/en",
+   "description": "IBEW 131 | Home."
+  },
+  {
+   "name": "IBEW Local 17",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Detroit",
+   "url": "https://www.ibewlocal17.org/",
+   "apprenticeship_url": "https://www.ibewlocal17.org/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/private_view_page.cfm&page=Training202620Classes&CFID=90577481&CFTOKEN=97e8d5218ab25f03-8F973BC3-B10C-A09B-4B0DA0EF1134045F",
+   "description": "IBEW Local 17."
+  },
+  {
+   "name": "IBEW Local 252",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Ann Arbor",
+   "url": "https://www.ibew252.org/",
+   "description": "IBEW Local 252, Union Electricians in Southeast Michigan, Washtenaw County, Jackson County."
+  },
+  {
+   "name": "IBEW Local 275",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Muskegon",
+   "url": "https://www.ibew275.org/",
+   "description": "Home | West Michigan IBEW Local 275."
+  },
+  {
+   "name": "IBEW Local 445",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Battle Creek",
+   "url": "https://www.ibew445.com/en",
+   "description": "IBEW 445 | Home."
+  },
+  {
+   "name": "IBEW Local 498",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Traverse City",
+   "url": "https://www.ibewlocal498.com/",
+   "apprenticeship_url": "https://www.ibewlocal498.com/training/",
+   "description": "Powering Northern Michigan We offer a skilled career with fair pay, paid benefits, and an opportunity to grow. WHY BECOME AN IBEW MEMBER? Looking for a skilled career? Or do you want to improve conditions in your current job? Looking for fair pay, decent."
+  },
+  {
+   "name": "IBEW Local 557",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Saginaw",
+   "url": "https://www.ibew557.org/en",
+   "description": "IBEW 557 | Home."
+  },
+  {
+   "name": "IBEW Local 665",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Lansing",
+   "url": "https://www.ibew665.org/",
+   "description": "IBEW Local 665, Union Electricians in Lansing and mid-Michigan."
+  },
+  {
+   "name": "IBEW Local 876",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Grand Rapids",
+   "url": "https://www.ibew876.com/",
+   "apprenticeship_url": "https://www.ibew876.com/apprenticeships",
+   "description": "IBEW Local 876 - EmPOWERing Michigan."
+  },
+  {
+   "name": "IBEW Local 906",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Upper Peninsula",
+   "url": "https://www.ibew906.org/en",
+   "description": "IBEW 906 | Home."
+  },
+  {
+   "name": "IBEW Local 948",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Flint",
+   "url": "https://www.local948.com/",
+   "description": "Home | IBEW948."
+  },
+  {
+   "name": "West Michigan Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Coopersville",
+   "url": "https://www.wmejatc.org/",
+   "apprenticeship_url": "https://www.wmejatc.org/",
+   "description": "Home | West Michigan JATC."
+  },
+  {
+   "name": "IUOE Local 324 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Bloomfield Township",
+   "url": "https://www.oe324.org/",
+   "apprenticeship_url": "https://www.oe324.org/training/",
+   "description": "For over 100 years, Operating Engineers 324 has provided value to workers, businesses and communities throughout the entire state of Michigan. We are a dynamic organization of 14,000 Members where career opportunity thrives."
+  },
+  {
+   "name": "IUPAT District Council 1M",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://iupatdc1michigan.org/",
+   "apprenticeship_url": "https://iupatdc1michigan.org/training-calendar/",
+   "description": "Join District Council 1M To Empower Your Career, Improve Working conditions, And By Building A Stronger Future For You And Your Family."
+  },
+  {
+   "name": "LIUNA Training of Michigan",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Wayne",
+   "url": "https://www.lt-mi.org/",
+   "apprenticeship_url": "https://www.lt-mi.org/training/",
+   "description": "Liuna Training of Michigan (LTOM) is dedicated to the development of safe, skilled, and productive Construction Craft Laborers looking for Certifications and Career Growth within the field."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "Detroit",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Detroit Carpenters & Floor Layers JATC",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Detroit",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Detroit Millwright Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Detroit",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Grayling Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Grayling",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Marquette Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "East Negaunee",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Marquette Millwrights Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "East Negaunee",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Saginaw Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Saginaw",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Wayland Carpentry Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Wayland",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Wayland Millwright Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Wayland",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1123 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lincoln Park",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 525 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Wayland",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 687 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Warren",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1234 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Warren",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1045 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Warren",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1102 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Warren",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1004 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lansing",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2776 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Kalamazoo",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 100 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Wayland",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 706 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Saginaw",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 202 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Grayling",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1510 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "South Escanaba",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Michigan State Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://www.michiganbuildingtrades.org/",
+   "description": "Home Javascript must be enabled for the correct page display Home About Our Issues Trades Directory News Current News Past Issues MUST Apprenticeship Contact Here are candidates endorsed for the Nov."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Michigan LARA Bureau of Construction Codes - Licensing Section",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "mechanical (HVAC)",
+    "boiler",
+    "elevator",
+    "residential builder",
+    "inspector/plan reviewer"
+   ],
+   "url": "https://www.michigan.gov/lara/bureau-list/bcc/sections/licensing-section",
+   "description": "The Licensing Division of the Bureau of Construction Codes licenses and registers boiler, electrical, elevator, mechanical, plumbing, residential builder and inspector/plan reviewer professionals, and handles renewals. Apply and verify licenses through the Accela portals linked from https://www.michigan.gov/lara/bureau-list/bcc."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Michigan Reconnect",
+   "url": "https://www.michigan.gov/en/reconnect/about",
+   "provider": "State of Michigan (Michigan Reconnect, MiStudentAid)",
+   "kind": "scholarship",
+   "provides": "Last-dollar scholarship that pays in-district community college tuition tuition-free for eligible adults, or gives a large tuition discount at an out-of-district community college.",
+   "eligibility": "Be at least 21 years old when you apply; have lived in Michigan for at least one year; have a high school diploma, GED, or certificate of completion.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Pure Michigan Talent Connect",
+   "url": "https://www.mitalent.org/",
+   "provider": "State of Michigan (Talent and Economic Development)",
+   "kind": "supportive services",
+   "provides": "State job board and career resource site with job seeker tools, skilled trades and registered apprenticeship listings, and the Michigan Training Connect program.",
+   "how_to_apply": "Create an account on the site.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Michigan Works! Association",
+   "url": "https://www.michiganworks.org/",
+   "provider": "Michigan Works! Association",
+   "kind": "supportive services",
+   "provides": "Association site for the Michigan Works! network of local workforce development offices serving job seekers and employers.",
+   "audience": "mixed",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,562 @@
+{
+ "code": "WV",
+ "state": "West Virginia",
+ "colleges": [
+  {
+   "name": "Blue Ridge Community and Technical College",
+   "type": "community college",
+   "city": "Martinsburg",
+   "home_url": "https://www.blueridgectc.edu/",
+   "trades_url": "https://www.blueridgectc.edu/academic-programs/",
+   "programs": [
+    "Mechatronics (AAS)",
+    "Electric Distribution Engineering",
+    "Heavy Equipment Technician",
+    "Electrical Technician",
+    "Industrial Maintenance",
+    "Machine Operator/Mechatronics Assistant",
+    "Precision Machining",
+    "Robotics",
+    "Welding",
+    "Building Systems Technician",
+    "Electric Utility Technology"
+   ],
+   "credentials": "Certificate and associate degree programs listed on academic-programs page"
+  },
+  {
+   "name": "BridgeValley Community and Technical College",
+   "type": "community college",
+   "city": "Montgomery",
+   "home_url": "https://www.bridgevalley.edu/",
+   "trades_url": "https://www.bridgevalley.edu/academics/workforce-technical/index.html",
+   "programs": [
+    "Diesel Technology",
+    "HVAC Technology",
+    "Machine Tool Technology",
+    "Skilled Trades",
+    "Utility Line Service Mechanic",
+    "Welding Technology",
+    "CDL Training",
+    "Highway Engineering Technology (construction inspection)",
+    "Advanced Manufacturing Technology (fabrication)",
+    "Electrical Engineering Technology (electrical concentration)"
+   ],
+   "credentials": "CAS, AAS and short-term workforce credentials per program page"
+  },
+  {
+   "name": "Eastern West Virginia Community and Technical College",
+   "type": "community college",
+   "city": "Moorefield",
+   "home_url": "https://easternwv.edu/",
+   "trades_url": "https://easternwv.edu/skilled-trades/",
+   "programs": [
+    "Associate in Applied Science in Skilled Trades",
+    "Welding",
+    "Diesel Technician (online)",
+    "Electrical Technician (online)",
+    "HVAC Technician (online)",
+    "Plumbing Technician (online)",
+    "Intro to Building Trades and Tech (online)",
+    "Automotive Technology",
+    "Class A CDL License Training",
+    "CDL Class B License Training"
+   ],
+   "credentials": "AAS Skilled Trades; workforce certificates"
+  },
+  {
+   "name": "Mountwest Community and Technical College",
+   "type": "community college",
+   "city": "Huntington",
+   "home_url": "https://www.mctc.edu/",
+   "trades_url": "https://www.mctc.edu/programs/welding-technology/",
+   "programs": [
+    "Welding Technology",
+    "Machinist/CNC Technology",
+    "Engineered Construction",
+    "Utility Construction (with CJ Hughes Construction)",
+    "Apprenticeships",
+    "Aviation Maintenance Technology"
+   ],
+   "credentials": "Program page text: Welding Technology is industry-driven, hands-on program"
+  },
+  {
+   "name": "New River Community and Technical College",
+   "type": "community college",
+   "city": "Beckley",
+   "home_url": "https://www.newriver.edu/",
+   "trades_url": "https://www.newriver.edu/courses/welding-technology/",
+   "programs": [
+    "Welding Technology (AAS, pipe welding)",
+    "Welding Foundations skill set certificate",
+    "Advanced Structural and Fabrication Welding",
+    "HVAC (AAS)",
+    "Automotive Service Technology (AAS)",
+    "Automotive and Diesel Service Technology (CAS)",
+    "Diesel Service Technology (AAS)",
+    "Electric Distribution Engineering Technology (AS)",
+    "Heavy Equipment Operations (non-credit workforce program)",
+    "Class A CDL training"
+   ],
+   "credentials": "Certificates, AAS and CAS; non-credit workforce programs"
+  },
+  {
+   "name": "Pierpont Community and Technical College",
+   "type": "community college",
+   "city": "Fairmont",
+   "home_url": "https://pierpont.edu/",
+   "trades_url": "https://pierpont.edu/academics/associate-degrees/advanced-welding/",
+   "programs": [
+    "Advanced Welding (AAS)",
+    "Introductory Welding (non-credit)",
+    "Electrical Machinery (advanced skill set)",
+    "Electrical & Automation Technician (non-credit)",
+    "Aviation Maintenance Technology"
+   ],
+   "credentials": "AAS degree; advanced skill sets; non-credit course"
+  },
+  {
+   "name": "Southern West Virginia Community and Technical College",
+   "type": "community college",
+   "city": "Logan",
+   "home_url": "https://www.southernwv.edu/",
+   "trades_url": "https://www.southernwv.edu/?programs_of_study=welding-technology",
+   "programs": [
+    "Welding Technology",
+    "Industrial Welding",
+    "Pipe Welding",
+    "Electrical Engineering Technology",
+    "Skilled Trades"
+   ],
+   "credentials": "Program-of-study pages"
+  },
+  {
+   "name": "West Virginia Northern Community College",
+   "type": "community college",
+   "city": "Wheeling",
+   "home_url": "https://www.wvncc.edu/",
+   "trades_url": "https://www.wvncc.edu/career-pathways-and-programs/construction-manufacturing-energy-transportation/8936",
+   "programs": [
+    "Welding Technology, A.A.S.",
+    "Welding: Oil & Gas Pipe, C.A.S.",
+    "Welding: Combination Pipe, Advanced Skill Set",
+    "Welding: Structural Steel, Advanced Skill Set",
+    "Heating, Air Conditioning and Refrigeration Technology (HVACR), A.A.S.",
+    "Industrial Maintenance Technology, C.A.S.",
+    "Mine Maintenance Technology, A.A.S."
+   ],
+   "credentials": "A.A.S., C.A.S. and advanced skill sets"
+  },
+  {
+   "name": "West Virginia University at Parkersburg",
+   "type": "state college",
+   "city": "Parkersburg",
+   "home_url": "https://www.wvup.edu/",
+   "trades_url": "https://www.wvup.edu/academics/workforce-technical-and-computer-information-science/",
+   "programs": [
+    "Welding Technology",
+    "Industrial Maintenance",
+    "Electricity and Instrumentation",
+    "Advanced Manufacturing Technology"
+   ]
+  },
+  {
+   "name": "Fairmont State University",
+   "type": "state college",
+   "city": "Fairmont",
+   "home_url": "https://www.fairmontstate.edu/",
+   "trades_url": "https://www.fairmontstate.edu/academics/programs/",
+   "programs": [
+    "Automation and Robotics",
+    "Civil Engineering Technology"
+   ]
+  },
+  {
+   "name": "West Virginia University Institute of Technology",
+   "type": "state college",
+   "city": "Montgomery",
+   "home_url": "https://www.wvutech.edu/",
+   "trades_url": "https://www.wvutech.edu/academics/engineering",
+   "programs": [
+    "Civil Engineering",
+    "Construction Management",
+    "Electrical Engineering"
+   ],
+   "credentials": "Baccalaureate engineering and construction management programs"
+  },
+  {
+   "name": "Bluefield State University",
+   "type": "state college",
+   "city": "Bluefield",
+   "home_url": "https://bluefieldstate.edu/",
+   "trades_url": "https://bluefieldstate.edu/degree/electrical-engineering-technology/",
+   "programs": [
+    "Electrical Engineering Technology, A.S.",
+    "Electrical Engineering Technology, B.S."
+   ],
+   "credentials": "A.S. and B.S."
+  }
+ ],
+ "unions": [
+  {
+   "name": "West Virginia Building and Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "multi-trade",
+    "apprenticeship referral"
+   ],
+   "url": "https://www.wvtrades.org/",
+   "description": "Statewide council that lists affiliated union apprenticeship programs and runs the STAND pathway."
+  },
+  {
+   "name": "IBEW Local 466",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Charleston",
+   "url": "https://www.ibew466.org/",
+   "description": "IBEW local for electrical workers in West Virginia; its site lists the Charleston Electrical JATC inside wireman program and apprenticeship information.",
+   "how_to_apply": "See the Apprenticeship page linked from the site."
+  },
+  {
+   "name": "Charleston Electrical JATC (IBEW/NECA)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Charleston",
+   "url": "https://www.ibew466.org/",
+   "description": "Joint apprenticeship and training committee for the inside wireman program, as described on the IBEW Local 466 site.",
+   "how_to_apply": "Information on the Apprenticeship page of ibew466.org."
+  },
+  {
+   "name": "IUOE Local 132 Training School",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment operator",
+    "crane operation"
+   ],
+   "city": "Medina (north of Charleston)",
+   "url": "https://www.iuoe.org/training/local132-heavy-equipment-operator-training-school",
+   "description": "Operating engineers training school for heavy equipment operators, including crane training.",
+   "how_to_apply": "Phone 304-273-4852 per a job listing. Verify before relying on it."
+  },
+  {
+   "name": "Millwrights Local 443",
+   "kind": "union local",
+   "trades": [
+    "millwright"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/millwrights-local-443/",
+   "description": "Apprenticeship listing for millwrights on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "Teamsters Union (apprenticeship listing)",
+   "kind": "union local",
+   "trades": [
+    "driving and equipment"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/teamsters-union/",
+   "description": "Apprenticeship listing for Teamsters on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "SMART (Sheet Metal, Air, Rail and Transportation Workers) apprenticeship listing",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/international-association-of-sheet-metal-air-rail-and-transportation-workers/",
+   "description": "Apprenticeship listing for sheet metal workers on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "United Union of Roofers, Waterproofers and Allied Workers apprenticeship listing",
+   "kind": "union local",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/united-union-of-roofers-waterproofers-and-allied-workers/",
+   "description": "Apprenticeship listing for roofers on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "UA Plumbers and Pipefitters apprenticeship listing",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "pipefitting"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/united-association-of-journeymen-and-apprentices-of-the-plumbing-and-pipefitting-industry/",
+   "description": "Apprenticeship listing for plumbers and pipefitters on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "IUPAT (Painters) apprenticeship listing",
+   "kind": "union local",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/international-union-of-painters-and-allied-trades/",
+   "description": "Apprenticeship listing for painters on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "IUOE apprenticeship listing (WV Building Trades)",
+   "kind": "union local",
+   "trades": [
+    "operating engineers"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/international-union-of-operating-engineers/",
+   "description": "Apprenticeship listing for operating engineers on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "Ironworkers apprenticeship listing (WV Building Trades)",
+   "kind": "union local",
+   "trades": [
+    "ironwork",
+    "reinforcing iron"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/international-association-of-bridge-structural-ornamental-and-reinforcing-iron-workers/",
+   "description": "Apprenticeship listing for structural, ornamental and reinforcing iron workers on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "Heat and Frost Insulators apprenticeship listing (WV Building Trades)",
+   "kind": "union local",
+   "trades": [
+    "insulation"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/international-association-of-heat-and-frost-insulators-and-allied-workers/",
+   "description": "Apprenticeship listing for heat and frost insulators on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "Cement Masons and Plasterers apprenticeship listing (Local 926)",
+   "kind": "union local",
+   "trades": [
+    "masonry",
+    "concrete finishing"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/cement-masons-local-926/",
+   "description": "Apprenticeship listing for cement masons and plasterers on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "Carpenters and Joiners apprenticeship listing (WV Building Trades)",
+   "kind": "union local",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/carpenters-and-joiners-local/",
+   "description": "Apprenticeship listing for carpenters and joiners on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "Boilermakers Local 667 apprenticeship listing",
+   "kind": "union local",
+   "trades": [
+    "boilermaker"
+   ],
+   "url": "https://www.wvtrades.org/trades/apprenticeships/boilermakers-local-667/",
+   "description": "Apprenticeship listing for boilermakers on the WV Building and Construction Trades site."
+  },
+  {
+   "name": "STAND Program (Skilled Trades Apprenticeship Non-Degree)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "skilled trades"
+   ],
+   "url": "https://www.wvtrades.org/apprenticeship/stand-program-is-now-open/",
+   "description": "Lets WV residents who completed a DOL-registered apprenticeship finish an associate degree at a WV public community and technical college by taking the general education portion.",
+   "how_to_apply": "Page says the program is open; details on the linked page."
+  },
+  {
+   "name": "Huntington Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Huntington",
+   "url": "http://www.huntingtonjatc.org/",
+   "description": "Important."
+  },
+  {
+   "name": "IBEW Local 141",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Wheeling",
+   "url": "https://ibew141.org/",
+   "apprenticeship_url": "https://ibew141.org/apprenticeshiprograms/",
+   "description": "IBEW 141."
+  },
+  {
+   "name": "IBEW Local 317",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Huntington",
+   "url": "http://www.ibew317.net/",
+   "apprenticeship_url": "http://www.ibew317.net/?zone=/unionactive/view_page.cfm&page=Become20an20Apprentice",
+   "description": "The Ultimate Website Management and Communications Tool for Unions."
+  },
+  {
+   "name": "IBEW Local 596",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Clarksburg",
+   "url": "https://www.ibew596.com/",
+   "apprenticeship_url": "https://www.ibew596.com/apprenticeship/",
+   "description": "IBEW 596."
+  },
+  {
+   "name": "IBEW Local 968",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Parkersburg",
+   "url": "https://www.ibew968.com/",
+   "apprenticeship_url": "https://www.ibew968.com/Training/",
+   "description": "IBEW 126."
+  },
+  {
+   "name": "IUOE Local 132 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Charleston",
+   "url": "https://www.iuoe132.org/",
+   "apprenticeship_url": "https://www.iuoe132.org/apprenticeship/",
+   "description": "United by strength, professionalism, and solidarity, the IUOE is dedicated to protecting workers’ rights, advancing training and safety standards, and building strong careers across the construction, industrial, and maintenance industries."
+  },
+  {
+   "name": "IUPAT District Council 53",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://iupatdc53.org/",
+   "apprenticeship_url": "http://iupatdc53.org/education-training/",
+   "description": "Thank you to everyone who dedicated their time to developing this first-of-its-kind training program built around a real elevated water tank."
+  },
+  {
+   "name": "West Virginia Laborers’ Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Mineral Wells",
+   "url": "https://www.wvccl.org/",
+   "apprenticeship_url": "https://www.wvccl.org/apprenticeship",
+   "description": "West Virginia Laborers"
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Bridgeport",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Bridgeport",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Nitro",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Nitro",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Parkersburg",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Parkersburg",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Parkersburg Millwrights",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Parkersburg",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 436 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Bridgeport",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 439 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Charleston",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 443 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Parkersburg",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "WV Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://www.wvtrades.org/",
+   "description": "Earn While You Learn As an apprentice with the WV Building & Construction Trades, you get paid to learn your trade."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "WV Division of Labor, Licensing Section",
+   "trades": [
+    "HVAC technician",
+    "plumber"
+   ],
+   "url": "https://labor.wv.gov/licensing",
+   "description": "Division of Labor licensing page listing HVAC Technician Certification and Plumber Certification (forms, fees, statutes and FAQs)."
+  }
+ ],
+ "funding": [
+  {
+   "name": "WV PROMISE Scholarship",
+   "url": "https://www.cfwv.com/financial-aid/promise-scholarship/",
+   "provider": "West Virginia Higher Education Policy Commission / College Foundation of WV",
+   "kind": "scholarship",
+   "provides": "Merit-based award for West Virginia high school graduates attending public or independent two- or four-year institutions.",
+   "eligibility": "Graduating high school with a 3.0 GPA or better and meeting academic requirements (per page).",
+   "amount": "Up to $5,500 per year or the cost of tuition and mandatory fees, whichever is less (per page)",
+   "how_to_apply": "Complete the Promise application and FAFSA by March 1, 2027 for the class of 2027 (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "West Virginia Higher Education Grant (HEGP)",
+   "url": "https://www.wvhepc.edu/news/deadlines-approaching-for-promise-scholarship-west-virginia-higher-education-grant-program/",
+   "provider": "West Virginia Higher Education Policy Commission",
+   "kind": "grant",
+   "provides": "Need-based annual grant of $3,400 for West Virginia students (page is the Feb 2025 release for the 2025-26 cycle).",
+   "amount": "$3,400 annually (per 2025 release)",
+   "how_to_apply": "FAFSA (per page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "WorkForce WV Eligible Training Provider search (WIOA)",
+   "url": "https://workforcewv.org/job-seeker/workforce-development/eligible-training-providers/",
+   "provider": "WorkForce West Virginia",
+   "kind": "training voucher",
+   "provides": "WIOA-funded access to approved training programs through the state Eligible Training Provider database, with help from local American Job Centers.",
+   "how_to_apply": "Search the ETP database or ask your local American Job Center (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "WorkForce WV Apprenticeships",
+   "url": "https://workforcewv.org/job-seeker/find-a-job/apprenticeships/",
+   "provider": "WorkForce West Virginia",
+   "kind": "apprenticeship",
+   "provides": "Apprenticeship that lets you gain real-world skills while earning a wage.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "WorkForce WV Trade Adjustment Assistance",
+   "url": "https://workforcewv.org/job-seeker/layoffs-downsizing/trade-adjustment-assistance/",
+   "provider": "WorkForce West Virginia / U.S. Department of Labor",
+   "kind": "supportive services",
+   "provides": "Federal Trade Adjustment Assistance program administered in West Virginia for workers who lost jobs because of trade.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

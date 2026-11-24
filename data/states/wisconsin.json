@@ -1,0 +1,707 @@
+{
+ "code": "WI",
+ "state": "Wisconsin",
+ "colleges": [
+  {
+   "name": "Blackhawk Technical College",
+   "type": "technical college",
+   "city": "Beloit",
+   "home_url": "https://www.blackhawk.edu/",
+   "trades_url": "https://www.blackhawk.edu/Programs-Courses/Career-Areas/Advanced-Manufacturing",
+   "programs": [
+    "Air Conditioning, Heating and Refrigeration Technology",
+    "Automation Systems Technology",
+    "CNC Machine Operator Programmer",
+    "Computer Numeric Control Technician",
+    "Electro-Mechanical Technology",
+    "Entry Maintenance Technician",
+    "Industrial Maintenance Mechanic",
+    "Manufacturing Engineering Technology",
+    "Residential HVAC",
+    "Welding",
+    "Welding Fabrication Robotics",
+    "Electric Power Distribution"
+   ]
+  },
+  {
+   "name": "Chippewa Valley Technical College",
+   "type": "technical college",
+   "city": "Eau Claire",
+   "home_url": "https://www.cvtc.edu/",
+   "trades_url": "https://www.cvtc.edu/academics/apprenticeships",
+   "programs": [
+    "Welding",
+    "Diesel Technician",
+    "Automotive Technician",
+    "Electrical Maintenance",
+    "Mechatronics Technician",
+    "CNC Machining Technician",
+    "Residential Construction"
+   ]
+  },
+  {
+   "name": "Fox Valley Technical College",
+   "type": "technical college",
+   "city": "Appleton",
+   "home_url": "https://www.fvtc.edu/",
+   "trades_url": "https://www.fvtc.edu/programs/all-programs",
+   "programs": [
+    "Construction",
+    "Electrical & Electronics",
+    "Manufacturing & Automation",
+    "Industrial Maintenance",
+    "Precision Metal Machining",
+    "Welding & Fabrication",
+    "Automotive",
+    "Diesel",
+    "Truck Driving"
+   ]
+  },
+  {
+   "name": "Gateway Technical College",
+   "type": "technical college",
+   "city": "Kenosha",
+   "home_url": "https://www.gtc.edu/",
+   "trades_url": "https://www.gtc.edu/area-interest-manufacturing",
+   "programs": [
+    "Welding",
+    "CNC Operator",
+    "Automotive Technology",
+    "Building Trades – Carpentry",
+    "Diesel Equipment Mechanic",
+    "Diesel Equipment Technology"
+   ]
+  },
+  {
+   "name": "Lakeshore College",
+   "type": "technical college",
+   "city": "Cleveland",
+   "home_url": "https://lakeshore.edu/",
+   "trades_url": "https://lakeshore.edu/programs-and-courses/apprenticeship",
+   "programs": [
+    "HVAC Principles",
+    "Welding Principles",
+    "CNC/Machining Principles",
+    "Residential HVAC Installer",
+    "Industrial Electrician Apprenticeship"
+   ]
+  },
+  {
+   "name": "Madison Area Technical College",
+   "type": "technical college",
+   "city": "Madison",
+   "home_url": "https://madisoncollege.edu/",
+   "trades_url": "https://madisoncollege.edu/academics/apprenticeships",
+   "programs": [
+    "Welding Technical Diploma",
+    "Electricity Technical Diploma",
+    "Construction Essentials",
+    "Plumbing Apprenticeship",
+    "Automotive Technician Technical Diploma",
+    "Diesel Medium and Heavy Truck Technician Technical Diploma",
+    "Mechatronics Technician Apprenticeship"
+   ]
+  },
+  {
+   "name": "Mid-State Technical College",
+   "type": "technical college",
+   "city": "Wisconsin Rapids",
+   "home_url": "https://www.mstc.edu/",
+   "trades_url": "https://www.mstc.edu/academic-programs/apprenticeships",
+   "programs": [
+    "Welding",
+    "Plumber",
+    "Carpenter",
+    "Construction Trades",
+    "Precision Machining Technician",
+    "Diesel & Heavy Equipment Technician",
+    "Heating, Ventilation, & Air Conditioning (HVAC) Installer",
+    "Construction Electrician (IBEW-NECA)",
+    "Automotive Technician",
+    "Advanced Manufacturing Technology",
+    "Electrical & Instrumentation Technician",
+    "Gas Metal Arc Welding (GMAW)",
+    "Millwright/Maintenance Mechanic",
+    "Ironworker"
+   ]
+  },
+  {
+   "name": "Moraine Park Technical College",
+   "type": "technical college",
+   "city": "Fond du Lac",
+   "home_url": "https://www.morainepark.edu/",
+   "trades_url": "https://www.morainepark.edu/academics/clusters/manufacturing/",
+   "programs": [
+    "Welding Diploma Program",
+    "Electricity Program",
+    "HVAC Program Information",
+    "Electricity Program Information"
+   ]
+  },
+  {
+   "name": "Nicolet Area Technical College",
+   "type": "technical college",
+   "city": "Rhinelander",
+   "home_url": "http://nicoletcollege.edu/",
+   "trades_url": "http://nicoletcollege.edu/appliedtechnologyandtrades",
+   "programs": [
+    "Electrical Apprenticeship",
+    "Plumbing Apprentice",
+    "Carpentry Apprentice",
+    "Heavy Equipment Operator"
+   ]
+  },
+  {
+   "name": "Northcentral Technical College",
+   "type": "technical college",
+   "city": "Wausau",
+   "home_url": "https://www.ntc.edu/",
+   "trades_url": "https://www.ntc.edu/academics-training/apprenticeships",
+   "programs": [
+    "Plumbing Apprenticeship",
+    "Carpentry Apprenticeship",
+    "Machinist Apprenticeship",
+    "Diesel Technician Apprenticeship",
+    "Diesel Technology Center",
+    "Commercial Driver’s License (CDL) Training Center"
+   ]
+  },
+  {
+   "name": "Northeast Wisconsin Technical College",
+   "type": "technical college",
+   "city": "Green Bay",
+   "home_url": "https://www.nwtc.edu/",
+   "trades_url": "https://www.nwtc.edu/academics-and-training/apprenticeship",
+   "programs": [
+    "Welding - Technical Diploma",
+    "Construction Electrician-Electricity - Technical Diploma",
+    "Automotive Technology - Associate Degree",
+    "Industrial Maintenance - Certificate",
+    "Electric Line Worker - Apprenticeship",
+    "Sheet Metal - Apprenticeship",
+    "Cement Mason - Apprenticeship"
+   ]
+  },
+  {
+   "name": "Northwood Technical College",
+   "type": "technical college",
+   "city": "Rice Lake",
+   "home_url": "https://www.northwoodtech.edu/",
+   "trades_url": "https://www.northwoodtech.edu/manufacturing/",
+   "programs": [
+    "Welding",
+    "CNC Technician",
+    "Plumbing Apprentice",
+    "Automotive Technician",
+    "Machine Tool Operation"
+   ]
+  },
+  {
+   "name": "Southwest Wisconsin Technical College",
+   "type": "technical college",
+   "city": "Fennimore",
+   "home_url": "https://www.swtc.edu/",
+   "trades_url": "https://www.swtc.edu/academics/apprenticeships/",
+   "programs": [
+    "Welding",
+    "Industrial Mechanic",
+    "Automotive Technician",
+    "Building Trades—Carpentry",
+    "Electrical Power Distribution",
+    "Plumbing"
+   ]
+  },
+  {
+   "name": "Waukesha County Technical College",
+   "type": "technical college",
+   "city": "Pewaukee",
+   "home_url": "https://www.wctc.edu/",
+   "trades_url": "https://www.wctc.edu/WCTC/Academics/Program-List",
+   "programs": [
+    "Welding Apprenticeship",
+    "Electricity",
+    "Plumbing Apprenticeship (ABC)",
+    "HVAC/R Technician",
+    "Machinist Apprenticeship",
+    "Building Trades - Carpentry",
+    "Diesel Equipment Mechanic"
+   ]
+  },
+  {
+   "name": "Western Technical College",
+   "type": "technical college",
+   "city": "La Crosse",
+   "home_url": "https://westerntc.edu/",
+   "trades_url": "https://www.westerntc.edu/programs-possibilities/apprenticeships",
+   "programs": [
+    "Welding Technician",
+    "Automotive Technician",
+    "Diesel & Heavy Equipment Technician",
+    "Building Construction & Cabinetmaking",
+    "Mechatronic & Robotic Engineering Technology",
+    "Industrial Machine Controls"
+   ]
+  },
+  {
+   "name": "Milwaukee Area Technical College",
+   "type": "technical college",
+   "city": "Milwaukee",
+   "home_url": "http://www.matc.edu/",
+   "trades_url": "https://www.matc.edu/course-catalog/manufacturing-construction-transportation/index.html",
+   "programs": [
+    "Automotive Technology - Comprehensive",
+    "Industrial Maintenance Technician",
+    "Welding Technology",
+    "Automotive Maintenance Technician",
+    "Carpentry",
+    "CNC Swiss Multi-Axis Machining",
+    "Computer Numerical Control (CNC) Technician",
+    "Diesel and Powertrain Servicing",
+    "Electrical Power Distribution/Line Mechanic",
+    "Electricity",
+    "Machine Tool Operations",
+    "Preparatory Plumbing",
+    "Truck Driving",
+    "Welding",
+    "CNC Setup and Operations Certificate",
+    "Welding Fundamentals"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Steamfitters Local 601",
+   "kind": "union local",
+   "trades": [
+    "steamfitter",
+    "HVAC service",
+    "refrigeration",
+    "process piping"
+   ],
+   "url": "https://steam601.org/apprenticeship/",
+   "description": "A 5-year entry program for people with minimal to no prior background, combining on-the-job and classroom instruction."
+  },
+  {
+   "name": "Associated Builders and Contractors of Wisconsin (ABC of WI)",
+   "kind": "contractor association",
+   "trades": [
+    "electrical",
+    "HVAC",
+    "plumbing"
+   ],
+   "city": "Madison (apprenticeship center)",
+   "url": "https://www.abcwi.org/",
+   "description": "Trade association that advances and defends merit-shop principles in the construction industry; runs a non-union apprenticeship program."
+  },
+  {
+   "name": "IBEW Local 159",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://ibew159.org/",
+   "description": "IBEW Local 159 home page; the local is a member of the Madison-area electrical apprenticeship program."
+  },
+  {
+   "name": "Wisconsin Regional Training Partnership (WRTP | BIG STEP)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "building trades",
+    "manufacturing"
+   ],
+   "city": "Milwaukee",
+   "url": "https://gbc-education.org/initiatives/wisconsin-regional-training-partnership-inc/",
+   "description": "Milwaukee nonprofit that runs hands-on pre-employment training for family-sustaining jobs in the building trades and industrial sector (BIG STEP was created in the 1970s to increase women, minorities and younger workers in the building trades)."
+  },
+  {
+   "name": "Appleton/Osh Kosh Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "Eau Claire Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "IBEW Local 127",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Kenosha",
+   "url": "https://www.ibew127.org/",
+   "description": "The Kenosha Electricians IBEW Local 127 is Kenosha."
+  },
+  {
+   "name": "IBEW Local 14",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Eau Claire",
+   "url": "https://www.ibew14.net/",
+   "apprenticeship_url": "https://www.ibew14.net/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/private_view_page.cfm&page=Training&CFID=90577480&CFTOKEN=166a04e7cd376ce1-8F970005-ADDD-2344-720B9E1ED2B021A7",
+   "description": "IBEW Local Union 14."
+  },
+  {
+   "name": "IBEW Local 158",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Green Bay",
+   "url": "https://www.ibew158.com/",
+   "apprenticeship_url": "https://www.ibew158.com/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "Green Bay Electrical Workers."
+  },
+  {
+   "name": "IBEW Local 159",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Madison",
+   "url": "https://www.ibew159.org/",
+   "apprenticeship_url": "https://www.ibew159.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 159."
+  },
+  {
+   "name": "IBEW Local 2150",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Milwaukee",
+   "url": "https://www.ibewlocal2150.org/",
+   "apprenticeship_url": "https://www.ibewlocal2150.org/?zone=/unionactive/view_page.cfm&page=Outside20Line20Construction20Links",
+   "description": "IBEW Local 2150."
+  },
+  {
+   "name": "IBEW Local 388",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Stevens Point",
+   "url": "https://www.ibewlocal388.org/",
+   "apprenticeship_url": "https://www.ibewlocal388.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 388."
+  },
+  {
+   "name": "IBEW Local 430",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Racine",
+   "url": "https://www.ibewlu430.org/",
+   "apprenticeship_url": "https://www.ibewlu430.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 430."
+  },
+  {
+   "name": "IBEW Local 494",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Milwaukee",
+   "url": "https://www.ibew494.com/",
+   "apprenticeship_url": "https://www.ibew494.com/?zone=/unionactive/view_page.cfm&page=Training",
+   "description": "IBEW LOCAL UNION 494."
+  },
+  {
+   "name": "IBEW Local 577",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Appleton",
+   "url": "https://www.ibewlu577.com/",
+   "apprenticeship_url": "https://www.ibewlu577.com/Uploads%5CUploadedFiles%5C577-ins-1906-01-youth-aprent-mou-signed_20241218173918.pdf",
+   "description": "IBEW 577."
+  },
+  {
+   "name": "IBEW Local 890",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Janesville",
+   "url": "https://ibew890.org/",
+   "apprenticeship_url": "https://ibew890.org/apprenticeship-scholarship/",
+   "description": "International Brotherhood of Electrical Workers, Local 890 – Janesville, WI."
+  },
+  {
+   "name": "IBEW Local 953",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Eau Claire",
+   "url": "https://www.ibew953.org/en",
+   "description": "IBEW 953 | Home."
+  },
+  {
+   "name": "IBEW Local 965",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Madison",
+   "url": "https://ibew965.com/",
+   "description": "IBEW Local 965."
+  },
+  {
+   "name": "Kenosha Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "Madison Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "Milwaukee Electrical Joint Apprenticeship",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Greenfield",
+   "url": "https://metiwi.com/",
+   "description": "METI."
+  },
+  {
+   "name": "Northeast WI Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "Racine Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "Southcentral WI Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Janesville",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "WI River Valley Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://www.wijatc.org/",
+   "description": "Wisconsin Electrical Apprenticeship & Training | Wisconsin Apprenticeships."
+  },
+  {
+   "name": "IUOE Local 139 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Pewaukee",
+   "url": "https://www.iuoe139.org/",
+   "apprenticeship_url": "https://www.iuoe139.org/about/apprenticeship/",
+   "description": "The Local 139 apprenticeship program accommodates heavy equipment operators with little to no experience in the field."
+  },
+  {
+   "name": "IUPAT District Council 07",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.iupatdc7.com/",
+   "apprenticeship_url": "https://www.iupatdc7.com/training/",
+   "description": "The International Union of Painters and Allied Trades District Council 7 — the finishing trades union of Wisconsin and Michigan&#039;s Upper Peninsula."
+  },
+  {
+   "name": "BAC Wisconsin District Council",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "New Berlin",
+   "url": "https://bacwi.org/",
+   "apprenticeship_url": "https://bacwi.org/training/",
+   "description": "Empowering Skilled Tradesmen Across Wisconsin. Join Our Union For Access To Comprehensive Training, Apprenticeship Programs, &amp; Safety Courses."
+  },
+  {
+   "name": "Wisconsin Laborers’ Apprenticeship and Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "DeForest",
+   "url": "https://liunawisconsin.org/",
+   "apprenticeship_url": "https://liunawisconsin.org/course-registration",
+   "description": "The Wisconsin Laborers&#039; District Council is an affiliation of five Laborer Local Unions, representing nearly 9,000 construction craft laborers across the state."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - Pewaukee Campus N25 W23055 Paul Rd Suite",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Pewaukee",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Central Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Mosinee",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Northeast Training Center - Kaukauna N2218 Bodde Rd Kaukauna",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kaukauna",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Southern Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Madison",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 741 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pewaukee",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 988 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Mosinee",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1781 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Madison",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2945 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Kaukauna",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1143 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "LaCrosse",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "DSPS Electrical program",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://dsps.wi.gov/a-z-programs-list/electrical/",
+   "description": "Wisconsin Department of Safety and Professional Services program that administers electrical permitting, inspection and consultation."
+  },
+  {
+   "name": "DSPS Plumbing program",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://dsps.wi.gov/a-z-programs-list/plumbing/",
+   "description": "Wisconsin DSPS program for plumbing consultation, inspection, plan review and certification."
+  },
+  {
+   "name": "DSPS HVAC Contractor credential",
+   "trades": [
+    "HVAC"
+   ],
+   "url": "https://dsps.wi.gov/a-z-professions-list/hvac-contractor/",
+   "description": "Wisconsin DSPS page defining the HVAC Contractor credential requirements."
+  },
+  {
+   "name": "DSPS Dwelling Contractor credential",
+   "trades": [
+    "residential construction"
+   ],
+   "url": "https://dsps.wi.gov/a-z-professions-list/dwelling-contractor-dc/",
+   "description": "Wisconsin DSPS page defining the Dwelling Contractor credential requirements."
+  },
+  {
+   "name": "DSPS Elevators and Conveyances program",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://dsps.wi.gov/a-z-programs-list/elevators/",
+   "description": "Wisconsin DSPS program page for elevators and conveyances."
+  },
+  {
+   "name": "DSPS Boilers and Pressure Vessels program",
+   "trades": [
+    "boiler"
+   ],
+   "url": "https://dsps.wi.gov/a-z-programs-list/boilers-and-pressure-vessels/",
+   "description": "Wisconsin DSPS program page for boilers and pressure vessels."
+  },
+  {
+   "name": "DSPS Structural Welding program",
+   "trades": [
+    "welding"
+   ],
+   "url": "https://dsps.wi.gov/a-z-programs-list/welding/",
+   "description": "Wisconsin DSPS program that inspects and credentials structural welders and weld test conductors."
+  },
+  {
+   "name": "DSPS Mechanical Refrigeration Systems program",
+   "trades": [
+    "refrigeration"
+   ],
+   "url": "https://dsps.wi.gov/a-z-programs-list/mechanical-refrigeration-systems/",
+   "description": "Wisconsin DSPS program page for mechanical refrigeration systems."
+  }
+ ],
+ "funding": [
+  {
+   "name": "MC3 HSED (High School Equivalency Diploma with Multi-Craft Core)",
+   "url": "https://dwd.wisconsin.gov/ETPL/Home/Details/2892",
+   "provider": "Literacy Services of Wisconsin",
+   "kind": "other",
+   "provides": "MC3 HSED lets participants earn a high school equivalency diploma through a curriculum combining Common Core standards with the NABTU Multi-Craft Core Curriculum, bridging directly to a construction building trades apprenticeship pathway; in-person format.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "WTCS Promise Programs (technical colleges)",
+   "url": "https://www.wtcsystem.edu/technical-college-benefits/affordable/scholarships-and-promise-programs/",
+   "provider": "Wisconsin Technical College System (privately funded by local partners)",
+   "kind": "tuition-free program",
+   "provides": "Promise programs let students with low family income earn a degree tuition-free at participating technical colleges; these are privately funded through local partners.",
+   "eligibility": "Students who may not otherwise attend technical college because of low family income (per page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Wisconsin Commercial Driver Training Grant",
+   "url": "https://dwd.wisconsin.gov/det",
+   "provider": "Wisconsin Department of Workforce Development",
+   "kind": "grant",
+   "provides": "DWD grant to organizations to increase the number of Wisconsin residents who obtain a commercial driver's license.",
+   "how_to_apply": "Application and rubric linked from the DWD page.",
+   "audience": "school",
+   "status": "unknown"
+  },
+  {
+   "name": "Wisconsin Apprenticeship (Registered, Youth, Pre-Apprenticeship)",
+   "url": "https://dwd.wisconsin.gov/apprenticeship",
+   "provider": "Wisconsin Department of Workforce Development",
+   "kind": "apprenticeship",
+   "provides": "Registered apprenticeship to learn an occupation on the job, plus youth apprenticeship and certified pre-apprenticeship pathways.",
+   "audience": "individual",
+   "status": "open"
+  }
+ ]
+}

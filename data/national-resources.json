@@ -1,0 +1,1131 @@
+[
+ {
+  "name": "Workforce Innovation and Opportunity Act (WIOA) - DOL ETA overview",
+  "url": "https://www.dol.gov/agencies/eta/wioa",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "other",
+  "provides": "WIOA is landmark legislation designed to strengthen the public workforce system and help Americans, including youth and those with significant barriers to employment, get into high-quality jobs and careers.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Job Corps",
+  "url": "https://www.jobcorps.gov/",
+  "provider": "U.S. Department of Labor",
+  "kind": "tuition-free program",
+  "provides": "Job Corps is the nation's largest free, residential career training and education program for low-income young adults, offering hands-on training in fields such as manufacturing, health care, technology and construction, without student debt.",
+  "eligibility": "Low-income young adults ages 16 through 24, per the page.",
+  "how_to_apply": "The page has an 'Apply Now' link; no further steps are stated on the page.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Senior Community Service Employment Program (SCSEP)",
+  "url": "https://www.dol.gov/agencies/eta/seniors",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "other",
+  "provides": "SCSEP is a community service and work-based job training program, authorized by the Older Americans Act, that gives low-income, unemployed seniors work experience at non-profit and public facilities and access to American Job Center employment assistance.",
+  "eligibility": "Low-income, unemployed seniors, per the page.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Reentry Employment Opportunities (REO)",
+  "url": "https://www.dol.gov/agencies/eta/reentry",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "grant",
+  "provides": "REO funds projects that test workforce strategies for justice-involved youth, young adults and adults who were formerly incarcerated, authorized under Section 169 of WIOA; the grants go to state and local organizations, not directly to individuals.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "Migrant and Seasonal Farmworkers - National Farmworker Jobs Program (NFJP)",
+  "url": "https://www.dol.gov/general/topic/training/migrantfarmworkers",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "supportive services",
+  "provides": "NFJP provides grant funds, delivered through local organizations, to help migrant and seasonal farmworkers and their families achieve economic self-sufficiency through supportive services or by helping them acquire new skills for jobs offering better pay.",
+  "how_to_apply": "The page directs users to find a local NFJP grantee in their state, contact their American Job Center, or call ETA's help line at 1-877-US-2JOBS.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Find an Apprenticeship (Apprenticeship.gov)",
+  "url": "https://www.dol.gov/featured/apprenticeship/find-opportunities",
+  "provider": "U.S. Department of Labor",
+  "kind": "apprenticeship",
+  "provides": "A search tool for Registered Apprenticeship openings; applicants apply directly with the employer or program sponsor.",
+  "how_to_apply": "Use 'Find an Apprenticeship' on the page to search for an opportunity and apply directly with the employer or program sponsor.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Open Funding Opportunities (Apprenticeship.gov)",
+  "url": "https://www.dol.gov/featured/apprenticeship/grants",
+  "provider": "U.S. Department of Labor",
+  "kind": "grant",
+  "provides": "Lists open DOL apprenticeship funding opportunity announcements; the page describes technical assistance grants to employers and labor unions that encourage women in apprenticeable and nontraditional occupations, including pre-apprenticeship development.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "Apprenticeship Incentive Funds (Apprenticeship.gov)",
+  "url": "https://www.apprenticeship.gov/",
+  "provider": "U.S. Department of Labor",
+  "kind": "grant",
+  "provides": "DOL announced apprenticeship incentive funding for new high-growth industries, with incentive funding available in five more industries, according to the Apprenticeship.gov homepage.",
+  "audience": "employer",
+  "status": "unknown"
+ },
+ {
+  "name": "Adult Education and Literacy (OCTAE)",
+  "url": "https://www2.ed.gov/about/offices/list/ovae/pi/AdultEd/index.html",
+  "provider": "U.S. Department of Education, Office of Career, Technical, and Adult Education",
+  "kind": "other",
+  "provides": "The Division of Adult Education and Literacy administers programs that help adults acquire basic skills, including reading, writing, math, English language proficiency and problem-solving.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "LINCS Learner Center (Adult Education and Literacy)",
+  "url": "https://lincs.ed.gov/",
+  "provider": "U.S. Department of Education",
+  "kind": "other",
+  "provides": "LINCS provides self-paced online adult education courses and a Learner Center that connects adult learners to free online resources.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Career and Technical Education and Perkins V (OCTAE)",
+  "url": "https://octae.ed.gov/",
+  "provider": "U.S. Department of Education, Office of Career, Technical, and Adult Education",
+  "kind": "grant",
+  "provides": "OCTAE publishes Perkins V legislation, grant information, accountability resources and state data for career and technical education.",
+  "audience": "school",
+  "status": "unknown"
+ },
+ {
+  "name": "TRIO Programs (Federal TRIO home)",
+  "url": "https://www2.ed.gov/about/offices/list/ope/trio/index.html",
+  "provider": "U.S. Department of Education, Office of Postsecondary Education",
+  "kind": "supportive services",
+  "provides": "Federal TRIO programs, including Educational Opportunity Centers and Ronald E. McNair Postbaccalaureate Achievement, provide services to disadvantaged students through grants to colleges and community organizations.",
+  "eligibility": "Students must be eligible to receive services and be accepted into a funded project serving their school; individual students do not apply for the grants.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Student Support Services Program (TRIO, 84.042A)",
+  "url": "https://www2.ed.gov/programs/triostudsupp/index.html",
+  "provider": "U.S. Department of Education, Office of Postsecondary Education",
+  "kind": "grant",
+  "provides": "Discretionary grant program for TRIO Student Support Services (84.042A) that funds services for students at institutions of higher education.",
+  "eligibility": "Institutions of Higher Education (IHEs), per the page.",
+  "audience": "school",
+  "status": "closed"
+ },
+ {
+  "name": "Talent Search Program (TRIO, 84.044)",
+  "url": "https://www2.ed.gov/programs/triotalent/index.html",
+  "provider": "U.S. Department of Education, Office of Postsecondary Education",
+  "kind": "grant",
+  "provides": "Discretionary grant program (84.044) that aims to help students from disadvantaged backgrounds enter and complete post-secondary education.",
+  "eligibility": "Institutions of Higher Education (IHEs) and non-profit organizations, per the page.",
+  "audience": "school",
+  "status": "closed"
+ },
+ {
+  "name": "CareerOneStop (training and scholarship finder)",
+  "url": "https://www.careeronestop.org/",
+  "provider": "U.S. Department of Labor",
+  "kind": "other",
+  "provides": "CareerOneStop has tools to find training and education, schools and programs, scholarships and certifications, plus American Job Center locations and specialized programs for job seekers.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Work Ethic Scholarship (mikeroweWORKS)",
+  "url": "https://mikeroweworks.org/scholarship/",
+  "provider": "mikeroweWORKS Foundation",
+  "kind": "scholarship",
+  "provides": "mikeroweWORKS offers scholarships to people willing to work, for approved skills-training programs listed on the site.",
+  "how_to_apply": "Apply Now button on the page; program guidelines are linked there.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Path to Pro Skills Program and Skills Explorers (free training)",
+  "url": "https://www.pathtopro.com/",
+  "provider": "The Home Depot (Path to Pro)",
+  "kind": "tuition-free program",
+  "provides": "Free trades training: a self-paced Skills Program and a facilitator-led Skills Explorers program.",
+  "eligibility": "Skills Program for ages 16+; Skills Explorers for ages 11-17.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Path to Pro Grants (Home Depot Foundation community grants hub)",
+  "url": "https://corporate.homedepot.com/page/grants",
+  "provider": "The Home Depot Foundation",
+  "kind": "grant",
+  "provides": "Hub for The Home Depot and Home Depot Foundation community grant programs, which lists Path to Pro Grants.",
+  "audience": "school",
+  "status": "unknown"
+ },
+ {
+  "name": "Gable Grants (Lowe's Foundation)",
+  "url": "https://www.skillsusa.org/news/gable-grants-for-community-technical-colleges-available-from-lowes/",
+  "provider": "Lowe's Foundation",
+  "kind": "grant",
+  "provides": "Lowe's Foundation will provide $50 million over five years through Gable Grants to community and technical colleges and community-based nonprofits to prepare 50,000 people for skilled trades careers.",
+  "eligibility": "Community and technical colleges and community-based nonprofit organizations.",
+  "how_to_apply": "Application link on the page; the page says college applications were accepted through March 31 (year not stated).",
+  "audience": "school",
+  "status": "unknown"
+ },
+ {
+  "name": "AWS National Scholarships (welding)",
+  "url": "https://www.aws.org/career-resources/students/scholarships/national-scholarships/",
+  "provider": "AWS Foundation (American Welding Society)",
+  "kind": "scholarship",
+  "provides": "More than 130 donor-funded scholarships, totaling over $700,000, for students pursuing a bachelor's or associate degree in welding or a related discipline.",
+  "eligibility": "Students pursuing a bachelor's or associate degree in welding or a related discipline; two letters of recommendation required.",
+  "amount": "Over $700,000 total across 130+ scholarships (per-award amounts not stated on the page).",
+  "how_to_apply": "Applications open December 1; page says to check back December 2026.",
+  "audience": "individual",
+  "status": "closed"
+ },
+ {
+  "name": "AWS Welder Training Scholarship",
+  "url": "https://www.lincolnelectric.com/en/Education/Community/Scholarships",
+  "provider": "AWS Foundation (American Welding Society)",
+  "kind": "scholarship",
+  "provides": "AWS scholarship of $1,000 for students seeking welder training, with 10 awarded per AWS district; listed on Lincoln Electric's community scholarships page.",
+  "eligibility": "Students seeking welder training in a program of up to two years.",
+  "amount": "$1,000 (10 per AWS district)",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "AWS Foundation scholarships and grants",
+  "url": "https://www.aws.org/about/foundation/",
+  "provider": "AWS Foundation (American Welding Society)",
+  "kind": "scholarship",
+  "provides": "AWS Foundation awards national, district and welder training scholarships, and grants of up to $50,000 to secondary and post-secondary institutions; page cites over $4.3 million awarded.",
+  "amount": "Grants up to $50,000 for institutions; scholarship amounts vary by program.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "AGC Education and Research Foundation Scholarship Program",
+  "url": "https://www.agc.org/learn/education-and-research-foundation/scholarship-program",
+  "provider": "Associated General Contractors of America (AGC Education and Research Foundation)",
+  "kind": "scholarship",
+  "provides": "Scholarships for students attending colleges and universities in construction-related fields; over $11 million awarded to more than 4,500 students.",
+  "amount": "Undergraduate: $2,500 per year for up to three years. Graduate: $3,750 per year for up to two years.",
+  "how_to_apply": "APPLY NOW button on the page.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "PHCC Educational Foundation Scholarship Program",
+  "url": "https://www.phccfoundation.org/scholarship-program/",
+  "provider": "PHCC Educational Foundation",
+  "kind": "scholarship",
+  "provides": "Scholarships to help qualified workers who need help getting started in the plumbing, heating, cooling and piping industry; 2026 awards went to 80 students.",
+  "eligibility": "Qualified workers who need help getting started in the plumbing-HVAC industry (page wording).",
+  "amount": "2026 winners received up to $200,000 in total across 80 students.",
+  "how_to_apply": "Application period runs January until May 1; all submission materials are due May 1.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Trimmer Construction Education Fund (TCEF) grants",
+  "url": "https://www.abc.org/trimmereducation",
+  "provider": "Associated Builders and Contractors (ABC)",
+  "kind": "grant",
+  "provides": "ABC grant program, the Trimmer Construction Education Fund, for construction craft education funded through company applications.",
+  "eligibility": "Applications come from companies; an executive-level representative from the applying company must attend the committee meeting.",
+  "how_to_apply": "Apply for a TCEF Grant via the application link on the page; deadlines are posted there.",
+  "audience": "employer",
+  "status": "unknown"
+ },
+ {
+  "name": "ABC Craft Training and Apprenticeship",
+  "url": "https://www.abc.org/Workforce/Craft-Training-Apprenticeship",
+  "provider": "Associated Builders and Contractors (ABC)",
+  "kind": "apprenticeship",
+  "provides": "ABC's registered apprenticeship and craft training programs for the merit-shop construction industry, built on NCCER curricula and registered with the U.S. Department of Labor Office of Apprenticeship.",
+  "how_to_apply": "Sign-up for updates is offered on the page.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "NCCER Apprenticeship Assistance",
+  "url": "https://www.nccer.org/programs-crafts/apprenticeship-assistance/",
+  "provider": "NCCER",
+  "kind": "other",
+  "provides": "NCCER's workforce development team helps organizations set up Registered Apprenticeship Programs, with curricula and guidance; no individual funding is described.",
+  "audience": "employer",
+  "status": "unknown"
+ },
+ {
+  "name": "ACCA Associate Member HVACR scholarships",
+  "url": "https://hvac-blog.acca.org/acca-associate-member-offers-hvacr-scholarships/",
+  "provider": "ACCA Associate Member (sponsor named in the ACCA blog post)",
+  "kind": "scholarship",
+  "provides": "Four $2,000 HVACR scholarships ($8,000 per year) for students in HVAC and refrigeration programs; the post covers the 2023-2024 academic year.",
+  "eligibility": "Enrolled or planning to enroll in an HVAC and refrigeration program at an accredited trade school or college for the 2023-2024 academic year; US citizens, nationals or permanent residents; awarded on financial need, academic merit and interest in HVACR.",
+  "amount": "$2,000 per scholarship ($8,000 total per year)",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Sustainability and Green Building scholarship for the International Builders' Show (IBS)",
+  "url": "https://www.nahb.org/advocacy/industry-issues/sustainability-and-green-building/sgb-scholarship-for-ibs",
+  "provider": "NAHB (National Association of Home Builders)",
+  "kind": "scholarship",
+  "provides": "Scholarship sending young emerging builders to the International Builders' Show, with travel and full registration covered.",
+  "eligibility": "Ages 25-35 by Jan. (page text cut off at this date).",
+  "amount": "$1,300 for travel expenses plus full registration",
+  "audience": "individual",
+  "status": "closed"
+ },
+ {
+  "name": "Automotive Scholarships portal (University of the Aftermarket Foundation)",
+  "url": "https://automotivescholarships.com/",
+  "provider": "University of the Aftermarket Foundation",
+  "kind": "scholarship",
+  "provides": "Main page of the Automotive Scholarships site, administered by the University of the Aftermarket Foundation, with a scholarships section.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "UA Apprenticeship (United Association)",
+  "url": "https://ua.org/apprenticeship/",
+  "provider": "United Association (UA)",
+  "kind": "apprenticeship",
+  "provides": "UA Registered Apprenticeship Programs blend paid, on-the-job training with classroom learning in piping, plumbing, HVACR, welding and fire protection trades.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "UA Veterans in Piping (UA VIP)",
+  "url": "https://ua.org/career-paths/programs-for-veterans/",
+  "provider": "United Association (UA)",
+  "kind": "tuition-free program",
+  "provides": "UA VIP is a pre-apprenticeship for active-duty military personnel preparing to transition to civilian life, recognized as a Department of Defense SkillBridge program, with hands-on training provided on base.",
+  "eligibility": "Active-duty military personnel preparing to transition to civilian life; service members do not have to be stationed at the listed bases to apply.",
+  "amount": "Free: no cost to participants; training is provided on-base during active-duty service.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "IUOE Earn While You Learn (Apprenticeship)",
+  "url": "https://www.iuoe.org/training/apprenticeship-training/earn-while-you-learn/",
+  "provider": "International Union of Operating Engineers (IUOE)",
+  "kind": "apprenticeship",
+  "provides": "IUOE apprentices combine paid on-the-job experience with structured classroom and field training, receiving competitive wages and access to member benefits including healthcare and retirement.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "IUOE Pre-Apprenticeship Pathways",
+  "url": "https://www.iuoe.org/training/apprenticeship-training/pre-apprenticeship-pathways/",
+  "provider": "International Union of Operating Engineers (IUOE)",
+  "kind": "other",
+  "provides": "IUOE supports pre-apprenticeship pathways that help individuals build foundational skills, explore the trades and prepare for entry into an apprenticeship program, including Job Corps pre-apprenticeship training and Helmets to Hardhats.",
+  "eligibility": "Job Corps pre-apprenticeship is for young people ages 16-24.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "IUOE Women in Apprenticeship",
+  "url": "https://www.iuoe.org/training/apprenticeship-training/women-in-apprenticeship/",
+  "provider": "International Union of Operating Engineers (IUOE)",
+  "kind": "apprenticeship",
+  "provides": "IUOE offers women a structured apprenticeship pathway into Operating and Stationary Engineer careers, with competitive wages that increase as skills grow and industry-recognized credentials.",
+  "how_to_apply": "Apply directly to IUOE and connect with an IUOE local near you (Join Now link on the page).",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "LIUNA Registered Apprenticeship Programs",
+  "url": "https://www.liuna.org/apprenticeship",
+  "provider": "Laborers' International Union of North America (LIUNA)",
+  "kind": "apprenticeship",
+  "provides": "LIUNA and partner employers run Registered Apprenticeship programs; training is at no charge to participating contractors, members, apprentices and pre-apprentices through over 70 affiliated training centers across the U.S. and Canada.",
+  "eligibility": "Participating contractors, members, apprentices and pre-apprentices.",
+  "amount": "Training at no charge (per page).",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "LIUNA Training Funds",
+  "url": "https://www.liuna.org/training-funds",
+  "provider": "Laborers' International Union of North America (LIUNA)",
+  "kind": "other",
+  "provides": "LIUNA training includes more than 50 different courses, offered in every state and province, covering areas such as hazardous materials remediation, remote tunneling, concrete work and building construction skills.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "LIUNA Workforce and Training",
+  "url": "https://www.liuna.org/workforce-and-training",
+  "provider": "Laborers' International Union of North America (LIUNA)",
+  "kind": "other",
+  "provides": "LIUNA recruits and trains construction workers across the U.S. and Canada, with hiring halls and training centers in hundreds of U.S. cities.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Northern and Southern California District Councils Scholarships (LIUNA)",
+  "url": "https://www.liuna.org/news/story/northern-and-southern-california-district-councils-award-166-students-with-college-scholarships",
+  "provider": "LIUNA Northern California District Council and Southern California District Council",
+  "kind": "scholarship",
+  "provides": "The two district councils awarded $412,000 in scholarships to 166 dependents of LIUNA members in California for the 2014 academic year, to help with secondary education expenses at community colleges and universities.",
+  "eligibility": "Dependents of LIUNA members in California.",
+  "amount": "$412,000 awarded in total to 166 students (2014 academic year, per the page).",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "SMART Sheet Metal Workers' Scholarship Programs",
+  "url": "https://www.smart-union.org/why-join-smart/scholarships/sheet-metal-scholarship-programs/",
+  "provider": "Sheet Metal Workers' Scholarship Programs (SMART)",
+  "kind": "scholarship",
+  "provides": "The Sheet Metal Workers' International Scholarship Fund awards 34 scholarships of $6,000 per year for up to four years for full-time undergraduate study at any accredited college or university, plus Mechanical Engineering and Architecture scholarships.",
+  "eligibility": "Applicant must be an active member of SMWIA, a covered employee, or a dependent spouse or child under 25 who is a full-time student at an accredited college or university; four-year awards require the applicant's local to participate in the one-cent-per-hour contribution. Undergraduate study only.",
+  "amount": "$6,000 per year for up to four years (34 scholarships), per the page.",
+  "how_to_apply": "Request an application form between September 1 and February 15 (requests after the deadline are not considered); completed applications must be postmarked by March 1. Form and information kit available from the scholarship office; includes transcript, letter of recommendation and essay.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "SMART Transportation Division Scholarships",
+  "url": "https://www.smart-union.org/why-join-smart/scholarships/transportation-scholarships/",
+  "provider": "SMART Transportation Division (listed affiliated and non-affiliated scholarship groups)",
+  "kind": "scholarship",
+  "provides": "Tables list scholarships offered by affiliated and non-affiliated groups that SMART Transportation Division members and their children or grandchildren may be eligible for; SMART does not run its own scholarship program and each listed program sets its own rules.",
+  "eligibility": "SMART Transportation Division members and their children or grandchildren may be eligible, depending on each listed program's rules.",
+  "how_to_apply": "Contact the respective scholarship program listed on the page.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "SMART Members Assistance Program (MAP)",
+  "url": "https://www.smart-union.org/why-join-smart/membership-assistance-program/",
+  "provider": "SMART Union",
+  "kind": "supportive services",
+  "provides": "SMART MAP is an education and membership program on mental health issues, focusing on substance use disorder and suicide prevention, and offers free, confidential assistance through a helpline.",
+  "eligibility": "SMART members can receive free and confidential assistance through the helpline.",
+  "amount": "Free (per page).",
+  "how_to_apply": "Call the SMART helpline at (877) 884-6227.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Carpenters CITF Training Programs",
+  "url": "https://www.carpenters.org/citf-training/citf-training-programs/",
+  "provider": "Carpenters International Training Fund (CITF), United Brotherhood of Carpenters",
+  "kind": "other",
+  "provides": "The CITF training program listing includes courses such as Superintendent Career Training and ICRA: Healthcare Construction in Occupied Facilities, with a link to all CITF training programs.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Carpenters Training Center Locator",
+  "url": "https://www.carpenters.org/training-center/",
+  "provider": "United Brotherhood of Carpenters",
+  "kind": "other",
+  "provides": "Locator page for finding the Carpenters training center nearest you.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Boilermaker Apprenticeship Program",
+  "url": "https://www.boilermakers.org/apprenticeship",
+  "provider": "International Brotherhood of Boilermakers",
+  "kind": "apprenticeship",
+  "provides": "The Boilermakers' four-year apprenticeship program is earn-while-you-learn training that instructs new Boilermakers in skills such as welding.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Boilermakers Welding Bootcamp",
+  "url": "https://www.boilermakers.org/join",
+  "provider": "International Brotherhood of Boilermakers",
+  "kind": "other",
+  "provides": "The Boilermakers join page promotes a new Welding Bootcamp alongside its Boilermaker National Apprenticeship Program, for people starting as apprentices or helpers.",
+  "how_to_apply": "Application linked from the page.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Google.org funding for IBEW and Electrical Training Alliance training",
+  "url": "https://ibew.org/google-funding-means-more-jobs-training-for-ibew-members/",
+  "provider": "Google.org with IBEW and the Electrical Training Alliance",
+  "kind": "other",
+  "provides": "Google.org announced $50 million to support skilled construction training programs, including those offered by the IBEW and its partners; roughly $20 million of it is designated for training electricians through the Electrical Training Alliance.",
+  "amount": "$50 million total announced; roughly $20 million designated for electrician training (per page).",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "YouthBuild Programs",
+  "url": "https://youthbuild.org/our-programs/",
+  "provider": "YouthBuild USA",
+  "kind": "other",
+  "provides": "YouthBuild programs help young people earn a high school diploma or GED while gaining hands-on training in construction or health care, with career coaching, leadership development and supportive services, preparing participants for employment and apprenticeships (example: SER Metro-Detroit program).",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Tradeswomen Inc. Entry to Apprenticeship Workshop",
+  "url": "https://www.tradeswomeninc.org/workshops",
+  "provider": "Tradeswomen, Inc.",
+  "kind": "other",
+  "provides": "A one-hour workshop with Tradeswomen, Inc. recruiters on what it means to be a tradeswoman, opportunities in your area, what to expect, and how they can mentor you into apprenticeship.",
+  "how_to_apply": "Register through the form on the page; virtual meetings are held on the second Thursday of each month at 6:00 pm on Zoom, with advance registration required; in-person workshops are scheduled a month ahead.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "MC3 Pre-Apprenticeship Course at Harbor Occupational Center (LAUSD)",
+  "url": "https://harboroccupational.lausd.org/apps/pages/Construction_MC3",
+  "provider": "Los Angeles Unified School District, Harbor Occupational Center",
+  "kind": "other",
+  "provides": "Construction Apprenticeship Prep pre-apprenticeship course that includes the NABTU Multi-Craft Core (MC3) curriculum, trade union involvement, blueprint reading basics, and field trips to local apprenticeship programs.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "BAC Education and Training",
+  "url": "https://bacweb.org/index%2ephp/education-training",
+  "provider": "International Union of Bricklayers and Allied Craftworkers (BAC)",
+  "kind": "other",
+  "provides": "BAC's education page describes continuing education programs and services for members, and links to the International Masonry Institute (IMI) and the International Masonry Training and Education Foundation (IMTEF).",
+  "how_to_apply": "Questions to askbac@bacweb.org or 1-888-880-8222 (per page).",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "GI Bill (VA education benefits overview)",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "GI Bill benefits help you pay for school and cover expenses while you are training for a job.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Post-9/11 GI Bill (Chapter 33)",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/post-9-11/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "The Post-9/11 GI Bill (Chapter 33) helps pay for school or cover expenses while training for a job.",
+  "eligibility": "If you have served on active duty after September 10, 2001, you may qualify.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Yellow Ribbon Program",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/post-9-11/yellow-ribbon-program/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "The Yellow Ribbon Program can help pay for tuition and fees that the Post-9/11 GI Bill does not cover.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Montgomery GI Bill Active Duty (MGIB-AD)",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/montgomery-active-duty/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "The Montgomery GI Bill Active Duty (MGIB-AD) can help pay for education and training programs.",
+  "eligibility": "If you have served at least 2 years on active duty.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Montgomery GI Bill Selected Reserve (MGIB-SR)",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/montgomery-selected-reserve/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "The Montgomery GI Bill Selected Reserve (MGIB-SR) offers up to 36 months of education and training benefits.",
+  "eligibility": "Members of the Army, Navy, Air Force, Marine Corps or Coast Guard Reserve, Army National Guard, or Air National Guard, per the page.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Survivors' and Dependents' Educational Assistance (DEA, Chapter 35)",
+  "url": "https://www.va.gov/family-and-caregiver-benefits/education-and-careers/dependents-education-assistance/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "Survivors' and Dependents' Educational Assistance (DEA) provides education benefits to the child or spouse of a Veteran or service member who has died, is captured or missing, or is permanently and totally disabled from a service-connected disability.",
+  "eligibility": "Child or spouse of a Veteran or service member who has died, is captured or missing, or is permanently and totally disabled due to a service-connected disability.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Marine Gunnery Sergeant John David Fry Scholarship",
+  "url": "https://www.va.gov/family-and-caregiver-benefits/education-and-careers/fry-scholarship/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "The Fry Scholarship provides education benefits to eligible children and surviving spouses of service members or Selected Reserve members who died on or after September 11, 2001.",
+  "eligibility": "Child or surviving spouse of a service member or member of the Selected Reserve who died on or after September 11, 2001.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Edith Nourse Rogers STEM Scholarship",
+  "url": "https://www.va.gov/education/other-va-education-benefits/stem-scholarship/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "grant",
+  "provides": "The Edith Nourse Rogers STEM Scholarship adds up to 9 months of extra benefits for eligible Veterans and service members using the Post-9/11 GI Bill, or dependents using the Fry Scholarship, in science, technology, engineering and math programs.",
+  "eligibility": "Veterans and service members using the Post-9/11 GI Bill, or dependents using the Fry Scholarship.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "VET TEC 2.0 (Veteran Employment Through Technology Education Courses)",
+  "url": "https://www.va.gov/education/other-va-education-benefits/vet-tec-2/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "training voucher",
+  "provides": "VET TEC 2.0 helps eligible Veterans and active-duty service members develop skills to start or advance their career in a high-tech industry.",
+  "eligibility": "Eligible Veterans and active-duty service members.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Accelerated Payments for High-Technology Programs",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/accelerated-payments/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "Eligible students in high-technology programs can get a single higher lump-sum (accelerated) payment to help cover higher per-month program costs.",
+  "eligibility": "Enrolled in a high-technology program, per the page.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "GI Bill On-the-Job Training and Apprenticeships",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/on-the-job-training-apprenticeships/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "apprenticeship",
+  "provides": "GI Bill benefits can help cover living expenses while learning a trade through on-the-job training or an apprenticeship.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "GI Bill Non-College Degree Programs",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/non-college-degree-programs/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "training voucher",
+  "provides": "GI Bill benefits can be used for non-college degree programs such as HVAC repair and truck driving.",
+  "eligibility": "Veteran, service member, National Guard or Reserve member, or qualified dependent.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "GI Bill Licensing and Certification Tests and Prep Courses",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/licensing-and-certification-tests/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "Part of GI Bill entitlement can cover the cost of certain licensing and certification tests and preparatory courses.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Tuition Assistance Top-Up",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tuition-assistance-top-up/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "grant",
+  "provides": "If a course costs more than DoD Tuition Assistance covers, Tuition Assistance Top-Up can pay the difference.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "GI Bill Tutorial Assistance",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/tutor-assistance/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "supportive services",
+  "provides": "VA may help pay for a tutor for Veterans using VA education benefits who are struggling with coursework.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Veterans Work-Study Program",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/work-study/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "The Veterans Work-Study Program lets Veterans earn money while enrolled in a college, vocational school, or professional training program.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "GI Bill Entrepreneurship Training",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/entrepreneurship-training/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "training voucher",
+  "provides": "VA offers entrepreneurship training through the Small Business Administration, which GI Bill or other VA education benefits can pay for.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "GI Bill Co-Op Training",
+  "url": "https://www.va.gov/education/about-gi-bill-benefits/how-to-use-benefits/co-op-training/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "apprenticeship",
+  "provides": "Co-op training is a full-time program that lets students get work experience while attending school, and VA education benefits may be usable for it.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Veteran Readiness and Employment (VR&E, Chapter 31)",
+  "url": "https://www.va.gov/careers-employment/vre/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "supportive services",
+  "provides": "VR&E provides employment support and services, including education and training, for Veterans and service members with a service-connected disability that limits their ability to work.",
+  "eligibility": "Service-connected disability that limits your ability to work or prevents you from working.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Personalized Career Planning and Guidance (VA Chapter 36 Educational and Career Counseling)",
+  "url": "https://www.va.gov/careers-employment/education-and-career-counseling/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "supportive services",
+  "provides": "Personalized Career Planning and Guidance (PCPG), or VA Chapter 36, offers free educational and career guidance, planning and resources to Veterans and dependents eligible for a VA education benefit.",
+  "eligibility": "Veterans and dependents eligible for a VA education benefit.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Transferred Education Benefits for Family Members",
+  "url": "https://www.va.gov/family-and-caregiver-benefits/education-and-careers/transferred-gi-bill-benefits/",
+  "provider": "U.S. Department of Veterans Affairs",
+  "kind": "other",
+  "provides": "Spouses or dependent children of a Veteran or service member may be eligible to use transferred education benefits for classes and training.",
+  "eligibility": "Spouse or dependent child of a Veteran or service member.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "IBM SkillsBuild (through VA)",
+  "url": "https://www.va.gov/education/other-va-education-benefits/ibm-skillsbuild-program/",
+  "provider": "IBM (listed by U.S. Department of Veterans Affairs)",
+  "kind": "training voucher",
+  "provides": "The IBM SkillsBuild program offers more than 1,000 free online courses to help Veterans start or advance their careers.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Helmets to Hardhats",
+  "url": "https://helmetstohardhats.org/",
+  "provider": "Helmets to Hardhats (national nonprofit)",
+  "kind": "apprenticeship",
+  "provides": "Helmets to Hardhats connects Veterans and transitioning service members with construction-trade apprenticeships and career opportunities, and lists GI Bill benefits for registered apprenticeship sponsors.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "My Career Advancement Account (MyCAA) scholarship",
+  "url": "https://www.militaryonesource.mil/resources/podcasts/military-onesource/mycaa/",
+  "provider": "Military OneSource (Department of Defense)",
+  "kind": "scholarship",
+  "provides": "The MyCAA scholarship provides up to $4,000 of financial assistance to eligible military spouses pursuing a career.",
+  "eligibility": "Eligible military spouses.",
+  "amount": "up to $4,000",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Military Spouse Career and Education Support (SpouseWorks)",
+  "url": "https://www.militaryonesource.mil/education-employment/for-spouses/",
+  "provider": "Military OneSource (Department of Defense)",
+  "kind": "supportive services",
+  "provides": "Military OneSource provides military spouses with career and education resources through the SpouseWorks program.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Military OneSource Education and Employment Support",
+  "url": "https://www.militaryonesource.mil/education-employment/",
+  "provider": "Military OneSource (Department of Defense)",
+  "kind": "supportive services",
+  "provides": "Military OneSource provides service members and families with education and job support through resources, counseling and tuition assistance.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Student Veterans of America",
+  "url": "https://studentveterans.org/",
+  "provider": "Student Veterans of America (national nonprofit)",
+  "kind": "supportive services",
+  "provides": "Student Veterans of America works through more than 300 campus chapters so that student veterans and military-connected students can achieve their greatest potential.",
+  "eligibility": "Student veterans and military-connected students.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "SNAP Employment and Training (SNAP E&T)",
+  "url": "https://www.fna.usda.gov/snap-et",
+  "provider": "USDA Food and Nutrition Administration (fns.usda.gov redirects to fna.usda.gov)",
+  "kind": "other",
+  "provides": "SNAP E&T helps SNAP participants gain skills, training, and work experience needed to build a career, and all states receive federal funding to operate a SNAP E&T program.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Take Your Next Step with SNAP E&T (participant services)",
+  "url": "https://www.fna.usda.gov/snap-et/participant",
+  "provider": "USDA Food and Nutrition Administration",
+  "kind": "supportive services",
+  "provides": "SNAP E&T can provide help finding a job, transportation assistance such as bus passes and gas cards, books and training materials, career planning, uniforms, tools and supplies, and childcare in some states.",
+  "eligibility": "If you receive SNAP benefits, you may be eligible for SNAP Employment and Training (E&T).",
+  "how_to_apply": "Use the map on the page to find your state's website and learn about service providers near you.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Ticket to Work",
+  "url": "https://choosework.ssa.gov/",
+  "provider": "Social Security Administration",
+  "kind": "supportive services",
+  "provides": "Ticket to Work gives Social Security disability beneficiaries access to employment support services from service providers as they work toward a job.",
+  "eligibility": "Social Security disability beneficiaries who want to work (per the page heading).",
+  "how_to_apply": "Start at choosework.ssa.gov or call the Ticket to Work Help Line at 1-866-968-7842 (TTY 1-866-833-2967), which the page describes as free support.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Plan to Achieve Self-Support (PASS)",
+  "url": "https://www.ssa.gov/redbook/eng/pass.htm",
+  "provider": "Social Security Administration",
+  "kind": "other",
+  "provides": "A PASS lets SSI or SSDI recipients set aside income and resources for a specified period to pay expenses for education, vocational training, or assistive technology for a work goal.",
+  "eligibility": "SSDI and SSI eligible (per the page heading).",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "State Vocational Rehabilitation Services Program (84.126A)",
+  "url": "https://rsa.ed.gov/about/programs/vocational-rehabilitation-state-grants",
+  "provider": "Rehabilitation Services Administration (U.S. Department of Education)",
+  "kind": "supportive services",
+  "provides": "Formula grants help states run statewide VR programs that provide VR services to individuals with disabilities, consistent with their informed choice.",
+  "eligibility": "Individuals with disabilities, per the program description.",
+  "how_to_apply": "Apply through your state VR agency; the RSA state agency list is at https://rsa.ed.gov/about/states.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "State Supported Employment Services Program (84.187)",
+  "url": "https://rsa.ed.gov/about/programs/supported-employment-services-for-individuals-with-the-most-significant-disabilities",
+  "provider": "Rehabilitation Services Administration (U.S. Department of Education)",
+  "kind": "supportive services",
+  "provides": "Formula grants help states develop supported employment services for individuals with the most significant disabilities, including youth, who need those services.",
+  "eligibility": "Individuals with the most significant disabilities, including youth with the most significant disabilities.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "American Indian Vocational Rehabilitation Services (84.250, Section 121)",
+  "url": "https://rsa.ed.gov/about/programs/american-indian-vocational-rehabilitation-services",
+  "provider": "Rehabilitation Services Administration (U.S. Department of Education)",
+  "kind": "grant",
+  "provides": "Discretionary grants to tribal governing bodies to build or increase vocational rehabilitation services for American Indians with disabilities living on or near reservations.",
+  "eligibility": "Services are for American Indians with disabilities residing on or near federal or state reservations; grants go to governing bodies of Indian Tribes.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "Randolph-Sheppard Vending Facility Program",
+  "url": "https://rsa.ed.gov/about/programs/randolph-sheppard-vending-facility-program",
+  "provider": "Rehabilitation Services Administration (U.S. Department of Education)",
+  "kind": "other",
+  "provides": "Provides persons who are blind with remunerative employment and self-support through operating vending facilities on federal and other property.",
+  "eligibility": "Trained, licensed persons who are blind (priority for operating vending facilities, per the page).",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Advanced Technological Education (ATE), NSF 24-584",
+  "url": "https://www.nsf.gov/funding/opportunities/ate-advanced-technological-education/nsf24-584/solicitation",
+  "provider": "National Science Foundation",
+  "kind": "grant",
+  "provides": "Supports partnerships between two-year institutions, other academic institutions, industry and other entities to improve the education of technicians in science and engineering.",
+  "audience": "school",
+  "status": "open"
+ },
+ {
+  "name": "Brownfields Job Training Grants",
+  "url": "https://www.epa.gov/brownfields/brownfields-job-training-grants",
+  "provider": "U.S. Environmental Protection Agency",
+  "kind": "grant",
+  "provides": "Helps nonprofits, local governments and other eligible organizations build local workforces to assess, clean up, or prepare contaminated sites, with graduates gaining skills for full-time environmental work.",
+  "eligibility": "Nonprofits, local governments, and other eligible organizations (applicants); training programs prioritize unemployed and under-employed residents of impacted communities.",
+  "audience": "mixed",
+  "status": "closed"
+ },
+ {
+  "name": "BJA FY 2026 Second Chance Act Community-based Reentry Program",
+  "url": "https://bja.ojp.gov/funding/expired",
+  "provider": "DOJ Bureau of Justice Assistance",
+  "kind": "grant",
+  "provides": "Second Chance Act grants fund transitional and reentry services to help adults reintegrate into the community; the FY 2026 solicitation was posted September 21, 2026.",
+  "eligibility": "Community-based nonprofit organizations and tribal governments (per the Second Chance Act programs page).",
+  "audience": "mixed",
+  "status": "closed"
+ },
+ {
+  "name": "Improving Reentry Education and Employment Outcomes Program",
+  "url": "https://bja.ojp.gov/program/iree-outcomes/overview",
+  "provider": "DOJ Bureau of Justice Assistance",
+  "kind": "grant",
+  "provides": "Provides funding and technical assistance to expand education and employment programs, including vocational education and career training, for adults during incarceration and reentry.",
+  "eligibility": "Nonprofit organizations and state, local, and tribal governments.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "Job Placement and Training (Indian Adult Vocational Training)",
+  "url": "https://www.bia.gov/bia/ois/dwd/jpt/about",
+  "provider": "Bureau of Indian Affairs, Division of Workforce Development",
+  "kind": "other",
+  "provides": "Enhances employment opportunities for eligible American Indians and Alaska Natives through job placement, vocational training, on-the-job training, and support services.",
+  "eligibility": "Eligible American Indians and Alaska Natives.",
+  "how_to_apply": "Administered by BIA or a Tribe; BIA Division of Workforce Development, 1001 Indian School Road NW, #228, Albuquerque, NM 87104.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "IGNITE Grant (FY 2026 Job Placement and Training Native American Technology and Manufacturing Grant Pilot)",
+  "url": "https://www.bia.gov/bia/ois/dwd/pjt/IGNITE",
+  "provider": "Bureau of Indian Affairs, Division of Workforce Development",
+  "kind": "grant",
+  "provides": "Competitive pilot grant for Tribal workforce programs that prepare participants for employment in construction and infrastructure trades and emerging technology sectors.",
+  "how_to_apply": "Application deadline September 18, 2026, 5:00 p.m. ET, per the Job Placement and Training page; the NOFO holds full eligibility rules.",
+  "audience": "mixed",
+  "status": "closed"
+ },
+ {
+  "name": "477 Initiative (Public Law 102-477)",
+  "url": "https://www.bia.gov/bia/ois/dwd/477Initiative",
+  "provider": "Bureau of Indian Affairs, Division of Workforce Development",
+  "kind": "other",
+  "provides": "Lets Tribes integrate employment, training, and related services from various federal sources under Public Law 102-477, the Indian Employment, Training, and Related Services Demonstration Act.",
+  "eligibility": "Tribes and Tribal governments.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "HUD Section 3",
+  "url": "https://www.hudexchange.info/programs/section-3/",
+  "provider": "U.S. Department of Housing and Urban Development",
+  "kind": "other",
+  "provides": "Requires HUD funding recipients to direct employment, training, and contracting opportunities to low- and very-low-income persons and to businesses that employ them.",
+  "eligibility": "Low- and very-low-income persons, and businesses owned by or employing them, in the community of a HUD-funded project.",
+  "audience": "mixed",
+  "status": "open"
+ },
+ {
+  "name": "Resident Opportunities and Self-Sufficiency (ROSS) Grant Program",
+  "url": "https://www.hudexchange.info/programs/ross/",
+  "provider": "U.S. Department of Housing and Urban Development",
+  "kind": "supportive services",
+  "provides": "Funds Service Coordinators who link residents of public housing and Indian housing with supportive services to make progress toward economic independence.",
+  "eligibility": "Residents of public housing and Indian housing funded through NAHASDA; coordinators may serve families, elderly residents, or persons with disabilities.",
+  "audience": "mixed",
+  "status": "unknown"
+ },
+ {
+  "name": "American Opportunity Tax Credit (AOTC)",
+  "url": "https://www.irs.gov/credits-deductions/individuals/education-credits-aotc-and-llc",
+  "provider": "Internal Revenue Service",
+  "kind": "tax credit",
+  "provides": "AOTC allows a credit up to $2,500 per eligible student.",
+  "eligibility": "The student must be enrolled at least half-time for at least one academic period that begins during 2026 (or the first 3 months of 2027 if the qualified expenses were paid in 2026). The credit is partially refundable, per the page.",
+  "amount": "Up to $2,500 per eligible student; qualified expenses used for the credit cannot exceed $4,000 per student (100% of the first $2,000 and 25% of the next $2,000).",
+  "how_to_apply": "Use Form 8863, Education Credits, to figure and claim the credit (https://www.irs.gov/forms-pubs/about-form-8863).",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "IRS FAQ: Education credits (Lifetime Learning Credit for job skills)",
+  "url": "https://www.irs.gov/faqs/childcare-credit-other-credits/education-credits",
+  "provider": "Internal Revenue Service",
+  "kind": "other",
+  "provides": "For the Lifetime Learning Credit, the expenses must be paid in a program to acquire a postsecondary degree or to acquire or improve job skills.",
+  "eligibility": "Expenses must be paid in a program to acquire a postsecondary degree or to acquire or improve job skills (Lifetime Learning Credit). Qualified expenses do not include costs of room and board, insurance or medical expenses, or transportation, per the page.",
+  "how_to_apply": "You must use Form 8863, Education Credits, to calculate and claim an education credit.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "IRS Publication 970, Tax Benefits for Education",
+  "url": "https://www.irs.gov/publications/p970",
+  "provider": "Internal Revenue Service",
+  "kind": "other",
+  "provides": "This publication explains tax benefits that may be available to you if you are saving for or paying education costs for yourself or, in many cases, another student who is a member of your immediate family.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "IRS Form 8863, Education Credits (About page)",
+  "url": "https://www.irs.gov/forms-pubs/about-form-8863",
+  "provider": "Internal Revenue Service",
+  "kind": "other",
+  "provides": "Use Form 8863 to figure and claim your education credits, which are based on qualified education expenses paid to an eligible postsecondary educational institution.",
+  "how_to_apply": "Use Form 8863 to figure and claim the education credits.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Work-related education expenses (IRS Topic 513)",
+  "url": "https://www.irs.gov/taxtopics/tc513",
+  "provider": "Internal Revenue Service",
+  "kind": "other",
+  "provides": "Education expenses incurred during temporary absence from your work may also be deductible, but the education must be to maintain or improve skills needed in your present work.",
+  "eligibility": "The education must maintain or improve skills needed in your present work, and after the temporary absence you must return to the same general type of work.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Tax-free scholarships and grants for degree candidates (IRS FAQ)",
+  "url": "https://www.irs.gov/faqs/interest-dividends-other-types-of-income/grants-scholarships-student-loans-work-study",
+  "provider": "Internal Revenue Service",
+  "kind": "other",
+  "provides": "The scholarship isn't taxable income if you satisfy all of the following conditions: You're a candidate for a degree at an eligible educational institution.",
+  "eligibility": "You must be a candidate for a degree at an eligible educational institution and use the funds for tuition and fees required for enrollment or attendance, plus course-related expenses such as fees, books, supplies, and equipment required for courses of instruction.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Student loan interest deduction (IRS Topic 456)",
+  "url": "https://www.irs.gov/taxtopics/tc456",
+  "provider": "Internal Revenue Service",
+  "kind": "other",
+  "provides": "You may deduct the lesser of $2,500 or the amount of interest you actually paid during the year.",
+  "amount": "Lesser of $2,500 or the student loan interest actually paid during the year.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "529 plans (Investor.gov)",
+  "url": "https://www.investor.gov/introduction-investing/investing-basics/glossary/529-plans",
+  "provider": "U.S. Securities and Exchange Commission (Investor.gov); plans are sponsored by states, state agencies, or educational institutions",
+  "kind": "other",
+  "provides": "A 529 plan is a tax-advantaged savings plan designed to encourage saving for certain educational costs.",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Trade Adjustment Assistance (TAA) for Workers",
+  "url": "https://www.dol.gov/agencies/eta/tradeact",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "other",
+  "provides": "Workers who were certified and separated from their job on or before June 30, 2022, may still be eligible for benefits and services and should contact their nearest American Jobs Center.",
+  "eligibility": "Workers certified and separated from their job on or before June 30, 2022, per the page. On July 1, 2022 the termination provision under Section 285(a) of the Trade Act took effect; the Department may not issue determinations or accept new petitions or requests for reconsideration until further notice.",
+  "how_to_apply": "Contact your nearest American Job Center.",
+  "audience": "individual",
+  "status": "closed"
+ },
+ {
+  "name": "TAA training, case management, and job search and relocation allowances",
+  "url": "https://www.dol.gov/agencies/eta/tradeact/about",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "other",
+  "provides": "Any member of a worker group certified by the Department may be eligible to receive the following benefits and services at a local American Job Center: training, employment and case management services, job search allowances, relocation allowances, and income support in the form of Trade Readjustment Allowances (TRA).",
+  "eligibility": "Member of a worker group certified by the Department under a TAA petition.",
+  "how_to_apply": "Individual workers apply for benefits and services through the state workforce agency and their local American Job Center (https://www.dol.gov/agencies/eta/tradeact/benefits).",
+  "audience": "individual",
+  "status": "closed"
+ },
+ {
+  "name": "Trade Readjustment Allowance (TRA) during full-time training",
+  "url": "https://www.dol.gov/agencies/eta/tradeact/benefits/2015-amendments",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "stipend",
+  "provides": "Trade Readjustment Allowances (TRA) is available to continue to provide income support while you are participating in full-time training.",
+  "eligibility": "Participation in full-time training under an approved TAA benefit; the page states the weekly TRA amount is based on the weekly UI benefit amount already received.",
+  "amount": "Weekly TRA payment is based on the weekly unemployment insurance (UI) benefit amount already received.",
+  "how_to_apply": "Apply through the state workforce agency and local American Job Center.",
+  "audience": "individual",
+  "status": "closed"
+ },
+ {
+  "name": "Unemployment insurance (UI) cash benefits",
+  "url": "https://www.dol.gov/general/topic/unemployment-insurance",
+  "provider": "U.S. Department of Labor, with state unemployment insurance agencies",
+  "kind": "other",
+  "provides": "Unemployment insurance is a joint state-federal program that provides cash benefits to eligible workers.",
+  "eligibility": "Each state sets its own eligibility guidelines, but you usually qualify if you are unemployed through no fault of your own and meet your state's wage or time-worked requirements in the base period.",
+  "how_to_apply": "File a claim with the state unemployment insurance agency where you live (per the page).",
+  "audience": "individual",
+  "status": "open"
+ },
+ {
+  "name": "Federal Bonding Program (fidelity bonds for job applicants)",
+  "url": "https://bonds4jobs.com/",
+  "provider": "U.S. Department of Labor, Employment and Training Administration; administered under contract by Union Insurance Group",
+  "kind": "supportive services",
+  "provides": "The Federal Bonding Program provides fidelity bonding for the first six months of employment for hard-to-place job applicants.",
+  "eligibility": "Hard-to-place (at-risk) job applicants, as described on the page. All products may not be available in all states.",
+  "amount": "Each FBP bond has a $5,000 limit with $0 deductible and covers the first six months of employment at no cost to the job applicant or the employer.",
+  "audience": "mixed",
+  "status": "open"
+ },
+ {
+  "name": "Work Opportunity Tax Credit (WOTC)",
+  "url": "https://www.dol.gov/agencies/eta/wotc",
+  "provider": "U.S. Department of Labor, Employment and Training Administration (with IRS)",
+  "kind": "tax credit",
+  "provides": "The Work Opportunity Tax Credit (WOTC) is a federal tax credit available to employers who invest in American job seekers who have consistently faced barriers to employment.",
+  "eligibility": "Employers must apply for and receive a certification verifying the new hire is a member of a targeted group before they can claim the tax credit.",
+  "audience": "employer",
+  "status": "closed"
+ },
+ {
+  "name": "Job Corps",
+  "url": "https://www.dol.gov/agencies/eta/jobcorps",
+  "provider": "U.S. Department of Labor, Employment and Training Administration",
+  "kind": "tuition-free program",
+  "provides": "The program helps eligible young people ages 16 through 24 complete their high school education, trains them for meaningful careers, and assists them with obtaining employment.",
+  "eligibility": "Eligible young people ages 16 through 24.",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Alaska Trade Adjustment Assistance (TAA)",
+  "url": "https://labor.alaska.gov/landing-pages/training.html",
+  "provider": "Alaska Department of Labor and Workforce Development",
+  "kind": "other",
+  "provides": "The Trade Adjustment Assistance program provides benefits and support, including suitable training, to eligible workers who become unemployed or are threatened with job loss due to international trade.",
+  "eligibility": "Eligible workers unemployed or threatened with job loss due to international trade",
+  "audience": "individual",
+  "status": "unknown"
+ },
+ {
+  "name": "Work Opportunity Tax Credit (California EDD)",
+  "url": "https://edd.ca.gov/en/jobs_and_training/Work_Opportunity_Tax_Credit/",
+  "provider": "California Employment Development Department",
+  "kind": "tax credit",
+  "provides": "The Work Opportunity Tax Credit gives employers a federal tax credit of up to $9,600 for hiring individuals facing job barriers, applied for through the eWOTC online service.",
+  "eligibility": "Hires facing job barriers such as veterans, people with disabilities, former felons or SNAP recipients",
+  "amount": "Up to $9,600 per new hire",
+  "how_to_apply": "Apply through eWOTC shortly after hiring; applications with start dates on or after January 1, 2026 are accepted pending federal reauthorization",
+  "audience": "employer",
+  "status": "unknown"
+ },
+ {
+  "name": "Workforce Pell (New Jersey page on federal program)",
+  "url": "https://nj.gov/labor/research-info/ori/coei/workforcepell.shtml",
+  "provider": "U.S. Department of Education (federal program), described by the New Jersey Department of Labor",
+  "kind": "grant",
+  "provides": "Federal Workforce Pell extends Pell Grant funding to students in high-quality, short-term job training programs; the NJ page lists the requirements and approved-program list.",
+  "eligibility": "Complete the FAFSA; demonstrate financial need; U.S. citizen or eligible non-citizen; high school diploma, GED or alternative pathway; enroll in an approved Workforce Pell program.",
+  "how_to_apply": "Complete the FAFSA and enroll in an approved program, per the page.",
+  "audience": "individual",
+  "status": "unknown"
+ }
+]

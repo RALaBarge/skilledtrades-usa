@@ -1,0 +1,398 @@
+{
+ "code": "NM",
+ "state": "New Mexico",
+ "colleges": [
+  {
+   "name": "Central New Mexico Community College",
+   "type": "community college",
+   "city": "Albuquerque",
+   "home_url": "https://www.cnm.edu/",
+   "trades_url": "https://www.cnm.edu/programs",
+   "programs": [
+    "Skilled Trades & Arts"
+   ]
+  },
+  {
+   "name": "Clovis Community College",
+   "type": "community college",
+   "city": "Clovis",
+   "home_url": "https://www.clovis.edu/",
+   "trades_url": "https://www.clovis.edu/cti/welding.aspx",
+   "programs": [
+    "Automotive Technology",
+    "Electrical Maintenance",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Doña Ana Community College",
+   "type": "community college",
+   "city": "Las Cruces",
+   "home_url": "https://dacc.nmsu.edu/",
+   "trades_url": "https://dacc.nmsu.edu/academics/departments/cdl-programs/index.html",
+   "programs": [
+    "CDL Programs",
+    "Welding Technology",
+    "Architecture and Construction Technologies",
+    "Automation & Manufacturing",
+    "Building Construction Technology"
+   ]
+  },
+  {
+   "name": "Eastern New Mexico University-Roswell",
+   "type": "community college",
+   "city": "Roswell",
+   "home_url": "https://www.roswell.enmu.edu/",
+   "trades_url": "https://www.roswell.enmu.edu/programs/hvac-technology/",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning-Refrigeration Technology (A.A.S.)",
+    "Automotive Technology"
+   ],
+   "credentials": "A.A.S.; C.O.T. (HVAC)"
+  },
+  {
+   "name": "New Mexico Junior College",
+   "type": "community college",
+   "city": "Hobbs",
+   "home_url": "https://www.nmjc.edu/",
+   "trades_url": "https://www.nmjc.edu/program/welding/index.aspx",
+   "programs": [
+    "Welding (Associate of Applied Science)",
+    "Welding Certificate"
+   ],
+   "credentials": "A.A.S.; certificate"
+  },
+  {
+   "name": "Northern New Mexico College",
+   "type": "community college",
+   "city": "Española",
+   "home_url": "https://www.nnmc.edu/",
+   "trades_url": "https://nnmc.edu/academics/technical-trades/index.html",
+   "programs": [
+    "Electrical Technology",
+    "Plumbing Technology",
+    "Pipefitting Concentration",
+    "Carpentry Technology",
+    "Welding Technology",
+    "HVAC Technology"
+   ]
+  },
+  {
+   "name": "San Juan College",
+   "type": "community college",
+   "city": "Farmington",
+   "home_url": "https://www.sanjuancollege.edu/",
+   "trades_url": "https://www.sanjuancollege.edu/education-training/areas-of-interest/energy-manufacturing/",
+   "programs": [
+    "Industrial Maintenance Mechanic Certificate",
+    "Industrial Maintenance Mechanic Degree, AAS",
+    "Commercial Construction Safety Certificate",
+    "Commercial Construction Safety Degree, AAS",
+    "Instrumentation Controls and Electrical Technology Certificate",
+    "Instrumentation Controls and Electrical Technology, AAS"
+   ],
+   "credentials": "AAS; certificate"
+  },
+  {
+   "name": "Navajo Technical University",
+   "type": "technical college",
+   "city": "Crownpoint",
+   "home_url": "https://www.navajotech.edu/",
+   "trades_url": "https://www.navajotech.edu/academics/certificate/welding/",
+   "programs": [
+    "Welding",
+    "Automotive Technology",
+    "Construction Technology",
+    "Commercial Driver's License and Heavy Equipment Operator",
+    "Electrical Trades",
+    "Plumbing"
+   ],
+   "credentials": "certificate; AAS"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 611 Joint Apprenticeship and Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrician",
+    "lineworker"
+   ],
+   "url": "https://www.ibew611.org/apprenticeship",
+   "description": "The JATC works with contractors across the state to provide on-the-job and classroom training for apprentices.",
+   "how_to_apply": "Page links to 'Learn more about joining IBEW 611 as a Journeyman Electrician' and 'as a Journeyman Lineman'."
+  },
+  {
+   "name": "ABC New Mexico (Associated Builders and Contractors chapter)",
+   "kind": "contractor association",
+   "trades": [
+    "carpentry",
+    "electrical",
+    "HVAC",
+    "sheet metal",
+    "plumbing",
+    "telecommunications"
+   ],
+   "url": "https://abcnm.org/apprenticeship/",
+   "description": "Chapter of Associated Builders and Contractors offering apprenticeship and training programs in several construction trades.",
+   "how_to_apply": "Apprenticeship application packet linked from the page; walk-in packet at abcnm.org apprenticeship requirements page."
+  },
+  {
+   "name": "ABC New Mexico Carpentry Program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://abcnm.org/carpentry-program/",
+   "description": "ABC New Mexico carpentry apprenticeship program page."
+  },
+  {
+   "name": "ABC New Mexico Electrical Program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://abcnm.org/electrical-program/",
+   "description": "ABC New Mexico electrical apprenticeship program page."
+  },
+  {
+   "name": "ABC New Mexico HVAC Program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "HVAC"
+   ],
+   "url": "https://abcnm.org/hvac-program/",
+   "description": "ABC New Mexico HVAC apprenticeship program page."
+  },
+  {
+   "name": "ABC New Mexico Sheet Metal Program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://abcnm.org/sheet-metal-program/",
+   "description": "ABC New Mexico sheet metal apprenticeship program page."
+  },
+  {
+   "name": "ABC New Mexico Plumbing Program",
+   "kind": "apprenticeship program",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://abcnm.org/plumbing-program/",
+   "description": "ABC New Mexico plumbing apprenticeship program page."
+  },
+  {
+   "name": "IWLU Local 495 (Ironworkers)",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://www.ironworkers495.org/en",
+   "description": "Ironworkers local union home page (IWLU 495); page text beyond the title was not extracted."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "nonprofit",
+   "trades": [
+    "construction (all building trades)"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Nonprofit that connects military veterans with union construction apprenticeships; page includes 'Apprenticeship, Earn While You Learn' and training-center sections."
+  },
+  {
+   "name": "New Mexico Building & Construction Trades Council (NABTU directory entry)",
+   "kind": "building trades council",
+   "trades": [
+    "construction craft unions (multiple)"
+   ],
+   "url": "https://nabtu.org/councils/new-mexico/",
+   "description": "New Mexico state council listed in the NABTU official directory of building trades councils."
+  },
+  {
+   "name": "NM Construction Industries Apprenticeships (RLD)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction industries (state-registered apprenticeships)"
+   ],
+   "url": "https://www.rld.nm.gov/construction-industries/construction-industries-apprenticeships/",
+   "description": "State Regulation and Licensing Department page on construction industries apprenticeships."
+  },
+  {
+   "name": "IBEW Local 611",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Albuquerque",
+   "url": "https://www.ibew611.org/",
+   "apprenticeship_url": "https://www.ibew611.org/apprenticeship",
+   "description": "IBEW is a labor organization dedicated to the Labor Movement. This means their members believe that all working men and women are entitled to the same wages and benefits, regardless of whether or not they are in the IBEW."
+  },
+  {
+   "name": "Southwestern Line AJATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Bosque Farms",
+   "url": "https://www.swlcat.org/",
+   "apprenticeship_url": "https://www.swlcat.org/apprenticeship2.html",
+   "description": "The Sky is the Limit | Southwest Line Constructors."
+  },
+  {
+   "name": "IUOE Local 351 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Artesia",
+   "url": "https://local351.com/",
+   "description": "Local 351 provides continuing training and education to the Union Stewards to insure each Union Steward understands the role of a Union Steward versus just being an employee of his/her employer."
+  },
+  {
+   "name": "New Mexico Laborers Training Trust Fund Training Site",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Albuquerque",
+   "url": "https://nmlaborerstraining.org/",
+   "apprenticeship_url": "https://nmlaborerstraining.org/about-us.html",
+   "description": "&nbsp; &nbsp; New Mexico Laborers Training Copyright&nbsp;©&nbsp;NM Laborers Training and Apprenticeship Trust Fund."
+  },
+  {
+   "name": "New Mexico Laborers’ Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Albuquerque",
+   "url": "https://nmlaborerstraining.org/",
+   "apprenticeship_url": "https://nmlaborerstraining.org/about-us.html",
+   "description": "&nbsp; &nbsp; New Mexico Laborers Training Copyright&nbsp;©&nbsp;NM Laborers Training and Apprenticeship Trust Fund."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Albuquerque Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Albuquerque",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1319 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Albuquerque",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Albuquerque Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Albuquerque",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "New Mexico State Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://nmbuildingtrades.org/",
+   "description": "That’s because the NMBCTC and its affiliated member unions demonstrates a concerted commitment to world class skills development and training; coupled with a 21st century labor/management model that is founded upon the principles of performance, pride, cooperation and partnership."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "NM Regulation & Licensing Department, Construction Industries Division",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "mechanical/HVAC",
+    "elevator",
+    "LP gas"
+   ],
+   "url": "https://www.rld.nm.gov/construction-industries/",
+   "description": "State division that licenses and inspects construction trades, including electrical, mechanical/plumbing, elevator and LP gas."
+  },
+  {
+   "name": "NM RLD Construction Industries: Electrical Bureau",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.rld.nm.gov/construction-industries/find-a-bureau/bureaus/electrical-bureau/",
+   "description": "Electrical Bureau of the Construction Industries Division, handles electrical licensing and permits."
+  },
+  {
+   "name": "NM RLD Construction Industries: Elevator Bureau",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://www.rld.nm.gov/construction-industries/find-a-bureau/bureaus/elevator-bureau/",
+   "description": "Elevator Bureau of the Construction Industries Division; lists the Journeyman Elevator Mechanic Certificate application."
+  },
+  {
+   "name": "NM RLD Construction Industries: Mechanical and Plumbing Bureau",
+   "trades": [
+    "plumbing",
+    "mechanical/HVAC"
+   ],
+   "url": "https://www.rld.nm.gov/construction-industries/find-a-bureau/bureaus/mechanical-plumbing/",
+   "description": "Bureau that inspects the mechanical and plumbing industry and enforces state codes and licensing."
+  },
+  {
+   "name": "NM Motor Vehicle Division (CDL agency)",
+   "trades": [
+    "commercial driver's license (CDL)"
+   ],
+   "url": "https://www.mvd.newmexico.gov/",
+   "description": "State Motor Vehicle Division home page; CDL-specific page was not fetched."
+  }
+ ],
+ "funding": [
+  {
+   "name": "New Mexico Lottery Scholarship",
+   "url": "https://hed.nm.gov/students-parents/tuition-free-college-in-new-mexico",
+   "provider": "New Mexico Higher Education Department",
+   "kind": "tuition-free program",
+   "provides": "The Lottery Scholarship, New Mexico's first tuition-free college program, covers 100% of tuition for recent New Mexico high school graduates.",
+   "eligibility": "Recent New Mexico high school graduates; must enroll part time or full time depending on the program.",
+   "amount": "100% of tuition",
+   "how_to_apply": "Apply to a participating New Mexico public college or university, then complete the FAFSA.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NMDWS State Apprenticeship Office tuition and training-cost assistance",
+   "url": "https://www.dws.state.nm.us/Apprenticeship",
+   "provider": "New Mexico Department of Workforce Solutions",
+   "kind": "apprenticeship",
+   "provides": "Registered apprenticeships combine paid on-the-job training with related classroom instruction; the NMDWS State Apprenticeship Office works with Local Workforce Development Boards to help participants with the cost of training, including tuition, training fees, and supplies and equipment.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "CNM Ingenuity Electric Lineworker Pre-Apprenticeship stipend",
+   "url": "https://www.cnm.edu/news/cnm-ingenuity-electric-lineworker-pre-apprenticeship-program-now-offering-hourly-wage-and-stipend-for-learners",
+   "provider": "Central New Mexico Community College (CNM Ingenuity)",
+   "kind": "stipend",
+   "provides": "Through the BECA grant, eligible learners in the Electric Lineworker Pre-Apprenticeship receive hourly pay for training, described on the page as $16 an hour for 400 hours of training.",
+   "eligibility": "Eligible learners as defined by the BECA grant (see page).",
+   "amount": "$16 an hour for 400 hours of training (totaling $6,400), per the page",
+   "how_to_apply": "Visit the Electric Lineworker Pre-Apprenticeship webpage linked from the news item.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Government Results and Opportunity Trust (GRO) workforce training program",
+   "url": "https://hed.nm.gov/news/new-60m-workforce-training-program-boosts-workforce-for-new-mexicos-highest-demand-fields",
+   "provider": "New Mexico Higher Education Department",
+   "kind": "training voucher",
+   "provides": "A three-year, $60 million state initiative supports training and apprenticeship programs at universities, branch community colleges and independent community colleges.",
+   "amount": "$60 million over three years (program total, not per student)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "SAEF4 apprenticeship expansion grant to NMDWS",
+   "url": "https://rise.nm.gov/latest-news/state-secures-more-than-900000-to-expand-apprenticeship-opportunities",
+   "provider": "New Mexico Department of Workforce Solutions (federal funds from U.S. Department of Labor)",
+   "kind": "apprenticeship",
+   "provides": "NMDWS was awarded more than $900,000 in federal funding to expand apprenticeship programs, strengthen pre-apprenticeship pathways, and provide support services that help apprentices complete training.",
+   "amount": "More than $900,000 awarded to NMDWS (program total)",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

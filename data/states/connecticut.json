@@ -1,0 +1,210 @@
+{
+ "code": "CT",
+ "state": "Connecticut",
+ "colleges": [],
+ "unions": [
+  {
+   "name": "IBEW Local 90 (NECA & Local 90 Joint Apprenticeship Training Committee)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Wallingford",
+   "url": "https://ibewlocal90.org/",
+   "description": "IBEW Local 90, the New Haven electricians union, runs the NECA and Local 90 JATC electrical apprenticeship from 2 North Plains Industrial Road, Wallingford.",
+   "how_to_apply": "Apprenticeship contact listed on https://ibewlocal90.org/content/interested-apprenticeship: NECA & Local 90 JATC, 2 North Plains Industrial Road, Wallingford CT 06492, phone 203-265-3820 (page also notes a 2021 class-dates posting)"
+  },
+  {
+   "name": "Connecticut Construction Industries Association (CCIA)",
+   "kind": "contractor association",
+   "trades": [
+    "commercial construction"
+   ],
+   "url": "https://ctconstruction.org/i4a/pages/index.cfm?pageid=1",
+   "description": "CCIA is a commercial construction trade association in Connecticut whose members include a Young Contractors Community and a CONNstruction magazine."
+  },
+  {
+   "name": "Hartford Electricians JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Hartford",
+   "url": "https://www.ibewlocal35.org/",
+   "apprenticeship_url": "https://www.ibewlocal35.org/content/apprentice-application-information",
+   "description": "Hartford's Most Experienced Electricians."
+  },
+  {
+   "name": "IBEW Local 35",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Hartford",
+   "url": "https://www.ibewlocal35.org/",
+   "apprenticeship_url": "https://www.ibewlocal35.org/content/apprentice-application-information",
+   "description": "Hartford's Most Experienced Electricians."
+  },
+  {
+   "name": "IBEW Local 42",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Hartford",
+   "url": "https://www.ibewlocal42.com/",
+   "description": "Proudly representing lineworkers and electrical professionals across Connecticut and Western Massachusetts, IBEW Local 42 is dedicated to safety, training, and standing together to power our communities."
+  },
+  {
+   "name": "IBEW Local 420",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Waterbury",
+   "url": "https://ibewlocal420.com/",
+   "apprenticeship_url": "https://ibewlocal420.com/trainings%2Fclasses",
+   "description": "Become a member of IBEW Local 420, a nonprofit union dedicated to protecting workers' rights and improving working conditions. Join us today and make a difference!"
+  },
+  {
+   "name": "IBEW Local 488",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Bridgeport",
+   "url": "https://www.ibewlocal488.org/",
+   "apprenticeship_url": "https://www.ibewlocal488.org/content/apprenticeship-opportunities",
+   "description": "Western Connecticut's Electrical Professionals."
+  },
+  {
+   "name": "IBEW Local 90",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "New Haven",
+   "url": "https://www.ibewlocal90.org/",
+   "apprenticeship_url": "https://www.ibewlocal90.org/content/training-0",
+   "description": "The New Haven Electricians."
+  },
+  {
+   "name": "IUOE Local 30 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Norwich",
+   "url": "https://iuoelocal30.org/",
+   "apprenticeship_url": "https://iuoelocal30.org/apprenticeship-training-fund/",
+   "description": "261 About Us Join Us Training Benefits Credit Union Contact Follow Follow Follow © 2019 / IUOE Local 30 / We Power."
+  },
+  {
+   "name": "IUOE Local 478 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Hamden",
+   "url": "https://local478.org/",
+   "apprenticeship_url": "https://local478.org/training-licensing/index.html",
+   "description": "Signatory employers have access to various benefits including: our state of the art training facility in Meriden CT, access to our State certified Heavy Equipment Operator and Mechanic Apprentice programs."
+  },
+  {
+   "name": "IUPAT District Council 11",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.iupatdc11.com/",
+   "apprenticeship_url": "https://www.iupatdc11.com/training",
+   "description": "The finishing trades union for Connecticut, Rhode Island and Western Mass. Paid apprenticeships, union wages, health care and a pension."
+  },
+  {
+   "name": "New England Laborers’ Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Pomfret Center",
+   "url": "https://nelaborerstraining.org/",
+   "apprenticeship_url": "https://nelaborerstraining.org/",
+   "description": "New England Laborers"
+  },
+  {
+   "name": "North Atlantic States Regional Council - North Atlantic States Carpenters Training Center Yalesville",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Yalesville",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 326 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Yalesville",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1302 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Groton",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Connecticut Department of Consumer Protection, electrician licensing",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://portal.ct.gov/dcp/common-elements/consumer-facts-and-contacts/electrician",
+   "description": "DCP licenses electricians as individuals; only licensed contractors may pull permits or sign contracts, and odd-numbered licenses (e.g., E-1, L-3) are contractor licenses while even-numbered ones (e.g., E-2, L-2) are journeyman licenses."
+  },
+  {
+   "name": "Electrical Work Examining Board (Connecticut DCP)",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://portal.ct.gov/DCP/Occupational-and-Professional-Division/Occupational-Boards",
+   "description": "State occupational board under the Department of Consumer Protection that oversees electrical work licensing; listed on the DCP Occupational Boards page."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Connecticut Debt-Free Community College (Mary Ann Handley Award)",
+   "url": "https://www.ct.edu/admission/free",
+   "provider": "Connecticut State Colleges and Universities (CSCU)",
+   "kind": "tuition-free program",
+   "provides": "Debt-Free Tuition at CT State Community College provides tuition funding through the Mary Ann Handley Award for eligible students.",
+   "eligibility": "Register for at least 6 credits and fill out the FAFSA; funding is limited and awarded first-come, first-served",
+   "how_to_apply": "Apply, register for classes (6+ credits), and fill out the FAFSA",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "CT Finish Line Scholarship",
+   "url": "https://www.ct.edu/admission/finishline",
+   "provider": "Connecticut State Colleges and Universities (CSCU)",
+   "kind": "scholarship",
+   "provides": "The CT Finish Line Scholarship covers mandatory tuition and fees at a participating CSCU four-year institution after other grants and scholarships are applied.",
+   "eligibility": "Connecticut resident; enrolled in a degree-seeking program at a CSCU four-year institution at least part-time (6+ credits); must have participated in the Debt-Free Community College, PACT or Mary Ann Handley award program and maintained eligibility",
+   "amount": "Mandatory tuition and fees",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "CSCU financial aid (grants and scholarships)",
+   "url": "https://www.ct.edu/admission/finaid",
+   "provider": "Connecticut State Colleges and Universities (CSCU)",
+   "kind": "grant",
+   "provides": "The CSCU financial aid page describes federal, state and institutional grants and scholarships available to students, with staff help to determine eligibility.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Connecticut Student Loan Reimbursement Program (SLRP)",
+   "url": "https://portal.ct.gov/ohe/knowledge-base/articles/for-students/connecticut-student-aid-programs",
+   "provider": "Connecticut Office of Higher Education",
+   "kind": "loan",
+   "provides": "The Student Loan Reimbursement Program awards money to Connecticut residents burdened with student loan debt.",
+   "eligibility": "Connecticut residents who have lived in the state for at least five years in a row immediately before the application date",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Connecticut Minority Advancement Program (MAP) grants",
+   "url": "https://portal.ct.gov/ohe/knowledge-base/articles/grant-initiatives/minority-advancement-program",
+   "provider": "Connecticut Office of Higher Education",
+   "kind": "grant",
+   "provides": "The Minority Advancement Program offers competitive grants to colleges, universities and nonprofits to fund programs that increase the diversity of students who attend and graduate from Connecticut colleges.",
+   "eligibility": "Colleges, universities and nonprofit organizations (grantees)",
+   "audience": "school",
+   "status": "unknown"
+  }
+ ]
+}

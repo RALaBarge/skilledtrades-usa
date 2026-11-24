@@ -1,0 +1,371 @@
+{
+ "code": "AK",
+ "state": "Alaska",
+ "colleges": [
+  {
+   "name": "Alaska Vocational Technical Center (AVTEC)",
+   "type": "career-tech center",
+   "city": "Seward",
+   "home_url": "https://avtec.edu/",
+   "trades_url": "https://avtec.edu/programs/construction-technology/",
+   "programs": [
+    "Construction Technology",
+    "Industrial Welding",
+    "Industrial Electricity",
+    "Industrial Machine and Maintenance",
+    "Diesel/Heavy Equipment Technologies",
+    "Plumbing and Heating"
+   ]
+  },
+  {
+   "name": "University of Alaska Fairbanks Community and Technical College (UAF CTC)",
+   "type": "community college",
+   "city": "Fairbanks",
+   "home_url": "https://www.uaf.edu/ctc/",
+   "trades_url": "https://www.uaf.edu/ctc/academics/programs/construction-trades-technology.php",
+   "programs": [
+    "Construction Trades Technology",
+    "Diesel / Heavy Equipment",
+    "Automotive Technology"
+   ],
+   "credentials": "Certificates (per program pages)"
+  },
+  {
+   "name": "UAF Interior-Aleutians Campus (IAC)",
+   "type": "community college",
+   "city": "Fairbanks area (Tok/Interior)",
+   "home_url": "https://www.uaf.edu/iac/academic-programs/construction-trades-techn/index.php",
+   "trades_url": "https://www.uaf.edu/iac/academic-programs/construction-trades-techn/index.php",
+   "programs": [
+    "Construction Trades Technology"
+   ]
+  },
+  {
+   "name": "UAF Bristol Bay Campus",
+   "type": "community college",
+   "city": "Dillingham",
+   "home_url": "https://www.uaf.edu/bbc/academics/construction-trades/index.php",
+   "trades_url": "https://www.uaf.edu/bbc/academics/welding/index.php",
+   "programs": [
+    "Construction Trades",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Ilisagvik College",
+   "type": "community college",
+   "city": "Utqiagvik",
+   "home_url": "https://www.ilisagvik.edu/programs/construction-tech.html",
+   "trades_url": "https://www.ilisagvik.edu/programs/heavy-equipment.html",
+   "programs": [
+    "Construction Technologies",
+    "CDL and Heavy Equipment Operations"
+   ]
+  },
+  {
+   "name": "Kenai Peninsula College (UAA)",
+   "type": "community college",
+   "city": "Soldotna",
+   "home_url": "https://kpc.alaska.edu/academics/areas-of-study/process-technology/index.cshtml",
+   "trades_url": "https://kpc.alaska.edu/academics/areas-of-study/welding-technology.cshtml",
+   "programs": [
+    "Welding Technology (KPC Welding Certificate)",
+    "Process Technology"
+   ],
+   "credentials": "KPC Welding Certificate"
+  },
+  {
+   "name": "Kodiak College (UAA)",
+   "type": "community college",
+   "city": "Kodiak",
+   "home_url": "https://koc.alaska.edu/",
+   "trades_url": "https://koc.alaska.edu/programs/degrees-certificates/undergraduate-certificate-welding.cshtml",
+   "programs": [
+    "Undergraduate Certificate in Welding"
+   ],
+   "credentials": "Undergraduate Certificate"
+  },
+  {
+   "name": "Prince William Sound College (UAA)",
+   "type": "community college",
+   "city": "Valdez",
+   "home_url": "https://pwsc.alaska.edu/",
+   "trades_url": "https://pwsc.alaska.edu/academics/academic-programs/construction-skills/",
+   "programs": [
+    "Construction Skills (Occupational Endorsement Certificate)",
+    "Millwright (Occupational Endorsement Certificate)"
+   ],
+   "credentials": "Occupational Endorsement Certificate"
+  },
+  {
+   "name": "Matanuska-Susitna College (UAA)",
+   "type": "community college",
+   "city": "Palmer",
+   "home_url": "https://www.matsu.alaska.edu/",
+   "trades_url": "https://matsu.alaska.edu/academics/",
+   "programs": [
+    "Plumbing (tentative)",
+    "Refrigeration and Heating"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Alaska Joint Electrical Apprenticeship & Training Trust",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Anchorage",
+   "url": "https://www.alaskaelectricalapprenticeship.org/",
+   "description": "Provides electrical apprenticeship programs and training."
+  },
+  {
+   "name": "IBEW Local 1547",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Anchorage",
+   "url": "https://www.ibew1547.org/",
+   "description": "IBEW electrical union local in Alaska; membership and contractor information on the site.",
+   "how_to_apply": "Membership page: https://www.ibew1547.org/join/become-a-member"
+  },
+  {
+   "name": "IBEW Local 1547 Veterans Electrical Entry Program (VEEP)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Anchorage",
+   "url": "https://www.ibew1547.org/join/veterans-electrical-entry-program-veep",
+   "description": "Provides training and employment for veterans in the electrical trade."
+  },
+  {
+   "name": "Ironworkers Local 751",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "city": "Statewide (Alaska)",
+   "url": "https://www.ironworkers751.org/en",
+   "description": "Ironworkers local that represents ironworkers across the entire state of Alaska."
+  },
+  {
+   "name": "Associated Builders and Contractors (ABC) Alaska Chapter",
+   "kind": "contractor association",
+   "trades": [
+    "carpentry",
+    "electrical",
+    "plumbing",
+    "HVAC",
+    "sheet metal",
+    "welding"
+   ],
+   "city": "Anchorage",
+   "url": "https://www.abcalaska.org/2025/-Apprenticeship/Apprentice-Program",
+   "description": "Runs ABC apprenticeship programs covering several construction trades; the page lists trades including carpentry, electrical, HVAC, plumbing, sheet metal and welding."
+  },
+  {
+   "name": "Associated General Contractors of Alaska (AGC)",
+   "kind": "contractor association",
+   "trades": [
+    "general construction"
+   ],
+   "city": "Anchorage",
+   "url": "https://www.agcak.org/education/",
+   "description": "Contractor association offering construction training, safety training and workforce development."
+  },
+  {
+   "name": "Fairbanks Pipeline Training Center Trust",
+   "kind": "apprenticeship program",
+   "trades": [
+    "pipefitting",
+    "plumbing",
+    "process technology"
+   ],
+   "city": "Fairbanks",
+   "url": "https://www.fairbankspipelinetraining.com/",
+   "description": "Works with partners to offer registered apprenticeship programs for Alaskans in oil and gas and pipeline careers."
+  },
+  {
+   "name": "Alaska Works Partnership",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "basic construction trades",
+    "maintenance"
+   ],
+   "city": "Anchorage, Fairbanks, Mat-Su",
+   "url": "https://awib.alaska.gov/training-programs/aca-providers.html",
+   "description": "Provides career counseling and training toward basic construction trades skills and maintenance. Listed as an Alaska Construction Academies provider."
+  },
+  {
+   "name": "Kenai Peninsula Construction Academy Inc.",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction"
+   ],
+   "city": "Kenai",
+   "url": "https://awib.alaska.gov/training-programs/aca-providers.html",
+   "description": "Provides construction technology courses at the high school to build pathways into construction careers. Listed as an Alaska Construction Academies provider."
+  },
+  {
+   "name": "Northwest Arctic Borough School District - Alaska Technical Center",
+   "kind": "nonprofit",
+   "trades": [
+    "construction",
+    "welding"
+   ],
+   "city": "Kotzebue",
+   "url": "https://www.nwarctic.org/",
+   "description": "Offers training and certification in trades; listed as an Alaska Construction Academies provider."
+  },
+  {
+   "name": "Southwest Alaska Vocational & Educational Center (SAVEC)",
+   "kind": "nonprofit",
+   "trades": [
+    "construction"
+   ],
+   "city": "King Salmon",
+   "url": "https://www.savec.org/",
+   "description": "Trains rural Alaska residents for construction industry jobs."
+  },
+  {
+   "name": "Southeast Regional Resource Center (SERRC)",
+   "kind": "nonprofit",
+   "trades": [
+    "construction"
+   ],
+   "city": "Juneau",
+   "url": "https://serrc.org/",
+   "description": "Nonprofit educational service agency that provides youth and adult trades training for entry-level construction positions; listed as an Alaska Construction Academies provider."
+  },
+  {
+   "name": "UAA Apprenticeship Programs (Related Technical Instruction)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "automotive",
+    "diesel",
+    "electrical",
+    "welding"
+   ],
+   "city": "Anchorage",
+   "url": "https://www.uaa.alaska.edu/academics/apprenticeship-programs/related-technical-instruction.cshtml",
+   "description": "UAA provides the related technical instruction that accompanies on-the-job training in apprenticeship programs; the classes match the certificate programs."
+  },
+  {
+   "name": "Alaska AJEATT",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Anchorage",
+   "url": "https://www.alaskaelectricalapprenticeship.org/",
+   "description": "Alaska Joint Electrical Apprenticeship & Training Trust provides electrical apprenticeship programs and training."
+  },
+  {
+   "name": "IUOE Local 302 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Anchorage",
+   "url": "https://www.IUOE302.org/",
+   "apprenticeship_url": "https://www.IUOE302.org/?zone=/unionactive/view_page.cfm&page=STEWARD20TRAINING"
+  },
+  {
+   "name": "Alaska Laborers Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Chugiak",
+   "url": "https://www.aklts.org/",
+   "apprenticeship_url": "https://www.aklts.org/about-apprenticeship",
+   "description": "Alaska Laborers Training School 0 Skip to Content Home Apprenticeship About Apprenticeship Application What jobs will you do?"
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Anchorage Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Anchorage",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Fairbanks Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Fairbanks",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1281 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Anchorage",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2520 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Anchorage",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1243 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Fairbanks",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Alaska Department of Labor and Workforce Development, Labor Standards and Safety Division",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "boiler",
+    "elevator",
+    "pressure vessels",
+    "amusement rides"
+   ],
+   "url": "https://labor.alaska.gov/lss/",
+   "description": "Inspects and certifies boilers and pressure vessels, elevators and amusement rides, and inspects electrical and plumbing installations. Issues certificates of fitness to people doing electrical work."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Alaska Performance Scholarship (APS)",
+   "url": "https://acpe.alaska.gov/Funding-Solutions/Alaska-Performance-Scholarship",
+   "provider": "Alaska Commission on Postsecondary Education",
+   "kind": "scholarship",
+   "provides": "The Alaska Performance Scholarship is awarded at three levels based on high school GPA and ACT, SAT or WorkKeys scores, for students who complete rigorous high school courses.",
+   "eligibility": "High school GPA of 3.5 (Level 1), 3.0 (Level 2) or 2.5 (Level 3), with the matching ACT, SAT or WorkKeys score; complete specific rigorous high school courses",
+   "amount": "Up to $7,000 per year (Level 1), up to $5,250 per year (Level 2), up to $3,500 per year (Level 3)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Alaska WIOA job seeker training grants",
+   "url": "https://labor.alaska.gov/landing-pages/training.html",
+   "provider": "Alaska Department of Labor and Workforce Development",
+   "kind": "grant",
+   "provides": "WIOA programs offer grant funding for eligible and suitable job seekers to gain skills in high growth job markets.",
+   "eligibility": "Eligible and suitable job seekers, per WIOA rules",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "University of Alaska financial aid (Pell, grants, work-study, scholarships)",
+   "url": "https://www.alaska.edu/finaid/index.php",
+   "provider": "University of Alaska System",
+   "kind": "grant",
+   "provides": "University of Alaska financial aid includes need-based aid such as the Pell Grant, supplemental grants and work-study, determined by the FAFSA, plus separate loans and merit-based scholarships.",
+   "eligibility": "Need-based aid is based on financial need as determined by the FAFSA",
+   "how_to_apply": "Fill out the FAFSA, then apply to a University of Alaska campus",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

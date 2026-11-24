@@ -1,0 +1,1259 @@
+{
+ "code": "NC",
+ "state": "North Carolina",
+ "colleges": [
+  {
+   "name": "Alamance Community College",
+   "type": "community college",
+   "home_url": "https://www.alamancecc.edu/",
+   "trades_url": "https://www.alamancecc.edu/career-and-college-promise/cte-pathways.php",
+   "programs": [
+    "Air Conditioning, Heating, and Refrigeration",
+    "CCP Pathway- Air Conditioning, Heating, and Refrigeration C35100P",
+    "Automotive Systems Technology",
+    "CCP Pathway- Automotive Systems Technology C60160P",
+    "Computer- Integrated Machining",
+    "CCP Pathway- Computer-Integrated Machining C50210P",
+    "CCP Pathway - Computer-Integrated Machining Fundamentals C50210PD",
+    "Electrical Systems Technology",
+    "CCP Pathway - Electrical Systems Technology C35130P",
+    "Mechatronics Engineering Technology",
+    "CCP Pathway- Mechatronics Engineering Technology C40350P",
+    "CCP Pathway - Mechatronics Engineering Mechanical Pathway C40350PM",
+    "Welding Technology",
+    "CCP Pathway- Welding C50420P"
+   ]
+  },
+  {
+   "name": "Asheville Buncombe Technical Community College",
+   "type": "community college",
+   "home_url": "https://www.abtech.edu/",
+   "trades_url": "https://www.abtech.edu/programs",
+   "programs": [
+    "Automotive Systems Technology",
+    "Computer-Integrated Machining",
+    "Construction Management Technology"
+   ]
+  },
+  {
+   "name": "Beaufort County Community College",
+   "type": "community college",
+   "home_url": "https://www.beaufortccc.edu/",
+   "trades_url": "https://www.beaufortccc.edu/continuing-education/registration/",
+   "programs": [
+    "HVAC Academy Technical Standards"
+   ]
+  },
+  {
+   "name": "Bladen Community College",
+   "type": "community college",
+   "city": "Dublin",
+   "home_url": "https://www.bladencc.edu/",
+   "trades_url": "https://bladencc.edu/welding-technology/",
+   "programs": [
+    "Welding Technology - BCC",
+    "Welding",
+    "Welding Technology",
+    "Welding Certificates",
+    "Welding Technology A.A.S.",
+    "Welding Technology Diploma",
+    "Commercial and Industrial Welding Certificate",
+    "Welding Processes I Certificate",
+    "Structural Welding Certificate",
+    "Electricity : Basic",
+    "Introduction to Refrigeration",
+    "Machining Technology"
+   ]
+  },
+  {
+   "name": "Blue Ridge Community College",
+   "type": "community college",
+   "home_url": "https://www.blueridge.edu/",
+   "trades_url": "https://www.blueridge.edu/programs-courses/",
+   "programs": [
+    "Automotive & Transportation",
+    "Construction Trades",
+    "Computer Integrated Machining",
+    "Machining Academy",
+    "Mechatronics Apprenticeship",
+    "Welding Technology",
+    "Automotive / Transportion",
+    "Automotive Apprenticeship",
+    "Automotive Certifications",
+    "Automotive Light-Duty Diesel",
+    "Automotive Systems Technology",
+    "Construction Apprenticeship",
+    "Electrical Academy (Pre-Apprenticeship)",
+    "Electrical Apprenticeship",
+    "HVAC Apprenticeship",
+    "Level Up: Core Construction Pre-Apprenticeship",
+    "Plumbing Apprenticeship",
+    "Mechatronics Engineering Technology"
+   ]
+  },
+  {
+   "name": "Brunswick Community College",
+   "type": "community college",
+   "city": "Supply",
+   "home_url": "https://www.brunswickcc.edu/",
+   "trades_url": "https://brunswickcc.edu/career-and-college-promise/",
+   "programs": [
+    "Landscape Construction Management (C15420MP)",
+    "Landscape Design Construction (C15420DP)",
+    "Welding Technology (C50420P)",
+    "Welding Technology (D50420P)",
+    "Carpentry",
+    "Electrical I and II",
+    "Industrial Maintenance Technology",
+    "HVAC I",
+    "HVAC II",
+    "Plumbing",
+    "Working in Manufacturing or Construction"
+   ]
+  },
+  {
+   "name": "Caldwell Community College And Technical Institute",
+   "type": "community college",
+   "home_url": "https://www.cccti.edu/",
+   "trades_url": "https://cccti.edu/career-and-college-promise/",
+   "programs": [
+    "Automotive Systems Technology – Diploma",
+    "Automotive-Basic Engine Performance – Certificate",
+    "Automotive-Basic Undercar – Certificate",
+    "Automotive-Engine Repair Servicing – Certificate",
+    "Computer-Integrated Machining – Certificate",
+    "Diesel and Heavy Equipment – Diploma",
+    "Welding Technology – Certificate"
+   ]
+  },
+  {
+   "name": "Cape Fear Community College",
+   "type": "community college",
+   "home_url": "https://www.cfcc.edu/",
+   "trades_url": "https://cfcc.edu/automotive-landing-page/",
+   "programs": [
+    "Automotive Landing Page | Cape Fear Community College",
+    "Automotive Technology Training at CFCC",
+    "Automotive Systems Technology",
+    "Covers high-voltage safety and hybrid/electric vehicle (EV) technology",
+    "Automotive Customizing Technology",
+    "High School CCP Automotive Pathways"
+   ]
+  },
+  {
+   "name": "Carteret Community College",
+   "type": "community college",
+   "home_url": "https://www.carteret.edu/",
+   "trades_url": "https://carteret.edu/programs/",
+   "programs": [
+    "Automotive Systems Technology",
+    "aria-label=\"Expand details for Automotive Systems Technology\"",
+    "Construction & Trades",
+    "aria-label=\"Expand details for Construction & Trades\"",
+    "Welding Technology",
+    "aria-label=\"Expand details for Welding Technology\""
+   ]
+  },
+  {
+   "name": "Catawba Valley Community College",
+   "type": "community college",
+   "home_url": "https://www.cvcc.edu/",
+   "trades_url": "https://cvcc.edu/programs-of-study/",
+   "programs": [
+    "AC, Heating & Refrigeration",
+    "Why AC, Heating & Refrigeration?",
+    "Automotive Systems Technology",
+    "Why Automotive Systems?",
+    "Computer Integrated Machining Technology",
+    "Why Computer Integrated Machining Technology?",
+    "Electrical Systems Technology",
+    "Why Electrical Systems Technology?",
+    "Mechatronics Engineering Technology",
+    "Why MechatronicsEngineering Technology?",
+    "Welding Technology",
+    "Why Welding Technology?",
+    "Gain expertise in welding processes and metalworking techniques."
+   ]
+  },
+  {
+   "name": "Central Piedmont Community College",
+   "type": "community college",
+   "city": "Charlotte",
+   "home_url": "https://www.cpcc.edu/",
+   "trades_url": "https://www.cpcc.edu/academics/browse-programs/electrical-systems-technology",
+   "programs": [
+    "Electrical Systems Technology | Central Piedmont Community College",
+    "Electrical Systems Technology",
+    "Electrical Systems Technology (A.A.S.)",
+    "Basic Electrical Construction",
+    "Fast Track Electrical Construction",
+    "Level I - Residential Electrical",
+    "Level II - Commercial Electrical",
+    "Level III - Electrical Maintenance I",
+    "Level IV - Electrical Maintenance II"
+   ]
+  },
+  {
+   "name": "Cleveland Community College",
+   "type": "community college",
+   "home_url": "https://www.clevelandcc.edu/",
+   "trades_url": "https://clevelandcc.edu/program-finder/",
+   "programs": [
+    "Air Conditioning, Heating and Refrigeration Technology (AAS) A35100"
+   ]
+  },
+  {
+   "name": "College Of The Albemarle",
+   "type": "community college",
+   "city": "Elizabeth City",
+   "home_url": "https://www.albemarle.edu/",
+   "trades_url": "https://www.albemarle.edu/programs-classes/",
+   "programs": [
+    "Marine Diesel Engine Repair"
+   ]
+  },
+  {
+   "name": "Craven Community College",
+   "type": "community college",
+   "home_url": "https://www.cravencc.edu/",
+   "trades_url": "https://cravencc.edu/CDL",
+   "programs": [
+    "CDL Truck Driver Training",
+    "Construction Projects",
+    "TRP-CDLTRNA-80301",
+    "TRP-CDLTRNA-80294",
+    "TRP-CDLTRNA-80296",
+    "TRP-CDLTRNA-80297",
+    "TRP-CDLTRNA-80302",
+    "TRP-CDLTRNA-80298",
+    "TRP-CDLTRNA-80299"
+   ]
+  },
+  {
+   "name": "Davidson Davie Community College",
+   "type": "community college",
+   "city": "Lexington",
+   "home_url": "https://www.davidsondavie.edu/",
+   "trades_url": "https://www.davidsondavie.edu/academics/skilled-trades/",
+   "programs": [
+    "HVAC Service Technician",
+    "CNC Programmer",
+    "Automotive Technician",
+    "Air Conditioning, Heating & Refrigeration",
+    "Automotive Systems Technology",
+    "Computer Integrated Machining",
+    "Diesel & Heavy Equipment Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Durham Technical Community College",
+   "type": "community college",
+   "home_url": "https://www.durhamtech.edu/",
+   "trades_url": "https://www.durhamtech.edu/careers/electricians",
+   "programs": [
+    "Electricians | Durham Technical Community College",
+    "Electricians",
+    "Electrical Systems Technology AAS",
+    "Electrical Systems Technology Diploma",
+    "Electrical Systems Technology - Construction Electrician Certificate",
+    "Electrical Systems Technology - Maintenance Electrician Certificate",
+    "Electrical Systems Technology - Control Electrician Certificate"
+   ]
+  },
+  {
+   "name": "Edgecombe Community College",
+   "type": "community college",
+   "home_url": "https://www.edgecombe.edu/",
+   "trades_url": "https://edgecombe.edu/continuing-education/",
+   "programs": [
+    "Welding"
+   ]
+  },
+  {
+   "name": "Fayetteville Technical Community College",
+   "type": "community college",
+   "city": "Fayetteville",
+   "home_url": "https://www.faytechcc.edu/",
+   "trades_url": "https://faytechcc.edu/academics/engineering-applied-technology-programs/electrical-systems-technology/",
+   "programs": [
+    "Engineering & Applied Technology: Electrical Systems Technology",
+    "Electrical Systems Technology (A35130)",
+    "Electrical Systems Technology Diploma (D35130)",
+    "AAS in Electrical Systems Technology",
+    "DC/AC Electricity",
+    "National Electrical Code",
+    "Electrical Estimating",
+    "Construction Safety",
+    "Electrical System Design",
+    "Electrical License and certifications",
+    "Electrician Apprentice",
+    "Electrical Foreman/Supervisor",
+    "Electrical Estimator",
+    "Electrical Maintenance Technician",
+    "Electrical Inspector",
+    "Commercial & Residential Construction",
+    "Electrical Transmission & Distribution",
+    "Wholesale & Retail Sales of Electrical Equipment",
+    "Electrical Systems Technology Faculty Contact Table"
+   ]
+  },
+  {
+   "name": "Forsyth Technical Community College",
+   "type": "community college",
+   "home_url": "https://www.forsythtech.edu/",
+   "trades_url": "https://www.forsythtech.edu/program_tracks/automotive-refreshers/",
+   "programs": [
+    "Automotive Refreshers - Forsyth Tech",
+    "Automotive Refreshers",
+    "Automotive Engine Performance 1 :",
+    "Automotive Engine Performance 2:",
+    "Automotive Engine Performance 1",
+    "Automotive Engine Performance 1 – Spanish",
+    "Automotive Engine Performance 2",
+    "Automotive Engine Performance 2 – Spanish",
+    "Automotive Systems Technology Program"
+   ]
+  },
+  {
+   "name": "Gaston College",
+   "type": "community college",
+   "home_url": "https://www.gaston.edu/",
+   "trades_url": "https://www.gaston.edu/academic-programs/",
+   "programs": [
+    "Air Conditioning, Heating & Refrigeration Technology (HVAC)",
+    "Automotive Systems Technology",
+    "Computer-Integrated Machining",
+    "Electrical Systems Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Guilford Technical Community College",
+   "type": "community college",
+   "city": "Jamestown",
+   "home_url": "https://www.gtcc.edu/",
+   "trades_url": "https://www.gtcc.edu/academics/academic-programs/index.php",
+   "programs": [
+    "Welding Technology",
+    "Plumbing",
+    "Mechatronics Engineering Technology",
+    "Construction Bootcamp",
+    "HVAC Installation 101",
+    "Industrial Electricity",
+    "Introduction to HVAC/Refrigeration",
+    "Automotive Systems Technology - Ford ASSET",
+    "Electrical Systems Technology",
+    "Diesel and Heavy Equipment Technology",
+    "Construction Management",
+    "Computer Integrated Machining",
+    "Carpentry",
+    "Automotive Systems Technology – General",
+    "Air Conditioning, Heating, and Refrigeration Technology"
+   ]
+  },
+  {
+   "name": "Halifax Community College",
+   "type": "community college",
+   "home_url": "https://www.halifaxcc.edu/",
+   "trades_url": "https://halifaxcc.edu/what-we-offer/programs-training/welding/",
+   "programs": [
+    "Welding - Halifax Community College",
+    "Welding",
+    "Automotive Systems",
+    "Electrical",
+    "Plumbing",
+    "Welding Helmet",
+    "Industrial Welding for Energy Plants and Paper Mills",
+    "Construction",
+    "Certificate Welding Technology C50420",
+    "Certificate Welding Technology C50420HS - Career and College Promise",
+    "Diploma Welding Technology D50420",
+    "One Year Diploma in Welding Technology (D50420)",
+    "Less than 1 Year Certificate in Welding Technology (C50420)",
+    "Less than 1 Year Certificate in Welding And Fab (C50420WF)",
+    "CCP Certificate in Welding Technology (C50420HS)"
+   ]
+  },
+  {
+   "name": "Haywood Community College",
+   "type": "community college",
+   "home_url": "https://www.haywood.edu/",
+   "trades_url": "https://www.haywood.edu/continuing-education/construction/index.php",
+   "programs": [
+    "Construction Skills & Technology",
+    "Construction Skills and Technology",
+    "Introduction to Basic Construction Skills - returning in 2027",
+    "Construction Estimating",
+    "Construction Supervision",
+    "Introduction to Basic Construction Skills",
+    "Basic construction site safety",
+    "Construction math fundamentals",
+    "Construction drawings",
+    "OSHA-10 Construction Industry Safety Certification",
+    "NCCER Construction Site Safety Orientation credential",
+    "Fundamentals of Residential Carpentry",
+    "HVACR (various topics)",
+    "Refrigeration Fundamentals & EPA 608 Certification Prep"
+   ]
+  },
+  {
+   "name": "Isothermal Community College",
+   "type": "community college",
+   "city": "Spindale",
+   "home_url": "https://www.isothermal.edu/",
+   "trades_url": "https://isothermal.edu/academics/electrical-systems-technology/index.html",
+   "programs": [
+    "Electrical Systems Technology",
+    "Electrical Systems Technology Degree",
+    "Electrical Systems Technology Diploma",
+    "Electrical Wiring Certificate",
+    "Electrical Systems Technology Pathways",
+    "Explain electrical safety procedures",
+    "Electricians",
+    "Heating and Air Conditioning Mechanics and Installers",
+    "Refrigeration Mechanics and Installers",
+    "Electrical Contractors",
+    "HVAC Contractors",
+    "Electric Power Companies",
+    "Preparing for a career in Electrical Systems Technology:",
+    "Building Construction Technology"
+   ]
+  },
+  {
+   "name": "Johnston Community College",
+   "type": "community college",
+   "city": "Smithfield",
+   "home_url": "https://www.johnstoncc.edu/",
+   "trades_url": "https://www.johnstoncc.edu/programs/welding.php",
+   "programs": [
+    "Welding Technology | Johnston Community College",
+    "Welding Technology",
+    "welding methods used across industries:",
+    "testing for American Welding Society certification.",
+    "Basic Welding",
+    "Stick Welding",
+    "Tungsten Inert Gas (TIG) Welding"
+   ]
+  },
+  {
+   "name": "Lenoir Community College",
+   "type": "community college",
+   "city": "Kinston",
+   "home_url": "https://www.lenoircc.edu/",
+   "trades_url": "https://www.lenoircc.edu/programs/",
+   "programs": [
+    "Automotive Repair (Short-Term Training)",
+    "Automotive Skills Certificate, CTE",
+    "Automotive Systems Technology Diploma",
+    "Automotive Systems Technology, AAS",
+    "Basic Automotive Certificate",
+    "Basic Welding Skills Certificate",
+    "CDL Truck Driver Training (Short-Term Training)",
+    "Electrical Contractor Preparation (Short-Term Training)",
+    "Electrical Institute (Short-Term Training) Electricity",
+    "Electricidad Residencial (Short-Term Training) Centro Educativo Latino",
+    "General Automotive Servicing, CTE",
+    "HVAC Refrigeración (Short-Term Training)",
+    "Intermediate Welding Skills Certificate, CTE",
+    "Mixed Welding (Short-Term Training)",
+    "Welding Technology Diploma, CTE",
+    "Welding Technology, AAS",
+    "Welding Technology, GMAW (MIG) Welding Skills Certificate",
+    "Welding Technology, GTAW (TIG) Welding Skills Certificate",
+    "Welding Technology, SMAW (Stick) Welding Skills Certificate"
+   ]
+  },
+  {
+   "name": "Martin Community College",
+   "type": "community college",
+   "home_url": "https://www.martincc.edu/",
+   "trades_url": "https://www.martincc.edu/programs/",
+   "programs": [
+    "Air Conditioning, Heating, and Refrigeration Technology",
+    "Automotive Systems Technology",
+    "Electrical Systems Technology",
+    "Mechatronics Engineering Technology",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Mayland Community College",
+   "type": "community college",
+   "city": "Spruce Pine",
+   "home_url": "https://www.mayland.edu/",
+   "trades_url": "https://www.mayland.edu/degrees-programs/welding-technology/",
+   "programs": [
+    "Welding Technology - Mayland Community College",
+    "Welding Technology",
+    "Welding Technology Diploma",
+    "Basic Welding (C50420B), Certificate",
+    "Intermediate Welding (C50420I), Certificate",
+    "Millwright",
+    "Sheet Metal Workers",
+    "CNC Machinist"
+   ]
+  },
+  {
+   "name": "Mcdowell Technical Community College",
+   "type": "community college",
+   "home_url": "https://www.mcdowelltech.edu/",
+   "trades_url": "https://www.mcdowelltech.edu/workforce-development",
+   "programs": [
+    "alt=\"CAGC Construction Bootcamp Programs icon\"",
+    "CAGC Construction Bootcamp Programs"
+   ]
+  },
+  {
+   "name": "Mitchell Community College",
+   "type": "community college",
+   "home_url": "https://www.mitchellcc.edu/",
+   "trades_url": "https://www.mitchellcc.edu/hvac/",
+   "programs": [
+    "Engineering & Construction Technology programs",
+    "ATTENTION: HVAC PROGRAM CHANGES",
+    "HVAC-R Electricity (Fall)",
+    "HVAC-R: Cooling (A/C) Systems / Comfort Cooling (Spring)",
+    "HVAC-R: Heating Technology (Fall)",
+    "HVAC: Refrigerant Certification Exam Preparation (Fall)",
+    "HVAC: Refrigeration Systems / Introduction to Refrigeration (Fall)",
+    "Electrical: Circuit Analysis 1 (Fall)",
+    "Electrical: Commercial Wiring (Spring)",
+    "Electrical: Industrial Wiring (Spring)",
+    "Electrical Maintenance (Spring)",
+    "Electrical: Motors and Controls (Summer)",
+    "Electrical: NEC Calculations (Spring and Fall - Online)",
+    "Electrical: Residential Wiring (Fall)"
+   ]
+  },
+  {
+   "name": "Montgomery Community College",
+   "type": "community college",
+   "home_url": "https://www.montgomery.edu/",
+   "trades_url": "https://www.montgomery.edu/programs-courses/",
+   "programs": [
+    "Air Conditioning, Heating, and Refrigeration Technology",
+    "Automotive Systems Technology",
+    "Electrical Systems Technology",
+    "Mechatronics Engineering Technology",
+    "Welding Technology",
+    "Automotive Mechanics",
+    "Heating, Ventilation & Air Conditioning (HVAC)",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Nash Community College",
+   "type": "community college",
+   "city": "Rocky Mount",
+   "home_url": "https://www.nashcc.edu/",
+   "trades_url": "https://www.nashcc.edu/academics/automotive-systems-technology/",
+   "programs": [
+    "Automotive Systems Technology - Nash Community College",
+    "Automotive Systems Technology",
+    "TRN 120 Basic Transp Electricity",
+    "AUT 163 Adv Auto Electricity",
+    "AUT 163A Adv Auto Electricity Lab",
+    "TRN 120A Basic Transp Electricity Lab",
+    "AUT 163 Advanced Auto Electricity",
+    "AUT 163A Advanced Auto Electricity Lab",
+    "Basic Automotive Systems Certificate – C60160A",
+    "Advanced Automotive Systems Certificate – C60160B",
+    "Automotive Systems – Brakes and Suspension Certificate – C60160C",
+    "Automotive Systems – Electrical – Certificate – C60160D",
+    "Automotive Systems – Engine Performance Certificate – C60160E",
+    "460160 Automotive Systems Technology Degree Checklist",
+    "D60160 Automotive Systems Technology Diploma Checklist",
+    "C60160A Basic Automotive Systems Certificate Checklist",
+    "C60160B Advanced Automotive Systems Certificate Checklist",
+    "C60160D Automotive Systems Electrical Certificate Checklist",
+    "Building: Automotive Building CITI Campus"
+   ]
+  },
+  {
+   "name": "Pamlico Community College",
+   "type": "community college",
+   "city": "Grantsboro",
+   "home_url": "https://www.pamlicocc.edu/",
+   "trades_url": "https://pamlicocc.edu/programs/curriculum-programs/electrical-systems-technology/",
+   "programs": [
+    "Electrical Systems Technology | Pamlico Community College",
+    "Electrical Systems Technology",
+    "Welding Technology",
+    "Construction Trades",
+    "Construction Math",
+    "Fundamentals of Electricity",
+    "National Electric Code Test Preparation",
+    "Electrician",
+    "Electrical Systems Technology Course Checklist",
+    "Electrical Systems Technology Program Curriculum Map"
+   ]
+  },
+  {
+   "name": "Piedmont Community College",
+   "type": "community college",
+   "city": "Roxboro",
+   "home_url": "https://www.piedmontcc.edu/",
+   "trades_url": "https://piedmontcc.edu/program/hvac-technician/",
+   "programs": [
+    "HVAC Technician – Piedmont Community College",
+    "HVAC-Electrical (Evening Class)",
+    "HVAC-Heating (Day Class)",
+    "HVAC-Heating (Evening Class)",
+    "HVAC-A/C (Day Class)",
+    "CDL Class A Truck Driver Training",
+    "Electrical Academy",
+    "Industrial Electrical Systems",
+    "Mechatronics Engineering Technology",
+    "Pipefitting Academy",
+    "Plumbing Program",
+    "Short-Term Welding",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Pitt Community College",
+   "type": "community college",
+   "home_url": "https://www.pittcc.edu/",
+   "trades_url": "https://pittcc.edu/academics/academic-programs/",
+   "programs": [
+    "Construction and Industrial Technology Division",
+    "Air Conditioning, Heating, and Refrigeration Technology",
+    "Automotive Systems Technology and Diesel Technology/Light-Duty Diesel",
+    "Building Construction Technology",
+    "Construction Management Technology",
+    "Electrical Systems Technology",
+    "Welding Technology",
+    "Automotive",
+    "Commercial Driver’s License (CDL)"
+   ]
+  },
+  {
+   "name": "Randolph Community College",
+   "type": "community college",
+   "home_url": "https://www.randolph.edu/",
+   "trades_url": "https://www.randolph.edu/programs/index.aspx",
+   "programs": [
+    "Automotive and Transportation",
+    "Automotive Systems Technology",
+    "Building and Construction Trades",
+    "Computer-Integrated Machining",
+    "Electrical Systems Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Richmond Community College",
+   "type": "community college",
+   "city": "Hamlet",
+   "home_url": "https://www.richmondcc.edu/",
+   "trades_url": "https://www.richmondcc.edu/Programs",
+   "programs": [
+    "Skilled Trades and Construction",
+    "Transportation and Automotive",
+    "Airconditioning Heating and Refrigeration Technology Degree (A35100)"
+   ]
+  },
+  {
+   "name": "Roanoke Chowan Community College",
+   "type": "community college",
+   "city": "Ahoskie",
+   "home_url": "https://www.roanokechowan.edu/",
+   "trades_url": "https://www.roanokechowan.edu/apprenticeships",
+   "programs": [
+    "Building trades (welder, electrician, plumbing, construction)",
+    "Roanoke Electric Cooperative"
+   ]
+  },
+  {
+   "name": "Robeson Community College",
+   "type": "community college",
+   "city": "Lumberton",
+   "home_url": "https://www.robeson.edu/",
+   "trades_url": "https://www.robeson.edu/electrical-lineman/",
+   "programs": [
+    "Air Conditioning, Heating, and Refrigeration Technology",
+    "Electrical Systems Technology",
+    "Mechatronics Engineering Technology",
+    "Welding Technology",
+    "Construction Management Technology",
+    "Electrical Lineman",
+    "Construction Technologies – Boot Camps",
+    "Electrical Lineman Program",
+    "Exposure to underground electrical distribution systems",
+    "Electrical / Composite Toe Boots",
+    "CDL Learner’s Permit",
+    "Cohort 1 Electrical Lineman Rodeo"
+   ]
+  },
+  {
+   "name": "Rockingham Community College",
+   "type": "community college",
+   "city": "Wentworth",
+   "home_url": "https://www.rockinghamcc.edu/",
+   "trades_url": "https://rockinghamcc.edu/rccs-welding-program-is-growing/",
+   "programs": [
+    "RCC’s Welding program is growing - Rockingham Community College",
+    "Home / News / RCC’s Welding program is growing",
+    "RCC’s Welding program is growing"
+   ]
+  },
+  {
+   "name": "Rowan Cabarrus Community College",
+   "type": "community college",
+   "city": "Salisbury",
+   "home_url": "https://www.rccc.edu/",
+   "trades_url": "https://www.rccc.edu/mechatronics-engineering-technology/",
+   "programs": [
+    "Mechatronics Engineering Technology | Rowan-Cabarrus Community College",
+    "Mechatronics Engineering Technology",
+    "AC Electricity",
+    "DC Electricity",
+    "Mechatronics originated from advanced manufacturing."
+   ]
+  },
+  {
+   "name": "Sampson Community College",
+   "type": "community college",
+   "city": "Clinton",
+   "home_url": "https://www.sampsoncc.edu/",
+   "trades_url": "https://sampsoncc.edu/program-details/cdl-truck-driver/",
+   "programs": [
+    "CDL Truck Driving Training Program – Sampson Community College",
+    "CDL Truck Driving Training Program",
+    "CDL Class A Learner’s Permit",
+    "Weekday CDL Training Program (8 Weeks)",
+    "Nighttime CDL Training Program (12 Weeks)",
+    "Weekend CDL Training Program (16 Weeks)",
+    "Complete your CDL training fast with full- or part-time options",
+    "Drive Your Future With CDL Training From Sampson",
+    "Sampson Community College CDL Program FAQ",
+    "How do I get my CDL in North Carolina?",
+    "What does CDL training include at Sampson Community College?",
+    "Do I need to take a CDL practice test or written exam?",
+    "How much does CDL training cost at Sampson?",
+    "CDL Training Faculty",
+    "Construction Management",
+    "Heavy Equipment Operator"
+   ]
+  },
+  {
+   "name": "Sandhills Community College",
+   "type": "community college",
+   "home_url": "https://www.sandhills.edu/",
+   "trades_url": "https://www.sandhills.edu/about/academic-programs-and-cip-codes.html",
+   "programs": [
+    "Automotive Systems Technology",
+    "Automotive Systems Technology Diploma",
+    "AUT - Automotive Management Certificate",
+    "CCP AUT - Automotive Management Certificate",
+    "AUT - Light-Duty Diesel & Emerging Technologies Certificate",
+    "Building Construction Technology Certificate",
+    "CRT - Automotive Fabrication Certificate",
+    "CCP CRT - Automotive Fabrication Certificate",
+    "Construction Management Technology",
+    "LSG - Landscape Construction Certificate"
+   ]
+  },
+  {
+   "name": "South Piedmont Community College",
+   "type": "community college",
+   "city": "Polkton",
+   "home_url": "https://www.spcc.edu/",
+   "trades_url": "https://spcc.edu/programs/hvac/",
+   "programs": [
+    "Heating, Ventilation, and Air Conditioning",
+    "Air Conditioning, Heating, and Refrigeration Technology",
+    "Air Conditioning, Heating, and Refrigeration Technology Diploma",
+    "Heating Fundamentals Certificate",
+    "Introduction to HVACR CTE",
+    "HVAC – Heating Technology – Anson",
+    "HVAC FAQ",
+    "What is HVAC?",
+    "How long does it take to complete HVAC training?",
+    "· HVAC service technician",
+    "· HVAC installer",
+    "· Refrigeration service technician",
+    "· Commercial HVAC technician",
+    "Is HVAC a good career?",
+    "Do I need previous experience to enroll in HVAC classes?",
+    "Does South Piedmont teach refrigeration?",
+    "Construction Management"
+   ]
+  },
+  {
+   "name": "Southeastern Community College",
+   "type": "community college",
+   "city": "Whiteville",
+   "home_url": "https://www.sccnc.edu/",
+   "trades_url": "https://sccnc.edu/admissions/continuing-ed-registration-records/",
+   "programs": [
+    "Skilled Trades – Construction & Industrial"
+   ]
+  },
+  {
+   "name": "Southwestern Community College",
+   "type": "community college",
+   "home_url": "https://www.southwesterncc.edu/",
+   "trades_url": "https://www.southwesterncc.edu/career-technologies/",
+   "programs": [
+    "Air Conditioning, Heating & Refrigeration",
+    "Automotive Systems Technology",
+    "Carpentry",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Stanly Community College",
+   "type": "community college",
+   "home_url": "https://www.stanly.edu/",
+   "trades_url": "https://www.stanly.edu/academics/welding-programs.html",
+   "programs": [
+    "Welding Programs",
+    "Welding Curriculum",
+    "Welding Continuing Education"
+   ]
+  },
+  {
+   "name": "Surry Community College",
+   "type": "community college",
+   "home_url": "https://www.surry.edu/",
+   "trades_url": "https://surry.edu/news/learn-a-trade-launch-a-career",
+   "programs": [
+    "Learn a Trade HVAC worker",
+    "Welding",
+    "Machining",
+    "Mechatronics",
+    "Electrical",
+    "Automotive",
+    "Construction",
+    "Carpentry"
+   ]
+  },
+  {
+   "name": "Tri County Community College",
+   "type": "community college",
+   "home_url": "https://www.tricountycc.edu/",
+   "trades_url": "https://www.tricountycc.edu/academics/programs-of-study/",
+   "programs": [
+    "Air Conditioning Heating and Refrigeration",
+    "Automotive Systems Technology",
+    "Electrical Engineering Technology",
+    "Electrical Systems Technology",
+    "Mechatronics Engineering Technology",
+    "Welding Technology",
+    "Air Conditioning Heating and Refrigeration – 47.0201",
+    "Automotive Systems Technology – 47.0604",
+    "Electrical Engineering Technology – 15.0399",
+    "Electrical Systems Technology – 46.0302",
+    "Mechatronics Engineering Technology - 15.0407",
+    "Welding Technology – 48.0508"
+   ]
+  },
+  {
+   "name": "Vance Granville Community College",
+   "type": "community college",
+   "city": "Henderson",
+   "home_url": "https://www.vgcc.edu/",
+   "trades_url": "https://www.vgcc.edu/career-pathways/",
+   "programs": [
+    "Mechatronics Engineering Technology (AAS, C)",
+    "CDL Truck Driver Training (CE)",
+    "Air Conditioning, Heating, and Refrigeration Technology (AAS, D, C)",
+    "Automotive Systems Technology (AAS, D, C)",
+    "Carpentry (D, C)",
+    "Electrical Systems Technology (D, C)",
+    "Welding Technology (AAS, D, C)"
+   ]
+  },
+  {
+   "name": "Wake Technical Community College",
+   "type": "community college",
+   "home_url": "https://www.waketech.edu/",
+   "trades_url": "https://www.waketech.edu/catalog/programs-study",
+   "programs": [
+    "Air Conditioning, Heating & Refrigeration Technology",
+    "Air Conditioning, Heating & Refrigeration Technology Diploma",
+    "Commercial Refrigeration AAS",
+    "Commercial Refrigeration Certificate",
+    "Architectural Construction Technology Certificate",
+    "Automotive Systems Technology",
+    "Automotive Brakes and Suspension Certificate",
+    "Automotive Powertrains Certificate",
+    "Automotive Systems Technology AAS",
+    "Introduction to Automotive Certificate",
+    "Introduction to Light-Duty Diesel Certificate",
+    "BioMechatronics Certificate",
+    "Construction Materials Testing Certificate",
+    "Construction Equipment Systems Technology",
+    "Construction Equipment Systems Technology AAS",
+    "Construction Equipment Systems Technology Diploma",
+    "Fuel Injection, Electrical and Electronics Certificate",
+    "Construction Management Technology",
+    "Basic Construction Estimating Certificate",
+    "Basic Construction Management Certificate",
+    "Construction Management Technology AAS",
+    "Construction Safety Management Certificate",
+    "Diesel & Heavy Equipment Technology",
+    "Diesel & Heavy Equipment Technology AAS",
+    "Diesel & Heavy Equipment Technology Diploma"
+   ]
+  },
+  {
+   "name": "Wayne Community College",
+   "type": "community college",
+   "city": "Goldsboro",
+   "home_url": "https://www.waynecc.edu/",
+   "trades_url": "https://www.waynecc.edu/career-and-college-promise/",
+   "programs": [
+    "Automotive Systems Technology – Transportation Technology Certificate",
+    "Building Construction Technology Certificate",
+    "Computer-Integrated Machining – Basic Machining Certificate",
+    "Computer-Integrated Machining – CNC Programming Certificate",
+    "Mechatronics Engineering Technology Certificate",
+    "Welding Technology Certificate",
+    "Welding Technology – MIG Welding Certificate",
+    "Welding Technology – Stick Welding Certificate",
+    "Welding Technology – TIG Welding Certificate"
+   ]
+  },
+  {
+   "name": "Western Piedmont Community College",
+   "type": "community college",
+   "home_url": "https://www.wpcc.edu/",
+   "trades_url": "https://www.wpcc.edu/building-construction/",
+   "programs": [
+    "Building Construction Technology - Western Piedmont Community College",
+    "Building Construction Technology",
+    "Associate in Applied Science – Construction Management Technology",
+    "Light Construction Diploma",
+    "Construction Carpentry Certificate",
+    "Construction Trades Certificate",
+    "Basic Electrical Systems Certificate",
+    "Basic Plumbing Certificate",
+    "HVACR Certificate"
+   ]
+  },
+  {
+   "name": "Wilkes Community College",
+   "type": "community college",
+   "city": "Wilkesboro",
+   "home_url": "https://www.wilkescc.edu/",
+   "trades_url": "https://www.wilkescc.edu/programs/architecture-and-construction/",
+   "programs": [
+    "Architecture and Construction – Wilkes Community College",
+    "Architecture and Construction 2026-11-23T12:45:06-05:00",
+    "Architecture and Construction",
+    "Building Construction Technology",
+    "Electrical Systems Technology",
+    "Heavy Equipment Operator",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Wilson Community College",
+   "type": "community college",
+   "city": "Wilson",
+   "home_url": "https://www.wilsoncc.edu/",
+   "trades_url": "https://www.wilsoncc.edu/programs/",
+   "programs": [
+    "Air Conditioning Heating and Refrigeration Technology",
+    "Automotive Systems Technology",
+    "Building Construction Technology",
+    "Electrical Systems Technology",
+    "Welding Technology",
+    "Electrical Contractor License Renewal",
+    "Introduction to SMAW Welding",
+    "Welding-Cutting Processes",
+    "Welding-GMAW (MIG)"
+   ]
+  },
+  {
+   "name": "Central Carolina Community College",
+   "type": "community college",
+   "home_url": "https://www.cccc.edu/",
+   "trades_url": "https://www.cccc.edu/programs/all-programs",
+   "programs": [
+    "Air Conditioning, Heating, and Refrigeration Technology",
+    "Automotive Restoration Technology",
+    "Automotive Systems Technology",
+    "Electric Vehicles (EV)"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 553",
+   "kind": "union local",
+   "trades": [
+    "electrical (inside wireman, construction wireman, construction electrician)"
+   ],
+   "city": "RTP (Research Triangle Park)",
+   "url": "https://www.ibew553.org/",
+   "description": "IBEW Local 553 member site with application links for journeyman inside wireman, construction wireman and construction electrician.",
+   "how_to_apply": "Apply Here link on the site for Journeyman Inside Wireman, Construction Wireman and Construction Electrician."
+  },
+  {
+   "name": "Raleigh-Durham Electrical JATC (IBEW/NECA)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Triangle area (Raleigh-Durham)",
+   "url": "https://www.nccommunitycolleges.edu/news/raleigh-durham-electrical-jatc/",
+   "description": "Training center for a multi-employer member group in the Triangle area offering registered electrical apprenticeships with IBEW."
+  },
+  {
+   "name": "ABC Carolinas",
+   "kind": "contractor association",
+   "trades": [
+    "construction (general contracting, specialty trades)",
+    "construction apprenticeship and craft training"
+   ],
+   "url": "https://abccarolinas.org/construction-training/",
+   "description": "ABC chapter for the Carolinas that runs the ABC Apprenticeship & Education Program for the construction workforce."
+  },
+  {
+   "name": "North Carolina Home Builders Association (NCHBA)",
+   "kind": "contractor association",
+   "trades": [
+    "residential construction"
+   ],
+   "url": "https://www.nchba.org/",
+   "description": "Statewide home builders association chartered in 1963 with local associations, continuing education and the NC Builder Institute."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction trades (multiple)"
+   ],
+   "city": "National (serves NC veterans)",
+   "url": "https://helmetstohardhats.org/",
+   "description": "Connects veterans with apprenticeship careers in the building trades, using GI Bill benefits.",
+   "how_to_apply": "Start Here link on the site for veterans."
+  },
+  {
+   "name": "BuildStrong Charlotte (Home Builders Institute)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction (HBI pre-apprenticeship trades)"
+   ],
+   "city": "Charlotte",
+   "url": "https://hbi.org/buildstrong-charlotte/",
+   "description": "Tuition-free construction career education and training program run by Home Builders Institute with Charlotte partners."
+  },
+  {
+   "name": "NC APRI Pre-Apprenticeship Program",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "building trades"
+   ],
+   "url": "https://ncapref.org/pre-apprenticeship-program/",
+   "description": "Pre-apprenticeship program preparing individuals for careers in the building trades."
+  },
+  {
+   "name": "GiveNGo Construction & Skilled Trades (Charlotte)",
+   "kind": "nonprofit",
+   "trades": [
+    "construction",
+    "skilled trades"
+   ],
+   "city": "Charlotte",
+   "url": "https://givengo.org/construction-skilled-trades/",
+   "description": "Connects Charlotte job seekers with construction and skilled-trades training providers and employers.",
+   "how_to_apply": "Find Opportunities link on the site."
+  },
+  {
+   "name": "ApprenticeshipNC (North Carolina Community Colleges)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "all registered apprenticeships (state agency)"
+   ],
+   "city": "Raleigh",
+   "url": "https://www.nccommunitycolleges.edu/businesses/apprenticeships/",
+   "description": "North Carolina's State Apprenticeship Agency, which helps businesses build Registered Apprenticeship programs.",
+   "how_to_apply": "Find Apprenticeship Opportunities page on the site lists programs."
+  },
+  {
+   "name": "IBEW Local 238",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Asheville",
+   "url": "http://www.ibew238.org/",
+   "apprenticeship_url": "http://www.ibew238.org/?zone=/unionactive/view_page.cfm&page=Training2FCertifications",
+   "description": "IBEW Local 238."
+  },
+  {
+   "name": "IBEW Local 342",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Winston-Salem",
+   "url": "http://www.ibew342.org/",
+   "apprenticeship_url": "http://www.ibew342.org/?zone=/unionactive/view_page.cfm&page=NJATC",
+   "description": "UnionActive."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Charlotte Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Charlotte",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Raleigh/Durham Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Durham",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 312 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Charlotte",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "NC Licensing Board for General Contractors",
+   "trades": [
+    "general contractors (building, residential, commercial)"
+   ],
+   "url": "https://www.nclbgc.org/",
+   "description": "Licenses general contractors in North Carolina; covers classifications, continuing education and consumer complaints."
+  },
+  {
+   "name": "NC State Board of Examiners of Electrical Contractors",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ncbeec.org/",
+   "description": "Protects public life, health and property through examination and licensing of electrical contractors under NC General Statutes Chapter 87, Article 4."
+  },
+  {
+   "name": "NC State Board of Examiners of Plumbing, Heating and Fire Sprinkler Contractors",
+   "trades": [
+    "plumbing",
+    "heating (HVAC heating)",
+    "fire sprinkler"
+   ],
+   "url": "https://nclicensing.org/",
+   "description": "State board that licenses plumbing, heating and fire sprinkler contractors in North Carolina."
+  },
+  {
+   "name": "NC State Board of Refrigeration Contractors",
+   "trades": [
+    "refrigeration"
+   ],
+   "url": "https://refrigerationboard.org/",
+   "description": "Requires a license before refrigeration contracting or installation work in North Carolina (Chapter 87, Article 5)."
+  },
+  {
+   "name": "NC DOL Elevator Safety",
+   "trades": [
+    "elevators",
+    "escalators",
+    "lifting devices"
+   ],
+   "url": "https://www.labor.nc.gov/safety-and-health/elevator",
+   "description": "NCDOL inspectors check installation and safe operation of elevators, escalators and lifting devices in public establishments."
+  },
+  {
+   "name": "NC DOL Boiler and Pressure Vessel Safety",
+   "trades": [
+    "boiler operators",
+    "pressure vessels"
+   ],
+   "url": "https://www.labor.nc.gov/safety-and-health/boiler-and-pressure-vessel-safety",
+   "description": "Boiler Safety Bureau inspects pressure equipment installations in businesses, institutions, industries and apartments."
+  },
+  {
+   "name": "NC Division of Motor Vehicles (NCDMV)",
+   "trades": [
+    "commercial driving (CDL)"
+   ],
+   "url": "https://www.ncdot.gov/dmv/",
+   "description": "Official North Carolina DMV website for driver licensing, including commercial licenses."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Next NC Scholarship",
+   "url": "https://www.nccommunitycolleges.edu/students/paying-for-college/options-for-paying-for-college/scholarships/nc-scholarship/",
+   "provider": "North Carolina Community College System",
+   "kind": "scholarship",
+   "provides": "Need-based scholarship that fully covers tuition and fees at any North Carolina community college, and more than half of tuition at public universities, with no repayment required.",
+   "eligibility": "Most North Carolinians from households making $80,000 or less.",
+   "amount": "Full community college tuition and fees, per the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NC Registered Apprenticeship: Apprentices Overview",
+   "url": "https://www.nccommunitycolleges.edu/businesses/apprenticeships/apprentices-overview/",
+   "provider": "North Carolina Community College System (ApprenticeshipNC)",
+   "kind": "apprenticeship",
+   "provides": "Describes registered apprenticeship as a hands-on path that provides a paycheck, industry credentials and mentoring while learning, for high school students, graduates and career changers.",
+   "how_to_apply": "Find an apprenticeship via the site's search.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NC Youth Apprenticeships",
+   "url": "https://www.nccommunitycolleges.edu/businesses/apprenticeships/unique-pathways/youth-apprenticeships/",
+   "provider": "North Carolina Community College System (ApprenticeshipNC)",
+   "kind": "apprenticeship",
+   "provides": "Registered apprenticeship for students, which can start at age 16; students who complete a qualifying pre-apprenticeship can enroll.",
+   "eligibility": "Students age 16 or older, per the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NC Apprenticeships for Veterans",
+   "url": "https://www.nccommunitycolleges.edu/businesses/apprenticeships/unique-pathways/apprenticeships-for-veterans/",
+   "provider": "North Carolina Community College System (ApprenticeshipNC)",
+   "kind": "apprenticeship",
+   "provides": "Registered apprenticeship programs that give active duty service members and veterans a structured path to civilian careers.",
+   "eligibility": "Active duty service members and veterans.",
+   "how_to_apply": "Contact the program listed on the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NC Workforce Support Directory",
+   "url": "https://www.nccommunitycolleges.edu/businesses/apprenticeships/workforce-support-directory/",
+   "provider": "North Carolina Community College System (ApprenticeshipNC)",
+   "kind": "supportive services",
+   "provides": "Directory, by county, of workforce support organizations and experts who help sustain registered apprenticeship programs.",
+   "how_to_apply": "Select a county on the page.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Options for Paying for College (NCCCS)",
+   "url": "https://www.nccommunitycolleges.edu/students/paying-for-college/options-for-paying-for-college/",
+   "provider": "North Carolina Community College System",
+   "kind": "other",
+   "provides": "Guide to grants and scholarships for community college students; states that a FAFSA is needed for federal aid and that many students qualify for federal and state-funded programs.",
+   "how_to_apply": "Complete the FAFSA.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NC Promise Tuition Plan",
+   "url": "https://www.ncpromise.com/",
+   "provider": "UNC System",
+   "kind": "other",
+   "provides": "Tuition plan that sets in-state tuition at $500 per semester at four UNC System institutions: Elizabeth City State, Fayetteville State, UNC Pembroke and Western Carolina.",
+   "eligibility": "In-state students at the four NC Promise institutions.",
+   "amount": "$500 per semester in-state tuition at NC Promise institutions, per the page.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

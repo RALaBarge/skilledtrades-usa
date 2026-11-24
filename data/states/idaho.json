@@ -1,0 +1,229 @@
+{
+ "code": "ID",
+ "state": "Idaho",
+ "colleges": [
+  {
+   "name": "College of Western Idaho",
+   "type": "community college",
+   "city": "Nampa",
+   "home_url": "https://cwi.edu/",
+   "trades_url": "https://cwi.edu/academics/career-technical-education",
+   "programs": [
+    "Advanced Mechatronics Engineering Technology",
+    "Automotive Technology",
+    "Collision Repair Technology",
+    "Drafting Technology",
+    "Heavy Equipment Technician",
+    "Heavy-Duty Truck Technician",
+    "Machine Tool Technology",
+    "Powersports & Small Engine Repair Technology",
+    "Semiconductor Manufacturing Technology",
+    "Welding & Metals Fabrication",
+    "Applied Technology & Apprenticeship",
+    "Electrical Apprenticeship",
+    "HVAC Apprenticeship",
+    "Plumbing Apprenticeship",
+    "Automotive DC Electrical Troubleshooting",
+    "Electrical Upgrade Training",
+    "HVAC Upgrade Training",
+    "Plumbing Upgrade Training",
+    "Welding - Short-Term Training",
+    "Construction Site Erosion Control"
+   ]
+  },
+  {
+   "name": "College of Southern Idaho",
+   "type": "community college",
+   "city": "Twin Falls",
+   "home_url": "https://www.csi.edu/",
+   "trades_url": "https://www.csi.edu/career-technical-education/default.aspx",
+   "programs": [
+    "Applied Technology and Apprenticeship",
+    "Air Conditioning, Refrigeration, and Heating",
+    "Automation Engineering Technology",
+    "Automotive Service Education",
+    "Automotive Service Technology",
+    "Collision Repair Technology",
+    "Construction Management",
+    "Diesel Technology",
+    "Drafting Technology",
+    "Heavy Equipment Ag Technology",
+    "Industrial Systems Maintenance Technology",
+    "Machining and Manufacturing Technology",
+    "Residential Construction",
+    "Welding Technology",
+    "Woodworking Technology"
+   ],
+   "credentials": "Applied Technology and Apprenticeship: Associate of Applied Science (catalog link text)"
+  },
+  {
+   "name": "North Idaho College",
+   "type": "community college",
+   "city": "Coeur d'Alene",
+   "home_url": "https://www.nic.edu/",
+   "trades_url": "https://www.nic.edu/cte/",
+   "programs": [
+    "Automotive Technology",
+    "Autobody and Paint Technology",
+    "Construction Management",
+    "Diesel Technology",
+    "Electrical Apprenticeship",
+    "HVAC Apprenticeship",
+    "Plumbing Apprenticeship",
+    "Industrial Mechanic/Millwright",
+    "Industrial Robotics and Automation",
+    "Machining and CNC Technology",
+    "Advanced Manufacturing: Engineering & CNC Tech.",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Lewis-Clark State College",
+   "type": "state college",
+   "city": "Lewiston",
+   "home_url": "https://www.lcsc.edu/",
+   "trades_url": "https://www.lcsc.edu/career-technical-education/explore-our-technical-industrial-programs",
+   "programs": [
+    "Auto Mechanics Technology",
+    "CNC Machining Technology",
+    "Collision Repair Technology",
+    "Diesel Technology",
+    "HVAC-R Technology",
+    "Industrial Electronics Technology",
+    "Industrial Maintenance/Millwright Technology",
+    "Welding Technology"
+   ],
+   "credentials": "AAS, ATC, ITC (per program listing)"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 291",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Boise",
+   "url": "https://www.ibew291.org/",
+   "description": "Union local whose site describes it as wiring the Treasure Valley, with pages for joining, dispatch and events.",
+   "how_to_apply": "Site has a Join Local 291 page (https://www.ibew291.org/join); requirements not read in detail."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "boilermakers",
+    "bricklayers",
+    "carpenters",
+    "electrical workers",
+    "elevator constructors"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Program that connects service members to union construction apprenticeships; the site has career pages for the trades listed."
+  },
+  {
+   "name": "Idaho Department of Labor - Apprenticeships",
+   "kind": "apprenticeship program",
+   "city": "Boise",
+   "url": "https://www.labor.idaho.gov/job-seekers/on-the-job-training/apprenticeships/",
+   "description": "State Department of Labor page on apprenticeships offered through the on-the-job training program for job seekers."
+  },
+  {
+   "name": "Eastern Idaho Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Pocatello",
+   "url": "https://www.eijatc.org/",
+   "apprenticeship_url": "https://www.eijatc.org/contact-us/",
+   "description": "The International Brotherhood of Electrical Workers L.U. 449 (IBEW) and the Idaho Chapter of the National Electrical Contractors Association (NECA) invite you to check out the opportunities available to you through a Union Electricians Apprenticeship Program."
+  },
+  {
+   "name": "IBEW Local 449",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Pocatello",
+   "url": "https://www.ibewlocal449.org/",
+   "description": "IBEW Local 449."
+  },
+  {
+   "name": "IUOE Local 302 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Pocatello",
+   "url": "https://www.IUOE302.org/",
+   "apprenticeship_url": "https://www.IUOE302.org/?zone=/unionactive/view_page.cfm&page=STEWARD20TRAINING"
+  },
+  {
+   "name": "Oregon-Southern Idaho Laborers-Employers Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Idaho Falls",
+   "url": "https://oregonlaborers.com/",
+   "apprenticeship_url": "https://oregonlaborers.com/",
+   "description": "Earn While You Learn \"Oregon Laborers Apprenticeship helped me with my training and even helped me find a job in an area with a huge need for construction laborers.\" Learn More Apply Now!"
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Boise Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Boise",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Falls Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Idaho Falls",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 208 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Meridian",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Boise Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Boise",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Idaho Division of Occupational and Professional Licenses - HVAC Board",
+   "trades": [
+    "HVAC"
+   ],
+   "url": "https://dopl.idaho.gov/hvac/",
+   "description": "Heating, Ventilation and Air Conditioning Board under the Idaho Division of Occupational and Professional Licenses."
+  }
+ ],
+ "funding": [
+  {
+   "name": "State Aid, Scholarships and Tuition Exchange",
+   "url": "https://boardofed.idaho.gov/education-programs/state-aid-tuition-exchange/",
+   "provider": "Idaho State Board of Education",
+   "kind": "other",
+   "provides": "These include scholarships and grants for students, tuition exchange agreements between institutions, and incentives that support educators serving in high-need areas.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Idaho Department of Labor training and career counselor request",
+   "url": "https://labor.idaho.gov/training/",
+   "provider": "Idaho Department of Labor",
+   "kind": "supportive services",
+   "provides": "Fill out and submit this form and we'll link you with a career counselor who can connect you with a job, paid work experience, an apprenticeship, or money for training and education.",
+   "how_to_apply": "Fill out and submit the request form on the page",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

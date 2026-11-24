@@ -1,0 +1,467 @@
+{
+ "code": "AZ",
+ "state": "Arizona",
+ "colleges": [
+  {
+   "name": "Pima Community College",
+   "type": "community college",
+   "city": "Tucson",
+   "home_url": "https://www.pima.edu",
+   "trades_url": "https://pima.edu/academics-programs/degrees-certificates/imc/index.html",
+   "programs": [
+    "Automotive Mechanics (AAS and certificates)",
+    "Building and Construction: carpenter, cabinetmaker, electrician, HVAC-R, plumber",
+    "Machine Tool / CNC Machining (AAS, CNC, inspection)",
+    "Welding (basic, fabrication, AAS)",
+    "Pima Fast Track: Building & Construction Technology (carpentry, electrician, plumbing)",
+    "Apprenticeship Training"
+   ],
+   "credentials": "AAS degrees, certificates, and non-credit Pima Fast Track workforce training"
+  },
+  {
+   "name": "Mesa Community College (Maricopa Community Colleges)",
+   "type": "community college",
+   "city": "Mesa",
+   "home_url": "https://www.mesacc.edu",
+   "trades_url": "https://www.mesacc.edu/programs/construction-trades",
+   "programs": [
+    "Automated Industrial Technology",
+    "Automotive Service",
+    "Construction Trades",
+    "HVAC",
+    "Manufacturing",
+    "Welding"
+   ],
+   "credentials": "Degrees and certificates on the college program pages"
+  },
+  {
+   "name": "GateWay Community College (Maricopa Community Colleges)",
+   "type": "community college",
+   "city": "Phoenix",
+   "home_url": "https://www.gatewaycc.edu",
+   "trades_url": "https://www.gatewaycc.edu/degrees-certificates",
+   "programs": [
+    "Automotive Service",
+    "Carpentry",
+    "Carpentry Journeyworker",
+    "Construction Trades",
+    "Electrical Journeyworker",
+    "Electrical Technology",
+    "HVAC",
+    "Ironworking Journeyworker",
+    "Manufacturing",
+    "Pipefitting Journeyworker",
+    "Plumbing Journeyworker",
+    "Sheet Metal Journeyworker",
+    "Welding"
+   ],
+   "credentials": "Degrees, certificates and journeyworker programs"
+  },
+  {
+   "name": "South Mountain Community College (Maricopa Community Colleges)",
+   "type": "community college",
+   "city": "Phoenix",
+   "home_url": "https://www.southmountaincc.edu",
+   "trades_url": "https://www.southmountaincc.edu/academics/construction-trades-institute",
+   "programs": [
+    "Construction Trades Institute",
+    "Construction Technology (AAS)",
+    "Construction Trades: Carpentry",
+    "Construction Trades: Electrical",
+    "Construction Trades: Plumbing (commercial and residential variants)"
+   ],
+   "credentials": "AAS degree and certificates; Construction Trades Institute training"
+  },
+  {
+   "name": "Rio Salado College (Maricopa Community Colleges, online)",
+   "type": "community college",
+   "city": "Tempe (online)",
+   "home_url": "https://www.riosalado.edu",
+   "trades_url": "https://www.riosalado.edu/degrees-certificates",
+   "programs": [
+    "Automotive Service",
+    "Construction Trades",
+    "Electrical/Power Installation",
+    "Manufacturing",
+    "Educational Construction Trades Partnership: carpentry, electrical, HVAC-R residential service, plumbing",
+    "Basic Automotive Maintenance"
+   ],
+   "credentials": "Degrees and certificates; online delivery"
+  },
+  {
+   "name": "Arizona Western College",
+   "type": "community college",
+   "city": "Yuma",
+   "home_url": "https://www.azwestern.edu",
+   "trades_url": "https://www.azwestern.edu/degrees-and-certificates",
+   "programs": [
+    "Air Conditioning and HVAC",
+    "Automotive Technology",
+    "Carpentry and Construction Trades",
+    "Electrical Technology",
+    "Industrial Technology",
+    "Manufacturing",
+    "Solar Installation",
+    "Welding",
+    "Basic Carpentry",
+    "Basic Electrical",
+    "Basic Plumbing",
+    "Electrical Technology Apprenticeship",
+    "Electric Vehicle Technician Level 2"
+   ],
+   "credentials": "AAS degrees, occupational certificates, apprenticeship options"
+  },
+  {
+   "name": "Central Arizona College",
+   "type": "community college",
+   "city": "Coolidge (Signal Peak campus)",
+   "home_url": "https://centralaz.edu",
+   "trades_url": "https://centralaz.edu/academics/areas-of-interest/",
+   "programs": [
+    "Heavy Equipment Operator AAS",
+    "Diesel Technology AAS",
+    "Automated Industrial Technology AAS",
+    "Structural Fabrication Welding AAS",
+    "Pipe Welding AAS",
+    "Plumbing AAS and certificate",
+    "HVAC AAS and certificate"
+   ],
+   "credentials": "AAS degrees and certificates"
+  },
+  {
+   "name": "Eastern Arizona College",
+   "type": "community college",
+   "city": "Thatcher",
+   "home_url": "https://eac.edu",
+   "trades_url": "https://eac.edu/academics/programs/welding/",
+   "programs": [
+    "Welding",
+    "HVAC-R",
+    "Automotive",
+    "Diesel Technician",
+    "Electrical and Instrumentation",
+    "Advanced Manufacturing",
+    "CADD Drafting",
+    "CDL"
+   ],
+   "credentials": "Certificates and AAS degrees"
+  },
+  {
+   "name": "Coconino Community College",
+   "type": "community college",
+   "city": "Flagstaff",
+   "home_url": "https://www.coconino.edu",
+   "trades_url": "https://www.coconino.edu/areas-of-interest/construction-technology/",
+   "programs": [
+    "Construction Technology",
+    "Electrical and HVAC-R",
+    "Surveying and Infrastructure",
+    "Welding",
+    "CNC"
+   ],
+   "credentials": "Degrees and certificates"
+  },
+  {
+   "name": "Cochise College",
+   "type": "community college",
+   "city": "Sierra Vista / Douglas",
+   "home_url": "https://www.cochise.edu",
+   "trades_url": "https://www.cochise.edu/programs/index.html",
+   "programs": [
+    "Automotive",
+    "Commercial Driver's License (CDL)",
+    "Heating, Ventilation & Air Conditioning (HVAC)",
+    "Residential Construction"
+   ],
+   "credentials": "Certificates and degrees"
+  },
+  {
+   "name": "Mohave Community College",
+   "type": "community college",
+   "city": "Kingman",
+   "home_url": "https://www.mohave.edu",
+   "trades_url": "https://www.mohave.edu/academics/certificates/construction/",
+   "programs": [
+    "Residential Construction certificate",
+    "Electrical Technology certificate",
+    "HVAC certificate",
+    "Manufacturing-Industrial certificate",
+    "Welding certificate",
+    "Weld Testing"
+   ],
+   "credentials": "Certificates (catalog link on page)"
+  },
+  {
+   "name": "Northland Pioneer College",
+   "type": "community college",
+   "city": "Show Low",
+   "home_url": "https://www.npc.edu",
+   "trades_url": "https://www.npc.edu/interest/industrial-technology-trades",
+   "programs": [
+    "Welding",
+    "Construction",
+    "Automotive Repair",
+    "CDL Operator",
+    "Energy and Industrial Technician",
+    "Industrial Technology Trades"
+   ],
+   "credentials": "Certificates and degrees"
+  },
+  {
+   "name": "Yavapai College",
+   "type": "community college",
+   "city": "Prescott",
+   "home_url": "https://www.yc.edu",
+   "trades_url": "https://www.yc.edu/v6/aos/index.html",
+   "programs": [
+    "Automotive Technician AAS and certificates",
+    "Diesel Technician AAS and certificate",
+    "Welding (gas metal arc, gas tungsten arc, pipe, structural)",
+    "HVAC Installation & Maintenance Technician certificate",
+    "Plumbing Technician certificate",
+    "Basic Carpentry certificate",
+    "Basic Residential Trades certificate",
+    "CNC Machining certificate",
+    "Electrical & Instrumentation Technology AAS",
+    "Electric Utility Lineworker certificate",
+    "Automated Industrial Technology certificate",
+    "Advanced Manufacturing Technology AAS"
+   ],
+   "credentials": "AAS degrees and certificates"
+  }
+ ],
+ "unions": [
+  {
+   "name": "Arizona Building and Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "building trades (multi-craft)"
+   ],
+   "city": "Phoenix",
+   "url": "https://azbuildingtrades.org/our-members/",
+   "description": "Statewide council of Arizona building trades unions; its members page lists affiliates including Local 469, Local 75, Local 359, Local 640 and Local 3."
+  },
+  {
+   "name": "Arizona Pipe Trades Apprenticeship",
+   "kind": "apprenticeship program",
+   "trades": [
+    "plumbing",
+    "pipefitting",
+    "HVAC"
+   ],
+   "city": "Phoenix",
+   "url": "https://pipetrades.org/",
+   "description": "Five-year, state-registered earn-as-you-learn apprenticeship in plumbing, pipefitting and HVAC technology.",
+   "how_to_apply": "Apply through pipetrades.org; the page's FAQ read during research said applications were not being accepted at that time, so check before applying."
+  },
+  {
+   "name": "U.A. Local 469",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "pipefitting",
+    "HVAC",
+    "welding"
+   ],
+   "city": "Phoenix",
+   "url": "https://ualocal469.org/apprenticeship-training/",
+   "description": "Plumbers and pipefitters union local whose apprenticeship training page describes paid on-the-job training in plumbing, pipefitting, HVAC and welding.",
+   "how_to_apply": "The apprenticeship page points applicants to pipetrades.org; three or more years of experience can qualify for membership, per the local."
+  },
+  {
+   "name": "IBEW Local 640",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Phoenix",
+   "url": "https://www.ibew640.com/aboutus/",
+   "description": "Phoenix, Arizona IBEW local whose about page describes its electrical apprenticeship program."
+  },
+  {
+   "name": "IBEW Local 1116",
+   "kind": "union local",
+   "trades": [
+    "utility line work",
+    "electrical"
+   ],
+   "city": "Tucson",
+   "url": "https://ibew1116.org/",
+   "description": "IBEW local whose homepage says it represents utility employees in various locations across Arizona, including Tucson Electric Power."
+  },
+  {
+   "name": "Ironworkers Local 75",
+   "kind": "union local",
+   "trades": [
+    "ironworking"
+   ],
+   "city": "Phoenix",
+   "url": "https://www.ironworkers75.org/en",
+   "description": "Phoenix, Arizona ironworkers union local; its site presents apprenticeship information."
+  },
+  {
+   "name": "Arizona Sheet Metal Joint Apprenticeship and Training Committee (SMART Local 359)",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal",
+    "HVAC fabrication and installation"
+   ],
+   "city": "Phoenix",
+   "url": "https://www.azjobconnection.gov/apprenticeship_sponsors/14371",
+   "description": "Joint sheet metal apprenticeship and training committee listed as an apprenticeship sponsor on AZ Job Connection."
+  },
+  {
+   "name": "Phoenix Electrical Joint Apprenticeship Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Phoenix",
+   "url": "https://www.azjobconnection.gov/etp/public/apprenticeship_programs/10683",
+   "description": "Joint electrical apprenticeship and training committee (IBEW and NECA) listed on AZ Job Connection."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction",
+    "electrical",
+    "pipefitting"
+   ],
+   "city": "National (Arizona veterans eligible)",
+   "url": "https://helmetstohardhats.org/",
+   "description": "National program connecting military veterans with construction-trade apprenticeships.",
+   "how_to_apply": "Applied through the program's website."
+  },
+  {
+   "name": "IBEW Local 387",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Phoenix",
+   "url": "http://www.ibew387.com/",
+   "description": "The Ultimate Website Management and Communications Tool for Unions."
+  },
+  {
+   "name": "IBEW Local 570",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Tucson",
+   "url": "https://www.ibew570.org/",
+   "apprenticeship_url": "https://www.ibew570.org/training/",
+   "description": "The International Brotherhood of Electrical Workers (IBEW) Local Union 570 in Tucson, Arizona represents approximately 750,000 members who work in a wide variety of fields, including construction, utilities, telecommunications, broadcasting, manufacturing, railroads, and."
+  },
+  {
+   "name": "IBEW Local 640",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Phoenix",
+   "url": "https://ibew640.com/",
+   "description": "IBEW 640."
+  },
+  {
+   "name": "IBEW Local 769",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Phoenix",
+   "url": "https://www.ibew769.com/",
+   "description": "IBEW 769."
+  },
+  {
+   "name": "IUOE Local 501 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Phoenix",
+   "url": "https://local501.org/",
+   "apprenticeship_url": "https://local501.org/training/"
+  },
+  {
+   "name": "Arizona Laborers’ Training and Apprenticeship Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Casa Grande",
+   "url": "https://www.arizonalts.com/",
+   "description": "Laborers Apprenticeship Program and Training. LIUNA"
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Phoenix Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Phoenix",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1912 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Phoenix",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Phoenix Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Phoenix",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Arizona State Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://azbuildingtrades.org/",
+   "description": "View Our Code of Excellence Growing the Best Craftspeople in the Construction Industry Through our members’ training and apprenticeship programs, we prepare our apprentices to learn the newest techniques in their trades, as well as making safety training priority number one."
+  },
+  {
+   "name": "Excellence in Training - Arizona Building Trades",
+   "kind": "pre-apprenticeship",
+   "url": "https://azbuildingtrades.org/preapprenticeships-apprenticeships/",
+   "description": "Veterans: Helmets to Hardhats AZBTC has partnered with the Helmets to Hardhats program to connect veterans to opportunities with AZBTC-affiliated apprenticeship programs."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Arizona Registrar of Contractors (ROC)",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "HVAC",
+    "carpentry",
+    "masonry",
+    "construction (general and specialty)"
+   ],
+   "url": "https://roc.az.gov/license-classifications",
+   "description": "State board that licenses contractors; its license classifications page lists the trade classes, including electrical, plumbing and HVAC."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Arizona Registered Apprenticeship Program",
+   "url": "https://des.az.gov/services/employment/apprenticeship-program",
+   "provider": "Arizona Department of Economic Security",
+   "kind": "apprenticeship",
+   "provides": "The Arizona Apprenticeship Program offers Registered Apprenticeships with employers across many industries, and participants learn a new trade while earning a competitive wage.",
+   "how_to_apply": "Review the list of active programs, choose the job you want, and contact the program representative to apply",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Arizona WIOA services",
+   "url": "https://des.az.gov/services/employment/workforce-innovation-and-opportunity-act",
+   "provider": "Arizona Department of Economic Security",
+   "kind": "other",
+   "provides": "The Arizona DES WIOA page describes how WIOA services support job seekers and employers.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Arizona Commerce Authority business tax credits and incentives",
+   "url": "https://www.azcommerce.com/programs/",
+   "provider": "Arizona Commerce Authority",
+   "kind": "tax credit",
+   "provides": "The Arizona Commerce Authority lists business programs including tax credits and incentives, such as the Angel Investment tax credit for investors in certified small businesses.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

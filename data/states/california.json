@@ -1,0 +1,2027 @@
+{
+ "code": "CA",
+ "state": "California",
+ "colleges": [
+  {
+   "name": "Woodland Community College",
+   "type": "community college",
+   "home_url": "https://wcc.yccd.edu/employees/technology/",
+   "trades_url": "https://wcc.yccd.edu/programs/welding/",
+   "programs": [
+    "Welding",
+    "About the Welding Discipline",
+    "Certificates in Welding",
+    "WELD51 Introduction to Shielded Metal Arc Welding (SMAW)",
+    "WELD52 Introduction to Welding and Oxy-Acetylene Welding",
+    "WELD53 Advanced Arc Welding",
+    "WELD54 Introduction to Gas Metal Arc Welding (GMAW) & Gas Tungsten Arc Welding (GTAW)",
+    "WELD55 Structure Design and Fabrication",
+    "WELD56 Introduction to Flux Cored Arc Welding (FCAW) & Structural Steel"
+   ],
+   "credentials": "Certificates in Welding"
+  },
+  {
+   "name": "American River College",
+   "type": "community college",
+   "home_url": "https://arc.losrios.edu/academics/manufacturing-construction-and-transportation-homebase-appointment-form",
+   "trades_url": "https://arc.losrios.edu/academics/programs-majors/apprenticeship",
+   "programs": [
+    "Nor Cal Carpenters Applications",
+    "Sacramento Electrical Training Center",
+    "Nor Cal Valley Sheet Metal Training Center",
+    "Fresno Sheet Metal",
+    "A.A. in Acoustical Installer Apprenticeship",
+    "A.A. in Carpenter Apprenticeship",
+    "A.A. in Drywall/Lathing Apprenticeship",
+    "A.A. in Electrical Apprenticeship",
+    "A.A. in Elevator Apprenticeship",
+    "A.A. in Hardwood Floor Layer Apprenticeship",
+    "A.A. in Ironworkers Apprenticeship",
+    "A.A. in Mill and Cabinet Maker Apprenticeship",
+    "A.A. in Pile Driver Apprenticeship",
+    "A.A. in Scaffold Erector Apprenticeship",
+    "A.A. in Sheet Metal Apprenticeship",
+    "A.A. in Sheet Metal Service Technician Apprenticeship",
+    "A.A. in Steamfitter Apprenticeship",
+    "A.A. in Welder Apprenticeship",
+    "A.S. in Millwright Apprenticeship",
+    "A.S. in Plumbers/Pipefitters Apprenticeship",
+    "the American Welding Society",
+    "Manufacturing, Construction, and Transportation HomeBase",
+    "A.S. in Welding Technology",
+    "Welding Metallurgy and Inspection (270 hours) Certificate",
+    "Welding Technology Certificate"
+   ],
+   "credentials": "A.S. in Millwright Apprenticeship; A.S. in Plumbers/Pipefitters Apprenticeship; A.S. in Welding Technology; Welding Metallurgy and Inspection (270 hours) Certificate; Welding Technology Certificate; Gas Metal Arc and Flux Core Arc Welding Plate (252 hours) Certificate"
+  },
+  {
+   "name": "Bakersfield College",
+   "type": "community college",
+   "home_url": "https://www.bakersfieldcollege.edu/about/a-better-bc/construction-maps.html",
+   "trades_url": "https://www.bakersfieldcollege.edu/academics/pathways/itt/welding.html",
+   "programs": [
+    "Apprenticeship",
+    "Automotive Technology",
+    "HVAC Technology",
+    "Industrial Drawing & Drafting",
+    "Manufacturing Technologies",
+    "Welding",
+    "Woodworking and Cabinetmaking",
+    "Welding COA",
+    "Welding Certification JSC",
+    "Blueprint Reading and Layout for Welders JSC",
+    "Gas Metal Arc/Gas Tungsten Arc/Flux Core Arc Welding JSC",
+    "Shielded Metal Arc Welding JSC",
+    "Introduction to Welding Processes COCM",
+    "Welding (WELD)",
+    "What is Welding?",
+    "Is Welding Right for Me?",
+    "Welding AS",
+    "HVAC Technology COA",
+    "Heating Ventilation Air Conditioning (HVAC)",
+    "What is HVAC Technology?",
+    "Is HVAC Technology right for Me?",
+    "HVAC Technology Degree and Certificate",
+    "HVAC Technology AS",
+    "HVAC Technology Careers",
+    "Data Analyst Apprenticeship Certificate of Achievement"
+   ],
+   "credentials": "Welding AS; HVAC Technology Degree and Certificate; HVAC Technology AS; Data Analyst Apprenticeship Certificate of Achievement; Electrician Apprenticeship Certificate of Achievement; Help Desk Support Technician Apprenticeship Certificate of Achievement"
+  },
+  {
+   "name": "Berkeley City College",
+   "type": "community college",
+   "home_url": "https://www.berkeleycitycollege.edu/apprenticeships-for-employers",
+   "trades_url": "https://www.berkeleycitycollege.edu/apprenticeships",
+   "programs": [
+    "Apprenticeships Home",
+    "Apprenticeships for Students",
+    "Apprenticeships for Community Health Workers",
+    "Apprenticeships for Early Educators",
+    "Apprenticeships for Expanded Learning",
+    "Youth Apprenticeship",
+    "Apprenticeships for Employers",
+    "Students: Interested in becoming an Apprentice?",
+    "Key Components of a Registered Apprenticeship Program:",
+    "Community Health Worker Apprenticeship",
+    "Early Educator Registered Apprenticeship",
+    "Expanded Learning Apprenticeship",
+    "Community Health Worker Apprenticeship:",
+    "Expanded Learning Apprenticeship:",
+    "Early Educator Apprenticeship Program:",
+    "Registered Apprenticeship Opportunities at BCC",
+    "Youth Apprenticeships for Teacher Preparation",
+    "Apprenticeship Programs - California Community Colleges",
+    "Registered Apprenticeship Programs in Expanded Learning",
+    "Start an Apprenticeship Program",
+    "Apprenticeship Return on Investment Report",
+    "APPRENTICESHIP PROGRAM OPPORTUNITIES",
+    "Youth Apprenticeship ~ Careers with Children and Families",
+    "Community Health Worker Apprenticeship Home",
+    "4 Components of the CHW Registered Apprenticeship"
+   ]
+  },
+  {
+   "name": "Cabrillo College",
+   "type": "community college",
+   "home_url": "https://www.cabrillo.edu/biotechnology/",
+   "trades_url": "https://www.cabrillo.edu/welding/",
+   "programs": [
+    "Welding Technology",
+    "Cabrillo Apprenticeship Handbook",
+    "Check out Apprenticeship Success Stories",
+    "Apprenticeships",
+    "What is an apprenticeship?",
+    "Apprenticeship Programs",
+    "Apprenticeships, Internships, and Work Experience",
+    "Apprenticeships, Internships and Work Experience",
+    "What is an Apprenticeship vs Internship vs Work-Experience?"
+   ]
+  },
+  {
+   "name": "College of the Canyons",
+   "type": "community college",
+   "home_url": "https://www.canyons.edu/about/buildings/",
+   "trades_url": "https://www.canyons.edu/academics/welding/",
+   "programs": [
+    "Welding Processes",
+    "AWS Certified Welder Program (CW)",
+    "AWS Certified Robotic Arc Welding Program (CRAW)",
+    "Welding Technology - AS (Associates GE Track)",
+    "Welding Technology - Certificate of Achievement",
+    "Structural Steel Welding - Certificate of Achievement",
+    "Gas Tungsten Arc Welding - Certificate of Achievement",
+    "Robotic Welding Automation - Certificate of Achievement",
+    "Semiautomatic Welding - Certificate of Achievement",
+    "Pipe Fabrication Welding - Certificate of Specialization",
+    "Automated Machining Certificate",
+    "Machining CNC Certificate",
+    "Manufacturing Fundamentals Certificate",
+    "Manufacturing Institute.",
+    "CNC machine tools",
+    "manual machine operator",
+    "CNC machinery, program CNC machinery"
+   ],
+   "credentials": "Welding Technology - AS (Associates GE Track); Welding Technology - Certificate of Achievement; Structural Steel Welding - Certificate of Achievement; Gas Tungsten Arc Welding - Certificate of Achievement; Robotic Welding Automation - Certificate of Achievement; Semiautomatic Welding - Certificate of Achievement"
+  },
+  {
+   "name": "Cerritos College",
+   "type": "community college",
+   "home_url": "https://www.cerritos.edu/academics/cte/default.htm",
+   "trades_url": "https://www.cerritos.edu/academics/divisions/technology/welding/default.htm",
+   "programs": [
+    "Welding",
+    "Weld your way to a Successful Career!",
+    "Welder Avg Salary",
+    "Auto Collision Repair",
+    "Machine Tool Technology",
+    "Plastics & Composites Manufacturing Technology",
+    "Woodworking Manufacturing Technologies"
+   ]
+  },
+  {
+   "name": "Cerro Coso College",
+   "type": "community college",
+   "home_url": "https://www.cerrocoso.edu/academics/cte/career-technical-education-programs.html",
+   "trades_url": "https://www.cerrocoso.edu/iwv/solar-photovoltaic-field.html",
+   "programs": [
+    "Solar Photovoltaic Field",
+    "Welding Technology AS",
+    "The Welding Technology AS Degree",
+    "Welding Processes Certificate",
+    "Welding Technology Certificate",
+    "The Welding Processes Certificate",
+    "The Welding Technology Certificate"
+   ],
+   "credentials": "Welding Technology AS; The Welding Technology AS Degree; Welding Processes Certificate; Welding Technology Certificate; The Welding Processes Certificate; The Welding Technology Certificate"
+  },
+  {
+   "name": "Chabot College",
+   "type": "community college",
+   "home_url": "https://www.chabotcollege.edu/academics/applied-technology-business/featured-classes.php",
+   "trades_url": "https://www.chabotcollege.edu/academics/applied-technology-business/automotive-technology/team.php",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Brochure",
+    "Automotive Service Councils of CA",
+    "Bureau of Automotive Repair",
+    "California Automotive Teachers",
+    "International Automotive Technician Network-IATN",
+    "National Institute for Automotive Service Excellence-ASE",
+    "Wards Automotive Motors",
+    "Scholarships For Automotive Trades",
+    "Automotive Hall of Fame Scholarships",
+    "Automotive Aftermarket Scholarships",
+    "Chabot College Automotive Technology",
+    "National Institute for Automotive Service Excellence",
+    "Department of Consumer Affairs - Bureau of Automotive Repair",
+    "Automotive Youth Educational Systems"
+   ],
+   "credentials": "Automotive Service Councils of CA"
+  },
+  {
+   "name": "Chaffey College",
+   "type": "community college",
+   "home_url": "https://www.chaffey.edu/acc/images/manufacturing.jpg",
+   "trades_url": "https://www.chaffey.edu/acc/mit/mit-academic/hvacr.php",
+   "programs": [
+    "Automotive Technology",
+    "Drafting",
+    "Heating, Ventilation, Air Conditioning and Refrigeration",
+    "Industrial Electrical Technology",
+    "Manufacturing, Industrial Design and Transportation",
+    "CAD Drafting Technician: Architectural - Associate of Science",
+    "CAD Drafting Technician: Architectural - Certificate of Achievement",
+    "CAD Drafting Technician: Mechanical - Associate of Science",
+    "CAD Drafting Technician: Mechanical - Certificate of Achievement",
+    "Drafting and Engineering Technology"
+   ],
+   "credentials": "CAD Drafting Technician: Architectural - Certificate of Achievement; CAD Drafting Technician: Mechanical - Certificate of Achievement"
+  },
+  {
+   "name": "Clovis Community College",
+   "type": "community college",
+   "home_url": "https://www.cloviscollege.edu/about/institutional-research/dashboards/current-student-characteristics.html",
+   "trades_url": "https://www.cloviscollege.edu/academics/training-institute/welding-program.html",
+   "programs": [
+    "Welding Program",
+    "Automation Robotics Mechatronics (ARM)",
+    "Mechatronics Advanced Placement Job Skills Certificate",
+    "Mechatronics Electronic Job Skills Certificate",
+    "Mechatronics/Industrial Automation: Certificate of Achievement",
+    "Mechatronics/Industrial Automation: Associate in Science",
+    "Why Study Automation Robotics Mechatronics (ARM) at CCC",
+    "Learn more about Automation, Robotics and Mechatronics (ARM) at Clovis Community College.",
+    "Association for Computing Machinery (ACM) Club",
+    "Health Services Wellness Vending Machine"
+   ],
+   "credentials": "Mechatronics Advanced Placement Job Skills Certificate; Mechatronics Electronic Job Skills Certificate; Mechatronics/Industrial Automation: Certificate of Achievement"
+  },
+  {
+   "name": "Copper Mountain College",
+   "type": "community college",
+   "home_url": "https://www.cmccd.edu/news/s-e-davis-of-yucca-valley-selected-as-2024-greenleaf-scholar/",
+   "trades_url": "https://www.cmccd.edu/programs/automotive-technology/",
+   "programs": [
+    "Automotive Technology Certificate of Achievement",
+    "Automotive Alternative Fuel Vehicles Certificate of Achievement",
+    "Automotive Engine Performance and Driveability Certificate",
+    "Automotive Steering & Suspension Service Certificate of Achievement",
+    "Automotive Transmission Services Certificate",
+    "What Can You Do With an Automotive Technology Degree?",
+    "Automotive Technology AS: What to Expect",
+    "Automotive Technology AS",
+    "What Can You Do With an Automotive Technology Certificate?",
+    "Automotive Technology Certificate: What to Expect"
+   ],
+   "credentials": "Automotive Technology Certificate of Achievement; Automotive Alternative Fuel Vehicles Certificate of Achievement; Automotive Engine Performance and Driveability Certificate; Automotive Steering & Suspension Service Certificate of Achievement; Automotive Transmission Services Certificate; What Can You Do With an Automotive Technology Degree?"
+  },
+  {
+   "name": "Contra Costa College",
+   "type": "community college",
+   "home_url": "https://www.contracosta.edu/2017/06/12/laura-salas-came-to-automotive-services-as-a-student-now-she-leads-the-collision-repair-program/",
+   "trades_url": "https://www.contracosta.edu/academics/departments/automotive-collision-repair/",
+   "programs": [
+    "Be a Collision Engineer",
+    "Collision Engineering | Education driven by industry",
+    "Automotive Collision Repair at Contra Costa College",
+    "Automotive Collision Repair Program Maps",
+    "Automotive Service Technician at Contra Costa College",
+    "Automotive Service Technician Program Maps"
+   ]
+  },
+  {
+   "name": "Cosumnes River College",
+   "type": "community college",
+   "home_url": "https://crc.losrios.edu/academics/automotive-technologyasset/apply-to-the-asset-program",
+   "trades_url": "https://crc.losrios.edu/academics/programs-majors/welding",
+   "programs": [
+    "Automotive, Construction and Design Technology",
+    "Welding Training Scholarship",
+    "A.S. in Welding Technology",
+    "Welding Code Certificate",
+    "Welding Fabricator Certificate",
+    "Welding Technology Certificate",
+    "WELD 100 Introduction to Welding & Safety",
+    "WELD 110 Shielded Metal Arc Welding Procedures",
+    "WELD 111 Pipe Welding Procedures",
+    "WELD 113 Flux Core Arc Welding Process",
+    "WELD 126 Gas Metal Arc Welding of Plate & Pipe",
+    "WELD 127 Gas Metal Arc Welding Process of Sheet Metal",
+    "WELD 128 Gas Tungsten Arc Welding of Aluminum Alloys",
+    "WELD 129 Gas Tungsten Arc Welding of Stainless Steel",
+    "WELD 145 Design, Layout & Fabrication",
+    "WELD 151 Welding Industry Training",
+    "WELD 153 Introduction to Welding Codes",
+    "WELD 294 Topics in Welding",
+    "WELD 295 Independent Studies in Welding",
+    "WELD 298 Work Experience in Welding",
+    "Automotive Technology/ASSET",
+    "Bureau of Automotive Repair (BAR) Smog Training",
+    "Do you want to start a career in the automotive industry without breaking the bank?",
+    "Automotive Tech/ASSET Department",
+    "A.S. in Automotive Mechanics Technology"
+   ],
+   "credentials": "A.S. in Welding Technology; Welding Code Certificate; Welding Fabricator Certificate; Welding Technology Certificate; A.S. in Automotive Mechanics Technology; A.S. in Automotive Mechanics Technology (Ford ASSET)"
+  },
+  {
+   "name": "Diablo Valley College",
+   "type": "community college",
+   "home_url": "https://www.dvc.edu/academics/explore-our-programs/computer-network-technology",
+   "trades_url": "https://www.dvc.edu/academics/explore-our-programs/plumbing",
+   "programs": [
+    "Associate in Science - Plumbing",
+    "Certificate of Achievement - Plumbing",
+    "Certificate of Accomplishment - Plumbing",
+    "Learn more about Electrical / Electronics Technology",
+    "Welcome to Plumbing",
+    "Plumbing Menu",
+    "Plumbing",
+    "Learn more about Plumbing",
+    "Associate in Science - Electrical/Electronics Technology",
+    "Certificate of Achievement - Electrical/Electronics Technology",
+    "Certificate of Accomplishment - Electrical/Electronics Technology",
+    "Read more about Plug-in to a Powerful Career in Electrical/Electronics Technology",
+    "Welcome to Electrical / Electronics Technology",
+    "Electrical / Electronics Technology Menu",
+    "Important Information About Apprenticeship",
+    "Manufacturing Automation Technician",
+    "Electrical / Electronics Technology"
+   ],
+   "credentials": "Certificate of Achievement - Plumbing; Certificate of Accomplishment - Plumbing; Certificate of Achievement - Electrical/Electronics Technology; Certificate of Accomplishment - Electrical/Electronics Technology"
+  },
+  {
+   "name": "El Camino College",
+   "type": "community college",
+   "home_url": "https://www.elcamino.edu/about/institutional-effectiveness/docs/reports_and_briefs/CORRECTED-%20IPEDS%20Feedback%20Report%202021_final%20version%20revised3.pdf",
+   "trades_url": "https://www.elcamino.edu/academics/areas-of-study/welding.php",
+   "programs": [
+    "Choose a Degree Designed for Welding",
+    "Pursue a Career in Welding",
+    "Choose the Automotive Technology Program That Fits Your Goal",
+    "Launch or Upgrade Your Automotive Career",
+    "Cabinet Making and Fine Woodworking",
+    "Pursue an Entry-Level Job in Construction or Carpentry",
+    "Machinist",
+    "Pursue an Entry-Level Job in Machine Tool Technology",
+    "Choose a Degree Designed for Manufacturing Technology Careers",
+    "Pursue an Entry-Level Manufacturing Job or Further Education",
+    "What is Computer Aided Design & Drafting (CADD)?",
+    "Choose a Degree Designed for Computer Aided Design/Drafting Careers or Transfer",
+    "Pursue an Entry-Level Computer Aided Design/Drafting Job or Further Education",
+    "Build Your Computer Aided Design/Drafting Network Beyond the Classroom",
+    "Pursue an Entry-Level Job in Automotive Collision Repair",
+    "Automotive Collision Repair & Painting",
+    "Aerospace Apprenticeship",
+    "What is an apprentice?"
+   ],
+   "credentials": "Choose a Degree Designed for Welding; Choose a Degree Designed for Manufacturing Technology Careers; Choose a Degree Designed for Computer Aided Design/Drafting Careers or Transfer"
+  },
+  {
+   "name": "Evergreen Valley College",
+   "type": "community college",
+   "home_url": "https://www.evc.edu/academics/advanced-manufacturing/index.html",
+   "trades_url": "https://www.evc.edu/academics/advanced-manufacturing/index.html",
+   "programs": [
+    "Advanced Manufacturing Certificate",
+    "Advanced Manufacturing"
+   ],
+   "credentials": "Advanced Manufacturing Certificate"
+  },
+  {
+   "name": "Folsom Lake College",
+   "type": "community college",
+   "home_url": "https://flc.losrios.edu/academics/radiologic-technology-department",
+   "trades_url": "https://flc.losrios.edu/academics/programs-majors/manufacturing-and-industrial-technology",
+   "programs": [
+    "A.S. in Manufacturing and Industrial Technology",
+    "Manufacturing and Industrial Technology Certificate",
+    "MITECH 299 Experimental Offering in Manufacturing and Industrial Technology",
+    "MITECH 300 Introduction to Manufacturing and Industrial Technology",
+    "MITECH 499 Experimental Offering in Manufacturing and Industrial Technology"
+   ],
+   "credentials": "A.S. in Manufacturing and Industrial Technology; Manufacturing and Industrial Technology Certificate"
+  },
+  {
+   "name": "Foothill College",
+   "type": "community college",
+   "home_url": "https://www.foothill.edu/academics/images/visual-career-technical-education--900x600-72.jpg",
+   "trades_url": "https://www.foothill.edu/apprenticeships/faqs.html",
+   "programs": [
+    "Apprenticeship Program",
+    "Apprenticeship Programs",
+    "Air Conditioning & Refrigeration",
+    "Plumbing and Pipefitting",
+    "Plumbing Technology",
+    "Sheet Metal",
+    "Apprenticeships Team",
+    "Apprenticeship Office",
+    "Start Your Career with a Foothill College Apprenticeship",
+    "Apprenticeships in California",
+    "Is a Trade Apprenticeship Right for You?",
+    "An apprenticeship is an excellent career choic e if you",
+    "Consider Being an Apprentice",
+    "California Department of Apprenticeship Standards (DAS)",
+    "California Department of Apprenticeship Standards",
+    "Apprenticeship Eligibility",
+    "Why Choose This NDT Apprenticeship?",
+    "Inside Wireman (Formerly General Electrician)",
+    "Plumbing & Pipefitting",
+    "Sheet Metal Building Trades",
+    "Explore & Begin Your Apprenticeship Journey",
+    "calapprenticeship.org",
+    "Pre-Requisites for Apprenticeship Programs"
+   ]
+  },
+  {
+   "name": "Gavilan College",
+   "type": "community college",
+   "home_url": "https://www.gavilan.edu/news/2026/09/new_apprenticeship_helps_paraeducators_become_special_education_teachers.php",
+   "trades_url": "https://www.gavilan.edu/academic/hvac/index.php",
+   "programs": [
+    "Construction Management",
+    "HVAC"
+   ]
+  },
+  {
+   "name": "Irvine Valley College",
+   "type": "community college",
+   "home_url": "https://www.ivc.edu/physical-sciences-technology/chemistry-department",
+   "trades_url": "https://www.ivc.edu/idea/drafting",
+   "programs": [
+    "Drafting Technology and Engineering Department Contact",
+    "Electrical and Electronics Drafters",
+    "Not sure if Drafting is the right fit?",
+    "Electrical Technology Department",
+    "Electrical Technology",
+    "Sidebar Menu Electrical Technology Department",
+    "Electrical Technology Department Contact",
+    "Electrician Trainee",
+    "Electrician Trainee, COA",
+    "Energy Solar Photovoltaic Systems Technician",
+    "Energy Solar Photovoltaic Systems Technician, COA",
+    "Supervisors of Construction Trades and Extraction Workers",
+    "Electricians",
+    "Helpers for Electricians",
+    "Not sure if Electrical Technology is the right fit?",
+    "Lot 6 � Solar Shade Project",
+    "Plumbing Project"
+   ]
+  },
+  {
+   "name": "Los Angeles Mission College",
+   "type": "community college",
+   "home_url": "https://www.lamc.edu/colleges/los-angeles-trade-technical-college",
+   "trades_url": "https://www.lamc.edu/academics/apprenticeships",
+   "programs": [
+    "Apprenticeships",
+    "LAMC Apprenticeship Application Form",
+    "Cook Apprenticeship PowerPoint",
+    "Watch: Medical Assisting Apprenticeship Information Session",
+    "Medical Assisting Apprenticeship Information Session",
+    "Watch: Phlebotomy Apprenticeship Information Session",
+    "LAMC Phlebotomy Apprenticeship Information Session",
+    "What is a Registered Apprenticeship?",
+    "Why Choose an Apprenticeship?",
+    "Apprenticeship Programs",
+    "Apprenticeship Checklist",
+    "Associate Teacher Registered Apprenticeship",
+    "Cook Apprenticeship Program",
+    "Requirements Before Apprenticeship/Employer Placement"
+   ]
+  },
+  {
+   "name": "Laney College",
+   "type": "community college",
+   "home_url": "https://laney.edu/news/symposium-on-women-in-construction",
+   "trades_url": "https://laney.edu/welding",
+   "programs": [
+    "Carpentry",
+    "Construction Management",
+    "Electrical & Electronics Technology",
+    "Machine Technology",
+    "Welding Technology",
+    "Carpentry Department Builds",
+    "CNC Machines",
+    "CNC Machine Accessories",
+    "Manual Machines",
+    "Construction Management Association Of America",
+    "1. Electrical Technician",
+    "5. Electrical Engineer Assistant",
+    "10. Solar Energy Technician",
+    "Electrical and Electronics Technology"
+   ],
+   "credentials": "Construction Management Association Of America"
+  },
+  {
+   "name": "Long Beach City College",
+   "type": "community college",
+   "home_url": "https://www.lbcc.edu/carousel/online-learning-resources-technology",
+   "trades_url": "https://www.lbcc.edu/pod/instructional-support-trades",
+   "programs": [
+    "Program: Automotive Technology",
+    "Program: Construction Technology",
+    "Program: Electrical Technology",
+    "Program: Welding",
+    "Automotive Technology & Advanced Transportation Technology",
+    "Construction Technology",
+    "Electrical Technology",
+    "Metal Fabrication Technology & Welding",
+    "Advanced Manufacturing Technology",
+    "Automotive Technology",
+    "Welding",
+    "LBCC is California Division of Apprenticeship Standards Approved School: #101",
+    "Industrial Electrical jobs",
+    "Carlos Ochoa Professor, Electrical Technology",
+    "Kimberly Mosley Professor, Electrical Technology",
+    "Scott Fraser Professor, Electrical Engineering",
+    "Suzanne Engelhardt Professor, Electrical Technology",
+    "First Time Electrical Student Begin Here",
+    "Electrician Trainee Electrician Certification Process",
+    "What is an Electrician Trainee?",
+    "Electrician Trainee Enrollment Verification Request Form",
+    "Electrical Technology Program page",
+    "ELECTRICAL TECHNOLOGY",
+    "ELECTRICAL TECHNOLOGY, AUTOMATION TECHNICIAN",
+    "ELECTRICAL TECHNOLOGY, CISCO CERTIFIED NETWORK INSTALLATION ASSOCIATE"
+   ]
+  },
+  {
+   "name": "Merced College",
+   "type": "community college",
+   "home_url": "https://www.mccd.edu/about-merced-college/visit-us/outreach/cte-tour-form/",
+   "trades_url": "https://www.mccd.edu/schools-programs/areas-of-study/industry-manufacturing/",
+   "programs": [
+    "Automotive Technology",
+    "Electricity/Electronics",
+    "HVAC Technology",
+    "Welding Technology",
+    "Explore This Section for Industry & Manufacturing",
+    "Industry & Manufacturing",
+    "Commercial Refrigeration Technician (AS)",
+    "HVAC Technician (AS)",
+    "Commercial Refrigeration Technician (CT)",
+    "HVAC Technician (CT)",
+    "Explore This Section for HVAC Technology",
+    "Diesel Equipment Technology (AS)",
+    "Diesel Equipment Technology (CT)",
+    "Explore This Section for Diesel Equipment Technology",
+    "Welding Technology (AA)",
+    "Introductory Pipe Welding Technology (CE)",
+    "Pipe Welding Technology (CM)",
+    "Welding Technology (CN)",
+    "Explore This Section for Welding Technology",
+    "Automotive Master Technician, A.S. (09003.AS)",
+    "Automotive Technology Level 1 Certificate (09010.CN)",
+    "Automotive Technology Level 2 Certificate (09002.CT)",
+    "Automotive Master Technician Certificate (09008.CT)",
+    "US Department of Labor Automotive Wage Information",
+    "Department of Consumer Affairs Bureau of Automotive Repair"
+   ],
+   "credentials": "Commercial Refrigeration Technician (AS); HVAC Technician (AS); Diesel Equipment Technology (AS); Welding Technology (AA); Automotive Master Technician, A.S. (09003.AS); Automotive Technology Level 1 Certificate (09010.CN)"
+  },
+  {
+   "name": "Mission College",
+   "type": "community college",
+   "home_url": "https://missioncollege.edu/academics/apprenticeships/index.html",
+   "trades_url": "https://missioncollege.edu/academics/apprenticeships/",
+   "programs": [
+    "Apprenticeships",
+    "VTA Apprenticeships",
+    "Other Apprenticeship Opportunities",
+    "VTA Apprenticeship Pathway to Employment"
+   ]
+  },
+  {
+   "name": "Modesto Junior College",
+   "type": "community college",
+   "home_url": "https://www.mjc.edu/awards/machcnc_sr.html",
+   "trades_url": "https://www.mjc.edu/it/welding.html",
+   "programs": [
+    "Apprenticeships",
+    "Gas Metal Arc Welding and Gas Tungsten Arc Welding Skills Recognition",
+    "Manufacturing Technology (Interdisciplinary) Certificate of Achievement",
+    "Pipe Welding Skills Recognition",
+    "Welding A.S. Degree"
+   ],
+   "credentials": "Gas Metal Arc Welding and Gas Tungsten Arc Welding Skills Recognition; Manufacturing Technology (Interdisciplinary) Certificate of Achievement; Pipe Welding Skills Recognition; Welding A.S. Degree"
+  },
+  {
+   "name": "Monterey Peninsula College",
+   "type": "community college",
+   "home_url": "https://www.mpc.edu/academics/adult-education/noncredit-certificates-classes.html",
+   "trades_url": "https://www.mpc.edu/academics/career-academic-pathways/applied-technology/automotive-technology.html",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Maintenance and Light Repair",
+    "View All Automotive Technology Classes"
+   ]
+  },
+  {
+   "name": "Mt. San Jacinto College",
+   "type": "community college",
+   "home_url": "https://msjc.edu/accreditation/documents/New-Program-Welding-Cert-2025-01-28.pdf",
+   "trades_url": "https://msjc.edu/apprenticeship/index.html",
+   "programs": [
+    "LAUNCH Apprenticeship Network",
+    "California Apprenticeship Initiative",
+    "Apprenticeship Programs",
+    "Vicki Carpenter",
+    "What is an Apprentice, by definition?",
+    "What is an Apprenticeship Program, by definition?",
+    "What's the term \"registered\" mean regarding Apprentices and Apprenticeship Programs?",
+    "What is the LAUNCH Apprenticeship Network?",
+    "What's the benefit of becoming an Apprentice?",
+    "What are the benefits of having Apprentices in my organization?",
+    "Apprenticeship Program at MSJC"
+   ]
+  },
+  {
+   "name": "Mt. San Antonio College",
+   "type": "community college",
+   "home_url": "https://www.mtsac.edu/aaccpathways/forms_summer_pathways/electronicscomputertechnologyprogrammap.pdf",
+   "trades_url": "https://www.mtsac.edu/airconditioning-welding/faq.html",
+   "programs": [
+    "Air Conditioning & Welding Technologies",
+    "Air Conditioning & Refrigeration",
+    "Welding",
+    "Student welding.",
+    "Learn more about the Welding program"
+   ]
+  },
+  {
+   "name": "Moreno Valley College",
+   "type": "community college",
+   "home_url": "https://www.mvc.edu/academics/more-ways/career-technical-education/i3-internship.php",
+   "trades_url": "https://www.mvc.edu/student-support/career-transfer/apprenticeship/index.php",
+   "programs": [
+    "Apprenticeship",
+    "For Apprentices",
+    "IT and Cybersecurity Apprenticeships",
+    "Pre-Apprenticeship",
+    "Get started with apprenticeship",
+    "Is apprenticeship right for you?",
+    "Apprenticeship Toolkit (pdf)",
+    "Why Apprenticeship?",
+    "Apprenticeship in the Inland Empire",
+    "Department of Labor Apprenticeship",
+    "LAUNCH Apprenticeship Network",
+    "Why become an apprentice?",
+    "Apprentice Pathway Programs",
+    "Local Apprenticeship Partners",
+    "How to go from pre-apprentice to apprentice",
+    "What's next after apprenticeship?",
+    "About the Apprenticeship Program",
+    "About IT and Cybersecurity Apprenticeships",
+    "State of California Apprenticeship Information",
+    "Get ready to enter apprenticeship programs",
+    "The Pre-Apprenticeship Process"
+   ]
+  },
+  {
+   "name": "North Orange County Community College District (NOCE)",
+   "type": "community college",
+   "home_url": "https://www.noce.edu/news/cte-program-update/",
+   "trades_url": "https://www.noce.edu/programs/careers/electrical-technology/",
+   "programs": [
+    "Electrical Technology Program Guidebook 2026-2027",
+    "Build Your Future in Electrical Technology!"
+   ]
+  },
+  {
+   "name": "Ohlone College",
+   "type": "community college",
+   "home_url": "https://www.ohlone.edu/program/entertainment-design-and-technology-audio",
+   "trades_url": "https://www.ohlone.edu/smart-manufacturing-technology",
+   "programs": [
+    "Smart Manufacturing Technology Program",
+    "Tesla Manufacturing Development Program",
+    "Smart Manufacturing Technology Careers",
+    "The Smart Manufacturing in the Silicon Valley Internship Program",
+    "Program Name: Biotechnology: Bio-Manufacturing"
+   ]
+  },
+  {
+   "name": "Orange Coast College",
+   "type": "community college",
+   "home_url": "https://orangecoastcollege.edu/academics/technology/index.html",
+   "trades_url": "https://orangecoastcollege.edu/academics/technology/hvacr/index.html",
+   "programs": [
+    "HVAC-R",
+    "View HVAC-R Catalog Listing",
+    "Welding Technology",
+    "View Welding Technology Catalog Listing",
+    "Construction Technology",
+    "Manufacturing Technology",
+    "View Manufacturing Technology Catalog Listing",
+    "CNC Mill - Level 1",
+    "CNC Lathe - Level 1",
+    "Building and Construction Trades",
+    "Manufacturing and Product Design"
+   ]
+  },
+  {
+   "name": "Palomar College",
+   "type": "community college",
+   "home_url": "https://www.palomar.edu/fall-2026-launch-of-the-bachelor-of-science-in-building-performance-in-the-built-environment-at-palomar-college-learn-more/",
+   "trades_url": "https://www.palomar.edu/pathways/trade-and-industry/",
+   "programs": [
+    "Carpentry, AS",
+    "Sheet Metal, AS",
+    "Auto Collision Repair, AS",
+    "Diesel Technology, AS",
+    "Drafting and Design CADD/CAM Technology, AS",
+    "Electrical Engineering Drafting and Design Technology, AS",
+    "Machining Technology, AS",
+    "Mechanical Engineering Drafting and Design Technology, AS",
+    "AutoCad Drafting and Design, CA",
+    "Creo Parametric Drafting and Design, CA",
+    "SolidWorks Drafting and Design, CA",
+    "Air Conditioning/Heating/Refrigeration, AS",
+    "Welding Technology, AS",
+    "Air Conditioning, Heating/Refrigeration Entry Employment Ready, CP",
+    "Entry-Level Gas Metal/Flux Cored Arc Weld, CP",
+    "Entry-Level Gas Tungsten Arc Welding, CP",
+    "Entry-Level Shielded Metal Arc Welding, CP",
+    "Air Conditioning/Heating/Refrigeration, CA",
+    "Cabinetmaking and Millwork, AS",
+    "Case Furniture Construction/Manufacturing, AS"
+   ],
+   "credentials": "Carpentry, AS; Sheet Metal, AS; Auto Collision Repair, AS; Diesel Technology, AS; Drafting and Design CADD/CAM Technology, AS; Electrical Engineering Drafting and Design Technology, AS"
+  },
+  {
+   "name": "Pasadena City College",
+   "type": "community college",
+   "home_url": "https://pasadena.edu/academics/continuing-education.php",
+   "trades_url": "https://pasadena.edu/academics/apprenticeship/index.php",
+   "programs": [
+    "What is an apprentice?",
+    "PCC Sponsored Apprenticeship Programs & Occupations",
+    "Teacher Aide Apprenticeship",
+    "Culinary Arts and Hospitality Management (CAHM) Foodservice Apprenticeship",
+    "CNC Machinist Apprenticeship",
+    "Automotive",
+    "Grow while you work. Explore apprenticeships and work-based learning today.",
+    "Apprenticeship",
+    "Why Choose ApprenticeshipPCC"
+   ]
+  },
+  {
+   "name": "Porterville College",
+   "type": "community college",
+   "home_url": "https://www.portervillecollege.edu/about-pc/art-gallery/2022-2023-exhibitions/reimer-selected-works-1990-2020.html",
+   "trades_url": "https://www.portervillecollege.edu/programs-and-classes/ce/welding-program.html",
+   "programs": [
+    "Job Skills Certificate in Welding (with SACA Microcredential)",
+    "Welding Career Data",
+    "Welding Program Costs",
+    "Smart Automation Certification Alliance (SACA) Micro-Credential for Welding",
+    "Electric Vehicle Technology",
+    "Welding",
+    "Welding (CA)",
+    "Welding (JSC)",
+    "Welding (CA & JSC)",
+    "Welding (CA) Welding (JSC)",
+    "Module 1 Electric Vehicle (EV) Safety Certificate Program Mapper",
+    "Module 2 Electric Vehicle (EV) Components Certificate Program Mapper",
+    "Module 3 Electric Vehicle (EV) Software/Firmware Diagnostics Certificate Program Mapper",
+    "Module 4 Advanced Electric Vehicle (EV) Safety Certificate Program Mapper",
+    "Module 5 Advanced Electric Vehicle (EV) Components Certificate Program Mapper",
+    "Electric Vehicle Certified Technician Roadmap",
+    "Electric Vehicle Certified Technician I",
+    "Module 1: Electric Vehicle (EV) Safety Certificate",
+    "Module 2: Electric Vehicle (EV) Components Certificate",
+    "Module 3: Electric Vehicle (EV) Software/Firmware Diagnostics Certificate",
+    "Electric Vehicle Certified Technician II",
+    "Module 4: Advanced Electric Vehicle Safety Certificate",
+    "Module 5: Advanced Electric Vehicle (EV) Components Certificate"
+   ],
+   "credentials": "Job Skills Certificate in Welding (with SACA Microcredential); Smart Automation Certification Alliance (SACA) Micro-Credential for Welding; Welding (CA); Welding (CA & JSC); Welding (CA) Welding (JSC); Module 1 Electric Vehicle (EV) Safety Certificate Program Mapper"
+  },
+  {
+   "name": "Reedley College",
+   "type": "community college",
+   "home_url": "https://www.reedleycollege.edu/campus-life/technology-help.html",
+   "trades_url": "https://www.reedleycollege.edu/academics/training-institute/welding-program.html",
+   "programs": [
+    "Welding Program",
+    "Industrial and Manufacturing",
+    "Industrial and Manufacturing Pathway�Summary (PDF)",
+    "Meet With an�RC Pathway Counselor: Industrial and Manufacturing",
+    "Automotive Technology",
+    "Manuf., Machine Tool Tech & Welding",
+    "Manufacturing Maintenance Mechanic, Machine Tool Technology and Welding",
+    "RC Pathway: Industrial and Manufacturing Starfish Appointment",
+    "Automotive Technician (AS)",
+    "Automotive Technician (CA)",
+    "Why Study Automotive Technology at RC",
+    "Automotive Technology Degree and Certificate Programs:",
+    "Manufacturing Maintenance Mechanic, Machine Tool Technology, and Welding",
+    "Manufacturing 1 (CA)",
+    "Machinist (CA)",
+    "Manufacturing Maintenance Mechanic�Essentials(CA) - Evening",
+    "Welder (CA)",
+    "Machine Tool Technology (AS)",
+    "Manufacturing Maintenance Mechanic (AS)",
+    "Welding Technology (AS)",
+    "Welding Essentials (CC)",
+    "Intermediate Welding (CC)",
+    "Advanced Welding (CC)",
+    "Why Study Manufacturing Maintenance Mechanic, Machine Tool Technology, and Welding at RC"
+   ],
+   "credentials": "Automotive Technician (AS); Automotive Technician (CA); Automotive Technology Degree and Certificate Programs:; Manufacturing 1 (CA); Machinist (CA); Manufacturing Maintenance Mechanic�Essentials(CA) - Evening"
+  },
+  {
+   "name": "Rio Hondo College",
+   "type": "community college",
+   "home_url": "https://www.riohondo.edu/press-releases/rio-hondo-college-board-of-trustees-member-re-elected-to-association-of-community-college-trustees-board-of-directors/",
+   "trades_url": "https://www.riohondo.edu/academics/divisions/career-workforce-education/departments-degrees-certificates/welding/facilities/",
+   "programs": [
+    "Welding Department Info",
+    "Automation Robotics & Mechatronics",
+    "Automotive Technology",
+    "Alternative Fuels and Electric Fuel Cell Vehicles",
+    "Architecture, Civil & Engineering Design Drafting, CAD & GIS",
+    "Electrical Technology Electrician Trainee Program",
+    "Heavy Equipment Technology (HET)",
+    "Heavy Equipment Technology Facilities",
+    "Heavy Equipment Technology Industrial Partners",
+    "Apprenticeships",
+    "Automotive Partnership Programs",
+    "Sonsray Machinery"
+   ]
+  },
+  {
+   "name": "Saddleback College",
+   "type": "community college",
+   "home_url": "https://www.saddleback.edu/events/culinary-apprenticeship-networking-event",
+   "trades_url": "https://www.saddleback.edu/atep/automotive-technology",
+   "programs": [
+    "Advanced Fashion Design and Apparel Manufacturing",
+    "Drafting Technology",
+    "Automotive Chassis Specialist",
+    "Automotive Chassis Systems",
+    "Automotive Electric Vehicle Technician",
+    "Automotive Engine Diagnostics Technician",
+    "Automotive Engine Performance Specialist",
+    "Automotive Engine Repair Technician",
+    "Automotive Engine Service Specialist",
+    "Automotive Suspension Technician",
+    "Automotive Technician Fundamentals",
+    "General Automotive Technician",
+    "Advanced Manufacturing",
+    "Architectural Drafting",
+    "Automotive Technology",
+    "Contact the Drafting Technology Department",
+    "See ONet Online for more automotive occupations",
+    "Automotive Technology Department",
+    "Our Automotive Industry Partners",
+    "Contact the Advanced Manufacturing Department"
+   ]
+  },
+  {
+   "name": "Santa Barbara City College",
+   "type": "community college",
+   "home_url": "https://www.sbcc.edu/academicsenate/files/images/Automotive-3_rev0.jpg",
+   "trades_url": "https://www.sbcc.edu/automotive/_nav.inc",
+   "programs": [
+    "Automotive Home",
+    "Automotive",
+    "Automotive Service and Technology�Careers",
+    "Drafting/CAD (Computer-Assisted Design)�Careers",
+    "Automotive Service and Technology Department",
+    "Auto Body and Related Repairers",
+    "Drafting/CAD Department",
+    "drafting/CAD"
+   ]
+  },
+  {
+   "name": "Santiago Canyon College",
+   "type": "community college",
+   "home_url": "https://www.sccollege.edu/academics/apprenticeships-workforce-preparation",
+   "trades_url": "https://www.sccollege.edu/academics/areasofstudy/electrician/",
+   "programs": [
+    "Apprenticeships and Workforce Preparation",
+    "Electrical Power Installer",
+    "Electrical Technician",
+    "Electrician",
+    "Electrical Drafting",
+    "Apprenticeship Programs",
+    "Apprenticeship Student Resources",
+    "Apprenticeships",
+    "Carpentry Apprenticeship",
+    "Carpentry: Acoustical Tile, Drywall/Lather, Drywall Finisher, Plastering",
+    "Carpentry: Concrete, Finish Carpentry, Framing, Tilt-up",
+    "Carpentry: Millwright",
+    "Carpentry: Pile Driver",
+    "Electrician Apprenticeship",
+    "Maintenance Mechanic Apprenticeship",
+    "Operating Engineers Apprenticeship",
+    "Power Lineman Apprenticeship",
+    "Surveying Apprenticeship",
+    "Electricians",
+    "Carpenter",
+    "Cabinetmaking & Millwork",
+    "Masonry",
+    "Building Construction Technology/Technician",
+    "Apprenticeships and Career Education",
+    "Apprenticeships and Business and Career Education Programs"
+   ]
+  },
+  {
+   "name": "Shasta College",
+   "type": "community college",
+   "home_url": "https://www.shastacollege.edu/news/story/addicted-to-success/",
+   "trades_url": "https://www.shastacollege.edu/academics/programs/welding/",
+   "programs": [
+    "Welding Technology AS Degree",
+    "Welding Technology Certificate",
+    "Welding Facility and Equipment",
+    "Welding Technology (AS)",
+    "Welding Technology (C)",
+    "Shasta College Welding",
+    "Automotive Technology (AS)",
+    "Automotive Technology (C)",
+    "Diesel Technology Overview",
+    "Diesel Technology (AS)",
+    "Diesel Technology (C)",
+    "Shasta College Diesel Tour 2021",
+    "Heavy Equipment Logging Operations and Maintenance Certificate",
+    "Heavy Equipment Logging Operations and Maintenance (C)",
+    "Shasta College Logging and Heavy Equipment"
+   ],
+   "credentials": "Welding Technology AS Degree; Welding Technology Certificate; Welding Technology (AS); Automotive Technology (AS); Diesel Technology (AS); Heavy Equipment Logging Operations and Maintenance Certificate"
+  },
+  {
+   "name": "Sierra College",
+   "type": "community college",
+   "home_url": "https://live-sierra-college.pantheonsite.io/administration/facilities-and-construction/",
+   "trades_url": "https://www.sierracollege.edu/academics/interest-areas/applied-technology/automotive-technology/",
+   "programs": [
+    "Advanced Manufacturing",
+    "Automotive Technology",
+    "Mechatronics",
+    "Welding Technology",
+    "Certificates in Automotive Technology",
+    "Degrees and Certificates in Advanced Manufacturing",
+    "Attend a Mechatronics Info Session",
+    "Mechatronics Info Sheet (PDF)",
+    "Mechatronics Info Sheet (Printable)",
+    "Degrees and Certificates in Mechatronics",
+    "Degrees and Certificates in Welding Technology"
+   ],
+   "credentials": "Certificates in Automotive Technology; Degrees and Certificates in Advanced Manufacturing; Degrees and Certificates in Mechatronics; Degrees and Certificates in Welding Technology"
+  },
+  {
+   "name": "College of the Siskiyous",
+   "type": "community college",
+   "home_url": "https://www.siskiyous.edu/continuinged/",
+   "trades_url": "https://www.siskiyous.edu/cte/weld/",
+   "programs": [
+    "Welding"
+   ]
+  },
+  {
+   "name": "San Jose City College",
+   "type": "community college",
+   "home_url": "https://sjcc.edu/academic-affairs/noncredit-education.aspx",
+   "trades_url": "https://sjcc.edu/dept/machine-technology.aspx",
+   "programs": [
+    "machine technology Overview",
+    "Ask About Our Accelerated Job Training for CNC Machine Operator!",
+    "Construction Technology (CNSTR) (opens in a new tab)",
+    "Electrician (ELECT) (opens in a new tab)",
+    "Electrician Trainee Overview",
+    "Construction Technology Overview",
+    "Careers in Construction Technology include:",
+    "HVAC/R Overview",
+    "HVAC Technician"
+   ]
+  },
+  {
+   "name": "Santa Monica College",
+   "type": "community college",
+   "home_url": "https://www.smc.edu/about/campuses/parking-transportation/electric-scooter-policy.php",
+   "trades_url": "https://www.smc.edu/academics/academic-departments/business/automotive-technology.php",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Master Mechanics",
+    "Automotive Specialty Technicians",
+    "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+    "Automotive Glass Installers and Repairers",
+    "About the Automotive Technology Program",
+    "Automotive Technology - Introductory",
+    "Solar Energy Installation Managers",
+    "Solar Photovoltaic Installers",
+    "Solar Thermal Installers and Technicians",
+    "About the Solar Photovoltaic Program",
+    "Solar Photovoltaic and Energy Efficiency",
+    "Solar Photovoltaic Installation",
+    "Basic Solar Photovoltaic Installation"
+   ]
+  },
+  {
+   "name": "Solano Community College",
+   "type": "community college",
+   "home_url": "https://solano.edu/academic-programs/advanced-manufacturing.php",
+   "trades_url": "https://solano.edu/academic-programs/welding.php",
+   "programs": [
+    "Biomanufacturing BS + Nursing Program Applications",
+    "Welding",
+    "Drafting",
+    "Biomanufacturing",
+    "Biomanufacturing BS Degree applications are open!",
+    "Ford ACE Automotive Career Exploration",
+    "Automotive Technology",
+    "Advanced Manufacturing"
+   ],
+   "credentials": "Biomanufacturing BS Degree applications are open!"
+  },
+  {
+   "name": "San Bernardino Valley College",
+   "type": "community college",
+   "home_url": "https://www.valleycollege.edu/about-sbvc/offices/campus-technology-services/services-provided/appstream.php",
+   "trades_url": "https://www.valleycollege.edu/academics/apprenticeship-program/index.php",
+   "programs": [
+    "Manufacturing, Industry, Transportation",
+    "Apprenticeship Programs",
+    "SBVC's LAUNCH Apprenticeship Program",
+    "Automotive Technology",
+    "Apprenticeship Info Sessions",
+    "Apprenticeship for Employers and Industry Partners",
+    "Questions? Not sure if an Apprenticeship Program is the right path for you?"
+   ]
+  },
+  {
+   "name": "Victor Valley College",
+   "type": "community college",
+   "home_url": "https://www.vvc.edu/electronics-computer-technology",
+   "trades_url": "https://www.vvc.edu/construction-technology-0",
+   "programs": [
+    "Construction Technology"
+   ]
+  },
+  {
+   "name": "Coalinga College",
+   "type": "community college",
+   "home_url": "https://coalingacollege.edu/skill-building/",
+   "trades_url": "https://coalingacollege.edu/degrees-and-certificates/skilled-trades.php",
+   "programs": [
+    "Interested in Becoming a Welder? Skilled Trades"
+   ]
+  },
+  {
+   "name": "Yuba College",
+   "type": "community college",
+   "home_url": "https://yc.yccd.edu/spotlight/staff/2021/02/welding-technologies-instructor-finds-a-way/",
+   "trades_url": "https://yc.yccd.edu/academics/career-technical-education/manufacture-tech/",
+   "programs": [
+    "Manufacturing Technology",
+    "Automotive Technology Programs",
+    "Auto Body Repair",
+    "Automotive Drive Trains",
+    "Automotive Tune-Up & Driveability",
+    "Why Manufacturing Technology is a great career option:",
+    "Welding Technologies",
+    "Welding",
+    "Why Welding / Manufacturing is a great career option:",
+    "Automotive Technology Degrees and Certificates",
+    "Automotive Technology",
+    "Meet Automotive Technology Graduate: Corey Ringseth",
+    "What lead you to the Automotive Technology Program?"
+   ],
+   "credentials": "Automotive Technology Degrees and Certificates"
+  },
+  {
+   "name": "San Diego College of Continuing Education",
+   "type": "community college",
+   "home_url": "https://sdcce.edu/about-us/institution/participatory-governance/governance-committees/technology-committee.html",
+   "trades_url": "https://sdcce.edu/academics/automotive/index.html",
+   "programs": [
+    "Apprenticeship Readiness Program",
+    "Auto Body and Paint Technician"
+   ]
+  },
+  {
+   "name": "Columbia College",
+   "type": "community college",
+   "home_url": "https://gocolumbia.edu/academics/programsofstudy/area_auto_welding_technology/automotive_technology.html",
+   "trades_url": "https://gocolumbia.edu/career_technical/apprenticeships.html",
+   "programs": [
+    "Apprenticeship Initiative",
+    "Fire Science Pre-Apprenticeship",
+    "Pre-Apprenticeship",
+    "Child Development Apprenticeship",
+    "Hospitality Management Apprenticeship",
+    "Apprenticeship Programs",
+    "Pre-Apprenticeship Programs",
+    "Current Apprenticeship programs",
+    "Benefits of Participation in apprenticeships",
+    "California Firefighter Joint Apprenticeship Committee",
+    "Auto & Welding Technology",
+    "Welding Technology Majors go into a variety of careers. Some examples are:",
+    "Automotive Technology Majors go into a variety of careers. Some examples are:"
+   ]
+  },
+  {
+   "name": "Madera Community College",
+   "type": "community college",
+   "home_url": "https://www.maderacollege.edu/faculty-and-staff/technology-services.html",
+   "trades_url": "https://www.maderacollege.edu/academics/training-institute/welding-program.html",
+   "programs": [
+    "Apprenticeship",
+    "Welding Program"
+   ]
+  },
+  {
+   "name": "Riverside City College",
+   "type": "community college",
+   "home_url": "https://www.rcc.edu/about/technical-trade-center.html",
+   "trades_url": "https://www.rcc.edu/pathways/advanced-technical-trades/index.html",
+   "programs": [
+    "Air Conditioning and Refrigeration",
+    "Automotive Technology",
+    "Welding Technology",
+    "HVAC Commercial Technology",
+    "HVAC Residential Technology",
+    "Advanced Collision Repair",
+    "Automotive Hybrid and Electrical Vehicle",
+    "Automotive Refinishing and Paint",
+    "Automotive Technology Collision Repair",
+    "Automotive Technology-Automotive Trim & Upholstery",
+    "Automotive Electrical and Electronics Specialist",
+    "Automotive Engine Performance Specialist",
+    "Automotive Powertrain Specialist",
+    "Automotive Undercar Specialist",
+    "Pipe Welding",
+    "Stick Welding (SMAW)",
+    "TIG Welding (GTAW)",
+    "Wire Welding (FCAW, GMAW)",
+    "Apprenticeship Program"
+   ]
+  },
+  {
+   "name": "College of the Redwoods",
+   "type": "community college",
+   "home_url": "https://www.redwoods.edu/about/facilities/_projects/solar-array.php",
+   "trades_url": "https://www.redwoods.edu/academics/welding.php",
+   "programs": [
+    "American Welding Society Certification"
+   ]
+  },
+  {
+   "name": "Los Angeles Trade-Technical College",
+   "type": "community college",
+   "city": "Los Angeles",
+   "home_url": "https://www.lattc.edu/",
+   "trades_url": "https://www.lattc.edu/academics/academic-programs",
+   "programs": [
+    "Automotive and Related Technology",
+    "Automotive Collision Repair",
+    "Carpentry",
+    "Electrical Construction and Maintenance",
+    "Heating, Ventilating, Air Conditioning (HVAC)",
+    "Plumbing",
+    "Machine Shop (CNC)",
+    "Welding (Gas and Electric)"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 11",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Pasadena (Los Angeles area)",
+   "url": "https://www.ibew11.org/",
+   "description": "IBEW Local 11 home page, which describes the local as powering Los Angeles since 1942."
+  },
+  {
+   "name": "IBEW Local 6",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://ibew6.org/",
+   "description": "IBEW Local 6 home page with dispatch procedures, apprenticeship announcements and member resources."
+  },
+  {
+   "name": "IBEW 1245",
+   "kind": "union local",
+   "trades": [
+    "electrical",
+    "utility line clearance"
+   ],
+   "url": "https://ibew1245.com/",
+   "description": "IBEW 1245 home page covering California, Hawaii, Nevada and Utah, with apprenticeship training listed."
+  },
+  {
+   "name": "IBEW Local 569",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew569.org/",
+   "description": "IBEW Local 569 home page with membership contact information and staff listings."
+  },
+  {
+   "name": "UA Local 342 (Plumbers & Steamfitters)",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "pipefitting"
+   ],
+   "city": "Concord",
+   "url": "https://www.ua342.org/",
+   "description": "Plumbers & Steamfitters Local Union 342 home page, listing apprenticeships and training."
+  },
+  {
+   "name": "UA Local 250",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "pipefitting"
+   ],
+   "url": "https://ua250.org/en",
+   "description": "UA Local 250 home page."
+  },
+  {
+   "name": "Ironworkers Local 416",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://www.ironworkers416.org/en",
+   "description": "Ironworkers Local 416 home page."
+  },
+  {
+   "name": "Operating Engineers Local 3 (OE3)",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment"
+   ],
+   "url": "https://www.oe3.org/",
+   "description": "OE3 home page with member training schedules, benefits and a master calendar."
+  },
+  {
+   "name": "AGC of California",
+   "kind": "contractor association",
+   "trades": [
+    "general construction"
+   ],
+   "url": "https://www.agc-ca.org/",
+   "description": "AGC of California is the state's largest construction trade association providing advocacy and services for general contractors and construction related firms."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "nonprofit",
+   "trades": [
+    "boilermaker",
+    "bricklayer",
+    "construction (multiple)"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Nonprofit page listing construction career paths, including boilermakers and bricklayers."
+  },
+  {
+   "name": "DIR Division of Apprenticeship Standards: pre-apprenticeship programs",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "all DAS-registered apprenticeable trades"
+   ],
+   "url": "https://www.dir.ca.gov/das/preapprenticeship.htm",
+   "description": "Pre-apprenticeship programs prepare individuals to enter and succeed in DAS Registered Apprenticeship programs.",
+   "how_to_apply": "Pre-apprenticeship programs must be associated with at least one DAS registered apprenticeship sponsor; registration contact is preapprenticeship@dir.ca.gov (linked on page)."
+  },
+  {
+   "name": "Alameda County Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "San Leandro",
+   "url": "https://www.595jatc.org/",
+   "apprenticeship_url": "https://www.595jatc.org/home",
+   "description": "Applicants | Alameda County JATC."
+  },
+  {
+   "name": "California-Nevada Elec. AJATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Riverside",
+   "url": "https://calnevjatc.org/",
+   "apprenticeship_url": "https://calnevjatc.org/",
+   "description": "Training with a future. Become an apprentice Power Lineman or Substation Technician with the Cal/Nev JATC. Apply to join us soon."
+  },
+  {
+   "name": "Fresno, Madera, Kings & Tulare Counties JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Fresno",
+   "url": "https://www.cceti.org/",
+   "apprenticeship_url": "https://www.cceti.org/wage-rates/",
+   "description": "Home - Central California Electrical Training Institute."
+  },
+  {
+   "name": "IBEW Local 100",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Fresno",
+   "url": "https://www.ibew100.org/",
+   "apprenticeship_url": "https://www.ibew100.org/?zone=/unionactive/view_article.cfm&HomeID=1012395&page=Local20Committees",
+   "description": "IBEW Local 100."
+  },
+  {
+   "name": "IBEW Local 1245",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Vacaville",
+   "url": "https://ibew1245.com/",
+   "apprenticeship_url": "https://ibew1245.com/education/jatc-classes/",
+   "description": "The power is in our hands."
+  },
+  {
+   "name": "IBEW Local 18",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Los Angeles",
+   "url": "https://www.ibewlocal18.org/",
+   "description": "New."
+  },
+  {
+   "name": "IBEW Local 180",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Vallejo",
+   "url": "https://www.ibewlu180.org/",
+   "description": "IBEW Local 180."
+  },
+  {
+   "name": "IBEW Local 234",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Castroville",
+   "url": "https://ibew234.org/",
+   "apprenticeship_url": "https://ibew234.org/apprentice/",
+   "description": "Become signatory to the IBEW and employ highly skilled and highly trained IBEW Local 234 industrial, commercial and residential electricians and low voltage ins."
+  },
+  {
+   "name": "IBEW Local 302",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Martinez",
+   "url": "https://www.ibewlu302.com/",
+   "apprenticeship_url": "https://www.ibewlu302.com/apprenticeships/",
+   "description": "IBEW Local 302 – Electrifying Contra Costa County Since 1928."
+  },
+  {
+   "name": "IBEW Local 332",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "San Jose",
+   "url": "https://www.ibew332.org/",
+   "apprenticeship_url": "https://www.ibew332.org/apprenticeships",
+   "description": "IBEW Local 332 represents more than 3,600 electrical workers in Santa Clara County with training, wages and benefits, contracts, resources and member news."
+  },
+  {
+   "name": "IBEW Local 413",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Santa Barbara",
+   "url": "https://www.ibew413.org/",
+   "apprenticeship_url": "https://www.ibew413.org/?zone=/unionactive/view_page.cfm&page=SBJATC",
+   "description": "IBEW Local 413."
+  },
+  {
+   "name": "IBEW Local 428",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Bakersfield",
+   "url": "https://www.ibew428.org/",
+   "apprenticeship_url": "https://www.ibew428.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 428."
+  },
+  {
+   "name": "IBEW Local 440",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Riverside",
+   "url": "https://www.ibew440.org/",
+   "apprenticeship_url": "https://www.ibew440.org/members/training",
+   "description": "IBEW Local 440 represents electrical workers in the Inland Empire. Explore member resources, job dispatch, contractor listings, events, and union news."
+  },
+  {
+   "name": "IBEW Local 441",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Santa Ana",
+   "url": "https://www.ibewoc.com/",
+   "apprenticeship_url": "https://www.ibewoc.com/join/join-as-an-apprentice",
+   "description": "IBEW Local 441 represents 2,500+ skilled electrical workers in Orange County, CA. Check dispatch, find a contractor, or join as an electrician or apprentice."
+  },
+  {
+   "name": "IBEW Local 477",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "San Bernardino",
+   "url": "https://ibew477.org/",
+   "apprenticeship_url": "https://ibew477.org/training/",
+   "description": "IBEW Local 477."
+  },
+  {
+   "name": "IBEW Local 551",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Santa Rosa",
+   "url": "https://www.ibewlocal551.org/",
+   "apprenticeship_url": "https://www.ibewlocal551.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW LOCAL 551."
+  },
+  {
+   "name": "IBEW Local 595",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Dublin",
+   "url": "https://www.ibew595.org/",
+   "apprenticeship_url": "https://www.ibew595.org/index.cfm?zone=/unionactive/view_page.cfm&page=Apprenticeships",
+   "description": "UnionActive."
+  },
+  {
+   "name": "IBEW Local 617",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "San Mateo",
+   "url": "https://www.ibew617.com/en",
+   "description": "IBEW 617 | Home."
+  },
+  {
+   "name": "IBEW Local 639",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "San Luis Obispo",
+   "url": "https://www.ibew639.org/",
+   "apprenticeship_url": "https://www.ibew639.org/?zone=/unionactive/view_page.cfm&page=California20Certification20",
+   "description": "IBEW Local 639."
+  },
+  {
+   "name": "IBEW Local 684",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Modesto",
+   "url": "https://www.ibewlu684.org/",
+   "apprenticeship_url": "https://www.ibewlu684.org/?zone=/unionactive/view_page.cfm&page=Training20Center",
+   "description": "IBEW Local 684."
+  },
+  {
+   "name": "IBEW Local 952",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Ventura",
+   "url": "https://www.ibewlu952.org/",
+   "apprenticeship_url": "https://www.ibewlu952.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 952 3994 E. Main St Ventura, California 93003 805-642-2149."
+  },
+  {
+   "name": "Kern County Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Bakersfield",
+   "url": "https://etakc.org/",
+   "apprenticeship_url": "https://etakc.org/apprenticeship/",
+   "description": "ETA – Electrical Training Alliance."
+  },
+  {
+   "name": "Los Angeles County Electrical Training Institute",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Commerce",
+   "url": "https://www.laett.com/",
+   "apprenticeship_url": "https://www.laett.com/?zone=/unionactive/view_page.cfm&page=test",
+   "description": "Electrical Training Institute."
+  },
+  {
+   "name": "San Diego Electrical Training Trust",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "San Diego",
+   "url": "https://www.etiedu.org/",
+   "apprenticeship_url": "https://www.etiedu.org/apprentices",
+   "description": "Electrical Training Institute home page."
+  },
+  {
+   "name": "San Mateo County JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "San Carlos",
+   "url": "http://smjatc617.org/",
+   "apprenticeship_url": "http://smjatc617.org/",
+   "description": "The San Mateo County Electrical Joint Apprenticeship & Training Center | Just another WordPress site."
+  },
+  {
+   "name": "Tri County Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Castroville",
+   "url": "https://www.tricountyjatc.org/",
+   "apprenticeship_url": "https://www.tricountyjatc.org/",
+   "description": "Join our electrical apprenticeship program for Santa Cruz, San Benito, & Monterey counties. JATC is the only electrical apprenticeship program in the Monterey B."
+  },
+  {
+   "name": "Ventura County Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Oxnard",
+   "url": "https://www.ibewlu952.org/",
+   "apprenticeship_url": "https://www.ibewlu952.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 952 3994 E. Main St Ventura, California 93003 805-642-2149."
+  },
+  {
+   "name": "IUOE Local 3 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Concord",
+   "url": "https://www.oe3.org/",
+   "apprenticeship_url": "https://www.oe3.org/training-schedules/"
+  },
+  {
+   "name": "IUOE Local 501 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Los Angeles",
+   "url": "https://local501.org/",
+   "apprenticeship_url": "https://local501.org/training/"
+  },
+  {
+   "name": "IUOE Local 3 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Burlingame",
+   "url": "https://www.oe3.org/california-contact/",
+   "apprenticeship_url": "https://www.oe3.org/training-schedules/",
+   "description": "Sacramento, CA 95834 Your Future Starts Here We provide real hands-on training and great career opportunities as a skilled trades person."
+  },
+  {
+   "name": "IUPAT District Council 16",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.dc16iupat.org/",
+   "description": "Wage Schedules Craft Contractors List Craft Master Agreements Local Unions How We Work Get Involved Local Unions Contractors Resources News and Events Photo Gallery Join DC16 IUPAT Support iupat.org dc16star.org dc16apprentice.org © 2021 IUPAT DC-16 Painters and Allied Trades."
+  },
+  {
+   "name": "IUPAT District Council 36",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.dc36.org/",
+   "apprenticeship_url": "https://www.dc36.org/apprenticeships"
+  },
+  {
+   "name": "BAC 04 California",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "LaVerne",
+   "url": "https://bac4ca.org/",
+   "apprenticeship_url": "https://bac4ca.org/training-education-safety"
+  },
+  {
+   "name": "Laborers Training and Retraining Trust Fund of Southern California and Arizona",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Azusa",
+   "url": "https://www.laborerstrainingschool.com/",
+   "apprenticeship_url": "https://www.laborerstrainingschool.com/apprenticeship",
+   "description": "Welcome to the Laborers Training School, find out more information about Apprenticeship, applying to our program and resources for Apprentices and Contractors alike!"
+  },
+  {
+   "name": "Western States Regional Council of Carpenters",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "Los Angeles",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "Oakland",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Bakersfield Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Bakersfield",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Buena Park Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Buena Park",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Ontario Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Ontario",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Riverside Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Riverside",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - San Diego Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "San Diego",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Santa Maria Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Santa Maria",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - South LA Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Carson",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Sylmar Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Sylmar",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Ventura Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Camarillo",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Whittier Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Whittier",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 714 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Buena Park",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 91 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Carson",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 110 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Los Angeles",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2159 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Whittier",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 909 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Ontario",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 951 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Riverside",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 619 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "San Diego",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 818 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Sylmar",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Bakersfield Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Bakersfield",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Buena Park Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Buena Park",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Carpenters Training Committee for Northern California - District Office",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Fairfield",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Ontario Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Ontario",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Riverside Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Riverside",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - San Diego Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "San Diego",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Santa Maria Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Santa Maria",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - South LA Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Carson",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Sylmar Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Sylmar",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Ventura Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Camarillo",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Whittier Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Whittier",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 713 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Hayward",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 152 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Martinez",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 99 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Fresno",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 646 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Marina",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 9068 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Livermore",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 102 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Livermore",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 46 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pell Drive, Ste. A Sacramento",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 9109 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Sacramento",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2236 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Broadway Oakland",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 22 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "San Francisco",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 34 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Oakland",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 9144 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "San Jose",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 217 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Foster City",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 405 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "San Jose",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 751 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Santa Rosa",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 180 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Vallejo",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "California State Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://cabuildingtrades.org/",
+   "description": "Homepage - CA Building Trades Skip To Content State Building and Construction Trades Council of California About Key Issues News Affiliations Videos Compliance Representing nearly half a million construction workers including 65,000 apprentices."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Contractors State License Board (CSLB)",
+   "trades": [
+    "electrical (C-10)",
+    "plumbing (C-36)",
+    "HVAC (C-20)"
+   ],
+   "url": "https://www.cslb.ca.gov/",
+   "description": "State board that licenses contractors; its classification pages include C-10 Electrical Contractor, C-36 Plumbing Contractor and C-20 Warm-Air Heating, Ventilating and Air Conditioning."
+  },
+  {
+   "name": "DIR Electrician Certification Unit (Labor Commissioner)",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.dir.ca.gov/dlse/ECU/ElectricalTrade.html",
+   "description": "Certifies electricians and electrician trainees; the page provides exam overviews and certification and trainee forms."
+  },
+  {
+   "name": "DIR Division of Apprenticeship Standards (DAS)",
+   "trades": [
+    "all apprenticeable trades"
+   ],
+   "url": "https://www.dir.ca.gov/das/",
+   "description": "Administers California apprenticeship law and enforces apprenticeship standards for wages, hours, working conditions and skills."
+  }
+ ],
+ "funding": [
+  {
+   "name": "California WIOA training funds via CalJOBS Eligible Training Provider List",
+   "url": "https://edd.ca.gov/en/jobs_and_training/step-3-enhance-your-skills/",
+   "provider": "California Employment Development Department",
+   "kind": "training voucher",
+   "provides": "The CalJOBS Eligible Training Provider List helps job seekers find training providers funded through WIOA to help cover training costs, and local AJCCs offer a free skills test.",
+   "how_to_apply": "Search the CalJOBS Eligible Training Provider List; make an appointment with a local AJCC for the free skills test",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "California Employment Training Panel (ETP)",
+   "url": "https://edd.ca.gov/en/jobs_and_training/find-training-for-you-and-your-employees/",
+   "provider": "California Employment Development Department",
+   "kind": "grant",
+   "provides": "The Employment Training Panel reimburses California companies that train employees for high-skill, high-wage jobs.",
+   "how_to_apply": "See the ETP fact sheet (DE 8714N) for how to apply",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

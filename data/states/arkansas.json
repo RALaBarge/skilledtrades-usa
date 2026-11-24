@@ -1,0 +1,398 @@
+{
+ "code": "AR",
+ "state": "Arkansas",
+ "colleges": [
+  {
+   "name": "Northwest Arkansas Community College",
+   "type": "community college",
+   "city": "Bentonville",
+   "home_url": "https://www.nwacc.edu/",
+   "trades_url": "https://www.nwacc.edu/academicdivisions/trailstrades/index.html"
+  },
+  {
+   "name": "North Arkansas College",
+   "type": "community college",
+   "city": "Harrison",
+   "home_url": "https://www.northark.edu/",
+   "trades_url": "https://www.northark.edu/academic-programs/",
+   "programs": [
+    "Advanced Manufacturing and Machining",
+    "Automotive Service Technology",
+    "Climate Control & Drive Trains",
+    "Collision Repair Technology",
+    "Construction Finishes",
+    "Construction Technology",
+    "Robotics & Automation Systems"
+   ],
+   "credentials": "Certificate of Proficiency; Technical Certificate; AAS"
+  },
+  {
+   "name": "Ozarka College",
+   "type": "community college",
+   "city": "Melbourne",
+   "home_url": "https://www.ozarka.edu/",
+   "trades_url": "https://www.ozarka.edu/careers"
+  },
+  {
+   "name": "Black River Technical College",
+   "type": "technical college",
+   "city": "Pocahontas",
+   "home_url": "https://www.blackrivertech.edu/",
+   "trades_url": "https://www.blackrivertech.edu/workforce-training/job-training/greene-county-industrial-training-council"
+  },
+  {
+   "name": "University of Arkansas at Eastern Arkansas Community College",
+   "type": "community college",
+   "city": "Forrest City",
+   "home_url": "https://www.uaeacc.edu/",
+   "trades_url": "https://www.uaeacc.edu/workforce-development"
+  },
+  {
+   "name": "South Arkansas College",
+   "type": "community college",
+   "city": "El Dorado",
+   "home_url": "https://www.southark.edu/",
+   "trades_url": "https://www.southark.edu/page/career-and-tech/",
+   "programs": [
+    "Automotive Service Technology",
+    "Medium Heavy Truck Diesel Service Technology",
+    "Welding Technology",
+    "Electrical and Instrumentation (E&I)",
+    "Industrial Maintenance",
+    "Industrial Engineering Technology",
+    "Apprenticeship Programs"
+   ]
+  },
+  {
+   "name": "Southern Arkansas University Tech",
+   "type": "technical college",
+   "city": "Camden",
+   "home_url": "https://www.sautech.edu/",
+   "trades_url": "https://www.sautech.edu/programs-degrees",
+   "programs": [
+    "HVAC Training",
+    "Welding Academy",
+    "Industrial Sciences Program",
+    "Aerospace Defense Manufacturing",
+    "Production Technician"
+   ]
+  },
+  {
+   "name": "Arkansas State University-Beebe",
+   "type": "community college",
+   "city": "Beebe",
+   "home_url": "https://www.asub.edu/",
+   "trades_url": "https://www.asub.edu/degrees-and-certificates/",
+   "programs": [
+    "Automotive Technology",
+    "Computerized Machining Technology",
+    "Diesel Technology Certificate",
+    "Computer-Aided Drafting & Design",
+    "Agriculture Equipment Technology (John Deere)"
+   ],
+   "credentials": "Degree; Certificate"
+  },
+  {
+   "name": "Arkansas State University Mountain Home",
+   "type": "community college",
+   "city": "Mountain Home",
+   "home_url": "https://asumh.edu/",
+   "trades_url": "https://asumh.edu/degrees-and-programs/",
+   "programs": [
+    "Automotive Systems Repair",
+    "Commercial Truck Driving (CDL)",
+    "Machining and CNC",
+    "Mechatronics",
+    "Welding Technology"
+   ],
+   "credentials": "AAS; TC; CP"
+  },
+  {
+   "name": "Arkansas State University-Newport",
+   "type": "community college",
+   "city": "Newport",
+   "home_url": "https://www.asun.edu/",
+   "trades_url": "https://www.asun.edu/all-programs/index.php",
+   "programs": [
+    "Advanced Manufacturing Technology",
+    "Advanced Manufacturing Manual Machining",
+    "Industrial Controls Technician",
+    "Automation and Engineering Controls",
+    "Automotive Service Technology (AAS and TC)",
+    "Automotive Heating and Air Conditioning",
+    "Automotive Engine Performance",
+    "Automotive Transmissions and Axles",
+    "CNC Operator Microcredential",
+    "Apprentice Preventative Maintenance Technician"
+   ],
+   "credentials": "AAS; Technical Certificate; Certificate of Proficiency; Microcredential"
+  },
+  {
+   "name": "Arkansas State University Mid-South",
+   "type": "community college",
+   "city": "West Memphis",
+   "home_url": "https://asumidsouth.edu/",
+   "trades_url": "https://asumidsouth.edu/academics/degrees-programs/",
+   "programs": [
+    "Auto & Diesel Maintenance",
+    "Automotive and Diesel Maintenance Certificate",
+    "Automotive and Diesel Engine Technology Certificate",
+    "Machinist Certificate",
+    "Engineering Technician Certificate",
+    "Quality Technician Metrologist Certificate",
+    "Mechatronics Levels I-IV"
+   ],
+   "credentials": "Technical Certificate; Certificate"
+  },
+  {
+   "name": "Arkansas Northeastern College",
+   "type": "community college",
+   "city": "Blytheville",
+   "home_url": "https://www.anc.edu/",
+   "trades_url": "https://www.anc.edu/programs",
+   "programs": [
+    "Electrical Apprenticeship (Department of Labor, via The Solutions Group)"
+   ]
+  },
+  {
+   "name": "University of Arkansas Community College at Batesville",
+   "type": "community college",
+   "city": "Batesville",
+   "home_url": "https://www.uaccb.edu/",
+   "trades_url": "https://www.uaccb.edu/degrees/skilled-trades/",
+   "programs": [
+    "Skilled Trades Program (TC, CP, PST)",
+    "Welding Program (TC & CP)"
+   ],
+   "credentials": "Technical Certificate; Certificate of Proficiency; PST"
+  },
+  {
+   "name": "Southeast Arkansas College",
+   "type": "community college",
+   "city": "Monticello",
+   "home_url": "https://seark.edu/",
+   "trades_url": "https://seark.edu/technical-studies",
+   "programs": [
+    "Welding Technology",
+    "Industrial Maintenance Technology",
+    "General Technology Program"
+   ]
+  },
+  {
+   "name": "Phillips Community College of the University of Arkansas",
+   "type": "community college",
+   "city": "Helena-West Helena",
+   "home_url": "https://www.pccua.edu/",
+   "trades_url": "https://www.pccua.edu/degrees-and-certificates/",
+   "programs": [
+    "Advanced Manufacturing (CP, TC)",
+    "CDL Truck Driving (CP)",
+    "Construction Technology (AAS, CP, TC)"
+   ],
+   "credentials": "AAS; Technical Certificate; Certificate of Proficiency"
+  },
+  {
+   "name": "ATU Ozark Campus",
+   "type": "technical college",
+   "city": "Ozark",
+   "home_url": "https://www.atu.edu/ozark/",
+   "trades_url": "https://www.atu.edu/ozark/workforceandeconomicdevelopment/index.php"
+  },
+  {
+   "name": "University of Arkansas Cossatot",
+   "type": "community college",
+   "city": "De Queen",
+   "home_url": "https://www.cccua.edu/",
+   "trades_url": "https://www.cccua.edu/community-workforce/index.html",
+   "programs": [
+    "Auto Diesel (degree plan PDF linked from homepage)"
+   ]
+  },
+  {
+   "name": "University of Arkansas Community College at Morrilton",
+   "type": "community college",
+   "city": "Morrilton",
+   "home_url": "https://www.uaccm.edu/",
+   "trades_url": "https://www.uaccm.edu/heavy_equipment_training/index.html",
+   "programs": [
+    "Heavy Equipment Operator Training"
+   ]
+  },
+  {
+   "name": "National Park College",
+   "type": "community college",
+   "city": "Hot Springs",
+   "home_url": "https://np.edu/",
+   "trades_url": "https://np.edu/community-friends/career-academy/",
+   "programs": [
+    "Automotive Service",
+    "Construction Technology",
+    "Marine Repair Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "University of Arkansas Hope-Texarkana",
+   "type": "state college",
+   "city": "Hope",
+   "home_url": "https://www.uaht.edu/",
+   "trades_url": "https://www.uaht.edu/technical-programs.php",
+   "programs": [
+    "Construction Technology (CP, TC)",
+    "Diesel Technology (CP, TC)",
+    "HVAC (CP, TC)",
+    "Welding (CP, TC)"
+   ],
+   "credentials": "Certificate of Proficiency; Technical Certificate"
+  },
+  {
+   "name": "Arkansas State University Three Rivers",
+   "type": "technical college",
+   "city": "Malvern",
+   "home_url": "https://www.asutr.edu/",
+   "trades_url": "https://www.asutr.edu/page/apprenticeship-trades",
+   "programs": [
+    "Apprenticeship Trades",
+    "Welding",
+    "Mechatronics"
+   ]
+  },
+  {
+   "name": "University of Arkansas Rich Mountain",
+   "type": "community college",
+   "city": "Mena",
+   "home_url": "https://www.uarichmountain.edu/",
+   "trades_url": "https://www.arjoblink.arkansas.gov/etp/public/training_institutions/628/institution_programs",
+   "programs": [
+    "Advanced Manufacturing-Welding (AAS)",
+    "Welding (Certificate of Proficiency)",
+    "Welding (Technical Certificate)",
+    "Commercial truck driving"
+   ],
+   "credentials": "AAS; Certificate of Proficiency; Technical Certificate"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 700",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew700.org/",
+   "description": "IBEW 700 union local website; the homepage was fetched but carried no descriptive text."
+  },
+  {
+   "name": "Arkansas AFL-CIO apprenticeships page",
+   "kind": "apprenticeship program",
+   "url": "https://arkansasafl-cio.com/apprenticeships",
+   "description": "Arkansas AFL-CIO page for apprenticeship programs; program names were not extracted."
+  },
+  {
+   "name": "El Dorado Elec. JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "El Dorado",
+   "url": "https://eldoradojatc.com/",
+   "apprenticeship_url": "https://eldoradojatc.com/",
+   "description": "Electrical Apprenticeship Training in South Arkansas."
+  },
+  {
+   "name": "IBEW Local 700",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Ft. Smith",
+   "url": "https://www.ibew700.com/",
+   "apprenticeship_url": "https://www.ibew700.com/apprenticeship",
+   "description": "Welcome to IBEW 700 in Fort Smith, AR offering Electrical Union, Electricians, Electrician Job Placement, Electrician Dispatch and more. Near Bentonville, AR and Fayetteville, AR."
+  },
+  {
+   "name": "IUOE Local 351 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "El Dorado",
+   "url": "https://local351.com/",
+   "description": "Local 351 provides continuing training and education to the Union Stewards to insure each Union Steward understands the role of a Union Steward versus just being an employee of his/her employer."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Russellville Carpenters and Millwrights Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Russellville",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 216 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Russellville",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Arkansas Department of Labor and Licensing - Electrical Inspection and Licensing",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.arkansas.gov/labor/code-enforcement/electrical-inspection-and-licensing/",
+   "description": "State page for electrical inspection and licensing under the Arkansas Department of Labor and Licensing."
+  },
+  {
+   "name": "Arkansas Department of Labor and Licensing - HVAC-R",
+   "trades": [
+    "HVAC-R"
+   ],
+   "url": "https://labor.arkansas.gov/labor/code-enforcement/hvac-r/",
+   "description": "State page for HVAC-R licensing under the Arkansas Department of Labor and Licensing."
+  },
+  {
+   "name": "Arkansas Contractors Licensing Board",
+   "trades": [
+    "general contractors",
+    "specialty contractors"
+   ],
+   "url": "https://labor.arkansas.gov/licensing/arkansas-contractors-licensing-board/",
+   "description": "Board that licenses contractors in Arkansas, under the Arkansas Department of Labor and Licensing."
+  },
+  {
+   "name": "Arkansas Department of Labor and Licensing - Boiler Inspection, Licensing and Permits",
+   "trades": [
+    "boiler"
+   ],
+   "url": "https://labor.arkansas.gov/labor/code-enforcement/boiler-inspection-licensing-and-permits/",
+   "description": "State page for boiler inspection, licensing and permits."
+  },
+  {
+   "name": "Arkansas Department of Labor and Licensing - Elevator Inspection and Permits",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://labor.arkansas.gov/labor/code-enforcement/elevator-inspection-and-permits/",
+   "description": "State page for elevator inspection and permits."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Arkansas Future (ArFuture) Grant",
+   "url": "https://adhe.edu/",
+   "provider": "Arkansas Division of Higher Education",
+   "kind": "grant",
+   "provides": "The Arkansas Division of Higher Education site points students to programs that qualify for the Arkansas Future (ArFuture) Grant or the Arkansas Workforce Challenge.",
+   "eligibility": "Program must qualify for the grant (program list on the ADHE site)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Arkansas WIOA workforce services",
+   "url": "https://dws.arkansas.gov/workforce-services/wioa/",
+   "provider": "Arkansas Division of Workforce Services",
+   "kind": "other",
+   "provides": "The Arkansas DWS WIOA page explains that the U.S. Department of Labor administers WIOA funds through its Employment and Training Administration, and lists the state WIOA plans and policy manual.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,2506 @@
+{
+ "code": "IL",
+ "state": "Illinois",
+ "colleges": [
+  {
+   "name": "Illinois Valley Community College",
+   "type": "community college",
+   "city": "North Orlando Smith Rd. Oglesby",
+   "home_url": "https://www.ivcc.edu/",
+   "trades_url": "https://www.ivcc.edu/programs/index.php",
+   "programs": [
+    "Automotive",
+    "Automotive Technology 2-Year Degree",
+    "Automotive Technology Certificates",
+    "Heating, Ventilation, and Air Conditioning (HVAC)",
+    "Heating, Ventilation, and Air Conditioning (HVAC) Certificate",
+    "Industrial Electrician Certificate",
+    "Industrial Electrician 2-Year Degree",
+    "Industrial Maintenance",
+    "Industrial Maintenance Certificate I",
+    "Industrial Maintenance Certificate II",
+    "Machinist, Tool and Die Making Certificate",
+    "Manufacturing Technology",
+    "Manufacturing Technology 2-Year Degree",
+    "Basic Manufacturing Certificate",
+    "Intermediate Manufacturing Certificate",
+    "Advanced Manufacturing Certificate",
+    "Robotics Mechatronics and Automation",
+    "Robotics Mechatronics and Automation Basic Certificate",
+    "Robotics Mechatronics and Automation Intermediate Certificate",
+    "Robotics Mechatronics and Automation Advanced Certificate",
+    "Skilled Trades 2-Year Degree",
+    "Skilled Trades Certificate",
+    "Welding",
+    "Welding Construction 2-Year Degree",
+    "AAS in Welding Construction to Bachelor's path with NIU (90+30)",
+    "Welding Production 2-Year Degree",
+    "AAS in Welding Production to Bachelor's path with NIU (90+30)",
+    "Welding - GMAW Basic Certificate",
+    "Welding - GMAW Intermediate Certificate",
+    "Welding - GMAW Advanced Certificate",
+    "Welding - GTAW Certificate",
+    "Welding - OAW Certificate",
+    "Welding - SMAW Basic Certificate",
+    "Welding - SMAW Intermediate Certificate",
+    "Welding - SMAW Advanced Certificate"
+   ]
+  },
+  {
+   "name": "Heartland Community College",
+   "type": "community college",
+   "city": "Tuition Financial Aid Normal",
+   "home_url": "https://www.heartland.edu/",
+   "trades_url": "https://www.heartland.edu/manufacturing/index.html",
+   "programs": [
+    "Apprenticeships",
+    "Why Manufacturing?",
+    "MTT 122 - Basic CNC Lathe Machining",
+    "MTT 132 - Basic CNC Mill Machining",
+    "MTT 222 - Advanced CNC Lathe Machining",
+    "MTT 232 - Advanced CNC Mill Machining",
+    "TECH 171 - 10-Hour OSHA Construction",
+    "TECH 271 - 30-Hour OSHA Construction",
+    "TECH 272 - 30-Hour General Construction Safety",
+    "Request CNC Machining Info",
+    "MTFG 115 - Manufacturing Production & Processes",
+    "MTT 121 - Introduction to Lathe Machining",
+    "MTT 131 - Introduction to Mill Machining",
+    "WELD 110 - Introduction to Welding Processes",
+    "WELD",
+    "HVAC",
+    "Request Machine Tool Technology Info",
+    "Request Manual Machining Info",
+    "MAIN 101 - Industrial & Building Electricity",
+    "MAIN 220 - Mechatronics",
+    "Request Mechatronics I: Controls Info",
+    "MAIN 201 - Electrical Wiring & Maintenance",
+    "Request Mechatronics II: Systems Info",
+    "WELD 116 - Introduction to Shielded Metal Arc Welding",
+    "WELD 118 - Introduction to Gas Metal Arc Welding",
+    "WELD 216 - Advanced Shielded Metal Arc Welding",
+    "WELD 218 - Advanced Gas Metal Arc Welding",
+    "WELD 230 - Welding Capstone",
+    "Request Welding Skills Info",
+    "Request Shielded Metal Arc Welding Info",
+    "Request Gas Metal Arc Welding Info",
+    "WELD 119 - Introduction to Gas Tungsten Arc Welding",
+    "WELD 219 - Advanced Gas Tungsten Arc Welding",
+    "Request Gas Tungsten Arc Welding Info",
+    "TECH 171 or 172 - OSHA Construction Safety or OSHA General Industry Safety"
+   ]
+  },
+  {
+   "name": "City Colleges of Chicago",
+   "type": "community college",
+   "city": "N. Wabash Chicago",
+   "home_url": "https://www.ccc.edu/",
+   "trades_url": "https://www.ccc.edu/departments/ccc-carpentry-apprenticeship-program-frequently-asked-questions/",
+   "programs": [
+    "Apprenticeships",
+    "Become an Apprentice",
+    "Chicago Regional Carpenters Apprentice Training Fund"
+   ]
+  },
+  {
+   "name": "Harper College",
+   "type": "community college",
+   "city": "West Algonquin Road Palatine",
+   "home_url": "https://www.harpercollege.edu/",
+   "trades_url": "https://www.harpercollege.edu/academics/",
+   "programs": [
+    "Manufacturing and Construction",
+    "Apprenticeships",
+    "Manufacturing and Construction Manufacturing and Construction Explore",
+    "Campus Construction",
+    "Construction Updates"
+   ]
+  },
+  {
+   "name": "John A. Logan College",
+   "type": "community college",
+   "city": "Logan College Drive Carterville",
+   "home_url": "https://www.jalc.edu/",
+   "trades_url": "https://www.jalc.edu/find-a-program/",
+   "programs": [
+    "Architecture and Construction",
+    "Manufacturing",
+    "Automotive Services Technology – AAS Degree",
+    "Automotive Services Technology – Basic Certificate",
+    "Automotive Services Technology – Hybrid/EV Certificate",
+    "Automotive Services Technology – Master Certificate",
+    "CNC Machinist – Certificate",
+    "Construction Management Technology – AAS Degree",
+    "Electrical Engineering Technology – AAS Degree",
+    "Engineering – Electrical Engineering – AES Degree",
+    "Mechatronics Engineering Technology – AAS Degree",
+    "Welding – Advanced SMAW (Stick) Welding Technology – Certificate",
+    "Welding – Basic GMAW (MIG) Welding Technology – Certificate",
+    "Welding – Basic GTAW (TIG) Welding Technology – Certificate",
+    "Welding – Basic SMAW (Stick) Welding Technology – Certificate",
+    "Welding Technology – AAS Degree",
+    "Welding Technology – Certificate"
+   ]
+  },
+  {
+   "name": "Kankakee Community College",
+   "type": "community college",
+   "city": "College Drive Kankakee",
+   "home_url": "https://www.kcc.edu/",
+   "trades_url": "https://www.kcc.edu/continuinged/",
+   "programs": [
+    "Highway Construction Careers Training Program"
+   ]
+  },
+  {
+   "name": "Kaskaskia College",
+   "type": "community college",
+   "city": "College Road Centralia",
+   "home_url": "https://www.kaskaskia.edu/",
+   "trades_url": "https://www.kaskaskia.edu/campus-life/services--resources/career-services/apprenticeship-program/",
+   "programs": [
+    "Apprenticeship Program",
+    "Aspirations in Manufacturing",
+    "Crisp Manufacturing and Trades Center",
+    "Employer/Student Apprentice Interest Form",
+    "Welding Technology",
+    "Automotive Technology",
+    "Residential & Commercial Electricity",
+    "Apprenticeship Tax Credit",
+    "Apprenticeship Education Expenses Tax Credit Application",
+    "Checklist for Apprenticeship Application",
+    "Apprenticeship Activities and Performance Template"
+   ]
+  },
+  {
+   "name": "Lewis and Clark Community College",
+   "type": "community college",
+   "city": "Godfrey",
+   "home_url": "https://www.lc.edu/",
+   "trades_url": "https://www.lc.edu/academic-programs/degrees-certificates/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Industrial Electricity",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "McHenry County College",
+   "type": "community college",
+   "city": "Crystal Lake",
+   "home_url": "https://www.mchenry.edu/",
+   "trades_url": "https://www.mchenry.edu/automotive/",
+   "programs": [
+    "automotive courses",
+    "Advanced Automotive Maintenance Technician Certificate",
+    "Automotive Technology AAS - Management Option",
+    "Automotive Maintenance Technician Certificate",
+    "Automotive Technician Certificate, Advanced",
+    "Automotive Chassis Certificate",
+    "Automotive Electrical Certificate",
+    "Automotive Technology Program Mission",
+    "Automotive Technology Program Learning Objective",
+    "Electrical and Electronics Installers and Repairers, Transportation Equipment",
+    "Automotive Service Technicians and Mechanics",
+    "Campus Construction"
+   ]
+  },
+  {
+   "name": "Lincoln Land Community College",
+   "type": "community college",
+   "city": "Shepherd Rd. Springfield",
+   "home_url": "https://www.llcc.edu/",
+   "trades_url": "https://www.llcc.edu/get-training-enter-workforce",
+   "programs": [
+    "Automotive",
+    "Commercial Electrical Maintenance",
+    "Construction Technologies",
+    "Diesel Technologies",
+    "Electrical Distribution Lineman",
+    "HVACR (Heating, Ventilation, Air Conditioning, Refrigeration)",
+    "Industrial Technology (Advanced Manufacturing)",
+    "Truck Driver Training CDL Basic",
+    "Welding",
+    "Solar PV Training",
+    "Automotive Technology",
+    "Construction Occupations",
+    "Highway Construction Careers Training",
+    "HVACR"
+   ]
+  },
+  {
+   "name": "Moraine Valley Community College",
+   "type": "community college",
+   "city": "W. College Pkwy. Palos Hills",
+   "home_url": "https://www.morainevalley.edu/",
+   "trades_url": "https://www.morainevalley.edu/program/",
+   "programs": [
+    "Manufacturing",
+    "Skilled Trades and Mechanical Technology",
+    "Architecture and Construction"
+   ]
+  },
+  {
+   "name": "Morton College",
+   "type": "community college",
+   "city": "S. Central Ave. Cicero",
+   "home_url": "https://www.morton.edu/",
+   "trades_url": "https://www.morton.edu/workforce-and-community-programs",
+   "programs": [
+    "Commercial Driver’s License",
+    "Residential Electrician",
+    "Electrical Technician"
+   ]
+  },
+  {
+   "name": "Oakton Community College",
+   "type": "community college",
+   "city": "E. Golf Road Des Plaines",
+   "home_url": "https://www.oakton.edu/",
+   "trades_url": "https://www.oakton.edu/academics/list-of-programs/computer-numerical-control-cnc-certificate.php",
+   "programs": [
+    "Construction",
+    "Apprenticeship Program",
+    "Advanced CNC Certificate",
+    "View the Course Catalog for the Computer Numerical Control (CNC) Certificate"
+   ]
+  },
+  {
+   "name": "Parkland College",
+   "type": "community college",
+   "city": "West Bradley Avenue Champaign",
+   "home_url": "https://www.parkland.edu/",
+   "trades_url": "https://www.parkland.edu/Main/Academics/Departments/Workforce-Development",
+   "programs": [
+    "Apprenticeships",
+    "Apprenticeship Programs",
+    "Ag and Construction Equipment Technician",
+    "Automotive Collision Repair Technician",
+    "Automotive Technician",
+    "Diesel Technician",
+    "Industrial Maintenance Technician",
+    "Construction Management",
+    "Industrial Manufacturing Technician",
+    "Pre-Apprenticeship Programs",
+    "Manufacturing",
+    "Hire an Apprentice",
+    "SWFT CDL Application",
+    "Construction & Manufacturing"
+   ]
+  },
+  {
+   "name": "Carl Sandburg College",
+   "type": "community college",
+   "city": "Tom L. Wilson Blvd. Galesburg",
+   "home_url": "https://www.sandburg.edu/",
+   "trades_url": "https://www.sandburg.edu/admissions-aid/paying-for-college/programs-scholarships.html",
+   "programs": [
+    "Industrial trades",
+    "automotive technology program",
+    "welding technology program"
+   ]
+  },
+  {
+   "name": "Elgin Community College",
+   "type": "community college",
+   "city": "Elgin",
+   "home_url": "https://elgin.edu/",
+   "trades_url": "https://elgin.edu/areas-of-study/automotive/",
+   "programs": [
+    "Automotive",
+    "Automotive Service Technology",
+    "Automotive Electrical Specialist"
+   ]
+  },
+  {
+   "name": "Rend Lake College",
+   "type": "community college",
+   "city": "North Ken Gray Pkwy Ina",
+   "home_url": "https://rlc.edu/",
+   "trades_url": "https://rlc.edu/all-programs",
+   "programs": [
+    "Apprenticeships",
+    "Southern Illinois Manufacturing Academy",
+    "Applied Science & Technology Automotive Technology",
+    "Applied Science & Technology Diesel Technology",
+    "Applied Science & Technology Heavy Equipment Technology",
+    "Applied Science & Technology Industrial Mechatronics & Maintenance Technician",
+    "Applied Science & Technology Manufacturing Technology",
+    "Applied Science & Technology Welding Technology",
+    "Automotive Technology",
+    "Diesel Technology",
+    "Heavy Equipment Technology",
+    "Manufacturing Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Frontier Community College (Illinois Eastern CC)",
+   "type": "community college",
+   "city": "Fairfield",
+   "home_url": "https://iecc.edu/fcc",
+   "trades_url": "https://iecc.edu/catalog",
+   "programs": [
+    "Apprenticeship Programs",
+    "Apprenticeship",
+    "Industrial Maint.: HVAC",
+    "Financial Information/Program & Course Fees: Automotive Technology",
+    "Automotive Technology (AUM D522)",
+    "Automotive Service Specialist (AUM C526)",
+    "Diesel Equipment Technology (DIESL D535)"
+   ]
+  },
+  {
+   "name": "College of Lake County",
+   "type": "community college",
+   "home_url": "https://www.clcillinois.edu/",
+   "trades_url": "https://www.clcillinois.edu/programs/egrdv/automation-robotics-and-mechatronics/mechatronics-technology-certificate-career-certificate",
+   "programs": [
+    "Automation, Robotics and Mechatronics: Programs & Pathways",
+    "Associate in Applied Science (A.A.S.) in Automation, Robotics and Mechatronics",
+    "Meet our Automation, Robotics and Mechatronics experts",
+    "Associate Degree in Automation, Robotics and Mechatronics",
+    "automation, robotics and mechatronics",
+    "Learn about manufacturing careers",
+    "View Details Automation, Robotics and Mechatronics A.A.S."
+   ]
+  },
+  {
+   "name": "Lincoln Trail College (Illinois Eastern CC)",
+   "type": "community college",
+   "city": "Robinson",
+   "home_url": "https://iecc.edu/ltc",
+   "trades_url": "https://iecc.edu/catalog",
+   "programs": [
+    "Apprenticeship Programs",
+    "Apprenticeship",
+    "Industrial Maint.: HVAC",
+    "Financial Information/Program & Course Fees: Automotive Technology",
+    "Automotive Technology (AUM D522)",
+    "Automotive Service Specialist (AUM C526)",
+    "Diesel Equipment Technology (DIESL D535)"
+   ]
+  },
+  {
+   "name": "Olney Central College (Illinois Eastern CC)",
+   "type": "community college",
+   "city": "Olney",
+   "home_url": "https://iecc.edu/occ",
+   "trades_url": "https://iecc.edu/catalog",
+   "programs": [
+    "Apprenticeship Programs",
+    "Apprenticeship",
+    "Industrial Maint.: HVAC",
+    "Financial Information/Program & Course Fees: Automotive Technology",
+    "Automotive Technology (AUM D522)",
+    "Automotive Service Specialist (AUM C526)",
+    "Diesel Equipment Technology (DIESL D535)"
+   ]
+  },
+  {
+   "name": "Wabash Valley College (Illinois Eastern CC)",
+   "type": "community college",
+   "city": "Mt. Carmel",
+   "home_url": "https://iecc.edu/wvc",
+   "trades_url": "https://iecc.edu/catalog",
+   "programs": [
+    "Apprenticeship Programs",
+    "Apprenticeship",
+    "Industrial Maint.: HVAC",
+    "Financial Information/Program & Course Fees: Automotive Technology",
+    "Automotive Technology (AUM D522)",
+    "Automotive Service Specialist (AUM C526)",
+    "Diesel Equipment Technology (DIESL D535)"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 150 (Libertyville)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Libertyville",
+   "url": "https://ibew150.org/",
+   "description": "IBEW Local Electricians Union 150 serving Lake County, Illinois."
+  },
+  {
+   "name": "Lake County JATC (IBEW 150 / NECA)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical",
+    "telecommunications"
+   ],
+   "url": "http://www.lakecountyjatc.org/",
+   "description": "Joint apprenticeship and training committee for IBEW Local 150 members, with apprentice rates and class registration pages.",
+   "how_to_apply": "Forms and FAQs listed on the site under How to Apply."
+  },
+  {
+   "name": "DuPage County JATC (IBEW 701)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "http://www.dupagejatc.org/",
+   "description": "Joint apprenticeship and training committee for DuPage County electrical apprentices, linked from the IBEW Local 701 site."
+  },
+  {
+   "name": "IBEW Local 701",
+   "kind": "union local",
+   "trades": [
+    "electrical",
+    "telecommunications"
+   ],
+   "url": "https://www.ibew701.org/",
+   "description": "IBEW Local Union 701 site, describing electrical and telecommunications continuing education and safety training for members."
+  },
+  {
+   "name": "Operating Engineers Local 399",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment operation",
+    "stationary engineering"
+   ],
+   "city": "Chicago area",
+   "url": "https://www.iuoe399.org/",
+   "description": "IUOE Local 399 site with a class schedule and seminar listings for members, and City of Chicago stationary engineer license renewal notices."
+  },
+  {
+   "name": "American Line Builders Apprenticeship Trng",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Architectural Iron Worker Local 63",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Architectural Iron Workers Local 63",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Bloomington-Normal Jatc/Communications",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 107",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 169",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 27",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 363",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 374",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 60",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 647",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 744",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakeas Area Local 85",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Boilermakers National Apprenticeship Program, Great Lakes Area Local 1",
+   "kind": "JATC / training center",
+   "trades": [
+    "boilermaking"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Brick & Stone Masons Local 20",
+   "kind": "union local",
+   "trades": [
+    "masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Bricklayers & Allied Craftworkers, Local #6, Illinois Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Bricklayers Bac Local #8 Of Illinois",
+   "kind": "union local",
+   "trades": [
+    "masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Bricklayers Local 21 Of Illinois Apprenticeship & Training Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Bricklayers Local 27 Of Illinois Apprenticeship & Training Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Bricklayers Local 56 Of Illinois Apprenticeship & Training Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Carpenter Training Center Of The Quad Cities Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Carpenter Training Center Of The Quad City",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Carpenters Local Union",
+   "kind": "union local",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Cement Masons Union Local 502",
+   "kind": "union local",
+   "trades": [
+    "masonry",
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Champaign-Urbana-Streator-Pontiac Electrical Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicago Area Drywall Finishers Jac",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicago Area Painting & Decorating Joint Apprenticeship & Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicago Area Painting J.A.T.C.",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicago Glaziers Jac Local 27",
+   "kind": "JATC / training center",
+   "trades": [
+    "glazing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicago Pattern Makers Jac",
+   "kind": "JATC / training center",
+   "trades": [
+    "pattern making"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicagoland Laborers' Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "laborers"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicagoland Laborers' Training & Apprentice Fund",
+   "kind": "JATC / training center",
+   "trades": [
+    "laborers"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicagoland Roofer'S Joint Apprenticeship & Training Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicagoland Roofers' Jatc, #5",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Chicagoland Roofers' Joint Apprenticeship & Trng. Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Collegeville Ibew Electricians Local #380",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Danville Neca / Ibew Electrical Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Dupage County Cement Masons Local 803, Joint Apprenticeship Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry",
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Dupage County J.A.T.C.",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Dupage County Joint Apprenticeship And Training Committee, Local 701",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "El Paso Electrical J.A.T.C",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Electrical Joint Apprenticeship And Training Trust Local #134",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Electricians Local  34 Neca-Ibew",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Fox Valley Cement Masons Union Local 11, Area 638 Apprenticeship",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry",
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Glaziers Local 27 Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "glazing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Heat & Frost Insulators Local #17",
+   "kind": "union local",
+   "trades": [
+    "insulators"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Heat & Frost Insulators Local #17 Joint Apprenticeship & Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "insulators"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Heat & Frost Insulators Local 1 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "insulators"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "I.B.E.W. Local #117 J.A.T.C.",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "I.B.E.W. Local #176 Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "I.B.E.W. Local 150 Lake County Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "I.B.E.W. Local 461 Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "I.U.E.C. Local #2 J.A.C.",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "I.U.E.C. Local #55 J.A.C.",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "I.U.O.E. Local #103 Jatc",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew Local #649 Jatc Electrician",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew Local #649 Jatc Residential",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew Local #649 Jatc Telecommunications",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew Local #9 Middle States",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew Local 164, Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew Local 34 Neca/Jac  Peoria, Il",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew Local 34 Neca/Jac Peoria, Il",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew-Neca #649 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ibew-Neca #702 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Illinois Laborers & Contractors Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "laborers"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Illinois Teamsters Training Fund",
+   "kind": "JATC / training center",
+   "trades": [
+    "teamsters"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Illowa Sheet Metal Workers Local 91 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "International Association Of Bridge, Structural And Reinforcing, Iron Worker'S Local 1",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "International Union Of Elevator Constructors Local 33 Jac",
+   "kind": "JATC / training center",
+   "trades": [
+    "elevator construction"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "International Union Of Elevator Constructors Local 55 Jac",
+   "kind": "JATC / training center",
+   "trades": [
+    "elevator construction"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iron Workers Local # 393 Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iron Workers Local #392 Jac",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iron Workers Local 46 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iron Workers Local 46 Jatc Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iron Workers Local 465",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iron Workers Local 577",
+   "kind": "union local",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ironworkers Local #380, Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ironworkers-Rockford Area Jatc Local # 498",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iuec Local 132",
+   "kind": "union local",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iuoe Local Union 450 Apprenticeship And Training Fund",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Iron Workers Local 112 Joint Apprenticeship Training & Re-Tr",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "J.A.C. Plumbers & Pipefitters",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Joint Apprenticeship & Training Committee Of Plumbers Lu #63",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Joint Apprenticeship & Training Committee Of Steamfitters353",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Joint Training Council Of E.A.P.H.C.C. & U.A. Local 160",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Joliet Plumbers And Pipefitters Local 422 Jac",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Journeymen Plasterers' #5 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Lake County Jatc - Telecommunications",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Local 18 Joint Apprenticeship Training Fund",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Mid Central Illinois Regional Council Of Carpenters Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Mid State Contractors &Sheet Metal Workers Local 218-C J.A.C",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council Apprentice and Training Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Midstate Electrical Training Center",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "N Il Cem-Plst Jatc Local 11",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "N.E.C.A.-I.B.E.W. Local Union #461 Jatc",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Neca-Ibew Local 176 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Neca-Ibew Local 193 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Neca/I.B.E.W. Local 117 Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Neca/Ibew Residential Wiremen Local 146 Decatur Illinois",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Neca/Ibew-Jatc Midstate Division Local #146",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Northern Il Elect. Jatc Telecommunicatio",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Northern Il Elect. Jatc Telecommunication",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Northern Illinois Electrical J.A.T.C",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Nw Il & E Ia Dist. Council Of Carpenters Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Operating Engineers 318 Apprenticeship & Advanced Training",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Operating Engineers Apprenticeship & Skills Improvement Comm #965",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Operating Engineers Local 150 Apprenticeship Fund",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Operating Engineers Local 520 Joint Apprenticeship Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "heavy equipment"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Operating Engineers Local 649 Atp",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Painters & Allied Trades D.C.#30 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Painters Dist. Council #58 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Pipe Fitters' Local 597",
+   "kind": "union local",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Pipefitters Jatc, Cleveland Lu 120",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Pipefitters Training Fund Local Union 597",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plasterer'S Jatc Local Union 18",
+   "kind": "JATC / training center",
+   "trades": [
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plasterers & Cement Masons Jatc, Akron Lu 109",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry",
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plasterers Local 5 Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plasterers Local 90 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plasterers' & Cement Masons' Local #143 J.A.C.",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry",
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plmbr/Pipeftr Loc 65 Jac",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers & Gasfitters Local #360",
+   "kind": "union local",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "PLUMBERS & PIPEFITTERS JATC of EASTER IA & WESTERN IL",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers & Pipefitters Jatc, Lima Area Lu 776",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers & Pipefitters Local #101",
+   "kind": "union local",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers & Pipefitters Local #551 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers & Pipefitters Local 357",
+   "kind": "union local",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers & Pipefitters, Local #99 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers Jatc, Cleveland Lu 55",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Plumbers Joint Apprenticeship Committee Local 130 U.A.",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Peoria Area Roofers Joint Apprenticeship Training Fund L.U.6",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Quad City Electrical Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Quad City Ironworker Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Quad City Painters Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Quad City Roofers Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Raynor Garage Doors Jatc",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Riggers, Machinery Movers & Machinery Erectors Local #136",
+   "kind": "union local",
+   "trades": [
+    "machinery moving"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Rockford Area Iron Workers Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "ironwork"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Rockford Area Plumbing, Pipefitting & Refrigeration Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Roofers Jac, Toledo Area",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Roofers Local 92",
+   "kind": "union local",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Seiu Local #1 Training Fund",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Local #1 North Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers L.U. 218-D Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "SHEET METAL WORKERS L.U. 218-S Apprenticeship Training and Development Fund",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers L.U. 218-S Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers Local #1 And The Central Illinois Chapte",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers Local #1 North Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers Local 25 Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers Local 265",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers Local 265, Joint Apprenticeship And Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers Local 73",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sheet Metal Workers Local 91",
+   "kind": "union local",
+   "trades": [
+    "sheet metal"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sign & Pictorial Painters Local 830",
+   "kind": "union local",
+   "trades": [
+    "painting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "So. Il. Carpenters Training Center Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Southwestern Il J.A.T.C.",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Southwestern Il J.A.T.C. #309",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Southwestern Il Jatc Residential #309",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Southwestern Illinois Jatc - Electricians",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Southwestern Illinois Jatc - Electricians #309",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sprinkler Fitters & Apprentices Union Local 281Training",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sprinkler Fitters Jatc",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Sprinklerfitters Lo. #696, Jatc",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "St. Louis Cement Masons Joint Apprenticeship Program",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry",
+    "plastering/cement masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Standard Of Apprenticeship For The Trade Of Building Maintenance Repairer",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Steamfitters Local 353",
+   "kind": "union local",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Southern Illinois Chapter NECA/ IBEW 702 JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Technical Division Of Local 130, Usa",
+   "kind": "union local",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Terre Haute Electrical Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "The Northern Illinois Painters, Decorators, Glaziers And Drywall Finishers Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting",
+    "glazing"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Tile Finishers Union, B.A.C. Local 67",
+   "kind": "union local",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Tuckpointers Local 52 Illinois Apprenticeship Trust",
+   "kind": "JATC / training center",
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Twin City Brickmasons Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "masonry"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Ua Pipefitters Lu #274, Jatc",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "United Association Of Steamfitters Jac (Local #439)",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing/pipefitting"
+   ],
+   "url": "https://labor.illinois.gov/laws-rules/conmed/apprenticeship-survey-submission.html",
+   "description": "Registered apprenticeship sponsor named on the Illinois Department of Labor apprenticeship survey page (name only; city and contact are not on that page)."
+  },
+  {
+   "name": "Bloomington/Normal JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Bloomington",
+   "url": "https://www.ibew197.org/",
+   "apprenticeship_url": "https://www.ibew197.org/apprenticeship/",
+   "description": "IBEW 197."
+  },
+  {
+   "name": "IBEW Local 117",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Elgin",
+   "url": "https://ibew117.com/",
+   "apprenticeship_url": "https://ibew117.com/apprenticeship/",
+   "description": "IBEW Local Union 117 Referral / Jobs REFERRAL RULES Journeyman Inside Wireman, Residential Wireman, VDV Installer/Technician, Manufacturing Member Login Serving […]."
+  },
+  {
+   "name": "IBEW Local 134",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Chicago",
+   "url": "https://www.lu134.org/",
+   "description": "IBEW Local 134."
+  },
+  {
+   "name": "IBEW Local 145",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Rock Island",
+   "url": "https://www.ibewlocal145.com/",
+   "apprenticeship_url": "https://www.ibewlocal145.com/careers/",
+   "description": "IBEW Local 145 Serving Iowa & Illinois Since 1925 Serving Iowa & Illinois Since 1925 Welcome to the International Brotherhood of Electrical Workers Local 145 Serving Cedar, Clinton, Jackson, Muscatine, […]."
+  },
+  {
+   "name": "IBEW Local 146",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Decatur",
+   "url": "https://ibew146.com/",
+   "apprenticeship_url": "https://ibew146.com/training-program/",
+   "description": "Home - IBEW LOCAL 146."
+  },
+  {
+   "name": "IBEW Local 150",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Waukegan",
+   "url": "https://ibew150.org/",
+   "apprenticeship_url": "https://ibew150.org/wp-content/uploads/2020/11/Continuing-Education-Training-Completion.pdf",
+   "description": "IBEW 150 Electricians Union has been serving Lake County, IL for over 100 years. Since 1914 we have grown to 1,200 members. Contact us today!"
+  },
+  {
+   "name": "IBEW Local 176",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Joliet",
+   "url": "https://www.ibewlocal176.org/",
+   "apprenticeship_url": "https://www.ibewlocal176.org/jatc.html",
+   "description": "IBEW Local 176 Union."
+  },
+  {
+   "name": "IBEW Local 193",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Springfield",
+   "url": "https://ibew193.com/",
+   "description": "IBEW 193."
+  },
+  {
+   "name": "IBEW Local 196",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Rockford",
+   "url": "https://www.ibew196.com/",
+   "apprenticeship_url": "https://www.ibew196.com/?zone=/unionactive/view_page.cfm&page=Training",
+   "description": "IBEW Local 196."
+  },
+  {
+   "name": "IBEW Local 197",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Bloomington",
+   "url": "https://www.ibew197.org/",
+   "apprenticeship_url": "https://www.ibew197.org/apprenticeship/",
+   "description": "IBEW 197."
+  },
+  {
+   "name": "IBEW Local 309",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Collinsville",
+   "url": "https://www.ibew309.com/",
+   "apprenticeship_url": "https://www.ibew309.com/training/",
+   "description": "The International Brotherhood of Electrical Workers Local 309."
+  },
+  {
+   "name": "IBEW Local 34",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Peoria",
+   "url": "https://www.ibew34.org/",
+   "apprenticeship_url": "https://www.ibew34.org/classandtraininginfo/",
+   "description": "IBEW 34."
+  },
+  {
+   "name": "IBEW Local 364",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Rockford",
+   "url": "https://www.ibew364.org/",
+   "apprenticeship_url": "https://www.ibew364.org/Training/",
+   "description": "The International Brotherhood of Electrical Workers Local 364."
+  },
+  {
+   "name": "IBEW Local 461",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Aurora",
+   "url": "https://ibew461.org/",
+   "apprenticeship_url": "https://ibew461.org/apprenticeship/",
+   "description": "IBEW Local 461 has over 350 electricians covering the Inside Wireman, Residential Wireman and Voice/Data/Video Installer classifications."
+  },
+  {
+   "name": "IBEW Local 538",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Danville",
+   "url": "https://ibew538.org/",
+   "apprenticeship_url": "https://ibew538.org/continuing/",
+   "description": "Notice New pages added to the site: Jobsite Watchdog’s | IBEW Local 538 The Watchdog's page is a new way for members to participate in sharing information with the hall regarding contractors/jobsite/upcoming work in the area. Organizing Leads | IBEW Local 538 The Organizing."
+  },
+  {
+   "name": "IBEW Local 601",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Champaign-Urbana",
+   "url": "https://www.ibew601.org/",
+   "apprenticeship_url": "https://www.ibew601.org/apprenticeshipopportunitydocument/",
+   "description": "IBEW 601."
+  },
+  {
+   "name": "IBEW Local 9",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Chicago",
+   "url": "https://www.ibew9.org/",
+   "apprenticeship_url": "https://www.ibew9.org/apprenticeshipopportunities/",
+   "description": "IBEW 9."
+  },
+  {
+   "name": "IUOE Local 318 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Marion",
+   "url": "http://iuoelocal318.com/about",
+   "apprenticeship_url": "http://iuoelocal318.com/apprenticeship-and-training",
+   "description": "About IUOE Local 318 &#8211; IUOE Local 318 MEMBER LOGIN About News and Information Member Relations Forms and Documents Photos Apprenticeship and Training &times; Log In Here Username: Password: Forgot Your Password?"
+  },
+  {
+   "name": "IUOE Local 150 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Countryside",
+   "url": "https://local150.org/",
+   "apprenticeship_url": "https://local150.org/asip/",
+   "description": "The International Union of Operating Engineers Local 150 is a union representing over 24,000 working men and women in construction and related industries."
+  },
+  {
+   "name": "IUOE Local 399 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Chicago",
+   "url": "https://www.iuoe399.org/",
+   "description": "Click here to learn more Technology Center Video Overview Our Technology Center/Education Department takes pride in our reputation for providing students with the highest level education/training in our industry."
+  },
+  {
+   "name": "IUOE Local 649 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Peoria",
+   "url": "https://iuoe649.org/",
+   "apprenticeship_url": "https://iuoe649.org/",
+   "description": "The local 649 is the Peoria charter of the IUOE. Since 1917, we have provided help with collective bargaining, legislative action, &amp; extensive training."
+  },
+  {
+   "name": "IUOE Local 965 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Springfield",
+   "url": "https://www.iuoe965.org/",
+   "apprenticeship_url": "https://www.iuoe965.org/apprenticeship/",
+   "description": "Illinois Union of Operating Engineers 965 serves 15 counties in central Illinois. We represent construction, shop, quarry, and public sector employees."
+  },
+  {
+   "name": "IUOE Local 841 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Oakwood",
+   "url": "https://iuoelocal841.com/",
+   "apprenticeship_url": "https://iuoelocal841.com/careers/apprenticeship/"
+  },
+  {
+   "name": "IUPAT District Council 14",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://pdc14.com/",
+   "apprenticeship_url": "https://pdc14.com/training",
+   "description": "Welcome to Chicago"
+  },
+  {
+   "name": "IUPAT District Council 30",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://pdc30.com/",
+   "apprenticeship_url": "https://pdc30.com/member-resources/ncifti-training",
+   "description": "Painters District Council No. 30 is a union construction trade organization representing painters, drywall finishers, and glaziers since 1925. PDC 30 is made up of nine Local Unions, spanning 29 counties."
+  },
+  {
+   "name": "BAC ADC 1 of Illinois",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Elmhurst",
+   "url": "https://bacadc1.org/",
+   "apprenticeship_url": "https://bacadc1.org/dc-training-center-calendar/benefit-fund-office"
+  },
+  {
+   "name": "BAC 08 Illinois",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "O’Fallon",
+   "url": "https://bac8il.com/",
+   "apprenticeship_url": "https://bac8il.com/apprenticeship-training",
+   "description": "News Training, Education, &amp; Safety Apprenticeship &amp; Training Continuous Training Midwest Coalition of Labor Online Store Contact Us Pay Membership Dues Online BAC Local 8 of Illinois represents masonry and allied craftworkers in 76 counties in Illinois and 2 counties in Iowa."
+  },
+  {
+   "name": "Illinois Laborers’ and Contractors Joint Apprenticeship and Training Program",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Marion",
+   "url": "https://www.illaborers.org/",
+   "apprenticeship_url": "https://www.illaborers.org/",
+   "description": "Earn Your College Degree Related Links Training Calendar Schedule Sexual Harassment Prevention Training Journeyman Application Facilities Mt."
+  },
+  {
+   "name": "Chicagoland Laborers Training Center",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Chicago",
+   "url": "https://www.chicagolaborers.org/",
+   "apprenticeship_url": "https://www.chicagolaborers.org/contractors/apprentice-program",
+   "description": "Quality Training Benefit from comprehensive programs designed to meet high standards, empowering you with essential skills and confidence."
+  },
+  {
+   "name": "Railroad Training and Education Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Bloomington",
+   "url": "https://www.railcet.net/",
+   "apprenticeship_url": "https://www.railcet.net/about/training-education-fund",
+   "description": "The Railroad Cooperation and Education Trust is an organization of railroad labor and management trustees that cooperates in all of railroad contracting."
+  },
+  {
+   "name": "Chicagoland Laborers District Council Training and Apprentice Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Carol Stream",
+   "url": "https://www.chicagolaborers.org/",
+   "apprenticeship_url": "https://www.chicagolaborers.org/contractors/apprentice-program",
+   "description": "Quality Training Benefit from comprehensive programs designed to meet high standards, empowering you with essential skills and confidence."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "Chicago",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice & Training Center Elk Grove Village Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Elk Grove Village",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice & Training Center Rockford Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Rockford",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice & Training Program - Pekin Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Pekin",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice & Training Program Quad Cities Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "East Moline",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice and Training Center Belleville Illinois Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Belleville",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Illowa Millwrights Apprentice & Training",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "East Moline",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 243 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Champaign",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 272 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Chicago Heights",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 54 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Bridgeview",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 10 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Bridgeview",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 58 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Chicago",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 13 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Chicago",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1027 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lisle",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1693 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lisle",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1185 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lisle",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Chicago",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 790 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Rock Falls",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1889 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lisle",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 174 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Joliet",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 664 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Wood River",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 237 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "East Peoria",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2158 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "East Moline",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 792 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Rockford",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 662 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Freeburg",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 270 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Springfield",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 250 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lakemoor",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Sheet Metal Local 265",
+   "union": "SMART",
+   "kind": "union local",
+   "url": "https://www.smart-union.org/smart-local-265-lays-foundation-for-the-next-112-years/",
+   "apprenticeship_url": "https://www.smart-union.org/smart-local-265-lays-foundation-for-the-next-112-years/",
+   "description": "In early September, SMART Local 265 (DuPage County, Illinois) held a ribbon-cutting and grand opening ceremony for its new union hall and training center during the local’s annual picnic and car show."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Illinois Department of Public Health - Plumbing licensing",
+   "trades": [
+    "plumber",
+    "plumbing contractor",
+    "plumber apprentice",
+    "irrigation contractor"
+   ],
+   "url": "https://www.illinois.gov/services/service.plumber-license.html",
+   "description": "Licenses plumbers, plumbing contractors, plumbers apprentices and irrigation contractors under the Illinois Plumbing License Law (225 ILCS 320); the plumber license application is on this page."
+  },
+  {
+   "name": "Illinois Department of Public Health - Plumbing program",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://dph.illinois.gov/topics-services/environmental-health-protection/plumbing.html",
+   "description": "IDPH environmental health page for the plumbing program."
+  },
+  {
+   "name": "Illinois Department of Financial and Professional Regulation - Professional licensing",
+   "trades": [
+    "roofing"
+   ],
+   "url": "https://idfpr.illinois.gov/dpr/professional-licensing-illinois.html",
+   "description": "IDFPR list of regulated professions and industries in Illinois. Roofing licensing under the Roofing Industry Licensing Act is a state-level IDFPR function per search results; the roofing detail is not on this page."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Apprenticeship Illinois",
+   "url": "https://www.illinoisworknet.com/ApprenticeshipIL/Pages/default.aspx",
+   "provider": "Illinois workNet",
+   "kind": "apprenticeship",
+   "provides": "Apprenticeship Illinois provides information on Registered Apprenticeship for career seekers and employers.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "WIOA Approved Training Programs Search",
+   "url": "https://www.illinoisworknet.com/Training/Pages/WIOATrainingProgramSearch.aspx",
+   "provider": "Illinois workNet",
+   "kind": "other",
+   "provides": "Here you can explore high-quality training programs that lead to in-demand jobs across Illinois.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Illinois Monetary Award Program (MAP) grant",
+   "url": "https://www.isac.org/students/during-college/types-of-financial-aid",
+   "provider": "Illinois Student Assistance Commission",
+   "kind": "grant",
+   "provides": "The FAFSA will also determine if you are eligible for the need-based Illinois Monetary Award Program grant.",
+   "eligibility": "Need-based; eligibility determined from the FAFSA (per page)",
+   "how_to_apply": "Complete the Free Application for Federal Student Aid (FAFSA)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Find ISAC Financial Aid Programs",
+   "url": "https://www.isac.org/paying-college/find-isac-financial-aid-programs",
+   "provider": "Illinois Student Assistance Commission",
+   "kind": "other",
+   "provides": "Start your financial aid journey with FAFSA tips, planning tools, and local support.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

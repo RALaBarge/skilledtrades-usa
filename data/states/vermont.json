@@ -1,0 +1,171 @@
+{
+ "code": "VT",
+ "state": "Vermont",
+ "colleges": [
+  {
+   "name": "Vermont State University (Vermont Tech campuses: Randolph and Williston)",
+   "type": "state college",
+   "city": "Randolph",
+   "home_url": "https://vermontstate.edu/",
+   "trades_url": "https://vermontstate.edu/academic-programs/construction-management-aas/",
+   "programs": [
+    "Construction Management, A.A.S. (Randolph)",
+    "Construction Management, B.S. (Randolph)",
+    "Electrical Engineering Technology, A.E. (Randolph, Williston)",
+    "Mechanical Engineering Technology, A.E. (Randolph)",
+    "Electromechanical Engineering Technology, B.S. (Randolph)",
+    "Aviation Maintenance Technology, A.A.S. (Williston)",
+    "Automotive Technology, A.A.S. (Randolph) - applications paused, program being redesigned",
+    "Diesel Power Technology, A.A.S. (Randolph) - applications paused, program being redesigned"
+   ],
+   "credentials": "A.A.S., A.E., B.S. degrees. Registered apprenticeships in electrical and plumbing (Levels I-IV, with Vermont Dept. of Labor) run through the Division of Professional Development and Continuing Education."
+  },
+  {
+   "name": "Community College of Vermont",
+   "type": "community college",
+   "city": "Statewide (multiple campuses)",
+   "home_url": "https://ccv.edu/",
+   "trades_url": "https://ccv.edu/academics/areas-of-study/manufacturing/",
+   "programs": [
+    "Manufacturing Certificate",
+    "Manufacturing STEM Studies + Credentials",
+    "Certified Production Technician (CPT) credential track (CCV/Hazelett partnership)"
+   ],
+   "credentials": "Manufacturing certificate; Certified Production Technician (CPT) nationally recognized credential; stackable certificate-to-degree maps."
+  },
+  {
+   "name": "Central Vermont Career Center (CVCC)",
+   "type": "career-tech center",
+   "city": "Barre",
+   "home_url": "https://www.cvtcc.org/",
+   "trades_url": "https://www.cvtcc.org/apps/pages/building_trades",
+   "programs": [
+    "Building Trades (residential and commercial carpentry, NCCER)",
+    "Automotive Technology (includes welding skills)",
+    "Baking Arts",
+    "Cosmetology",
+    "Co-operative Education"
+   ],
+   "credentials": "NCCER Core Curriculum; NCCER Carpentry Level 1 and 2; OSHA 10-hour; S/P2 Mechanical Safety; post-secondary credit options."
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 300 (Vermont Electrical Union) Electrical Apprenticeship Program / JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "South Burlington",
+   "url": "https://ibewlocal300.org/apprenticeship.html",
+   "description": "IBEW Local 300 runs an electrical apprenticeship program with apprentice classes, and its site lists apprentice courses, a JATC committee and a contractor directory."
+  },
+  {
+   "name": "Associated General Contractors of Vermont (AGC/VT)",
+   "kind": "contractor association",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://www.agcvt.org/",
+   "description": "AGC/VT is the trade association for Vermont's construction industry, offering training, events and safety programs since 1934."
+  },
+  {
+   "name": "Vermont State University Division of Professional Development & Continuing Education (registered apprenticeships)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "manufacturing maintenance"
+   ],
+   "city": "Randolph",
+   "url": "https://vermontstate.edu/about/professional-development-and-continuing-education/",
+   "description": "The division runs registered apprenticeship programs for electricians and plumbers (Levels I-IV) with the Vermont Department of Labor, tracks registration and hours, and holds code update and licensing exam prep workshops. It also runs advanced manufacturing apprenticeships.",
+   "how_to_apply": "Registration opens each July for electrical and plumbing apprenticeships; the 2025-26 session page lists the calendar and orientation sessions."
+  },
+  {
+   "name": "Vermont Department of Labor Registered Apprenticeship Program",
+   "kind": "apprenticeship program",
+   "city": "Montpelier",
+   "url": "https://labor.vermont.gov/apprenticeship",
+   "description": "State registered apprenticeship program that sets up and registers apprenticeships for employers and sponsors, with a new employer apprenticeship fund and resources for sponsors.",
+   "how_to_apply": "Employers and sponsors start a new program through the sponsor pages on this site. Job seekers can use the jobseekers page."
+  },
+  {
+   "name": "IBEW Local 300",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Montpelier",
+   "url": "https://ibewlocal300.org/",
+   "apprenticeship_url": "https://ibewlocal300.org/training-and-education/",
+   "description": "Local 300 is a labor union that serves 1,000-plus working Vermonters, and is located in South Burlington. Local 300 members are employed at some of the most we."
+  },
+  {
+   "name": "IUOE Local 98 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "South Burlington",
+   "url": "https://iuoelocal98.org/",
+   "apprenticeship_url": "https://iuoelocal98.org/training/"
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Vermont Division of Fire Safety, Trade Licensing and Certifications (Electrical, Plumbing, Boilers and Pressure Vessels, Elevators/Conveyances, Gas, Oil Burner Installers, Sprinkler Systems)",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "boilers and pressure vessels",
+    "elevators",
+    "gas",
+    "oil burner installers",
+    "sprinkler systems"
+   ],
+   "url": "https://firesafety.vermont.gov/licensing",
+   "description": "The Division of Fire Safety licenses and certifies electricians and plumbers, along with boiler, elevator, gas, oil burner and sprinkler trades. It requires continuing education for renewal and offers fillable forms and an online portal for trade licenses. The Office of Professional Regulation (sos.vermont.gov/opr) states that plumbers and electricians fall outside its jurisdiction and point to Fire Safety."
+  }
+ ],
+ "funding": [
+  {
+   "name": "802Opportunity (Free Tuition at CCV)",
+   "url": "https://www.vsac.org/free-tuition-community-college-vermont",
+   "provider": "Vermont Student Assistance Corporation (VSAC) / Community College of Vermont",
+   "kind": "tuition-free program",
+   "provides": "Tuition-free attendance at CCV for over 30 flexible programs, funded by the Vermont Legislature.",
+   "eligibility": "Family income of $100,000 or less; new or returning students of any age without a bachelor's degree (per page).",
+   "amount": "Tuition-free at CCV (per page)",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "Freedom & Unity (Free Tuition at Vermont State University)",
+   "url": "https://www.vsac.org/freedom-unity-free-tuition-vermont-state-university",
+   "provider": "Vermont Student Assistance Corporation (VSAC) / Vermont State University",
+   "kind": "tuition-free program",
+   "provides": "Tuition-free attendance at Vermont State University for associate or bachelor's programs (over 100 undergraduate programs), funded by the Vermont Legislature.",
+   "eligibility": "Family income of $85,000 or less; new or returning students of any age without a bachelor's degree enrolled in an associate or bachelor's program at VTSU (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "Vermont Trades Tuition Benefit Program",
+   "url": "https://www.vsac.org/workforce-development-funding",
+   "provider": "Vermont Student Assistance Corporation (VSAC)",
+   "kind": "tuition-free program",
+   "provides": "Covers up to full tuition (maximum $23,000) for training and certification programs in select high-demand sectors.",
+   "eligibility": "Vermont residents or non-residents enrolled in eligible industry training programs (per page).",
+   "amount": "Up to full tuition, maximum $23,000 (per page)",
+   "how_to_apply": "Requires signing a tuition benefit agreement with work obligations; funds must be repaid if the program is not completed or the work commitment is not met (per page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Vermont Grants (State, Federal and College)",
+   "url": "https://www.vsac.org/pay/student-aid-options/grants",
+   "provider": "Vermont Student Assistance Corporation (VSAC)",
+   "kind": "grant",
+   "provides": "Vermont state, federal and institutional grants for college, with guidance on how to apply through VSAC.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,493 @@
+{
+ "code": "CO",
+ "state": "Colorado",
+ "colleges": [
+  {
+   "name": "https://www.aims.edu",
+   "type": "community college",
+   "home_url": "https://www.aims.edu/",
+   "trades_url": "https://www.aims.edu/degrees-certificates/electrical-certificate",
+   "programs": [
+    "Automotive Service Technician Certificate",
+    "Electrical Certificate",
+    "Advanced Electrical Certificate",
+    "Welding Technology",
+    "Earn a Welding Associate Degree at Aims",
+    "Make Welding Work for You",
+    "Get hands-on experience using state-of-the art welding equipment",
+    "Earn a Welding Technology Certificate",
+    "Launch Your Welding Technology Career",
+    "Welding career options",
+    "Welding Technology Faculty and Staff",
+    "Master Automobile Diesel Certificates",
+    "Gain Diesel Vehicle Repair Skills With a Diesel Mechanic Certificate at Aims.",
+    "Diesel Automotive Certificate",
+    "Electrical Fundamentals",
+    "Heavy Duty HVAC"
+   ]
+  },
+  {
+   "name": "https://www.cmc.edu",
+   "type": "community college",
+   "home_url": "https://www.cmc.edu/",
+   "trades_url": "https://www.cmc.edu/athenaeum/fostering-intimacy-intelligent-machines",
+   "programs": [
+    "Fostering Intimacy with Intelligent Machines",
+    "Construction",
+    "Falling in Love with Machines"
+   ]
+  },
+  {
+   "name": "https://ccaurora.edu",
+   "type": "community college",
+   "home_url": "https://ccaurora.edu/",
+   "trades_url": "https://ccaurora.edu/es/programs/mecanica-diesel/"
+  },
+  {
+   "name": "https://www.ccd.edu",
+   "type": "community college",
+   "home_url": "https://www.ccd.edu/",
+   "trades_url": "https://www.ccd.edu/program/fabrication-welding",
+   "programs": [
+    "Fabrication Welding",
+    "Basic Welding",
+    "Intermediate Welding",
+    "Welding Supplies",
+    "Machine Technologies",
+    "CNC Manufacturing",
+    "Basic Machining",
+    "CNC Machine Tool Operator",
+    "Machining/Welding Tech",
+    "Manual Machining",
+    "Advanced Manufacturing Center",
+    "CCD’s Industrial Design Degree Addresses High Demand in Manufacturing"
+   ]
+  },
+  {
+   "name": "https://www.frontrange.edu",
+   "type": "community college",
+   "home_url": "https://www.frontrange.edu/",
+   "trades_url": "https://www.frontrange.edu/programs-courses/apprenticeships/students/index.html",
+   "programs": [
+    "Apprenticeships for Students",
+    "How to Become an Apprentice",
+    "Want to Learn More About Apprenticeships?",
+    "FRCC Apprenticeship Programs",
+    "Automotive Technology",
+    "HVAC",
+    "Precision Machining",
+    "Apply to Be an Apprentice",
+    "Qualified Apprenticeship Intermediary",
+    "Welding Technology",
+    "Why Study Welding Technology at Front Range Community College?",
+    "AAS in Welding",
+    "Automated Welding and Cutting",
+    "Comprehensive Welding",
+    "Gas Metal Arc Welding",
+    "Gas Tungsten Arc Welding",
+    "Oxyacetylene Welding",
+    "Shielded Metal Arc Welding",
+    "Welding Fundamentals",
+    "Tanco Donation to Fund Welding Scholarships",
+    "Why Study Machining at Front Range Community College?",
+    "Precision Machining AAS",
+    "Program Location: Boulder County ( Center for Integrated Manufacturing ) Total Credits: 60 credits&nbsp;",
+    "Manual Machining Certificate",
+    "Program Location: Boulder County ( Center for Integrated Manufacturing ) Total Credits: 16 credits (1 semester)",
+    "CNC Machining Certificate",
+    "Program Location: Boulder County ( Center for Integrated Manufacturing ) Total Credits: 18 credits (2 semesters)",
+    "Precision Machining Certificate",
+    "Program Location: Boulder County ( Center for Integrated Manufacturing ) Total Credits: 34 credits (3 semesters)",
+    "Fast-Track Machining Training",
+    "Program Location: Boulder County ( Center for Integrated Manufacturing ) Total Credits: N/A (non-credit classes)",
+    "Why Study Automotive Technology at Front Range Community College?",
+    "AAS in Automotive Technology",
+    "Automotive Entry Level Technician&nbsp;Certificate",
+    "Automotive Comprehensive Technician Certificate",
+    "Automotive Electrical/Electronic Systems Certificate",
+    "Automotive Maintenance &amp; Light Repair Certificate",
+    "Automotive Heating and A/C Certificate",
+    "FRCC Launches New Automotive Partnership with Mazda"
+   ]
+  },
+  {
+   "name": "https://www.njc.edu",
+   "type": "community college",
+   "home_url": "https://www.njc.edu/",
+   "trades_url": "http://live-northeastern-junior-college.pantheonsite.io/program/diesel-technology",
+   "programs": [
+    "Diesel Technology",
+    "Diesel &amp; Automotive Master Technician",
+    "Diesel Electrical",
+    "Diesel Engines",
+    "Diesel Heavy Duty Brakes",
+    "Diesel Heavy Duty Powertrains",
+    "Diesel Heavy Duty Steering &amp; Suspension",
+    "Diesel HVAC",
+    "Diesel Hydraulics",
+    "Welding Technology",
+    "SMAW (Shielded Metal Arc Welding)",
+    "Welding Fabricator",
+    "GAS Metal Arc Welding (GMAW)",
+    "Shielded metal arc welding (SMAW)",
+    "Flux cored arc welding (FCAW)",
+    "Gas tungsten arc welding (GTAW)",
+    "Oxy-acetylene welding (OAW)",
+    "Automotive Technology",
+    "Advanced Automotive Electrical",
+    "Automotive &amp; Diesel Master Technician",
+    "Automotive Brake Systems",
+    "Automotive Drivability &amp; Emissions",
+    "Automotive Electrical",
+    "Automotive Engines",
+    "Automotive Heating &amp; Air Conditioning",
+    "Automotive Maintenance and Inspection",
+    "Automotive Manual Powertrains &amp; Clutches",
+    "Automotive Steering &amp; Suspension"
+   ]
+  },
+  {
+   "name": "https://otero.edu",
+   "type": "community college",
+   "home_url": "https://otero.edu/",
+   "trades_url": "https://otero.edu/catalog/degrees-certificates/welding-aas-degrees/",
+   "programs": [
+    "Welding Technology &#8211; AAS Degree &amp; Certificates",
+    "Start a Career in Welding",
+    "Welding Technology AAS Degree &amp; Course Information",
+    "Welding Certificates &amp; Course Information",
+    "Construction Trades Certificates &#038; AAS",
+    "Start a Career in Construction Trades",
+    "Job Outlook for Construction Trades Professionals",
+    "Construction Trades &#8211; AAS Degree &amp; Course Information",
+    "Construction Trades &#8211; Certificates &amp; Course Information",
+    "CON Construction Technology",
+    "CON 1010: Intro to Construction, Part 1 – 4 Credits",
+    "CON 1045: Construction Project Mgmt I – 2 Credits",
+    "CON 1058: NCCER Carpentry I – 6 Credits",
+    "CON 1059: NCCER Carpentry Level II – 6 Credits",
+    "CON 1062: NCCER Electrical I – 6 Credits",
+    "CON 1063: NCCER Electrical II – 6 Credits",
+    "CON 1066: NCCER Plumbing I – 6 Credits",
+    "CON 1067: NCCER Plumbing II – 6 Credits",
+    "CON 2007: Light Construction Equipment – 3 Credits",
+    "CON 2031: Construction Ethics – 3 Credits",
+    "WEL Welding",
+    "WEL 1007: Railroad Welding I – 3 Credits",
+    "WEL 1008: Railroad Welding II – 3 Credits",
+    "WEL 1009: Railroad Welding III – 3 Credits",
+    "WEL 1024: Gas Tungsten Arc Welding I – 4 Credits",
+    "WEL 1045: Intro to Robotic Welding – 2 Credits",
+    "WEL 2001: Gas Metal Arc Welding I – 4 Credits",
+    "WEL 2002: Gas Metal Arc Welding II -4 Credits",
+    "WEL 2004: Flux Cored Arc Welding II – 4 Credits",
+    "WEL 2024: Gas Tungsten Arc Welding II – 4 Credits",
+    "WEL 2030: Pipe Welding I – 4 Credits",
+    "WEL 2031: Pipe Welding II – 4 Credits"
+   ]
+  },
+  {
+   "name": "https://www.pikespeak.edu",
+   "type": "community college",
+   "home_url": "https://www.pikespeak.edu/",
+   "trades_url": "https://www.pikespeak.edu/programs/welding/index.php",
+   "programs": [
+    "Welding",
+    "Why Choose Welding at PPSC?",
+    "what do ppsc welding students learn?",
+    "What can you do with a welding degree from PPSC?",
+    "Automotive Service Technology",
+    "Architectural Engineer &amp; Construction Management",
+    "Contact Welding",
+    "Heating, Air Conditioning and Refrigeration Technology",
+    "Why Choose HVAC at PPSC?",
+    "what do ppsc hvac students study?",
+    "What can you do with an HVAC degree from PPSC?",
+    "Architecture &amp; Construction Management",
+    "Contact HVAC"
+   ]
+  },
+  {
+   "name": "https://pueblocc.edu",
+   "type": "community college",
+   "home_url": "https://pueblocc.edu/",
+   "trades_url": "https://pueblocc.edu/programs/hvac",
+   "programs": [
+    "Heating, Ventilation, and Air Conditioning (HVAC)",
+    "Apprenticeship Programs",
+    "What is an apprenticeship?",
+    "PCC's Apprenticeship Programs",
+    "Advanced Manufacturing",
+    "Why Manufacturing Matters",
+    "Explore Your Future in Advanced Manufacturing at PCC",
+    "Machining",
+    "Welding",
+    "Commercial Driver&#039;s License (CDL)"
+   ]
+  },
+  {
+   "name": "https://www.rrcc.edu",
+   "type": "community college",
+   "home_url": "https://www.rrcc.edu/",
+   "trades_url": "http://www.rrcc.edu/academic-programs/electrical",
+   "programs": [
+    "Electrical",
+    "Welding",
+    "Precision Machining",
+    "Air Conditioning, Heating &amp; Refrigeration"
+   ]
+  },
+  {
+   "name": "https://www.trinidadstate.edu",
+   "type": "community college",
+   "home_url": "https://www.trinidadstate.edu/",
+   "trades_url": "https://trinidadstate.edu/automotive-service-tech/index.html",
+   "programs": [
+    "Automotive Service Technology",
+    "Accelerate Your Career in Automotive",
+    "Automotive Service Technology Associate of Applied Science",
+    "Automotive Electrical Certificate",
+    "Automotive Service Technology Certificate",
+    "HVAC Certificate"
+   ]
+  },
+  {
+   "name": "https://www.cncc.edu",
+   "type": "community college",
+   "home_url": "https://www.cncc.edu/",
+   "trades_url": "https://cncc.edu/news/new-program-director-to-build-on-cncc-aviation-s-60-years-as-the-flight-path-of-the-western-slope.php",
+   "programs": [
+    "New Program Director to Build on CNCC Aviation’s 60 Years as the Flight Path of the Western Slope",
+    "CNCC Discontinues its Softball and Rodeo Programs",
+    "Style &amp; Substance: A Look Into Cosmetology at CNCC",
+    "Experience CNCC"
+   ]
+  },
+  {
+   "name": "https://www.delta.edu",
+   "type": "community college",
+   "home_url": "https://www.delta.edu/",
+   "trades_url": "https://www.delta.edu/programs/electrician/index.html",
+   "programs": [
+    "Electrician",
+    "Electrical Technology",
+    "Apprenticeships",
+    "HVACR Service Technology",
+    "HVACR - Service Technology",
+    "HVACR - Commercial Refrigeration",
+    "HVACR - Air Conditioning",
+    "HVACR - Heating",
+    "HVACR specialized areas of study",
+    "Welding Technology",
+    "Automotive Service Technology",
+    "Automotive Service Technology – Maintenance Light Repair Specialist",
+    "Automotive Service Technology – Undercar Specialist",
+    "Automotive - EV/Hybrid Technology",
+    "Automotive - Dual with General Management"
+   ]
+  },
+  {
+   "name": "https://www.emilygriffith.edu",
+   "type": "community college",
+   "home_url": "https://www.emilygriffith.edu/",
+   "trades_url": "https://www.emilygriffith.edu/apprenticeship/",
+   "programs": [
+    "APPRENTICESHIP",
+    "EXPLORE REGISTERED APPRENTICESHIPS",
+    "WELDING 1",
+    "About Welding 1",
+    "WELDING 2",
+    "About Welding 2",
+    "ELECTRICIAN REGISTERED APPRENTICESHIP",
+    "About Electrician Registered Apprenticeship"
+   ]
+  },
+  {
+   "name": "https://www.coloradomesa.edu",
+   "type": "community college",
+   "home_url": "https://www.coloradomesa.edu/",
+   "trades_url": "https://www.coloradomesa.edu/tech/programs/construction-electrical.html",
+   "programs": [
+    "Construction Electrical Program and Degree Options",
+    "Why choose the Construction Electrical program at CMU Tech?",
+    "Construction Electrical",
+    "Welding Technology Program and Degree Options",
+    "Why choose the Welding Technology program at CMU Tech?",
+    "Welding Technology",
+    "Mechatronics Program and Degree Options",
+    "Mechatronics",
+    "Automation and Instrumentation, Mechatronics",
+    "Electronics Technician, Mechatronics",
+    "The future of machining",
+    "What can I do with a Construction Management degree?",
+    "Other Construction Management resources"
+   ]
+  },
+  {
+   "name": "https://www.csupueblo.edu",
+   "type": "community college",
+   "home_url": "https://www.csupueblo.edu/",
+   "trades_url": "https://www.csupueblo.edu/facilities-management/planning-and-construction.html",
+   "programs": [
+    "Planning and Construction",
+    "Campus Construction Projects Process",
+    "Construction Projects",
+    "Construction Management, BS"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local Union 68 (Denver)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Denver",
+   "url": "https://ibewlu68.com/apprenticeship/",
+   "description": "Denver IBEW local whose apprenticeship page describes the electrical apprenticeship, including weekly class nights.",
+   "how_to_apply": "See the Join and Apprenticeship Application Form links on the page."
+  },
+  {
+   "name": "Colorado Springs Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Colorado Springs",
+   "url": "https://csejatc.org/",
+   "description": "Explore our top-rated electrician training programs in Colorado Springs. Join our electrical apprenticeship program to kickstart your career."
+  },
+  {
+   "name": "Denver Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Denver",
+   "url": "https://djeatc68.com/",
+   "apprenticeship_url": "https://djeatc68.com/inside-wireman-apprenticeship/",
+   "description": "DJEATC - Denver, Colorado - Electrical Apprenticeship & Training."
+  },
+  {
+   "name": "IBEW Local 111",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Denver",
+   "url": "https://www.ibew111.org/",
+   "apprenticeship_url": "https://www.ibew111.org/our-events/steward-training---advanced",
+   "description": "Local Union 111, of the International Brotherhood of Electrical Workers, has been proudly protecting the rights of working men and women in Colorado and Wyoming for over one hundred years."
+  },
+  {
+   "name": "IBEW Local 113",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Colorado Springs",
+   "url": "https://ibew113.com/",
+   "apprenticeship_url": "https://ibew113.com/apprenticeship",
+   "description": "International Brotherhood of Electrical Workers Local 113 - Serving Colorado Springs and surrounding areas since 1900. Quality electrical work, fair wages, and excellent benefits."
+  },
+  {
+   "name": "IBEW Local 12",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Pueblo",
+   "url": "https://ibew12.org/",
+   "description": "IBEW Local 12."
+  },
+  {
+   "name": "IBEW Local 68",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Denver",
+   "url": "https://ibewlu68.com/",
+   "apprenticeship_url": "https://ibewlu68.com/apprenticeship/",
+   "description": "IBEW LU 68 – International Brotherhood of Electrical Workers Local Union 68."
+  },
+  {
+   "name": "IUOE Local 1 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Broomfield",
+   "url": "https://www.iuoelocal1.org/",
+   "apprenticeship_url": "https://www.iuoelocal1.org/training",
+   "description": "IUOE Local 1 Rev1 – IUOE Local 1 Rev1 IUOE Local 1 History Organizing Training Calendar A RELIABLE TEAM Training the next generation of Operating Engineers is the lifeblood of our union."
+  },
+  {
+   "name": "IUOE Local 9 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Denver",
+   "url": "https://www.iuoelocal9.com/",
+   "apprenticeship_url": "https://www.iuoelocal9.com/?zone=/unionactive/view_article.cfm&HomeID=877881&page=ABOUT"
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Denver Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Denver",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 555 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Denver",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Denver Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Denver",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Colorado Electrical Board (Division of Professions and Occupations)",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://dpo.colorado.gov/Electrical",
+   "description": "Board page for electrical licensing and rules, administered through DORA's Division of Professions and Occupations."
+  },
+  {
+   "name": "Colorado Plumbing Board (Division of Professions and Occupations)",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://dpo.colorado.gov/Plumbing",
+   "description": "Board page for plumber licensing, renewals and continuing education, through DORA's Division of Professions and Occupations."
+  },
+  {
+   "name": "Colorado Division of Motor Vehicles (commercial driver licensing)",
+   "trades": [
+    "cdl"
+   ],
+   "url": "https://dmv.colorado.gov/cdl-general-information",
+   "description": "State page covering Commercial Driver License general information."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Colorado Promise (Two Free Years of College)",
+   "url": "https://highered.colorado.gov/colorado-promise",
+   "provider": "Colorado Department of Higher Education",
+   "kind": "tax credit",
+   "provides": "Colorado Promise is an income-qualified program that reimburses tuition and fees through a yearly refundable tax credit for up to 65 college credits.",
+   "eligibility": "Income-qualified; eligible students are enrolled automatically",
+   "amount": "Tuition and fees reimbursed up to 65 college credits",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Colorado Incentives and Tax Credits for employers",
+   "url": "https://cdle.colorado.gov/employers/incentives-tax-credits",
+   "provider": "Colorado Department of Labor and Employment",
+   "kind": "tax credit",
+   "provides": "The CDLE Incentives and Tax Credits page lists employer incentives including Federal Bonding and the Work Opportunity Tax Credit.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,818 @@
+{
+ "code": "OH",
+ "state": "Ohio",
+ "colleges": [
+  {
+   "name": "Cincinnati State Technical and Community College",
+   "type": "community college",
+   "city": "Cincinnati",
+   "home_url": "https://www.cincinnatistate.edu/",
+   "trades_url": "https://www.cincinnatistate.edu/academics/degree-certificate/basic-welding-certificate-bwc/",
+   "programs": [
+    "Automotive Engine Repair Technician Certificate",
+    "Automotive Heating and Air Conditioning Technician Certificate",
+    "Automotive Powertrain Technician Certificate",
+    "Automotive Service Management",
+    "Automotive Service Technician Certificate",
+    "Automotive Undercar Technician Certificate",
+    "Basic Welding Certificate",
+    "Electrical Engineering Technology - Biomedical Equipment",
+    "Electrical Engineering Technology - Electronics Systems",
+    "Electrical Engineering Technology - Power Systems"
+   ]
+  },
+  {
+   "name": "Clark State Community College",
+   "type": "community college",
+   "city": "Springfield",
+   "home_url": "https://www.clarkstate.edu/",
+   "trades_url": "https://www.clarkstate.edu/programs/diesel-technology-associate-of-applied-science/",
+   "programs": [
+    "Diesel Technology",
+    "Electrical Systems",
+    "HVAC and Refrigeration",
+    "HVAC EPA 608",
+    "HVAC-R Basic Electrical",
+    "Industrial Maintenance",
+    "Laser Beam Welding"
+   ]
+  },
+  {
+   "name": "Cuyahoga Community College (Tri-C)",
+   "type": "community college",
+   "city": "Cleveland",
+   "home_url": "https://www.tri-c.edu/",
+   "trades_url": "https://www.tri-c.edu/programs/applied-industrial-technology/skilled-construction-trades/carpentry/index.html",
+   "programs": [
+    "CNC Machining and Composite Manufacturing Pre-Apprenticeship",
+    "Building and Apartment Maintenance Training",
+    "Carpentry Program",
+    "Cement Masonry Program",
+    "Construction Pre-Apprenticeship Training",
+    "Construction Tending and Hazardous Material Abatement",
+    "Drywall Finishing Certificate",
+    "Operating Engineers Program"
+   ]
+  },
+  {
+   "name": "Edison State Community College",
+   "type": "community college",
+   "city": "Piqua",
+   "home_url": "https://www.edisonohio.edu/",
+   "trades_url": "https://edisonohio.edu/workforce-development-and-work-based-learning/apprenticeships",
+   "programs": [
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "Hocking College",
+   "type": "community college",
+   "city": "Nelsonville",
+   "home_url": "https://www.hocking.edu/",
+   "trades_url": "https://www.hocking.edu/hvac",
+   "programs": [
+    "Automotive Technology",
+    "Construction Management: Carpentry",
+    "CDL",
+    "Heavy Equipment Management",
+    "Heavy Equipment Operator Certificate",
+    "HVAC",
+    "Advanced Welding Certificate"
+   ]
+  },
+  {
+   "name": "Lakeland Community College",
+   "type": "community college",
+   "city": "Kirtland",
+   "home_url": "https://www.lakelandcc.edu/",
+   "trades_url": "https://www.lakelandcc.edu/web/about/construction",
+   "programs": [
+    "Construction"
+   ]
+  },
+  {
+   "name": "Lorain County Community College",
+   "type": "community college",
+   "city": "Elyria",
+   "home_url": "https://www.lorainccc.edu/",
+   "trades_url": "https://www.lorainccc.edu/business/advanced-manufacturing/",
+   "programs": [
+    "Advanced Manufacturing"
+   ]
+  },
+  {
+   "name": "Owens Community College",
+   "type": "community college",
+   "city": "Perrysburg",
+   "home_url": "https://www.owens.edu/",
+   "trades_url": "https://www.owens.edu/academics/programs/diesel-technology-aas/",
+   "programs": [
+    "Welding Major, AAS",
+    "Automotive Service Certificate",
+    "Dana Mechatronics Controls Certificate",
+    "Dana Mechatronics Engineering Certificate",
+    "Dana Mechatronics Maintenance Certificate",
+    "Diesel Service Certificate",
+    "Diesel Technology, AAS"
+   ]
+  },
+  {
+   "name": "Rhodes State College",
+   "type": "community college",
+   "city": "Lima",
+   "home_url": "https://www.rhodesstate.edu/",
+   "trades_url": "https://www.rhodesstate.edu/workforce-development-and-innovation/apprenticeships/",
+   "programs": [
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "Southern State Community College",
+   "type": "community college",
+   "city": "Mount Orab",
+   "home_url": "https://www.sscc.edu/",
+   "trades_url": "https://www.sscc.edu/continuinged/hvacr-technician.shtml",
+   "programs": [
+    "HVAC/R Technician"
+   ]
+  },
+  {
+   "name": "Stark State College",
+   "type": "community college",
+   "city": "North Canton",
+   "home_url": "https://www.starkstate.edu/",
+   "trades_url": "https://www.starkstate.edu/academics/career-communities/engineering-technologies-industrial-advanced-manufacturing-and-automotive-technologies/",
+   "programs": [
+    "Automotive technology",
+    "Commercial driver's license (CDL)",
+    "Computer numerical control (CNC) technical certificate",
+    "Electrical maintenance technology",
+    "Electrical/electronic engineering technology",
+    "HVACR technology",
+    "Industrial maintenance",
+    "Welding technology certificate"
+   ]
+  },
+  {
+   "name": "Terra State Community College",
+   "type": "community college",
+   "city": "Fremont",
+   "home_url": "https://www.terra.edu/",
+   "trades_url": "https://www.terra.edu/kern_center/workforce_training/apprenticeship_programs.php",
+   "programs": [
+    "Apprenticeship Programs",
+    "CDL Training (Class A and B)"
+   ]
+  },
+  {
+   "name": "Zane State College",
+   "type": "community college",
+   "city": "Zanesville",
+   "home_url": "https://www.zanestate.edu/",
+   "trades_url": "https://www.zanestate.edu/zane-states-electrical-electronics-engineering-techology-program-received-abet-reaccreditation/",
+   "programs": [
+    "Electrical/Electronics Engineering Technology"
+   ]
+  },
+  {
+   "name": "Central Ohio Technical College",
+   "type": "technical college",
+   "city": "Newark",
+   "home_url": "https://www.cotc.edu/",
+   "trades_url": "http://www.cotc.edu/degrees-certificates/industrial-electrician-tier-1",
+   "programs": [
+    "Electric Transmission and Power Distribution Technology",
+    "Electrical Engineering Technology",
+    "Heavy Equipment Operation Technology",
+    "Commercial Driver's License (CDL)",
+    "Industrial Electrician Tier 1"
+   ]
+  },
+  {
+   "name": "Eastern Gateway Community College",
+   "type": "community college",
+   "city": "Steubenville",
+   "home_url": "https://egcc.edu/",
+   "trades_url": "https://egcc.edu/programs/welding/",
+   "programs": [
+    "Electrical Trades",
+    "Electrical/Electronics",
+    "Machining",
+    "Welding"
+   ]
+  },
+  {
+   "name": "North Central State College",
+   "type": "community college",
+   "city": "Mansfield",
+   "home_url": "https://ncstatecollege.edu/",
+   "trades_url": "https://ncstatecollege.edu/certificates/cnc-operations-and-programming/",
+   "programs": [
+    "CNC Operations and Programming Certificate",
+    "Electrical Maintenance Certificate",
+    "Apprenticeship"
+   ]
+  },
+  {
+   "name": "Northwest State Community College",
+   "type": "community college",
+   "city": "Archbold",
+   "home_url": "https://northweststate.edu/",
+   "trades_url": "https://northweststate.edu/apprenticeships/",
+   "programs": [
+    "Apprenticeship Programs: Earn and Learn"
+   ]
+  },
+  {
+   "name": "Marion Technical College",
+   "type": "technical college",
+   "city": "Marion",
+   "home_url": "https://www.mtc.edu/",
+   "trades_url": "https://www.mtc.edu/academic-programs/engineering-technology/smart-manufacturing-technology/index.html",
+   "programs": [
+    "Electrical Engineering Technology",
+    "Semiconductor Manufacturing",
+    "Smart Manufacturing Technology"
+   ]
+  },
+  {
+   "name": "Belmont College",
+   "type": "community college",
+   "city": "St. Clairsville",
+   "home_url": "https://belmontcollege.edu/",
+   "trades_url": "https://belmontcollege.edu/academics/degrees-and-certificates/industrial-trades/",
+   "programs": [
+    "Industrial Trades",
+    "Heating, Ventilation, and Air Conditioning Technology Certificate",
+    "Heavy Equipment Technician",
+    "Welding Technology",
+    "CDL Truck Driving Academy",
+    "CDL Testing"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Columbus/Central Ohio Building and Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "electrician (IBEW 575, 683, 1105)",
+    "boilermaker",
+    "bricklayer",
+    "cement mason",
+    "elevator constructor",
+    "glazier",
+    "insulator",
+    "ironworker",
+    "laborer",
+    "operating engineer",
+    "painter",
+    "plumber and pipefitter",
+    "sprinkler fitter",
+    "roofer",
+    "sheet metal worker",
+    "teamster"
+   ],
+   "city": "Columbus",
+   "url": "https://columbusconstruction.org/jatc-training-centers/",
+   "description": "Central Ohio council whose member local unions run joint apprenticeship and training committee (JATC) training centers, listed on this page."
+  },
+  {
+   "name": "IBEW Local 683 JATC (The Electrical Trades Center)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrician"
+   ],
+   "city": "Columbus",
+   "url": "https://columbusconstruction.org/training-center/ibew-local-683-jatc/",
+   "description": "Training center page for IBEW Local 683's joint apprenticeship program, called The Electrical Trades Center."
+  },
+  {
+   "name": "Ohio Operating Engineers Apprenticeship (IUOE Local 18)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "heavy equipment operator",
+    "operating engineer"
+   ],
+   "city": "Columbus",
+   "url": "https://columbusconstruction.org/training-center/ohio-operating-engineers-apprenticeship/",
+   "description": "Page for the IUOE Local 18 operating engineers apprenticeship, listed with the Central Ohio JATC training centers."
+  },
+  {
+   "name": "IBEW Local 683",
+   "kind": "union local",
+   "trades": [
+    "electrician"
+   ],
+   "city": "Columbus",
+   "url": "https://www.ibew683.org/",
+   "description": "Website of IBEW Local 683 in Columbus."
+  },
+  {
+   "name": "Affiliated Construction Trades of Ohio (ACT Ohio)",
+   "kind": "building trades council",
+   "trades": [
+    "building trades (general)"
+   ],
+   "city": "Columbus",
+   "url": "https://www.actohio.org/",
+   "description": "State advocacy arm of the Ohio building trades, listing regional building and construction trades councils in Cincinnati, Cleveland, Dayton, Columbus and Butler County."
+  },
+  {
+   "name": "Building Futures (Urban League of Greater Southwestern Ohio)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction"
+   ],
+   "city": "Cincinnati",
+   "url": "https://www.ulgso.org/buildingfutures",
+   "description": "Urban League program page for Building Futures, a construction pre-apprenticeship program."
+  },
+  {
+   "name": "Building Futures Pre-Apprenticeship Program (Franklin County)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction"
+   ],
+   "city": "Columbus",
+   "url": "https://www.franklincountyohio.gov/Resident-Services/Support-Assistance/Work-and-Unemployment/Building-Futures-Pre-Apprenticeship-Program",
+   "description": "Franklin County, Ohio page for the Building Futures pre-apprenticeship program."
+  },
+  {
+   "name": "American Line Builders",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Medway",
+   "url": "https://albat.org/",
+   "apprenticeship_url": "https://albat.org/training-center/",
+   "description": "American Line Builders Joint Apprenticeship & Training - ALBAT."
+  },
+  {
+   "name": "Canton Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Massillon",
+   "url": "https://cantonjatc.org/",
+   "apprenticeship_url": "https://cantonjatc.org/getstarted/",
+   "description": "Inspired By Excellence & Innovation We offer superior training in our state-of-the-art facility. WHY CHOOSE CANTON JATC? Are you a student in high school planning your future? Are you a high school graduate and looking for a new direction? Do you have a job and are looking for a."
+  },
+  {
+   "name": "Cleveland Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Valley View",
+   "url": "https://cejatc.org/",
+   "apprenticeship_url": "https://cejatc.org/",
+   "description": "Cleveland Electrical Joint Apprenticeship & Training Committee – IBEW / NECA train the best candidates in Cleveland, Ohio for union electrical construction jobs."
+  },
+  {
+   "name": "Dayton Ohio Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Dayton",
+   "url": "https://www.82jatc.com/",
+   "apprenticeship_url": "https://www.82jatc.com/?zone=/unionactive/view_article.cfm&HomeID=737010",
+   "description": "Dayton Ohio Area Electrical JATC."
+  },
+  {
+   "name": "Electrical Training Academy",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Portsmouth",
+   "url": "https://electricaltrainingacademy.org/",
+   "apprenticeship_url": "https://electricaltrainingacademy.org/ctc-pre-apprenticeship",
+   "description": "PORTSMOUTH ELEC JATC."
+  },
+  {
+   "name": "IBEW Local 1105",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Newark",
+   "url": "https://www.ibewlocal1105.org/",
+   "apprenticeship_url": "https://www.ibewlocal1105.org/training/",
+   "description": "IBEW 1105."
+  },
+  {
+   "name": "IBEW Local 129",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Lorain",
+   "url": "https://www.ibew129.org/",
+   "apprenticeship_url": "https://www.ibew129.org/jatc/",
+   "description": "IBEW 129."
+  },
+  {
+   "name": "IBEW Local 1347",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Cincinnati",
+   "url": "https://ibew1347.org/",
+   "apprenticeship_url": "https://ibew1347.org/pdf/FINAL-PAL-POLITICAL-ACTIVISM-LIVELIHOOD.pptx",
+   "description": "LOCAL UNION 1347 - Cincinnati, OH."
+  },
+  {
+   "name": "IBEW Local 1413",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Toledo",
+   "url": "https://www.ibew1413.com/",
+   "description": "International Brotherhood of Electrical Workers Local Union 1413 in Toledo, Ohio. This site is another form of our continued effort to keep IBEW Local Union 1413 members and the community well informed about the activities of our Local Union."
+  },
+  {
+   "name": "IBEW Local 212",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Cincinnati",
+   "url": "https://local212.com/",
+   "description": "IBEW Local 212 – Building a Brighter Tomorrow, Today."
+  },
+  {
+   "name": "IBEW Local 245",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Toledo",
+   "url": "https://www.ibew245.com/",
+   "description": "IBEW Local 245."
+  },
+  {
+   "name": "IBEW Local 306",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Akron",
+   "url": "https://www.ibew306.org/",
+   "apprenticeship_url": "https://www.ibew306.org/?zone=/unionactive/view_page.cfm&page=JATC",
+   "description": "The Ultimate Website Management and Communications Tool for Unions."
+  },
+  {
+   "name": "IBEW Local 32",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Lima",
+   "url": "https://ibew32.com/",
+   "apprenticeship_url": "https://ibew32.com/wp-content/uploads/2026/11/SPECIAL-TRAINING-FLYER.pdf",
+   "description": "IBEW Local 32 has nearly 300 members in Allen, Auglaize, Hardin, Logan, Mercer, Shelby, Van Wert, Wyandot counties. We're a leader in safety, technology, training."
+  },
+  {
+   "name": "IBEW Local 38",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Cleveland",
+   "url": "https://ibew38.org/",
+   "apprenticeship_url": "https://ibew38.org/jatc/",
+   "description": "IBEW Local38 – Union Electricians in Cleveland, Ohio."
+  },
+  {
+   "name": "IBEW Local 540",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Canton",
+   "url": "https://ibew540.org/",
+   "description": "IBEW Local 540 represents skilled electrical workers in Stark and surrounding counties in Northeast Ohio. Apply now or explore our apprenticeship program."
+  },
+  {
+   "name": "IBEW Local 573",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Warren",
+   "url": "https://ibew573.org/",
+   "description": "| Trumbull County Electrical Workers."
+  },
+  {
+   "name": "IBEW Local 575",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Portsmouth",
+   "url": "https://ibew575.org/",
+   "description": "IBEW Local 575 represents skilled union electricians across the Ohio River Valley. View job calls, the referral process, apprenticeship and JATC training, member resources, and contractor information."
+  },
+  {
+   "name": "IBEW Local 64",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Youngstown",
+   "url": "https://ibew64.org/",
+   "apprenticeship_url": "https://ibew64.org/apprenticeship/",
+   "description": "IBEW Local 64 protects Union Members' rights in Northeast Ohio since 1902. We service the area with a highly skilled electrical workforce of inside wiremen – while also providing our members with all the benefits of belonging to the world’s most progressive trade union, the."
+  },
+  {
+   "name": "IBEW Local 648",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Hamilton",
+   "url": "https://www.ibew648.org/",
+   "apprenticeship_url": "https://www.ibew648.org/?zone=/unionactive/private_view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 648."
+  },
+  {
+   "name": "IBEW Local 673",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Painesville",
+   "url": "https://ibew673.org/",
+   "apprenticeship_url": "https://ibew673.org/electrician-apprenticeship/",
+   "description": "IBEW Local 673 represents electrical workers throughout all of Lake County, much of Ashtabula County and parts of Geauga County, Ohio."
+  },
+  {
+   "name": "IBEW Local 688",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Mansfield",
+   "url": "https://ibew688.org/",
+   "apprenticeship_url": "https://ibew688.org/training/",
+   "description": "Facebook Twitter Upcoming Events Thursday, August 6, 2026 11:30 A.M. – Retiree Luncheon Der Dutchmen Bellville Monday August 10, 2026 6:00 PM – Executive Board Meeting Tuesday April 11, […]."
+  },
+  {
+   "name": "IBEW Local 71",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Columbus",
+   "url": "https://www.ibew71.org/",
+   "apprenticeship_url": "https://www.ibew71.org/construction-apprenticeship/",
+   "description": "The work is here! IBEW Local 71 needs skilled linemen. Join the IBEW for top wages, family health benefits and a career with purpose. Apply now."
+  },
+  {
+   "name": "IBEW Local 82",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Dayton",
+   "url": "https://ibew82.org/",
+   "apprenticeship_url": "https://ibew82.org/ibew-82-apprenticeship/",
+   "description": "From industrial and commercial construction to power facilities and green energy expansion, IBEW 82 members have the training and expertise to build and maintain our communities for the next century."
+  },
+  {
+   "name": "IBEW Local 972",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Marietta",
+   "url": "https://www.ibew972.com/",
+   "apprenticeship_url": "https://www.ibew972.com/jatctrainingdirector/",
+   "description": "IBEW 972."
+  },
+  {
+   "name": "Steubenville JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Steubenville",
+   "url": "https://sejatc.org/",
+   "apprenticeship_url": "https://sejatc.org/contact-us/",
+   "description": "SEJATC Home - SEJATC."
+  },
+  {
+   "name": "Youngstown Elec. JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Youngstown",
+   "url": "https://yjatc.org/",
+   "apprenticeship_url": "https://yjatc.org/",
+   "description": "The Youngstown Area Electrical JATC delivers high quality training to apprentices of all different levels of education. The trade school supplies competent, well-educated journeyman workers along with continuing education classes relevant to the electrical construction industry."
+  },
+  {
+   "name": "IUOE Local 18 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Cleveland",
+   "url": "https://oe18.org/",
+   "apprenticeship_url": "https://oe18.org/careers/training/",
+   "description": "Local 18 is a leader among Ohio&#039;s unions, working to build our state&#039;s economy, providing support for workers&#039; rights, and improving workplaces in Ohio."
+  },
+  {
+   "name": "IUOE Local 66 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Youngstown",
+   "url": "https://iuoe66.org/",
+   "apprenticeship_url": "https://iuoe66.org/apprenticeships",
+   "description": "Operating Engineers Local 66 Labor Union represents heavy equipment operators and mechanics in the construction industry. Operating Engineers is the 10th largest union in the AFL-CIO."
+  },
+  {
+   "name": "IUPAT District Council 6",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://iupat-dc6.org/",
+   "apprenticeship_url": "https://iupat-dc6.org/training-and-education/"
+  },
+  {
+   "name": "BAC Local 23 Ohio/West Virginia/Kentucky/Maryland",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Amherst",
+   "url": "https://23bricks.org/",
+   "apprenticeship_url": "https://23bricks.org/apprenticeship/",
+   "description": "Benefits of joining Bricklayers and Allied Craftworkers Local 23 include outstanding wages and benefits, tuition-free training and safe working conditions."
+  },
+  {
+   "name": "Laborers’ Local 500",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Toledo",
+   "url": "https://www.laborerslocal500.org/"
+  },
+  {
+   "name": "Ohio Laborers’ Training and Apprenticeship Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Howard",
+   "url": "https://oltc.org/",
+   "apprenticeship_url": "https://oltc.org/training-center-amenities/",
+   "description": "Thrash Training Center Ohio union laborers have the opportunity to continue life-long training at the Drexel J."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Ohio Carpenters Joint Apprenticeship and Training Trust Fund Columbus Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Columbus",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Carpenters Joint Apprenticeship and Training Trust Fund Monroe Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Monroe",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Carpenters Joint Apprenticeship and Training Trust Fund Richfield Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Richfield",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Carpenters Joint Apprenticeship and Training Trust Fund Rossford Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Rossford",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 285 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "North Canton",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 437 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Portsmouth",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Monroe",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 200 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Columbus",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 744 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Bellevue",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2031 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Columbus",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 372 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lima",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2955 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Cleveland",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 735 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Mansfield",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 356 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Marietta",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1090 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "North Canton",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 136 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Monroe",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 650 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Cheshire",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 186 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Steubenville",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 351 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Rossford",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 171 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Market ST Youngstown",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Ohio State Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://ohiostatebtc.org/",
+   "description": "Home | Ohio State Building & Construction Trades Council Skip to content Toggle Navigation HOME ABOUT EXECUTIVE BOARD MEMBERS APPRENTICESHIP APPRENTICESHIP READINESS MILITARY/VETERAN NEWS ISSUES PREVAILING WAGE PROJECT LABOR AGREEMENTS “RIGHT TO WORK” CONTACT US Loading..."
+  },
+  {
+   "name": "Apprenticeship Readiness | Ohio State Building & Construction Trades Council",
+   "kind": "pre-apprenticeship",
+   "url": "https://ohiostatebtc.org/apprenticeship-readiness/",
+   "description": "Apprenticeship Readiness | Ohio State Building & Construction Trades Council Skip to content Toggle Navigation HOME ABOUT EXECUTIVE BOARD MEMBERS APPRENTICESHIP APPRENTICESHIP READINESS MILITARY/VETERAN NEWS ISSUES PREVAILING WAGE PROJECT LABOR AGREEMENTS “RIGHT TO WORK” CONTACT US Loading..."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Ohio Department of Commerce, Division of Industrial Compliance",
+   "trades": [
+    "boiler",
+    "elevator and escalator",
+    "building, mechanical and plumbing code rules"
+   ],
+   "url": "https://com.ohio.gov/divisions-and-programs/industrial-compliance",
+   "description": "Regulates boilers and elevators/escalators and publishes the Ohio Building, Mechanical and Plumbing code rules; hosts the boiler contractor list and elevator database."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Ohio College Opportunity Grant (OCOG)",
+   "url": "https://codes.ohio.gov/ohio-administrative-code/rule-3333-1-09.1",
+   "provider": "Ohio Department of Higher Education (rule 3333-1-09.1)",
+   "kind": "grant",
+   "provides": "A state need-based grant for Ohio residents attending participating Ohio colleges, with awards based on FAFSA-derived need and enrollment status.",
+   "eligibility": "Ohio resident (per rule); need-based using FAFSA results; limited to ten full-time semesters of eligibility (per Cleveland State page).",
+   "amount": "2025-2026 awards per Cleveland State page: $4,000 full-time, $3,000 three-quarter time, $2,000 half-time, $1,000 one-quarter time",
+   "how_to_apply": "Submit the FAFSA; application deadline October 1 each year (per Cleveland State page).",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

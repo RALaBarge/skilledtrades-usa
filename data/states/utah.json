@@ -1,0 +1,418 @@
+{
+ "code": "UT",
+ "state": "Utah",
+ "colleges": [
+  {
+   "name": "Bridgerland Technical College",
+   "type": "technical college",
+   "city": "Logan",
+   "home_url": "https://btech.edu/",
+   "trades_url": "https://btech.edu/programs/",
+   "programs": [
+    "Construction Technology",
+    "Electrical Apprenticeship",
+    "Plumbing Apprenticeship",
+    "Drafting and Design",
+    "Automation Technology",
+    "Machining Technology",
+    "Welding Technology",
+    "Automotive Maintenance and Light Repair",
+    "Automotive Technology",
+    "Commercial Driver's License - Class A",
+    "Diesel Technology",
+    "Heavy Equipment Operator"
+   ]
+  },
+  {
+   "name": "Davis Technical College",
+   "type": "technical college",
+   "city": "Kaysville",
+   "home_url": "https://davistech.edu/",
+   "trades_url": "https://davistech.edu/programs/",
+   "programs": [
+    "Drafting and Design",
+    "Electrical Apprenticeship",
+    "HVACR Technician",
+    "Plumbing Apprenticeship",
+    "Automation Technology",
+    "Machining Technology",
+    "Manufacturing Technology",
+    "Welding Technology",
+    "Advanced Automotive Technology",
+    "Automotive Technology",
+    "Commercial Drivers License Class A",
+    "Diesel Technology"
+   ]
+  },
+  {
+   "name": "Dixie Technical College",
+   "type": "technical college",
+   "city": "St. George",
+   "home_url": "https://dixietech.edu/",
+   "trades_url": "https://dixietech.edu/programs/",
+   "programs": [
+    "Drafting and Design",
+    "Construction Technology",
+    "Electrical Residential",
+    "Electrical Apprenticeship",
+    "HVACR Technician",
+    "Plumbing Residential",
+    "Plumbing Apprenticeship",
+    "Automotive Technology",
+    "Commercial Driver's License Class A",
+    "Commercial Driver's License Class B",
+    "Diesel Technology",
+    "Heavy Equipment Technology",
+    "Manufacturing Technology",
+    "Machining Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Mountainland Technical College",
+   "type": "technical college",
+   "city": "Lehi",
+   "home_url": "https://mtec.edu/",
+   "trades_url": "https://mtec.edu/programs/",
+   "programs": [
+    "Automation Technology",
+    "Automotive Maintenance and Light Repair",
+    "Automotive Technology",
+    "Civil Construction",
+    "Commercial Driver's License Class A",
+    "Diesel Technology",
+    "Electrical Apprenticeship",
+    "HVACR Technician",
+    "Machining Technology",
+    "Pipe Welding",
+    "Plumbing Apprenticeship",
+    "Precision and Automated Welding",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Ogden-Weber Technical College",
+   "type": "technical college",
+   "city": "Ogden",
+   "home_url": "https://www.otech.edu/",
+   "trades_url": "https://www.otech.edu/programs/",
+   "programs": [
+    "Welding Technology",
+    "Plumbing Apprenticeship",
+    "Electrical Apprenticeship",
+    "Machining Technology",
+    "Automotive Service Technology",
+    "CNC Machine Operator",
+    "Carpentry Fundamentals",
+    "Automation Technology",
+    "Union Sheet Metal Apprenticeship",
+    "Inside Wireman Apprenticeship",
+    "Electrical Trades Preparation",
+    "Drafting and Design",
+    "Industrial Systems Fundamentals"
+   ]
+  },
+  {
+   "name": "Southwest Technical College",
+   "type": "technical college",
+   "city": "Cedar City",
+   "home_url": "https://stech.edu/",
+   "trades_url": "https://stech.edu/programs/",
+   "programs": [
+    "Skilled Trades",
+    "Welding Technology",
+    "Automation Technology",
+    "Electrical Apprenticeship",
+    "Plumbing Apprenticeship",
+    "Automotive Technology",
+    "Commercial Driver's License Class A"
+   ]
+  },
+  {
+   "name": "Tooele Technical College",
+   "type": "technical college",
+   "city": "Tooele",
+   "home_url": "https://www.tooeletech.edu/",
+   "trades_url": "https://www.tooeletech.edu/our-programs",
+   "programs": [
+    "Welding Technology",
+    "Diesel Technology",
+    "Heavy Equipment Technology",
+    "Electrical Apprenticeship",
+    "Automation Technology"
+   ]
+  },
+  {
+   "name": "Uintah Basin Technical College",
+   "type": "technical college",
+   "home_url": "https://ubtech.edu/",
+   "trades_url": "https://ubtech.edu/certificate-programs/trades/",
+   "programs": [
+    "Construction",
+    "Welding",
+    "Diesel",
+    "Automotive",
+    "Electrical"
+   ]
+  },
+  {
+   "name": "Salt Lake Community College",
+   "type": "community college",
+   "city": "Salt Lake City",
+   "home_url": "https://www.slcc.edu/",
+   "trades_url": "https://www.slcc.edu/academics/",
+   "programs": [
+    "Advanced Manufacturing: AAS (CTE)",
+    "Apprenticeship Brick Mason Technology: AAS (CTE)",
+    "Assembly Manufacturing",
+    "Automation Technology",
+    "Automotive Collision Repair: Academic Certificate (CTE)",
+    "Automotive Refinishing: Academic Certificate (CTE)",
+    "Automotive Technology",
+    "Building Automation Systems",
+    "CNC Machinist Technician",
+    "Commercial Driver's License - Class A",
+    "Concrete Masonry Apprenticeship",
+    "Construction Management: AS",
+    "Diesel Systems Technology: AAS (CTE)",
+    "Diesel Technology",
+    "Electrical Apprenticeship",
+    "Electrical Systems Specialist",
+    "Electrician License Renewal",
+    "Electronics & Electrical Troubleshooting",
+    "Engineering Design/Drafting Technology: AS",
+    "HVACR Technician",
+    "Lineworker Apprenticeship",
+    "Lineworker Pre-Apprenticeship",
+    "Low Voltage Technician Apprenticeship",
+    "Machining Technology",
+    "Medical Device Manufacturing Processes",
+    "Meter Apprenticeship",
+    "Plumbing Apprenticeship",
+    "Solar Photovoltaic",
+    "Substation Apprenticeship",
+    "Welding Fabrication & Inspection: AAS (CTE)",
+    "Welding Technology"
+   ],
+   "credentials": "AAS, AS, academic certificates, technical certificates, workforce microcredentials (as labeled on the page)"
+  },
+  {
+   "name": "Snow College",
+   "type": "community college",
+   "home_url": "https://www.snow.edu/",
+   "trades_url": "https://www.snow.edu/academics/bat/index.html",
+   "programs": [
+    "Construction Management",
+    "Industrial Manufacturing",
+    "Industrial Mechanics",
+    "Machine Tool",
+    "Welding",
+    "Automotive",
+    "Diesel and Heavy Duty Mechanics",
+    "Commercial Drivers License (CDL)"
+   ]
+  },
+  {
+   "name": "Utah State University Eastern",
+   "type": "state college",
+   "city": "Price",
+   "home_url": "https://eastern.usu.edu/",
+   "trades_url": "https://eastern.usu.edu/ucc/",
+   "programs": [
+    "Plumbing, Pipefitting, and Welding (PPW)"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Utah Building and Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "building and construction trades (multiple unions)"
+   ],
+   "city": "Salt Lake City",
+   "url": "https://www.utahbuildingtrades.org/",
+   "description": "Council website for the Utah building and construction trades; its affiliates page lists the Salt Lake City office at 2261 S Redwood Rd."
+  },
+  {
+   "name": "Associated Builders and Contractors of Utah (ABC of Utah)",
+   "kind": "contractor association",
+   "trades": [
+    "construction",
+    "electrical",
+    "mechanical"
+   ],
+   "url": "https://abcutah.org/apprenticeship/",
+   "description": "Utah ABC chapter site with an apprenticeship program page, a STEP program page and member training listings."
+  },
+  {
+   "name": "Apprenticeship Utah",
+   "kind": "apprenticeship program",
+   "trades": [
+    "registered apprenticeships across trades"
+   ],
+   "url": "https://apprenticeship.utah.gov/index.html",
+   "description": "State apprenticeship portal for employers and job seekers, with an occupations page that includes construction."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "nonprofit",
+   "trades": [
+    "construction (apprenticeships for transitioning service members)"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Helmets to Hardhats national site; no Utah-specific page was fetched."
+  },
+  {
+   "name": "IBEW Local 57 (website)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew57.com",
+   "description": "IBEW Local 57 website (HTTP 200); the page fetched did not show a training-center listing."
+  },
+  {
+   "name": "USU Eastern Utah Career Center apprenticeship courses",
+   "kind": "apprenticeship program",
+   "trades": [
+    "plumbing",
+    "pipefitting",
+    "welding"
+   ],
+   "city": "Price",
+   "url": "https://eastern.usu.edu/ucc/",
+   "description": "Utah Career Center apprenticeship courses page listing the Plumbing, Pipefitting, and Welding (PPW) track."
+  },
+  {
+   "name": "IBEW Local 354",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Salt Lake City",
+   "url": "https://www.ibew354.org/",
+   "description": "IBEW 354."
+  },
+  {
+   "name": "IBEW Local 57",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Salt Lake City",
+   "url": "https://www.ibew57.com/",
+   "apprenticeship_url": "https://www.ibew57.com/?zone=/unionactive/view_page.cfm&page=NJATC20Aptitude20Testing",
+   "description": "IBEW Local 57."
+  },
+  {
+   "name": "Mountain States Line Constructors JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "West Jordan",
+   "url": "https://www.mslcat.org/",
+   "apprenticeship_url": "https://www.mslcat.org/mobiletraining",
+   "description": "Mountain States Line Constructors."
+  },
+  {
+   "name": "IUOE Local 3 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Sandy",
+   "url": "https://www.oe3.org/utah-contact/",
+   "apprenticeship_url": "https://www.oe3.org/training-schedules/"
+  },
+  {
+   "name": "Northwest Laborers-Employers Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "West Jordan",
+   "url": "https://www.nwlett.edu/",
+   "apprenticeship_url": "https://www.nwlett.edu/course/tunneling-training/",
+   "description": "Construction apprenticeship training in Washington, Idaho &amp; Utah. Earn while you learn with paid, on-the-job laborer training."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Utah Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "West Jordan",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 801 (Western States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "West Jordan",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Local union listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Utah Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "West Jordan",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Utah DOPL, Electrical",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://dopl.utah.gov/electrical/",
+   "description": "Division of Professional Licensing (Department of Commerce) electrical licensing page."
+  },
+  {
+   "name": "Utah DOPL, Plumbing",
+   "trades": [
+    "plumber"
+   ],
+   "url": "https://dopl.utah.gov/plumbing/",
+   "description": "Division of Professional Licensing plumbing licensing page. HVAC is not confirmed on this page; see gaps."
+  },
+  {
+   "name": "Utah DOPL, Elevator Mechanic",
+   "trades": [
+    "elevator mechanic"
+   ],
+   "url": "https://dopl.utah.gov/elevator/",
+   "description": "Information about professional licensing in the Elevator Mechanic profession within Utah."
+  },
+  {
+   "name": "Utah DOPL, State Construction Registry",
+   "trades": [
+    "general construction contractors"
+   ],
+   "url": "https://dopl.utah.gov/state-construction-registry/",
+   "description": "State Construction Registry page with laws and rules, forms, FAQs and contact information."
+  },
+  {
+   "name": "Utah Driver License Division",
+   "trades": [
+    "CDL"
+   ],
+   "url": "https://dld.utah.gov/",
+   "description": "Utah Driver License Division home page. CDL-specific pages were not checked."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Utah Statewide Scholarships and Aid Programs",
+   "url": "https://ushe.edu/state-scholarships-aid/",
+   "provider": "Utah System of Higher Education",
+   "kind": "other",
+   "provides": "Landing page for Utah's statewide scholarships and financial aid programs for high school graduates, adult learners and current students at Utah colleges and technical colleges.",
+   "how_to_apply": "Use the program table on the page and talk to your financial aid office (per page).",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Apprenticeship Utah (Registered Apprenticeship)",
+   "url": "https://apprenticeship.utah.gov/",
+   "provider": "Utah Department of Workforce Services",
+   "kind": "apprenticeship",
+   "provides": "Registered Apprenticeship earn-and-learn model combining on-the-job learning with related classroom instruction, with employer incentives listed.",
+   "audience": "mixed",
+   "status": "open"
+  }
+ ]
+}

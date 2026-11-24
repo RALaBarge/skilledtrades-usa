@@ -1,0 +1,296 @@
+{
+ "code": "NH",
+ "state": "New Hampshire",
+ "colleges": [
+  {
+   "name": "Great Bay Community College",
+   "type": "community college",
+   "city": "Portsmouth",
+   "home_url": "https://www.greatbay.edu/",
+   "trades_url": "https://www.greatbay.edu/programs/",
+   "programs": [
+    "Automotive Technology Certificate",
+    "Computer Numeric Control (CNC) Certificate",
+    "Motorcycle Maintenance and Repair Technology Certificate",
+    "Automated Manufacturing (non-credit courses: Beginning Welding, Electrical for Manufacturing, GD&T, Industrial Print Reading, Metrology)",
+    "Apprenticeships (business training center page: https://www.greatbay.edu/business-community/business-training-center/apprenticeship/)"
+   ],
+   "credentials": "Certificate; non-credit courses"
+  },
+  {
+   "name": "Lakes Region Community College",
+   "type": "community college",
+   "city": "Laconia",
+   "home_url": "https://www.lrcc.edu/",
+   "trades_url": "https://www.lrcc.edu/programs/",
+   "programs": [
+    "Automated Manufacturing Certificate",
+    "Automotive - General Motors ASEP Associate Degree",
+    "Automotive - Toyota/Lexus T-TEN Associate Degree",
+    "Electrical Power and Control Technologies Associate Degree and Certificate",
+    "Electrical Systems Installation and Maintenance Associate Degree",
+    "Industrial Automation & Robotics Associate Degree",
+    "Marine Maintenance Certificate"
+   ],
+   "credentials": "Associate degree; certificate"
+  },
+  {
+   "name": "Manchester Community College",
+   "type": "community college",
+   "city": "Manchester",
+   "home_url": "https://mccnh.edu/",
+   "trades_url": "https://mccnh.edu/academics/all-programs/",
+   "programs": [
+    "Advanced HVAC Certificate",
+    "Automated Manufacturing Technology AS Degree",
+    "Automated Manufacturing Certificate",
+    "Automotive Technology Professional Certificate",
+    "Automotive Technology AAS Degree",
+    "Automotive Technology Certificate",
+    "Electrical Lineworker Certificate",
+    "Electrical Technology AS Degree",
+    "Electrical Technology Certificate",
+    "Heating, Ventilation & Air Conditioning (HVAC) AAS Degree",
+    "Heating, Ventilation & Air Conditioning (HVAC) Certificate"
+   ],
+   "credentials": "AS/AAS degree; certificate"
+  },
+  {
+   "name": "Nashua Community College",
+   "type": "community college",
+   "city": "Nashua",
+   "home_url": "https://nashuacc.edu/",
+   "trades_url": "https://nashuacc.edu/programs",
+   "programs": [
+    "Automotive Technology (MAST)",
+    "Automotive Service and Repair",
+    "Honda Automotive Technology",
+    "Collision Repair",
+    "Machine Tool Technologies (CNC programming)",
+    "Precision Manufacturing",
+    "Medical Assistant Apprentice Program (non-credit)",
+    "Precision Manufacturing Boot Camp (non-credit)",
+    "EV Safety Training (non-credit)"
+   ],
+   "credentials": "Associate in Arts/Science; certificate; non-credit boot camps"
+  },
+  {
+   "name": "NHTI, Concord's Community College",
+   "type": "community college",
+   "city": "Concord",
+   "home_url": "https://www.nhti.edu/",
+   "trades_url": "https://www.nhti.edu/workforce/career-training-programs/",
+   "programs": [
+    "HVAC/R Technician Training (online career training)"
+   ],
+   "credentials": "Non-credit career training"
+  },
+  {
+   "name": "River Valley Community College",
+   "type": "community college",
+   "city": "Claremont",
+   "home_url": "https://www.rivervalley.edu/",
+   "trades_url": "https://www.rivervalley.edu/cwf/community-and-continuing-ed/",
+   "programs": [
+    "Plumbers' License Renewal seminars (continuing education)",
+    "Workforce Development continuing education courses"
+   ],
+   "credentials": "Continuing education seminars"
+  },
+  {
+   "name": "White Mountains Community College",
+   "type": "community college",
+   "city": "Berlin",
+   "home_url": "https://www.wmcc.edu/",
+   "trades_url": "https://www.wmcc.edu/programs/",
+   "programs": [
+    "Advanced Welding Technology Certificate",
+    "Automotive Technology Associate in Science",
+    "Automotive Technology Certificate",
+    "Diesel Heavy Equipment Technology Associate in Science",
+    "Electric Vehicle Technician Certificate",
+    "Pipe Welding Certificate",
+    "Commercial Driver Training Certificate"
+   ],
+   "credentials": "Associate in Science; certificate"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 490",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Concord",
+   "url": "https://ibew490.org/",
+   "description": "IBEW Local 490 is an electrical workers' union local whose site includes an apprenticeship page and member and contractor information.",
+   "how_to_apply": "See the apprenticeship page at https://ibew490.org/apprenticeship/ (page fetched; application steps not extracted)."
+  },
+  {
+   "name": "IBEW Local 490 / NECA electrical training center (Concord)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Concord",
+   "url": "https://www.nhbr.com/electrical-training-center-hailed-at-opening/",
+   "description": "A training center co-sponsored by IBEW Local 490 and the National Electrical Contractors Association, an 8,080-square-foot facility with seven classrooms and a large lab for electrical training."
+  },
+  {
+   "name": "IBEW Local 1837",
+   "kind": "union local",
+   "trades": [
+    "utility lineworker",
+    "communications"
+   ],
+   "city": "Manchester",
+   "url": "https://ibew1837.org/about-us/",
+   "description": "Represents utility and communications workers in Maine and New Hampshire; New Hampshire office at 84 Bay Street, Manchester."
+  },
+  {
+   "name": "LIUNA Local Union 668",
+   "kind": "union local",
+   "trades": [
+    "laborer",
+    "construction"
+   ],
+   "city": "Hooksett",
+   "url": "https://laborerslocal668.org/",
+   "description": "Laborers' union local serving New Hampshire and Vermont, with a Training section on its site."
+  },
+  {
+   "name": "Associated General Contractors of New Hampshire (AGC NH)",
+   "kind": "contractor association",
+   "trades": [
+    "construction (general contracting)"
+   ],
+   "url": "https://agcnh.org/",
+   "description": "State chapter of the Associated General Contractors, listing upcoming events and trainings for members."
+  },
+  {
+   "name": "New Hampshire Home Builders Association (NHHBA)",
+   "kind": "contractor association",
+   "trades": [
+    "residential construction",
+    "remodeling"
+   ],
+   "url": "https://nhhba.com/member-services/educational-resources/",
+   "description": "Offers educational resources, courses, seminars and designations for residential building, remodeling and development professionals in New Hampshire."
+  },
+  {
+   "name": "ABC NH/VT Registered Carpentry Apprenticeship",
+   "kind": "apprenticeship program",
+   "trades": [
+    "carpentry"
+   ],
+   "url": "http://abcnhvt.org/Education-Training/Apprenticeships/NH-Carpentry-Apprenticeship",
+   "description": "Registered carpentry apprenticeship page from Associated Builders and Contractors of NH/VT, a merit-shop contractor association."
+  },
+  {
+   "name": "ApprenticeshipNH (Community College System of New Hampshire)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction",
+    "manufacturing",
+    "healthcare"
+   ],
+   "url": "https://apprenticeshipnh.com/pre-apprenticeship/",
+   "description": "Community College System of New Hampshire apprenticeship initiative; the pre-apprenticeship page describes preparatory programs before a formal apprenticeship."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "nonprofit",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "National nonprofit that connects military veterans with construction apprenticeships and careers; New Hampshire-specific programs not verified."
+  },
+  {
+   "name": "IUOE Local 98 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Hookset",
+   "url": "https://iuoelocal98.org/",
+   "apprenticeship_url": "https://iuoelocal98.org/training/"
+  },
+  {
+   "name": "Local 352 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Manchester",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 3073 (North Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pns Portsmouth",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Local union listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "NH Board of Electricians (NH Office of Professional Licensure and Certification)",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://www.oplc.nh.gov/find-board/electricians-board",
+   "description": "Sets standards for licensure of electricians in New Hampshire."
+  },
+  {
+   "name": "NH Board of Mechanical Licensing (NH Office of Professional Licensure and Certification)",
+   "trades": [
+    "plumber",
+    "gas fitter",
+    "oil heating technician",
+    "mechanical"
+   ],
+   "url": "https://www.oplc.nh.gov/find-board/mechanical-licensing-board",
+   "description": "Ensures applicants for mechanical trade licenses, including plumbing, gas fitting and oil heating, are qualified for licensure."
+  }
+ ],
+ "funding": [
+  {
+   "name": "CCSNH Tuition Assistance, Tuition Waivers and Scholarships",
+   "url": "https://www.ccsnh.edu/paying-for-college-new/tuition-assistance-programs-new/",
+   "provider": "Community College System of New Hampshire",
+   "kind": "other",
+   "provides": "Lists specific tuition waiver programs and scholarship information for New Hampshire community college students, with scholarships offered through the Foundation for NH Community Colleges.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "CCSNH Tuition Waiver Programs",
+   "url": "https://www.ccsnh.edu/paying-for-college-new/tuition-waiver-programs-new/",
+   "provider": "Community College System of New Hampshire",
+   "kind": "other",
+   "provides": "Lists state tuition waiver programs at CCSNH, including one under RSA 188-F:15 for children of combatants missing in action.",
+   "eligibility": "Per waiver, as stated on the page.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "CCSNH Scholarships",
+   "url": "https://www.ccsnh.edu/paying-for-college-new/scholarships/",
+   "provider": "Community College System of New Hampshire",
+   "kind": "scholarship",
+   "provides": "Lists scholarship sources for CCSNH students, including the Foundation for NH Community Colleges, New Hampshire Charitable Foundation and Granite Edvance, plus free scholarship search services.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NH Community College Promise Program (proposal)",
+   "url": "https://www.ccsnh.edu/governor-announces-plan-for-community-college-promise-program/",
+   "provider": "Office of the Governor of New Hampshire / Community College System of New Hampshire",
+   "kind": "tuition-free program",
+   "provides": "Governor announced an intention to create a Community College Promise Program giving free tuition to New Hampshire students with family income up to $100,000; the page describes a plan, not an enacted program.",
+   "eligibility": "New Hampshire students with family income up to $100,000, per the announcement.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

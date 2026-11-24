@@ -1,0 +1,489 @@
+{
+ "code": "VA",
+ "state": "Virginia",
+ "colleges": [
+  {
+   "name": "Blue Ridge Community College",
+   "type": "community college",
+   "city": "Weyers Cave",
+   "home_url": "https://www.brcc.edu/",
+   "trades_url": "https://www.brcc.edu/explore-programs/advanced-manufacturing-and-skilled-trades/",
+   "programs": [
+    "Advanced Manufacturing and Skilled Trades",
+    "Advanced Manufacturing Technology",
+    "Automotive Program",
+    "Heavy Equipment",
+    "Welding",
+    "Manufacturing/Electronics (credit for prior learning)"
+   ]
+  },
+  {
+   "name": "Brightpoint Community College",
+   "type": "community college",
+   "city": "Chester and Midlothian",
+   "home_url": "https://www.brightpoint.edu/",
+   "trades_url": "https://www.brightpoint.edu/academics/career-clusters/manufacturing/",
+   "programs": [
+    "Advanced Manufacturing, Architecture, Construction and Skilled Trades career cluster"
+   ]
+  },
+  {
+   "name": "Central Virginia Community College",
+   "type": "community college",
+   "home_url": "https://centralvirginia.edu/",
+   "trades_url": "https://centralvirginia.edu/programs-classes/skilled-trades",
+   "programs": [
+    "Heavy Equipment Operator",
+    "Plumbing",
+    "Technical Studies (skilled trades)",
+    "Tradesman Update",
+    "Electrical Technology (CSC)",
+    "Heating, Ventilation & Air Conditioning",
+    "Industrial Maintenance Electrician",
+    "Machine Tool",
+    "Machine Tool & Quality",
+    "Mechatronics (AAS)",
+    "Welding Technology",
+    "Backflow Prevention Device Training",
+    "Commercial Driver's License (CDL)"
+   ],
+   "credentials": "CSC and AAS credentials (per program slugs)"
+  },
+  {
+   "name": "Danville Community College",
+   "type": "community college",
+   "home_url": "https://danville.edu/",
+   "trades_url": "https://danville.edu/advanced-manufacturing",
+   "programs": [
+    "Advanced Manufacturing & Skills Trades",
+    "Commercial Driver's License (CDL)",
+    "Electrical / Electronic Equipment Servicing",
+    "Industrial Electrical and Electronic Principles Certificate",
+    "Industrial Maintenance Training",
+    "Integrated Machining Technology",
+    "Precision Machining Technology",
+    "Gas Metal Arc Welding (GMAW)",
+    "Knight's Apprenticeship Program",
+    "Manufacturing Technician (MT1) Certification"
+   ],
+   "credentials": "Manufacturing Technician (MT1) Certification; industrial electrical certificate"
+  },
+  {
+   "name": "Eastern Shore Community College",
+   "type": "community college",
+   "home_url": "https://es.vccs.edu/",
+   "trades_url": "https://es.vccs.edu/academics-programs/",
+   "programs": [
+    "Welding Level 1 (class start, event page)",
+    "CDL full-time class (event page)",
+    "CDL part-time class (event page)"
+   ]
+  },
+  {
+   "name": "Germanna Community College",
+   "type": "community college",
+   "home_url": "https://germanna.edu/",
+   "trades_url": "https://germanna.edu/degrees-programs/workforce-programs/skilled-trades",
+   "programs": [
+    "Automotive Diagnostician Certificate",
+    "Automotive Technician Certificate",
+    "Carpentry Credential",
+    "Electrician Credential",
+    "Heavy Equipment Operator Credential",
+    "Industrial Maintenance Technician",
+    "Machining Credential",
+    "Plumber Credential",
+    "Technology & Advanced Technology in Mechatronics Certificates",
+    "Welder Credential",
+    "Commercial Driver's License Credential",
+    "Asphalt Quality Control Technician Credential"
+   ],
+   "credentials": "credentials and certificates (named on program pages)"
+  },
+  {
+   "name": "Patrick & Henry Community College",
+   "type": "community college",
+   "home_url": "https://www.patrickhenry.edu/",
+   "trades_url": "https://www.patrickhenry.edu/programs-courses/skilled-trades/",
+   "programs": [
+    "Skilled Trades",
+    "Advanced Manufacturing",
+    "Heavy Equipment Operator (program expansion, per news)",
+    "Building Trades Academy (expansion, per news)",
+    "CDL (veterans tuition support, per news)"
+   ]
+  },
+  {
+   "name": "J. Sargeant Reynolds Community College",
+   "type": "community college",
+   "home_url": "https://www.reynolds.edu/",
+   "trades_url": "https://www.reynolds.edu/programs/program-pages/welding-mig-csc.html",
+   "programs": [
+    "Automotive Technology (AAS)",
+    "Automotive Technology (certificate)",
+    "Automotive Technology, OEM (AAS)",
+    "Welding Fundamentals, MIG (CSC)",
+    "Welding Fundamentals, Pipe (CSC)",
+    "Welding Fundamentals, Stick (CSC)",
+    "Welding Fundamentals, TIG (CSC)"
+   ],
+   "credentials": "CSC and AAS (per program page titles)"
+  },
+  {
+   "name": "Southside Virginia Community College",
+   "type": "community college",
+   "home_url": "https://southside.edu/",
+   "trades_url": "https://southside.edu/apprentice-training",
+   "programs": [
+    "Apprentice Training",
+    "Diesel Technician",
+    "Gas Metal Arc Welding (welding program)"
+   ]
+  },
+  {
+   "name": "Southwest Virginia Community College",
+   "type": "community college",
+   "home_url": "https://www.sw.edu/",
+   "trades_url": "https://www.sw.edu/workforce/skilled-trades",
+   "programs": [
+    "Advanced Automotive Technology",
+    "Advanced Manufacturing",
+    "Advanced Precision Machining",
+    "Automotive Diagnostics and Repair",
+    "Building Trades",
+    "CNC and Machine Operations",
+    "Diesel Repair",
+    "Electrical/Electronics",
+    "Heating, Ventilation, and Air Conditioning (HVAC)",
+    "Welding",
+    "Heavy Equipment Operator"
+   ]
+  },
+  {
+   "name": "Laurel Ridge Community College",
+   "type": "community college",
+   "home_url": "https://laurelridge.edu/",
+   "trades_url": "https://laurelridge.edu/pathways-program/advanced-manufacturing-and-skilled-trades/",
+   "programs": [
+    "Advanced Manufacturing and Skilled Trades (pathway)"
+   ]
+  },
+  {
+   "name": "Mountain Gateway Community College",
+   "type": "community college",
+   "home_url": "https://www.mgcc.edu/",
+   "trades_url": "https://www.mgcc.edu/term/advanced-manufacturing-skilled-trades",
+   "programs": [
+    "Commercial Driver's License (CDL) Program - Class A",
+    "Commercial Driver's License (CDL) Program - Class B",
+    "Electrical and Instrumentation Technology, AAS",
+    "Electrical Troubleshooting - Level 2",
+    "Electrical Wiring Fundamentals",
+    "Practical Electrical Technician - Level 1",
+    "Fundamentals of Welding",
+    "Shielded Metal Arc Welding (SMAW)",
+    "Gas Metal Arc Welding (GMAW)",
+    "Gas Tungsten Arc Welding (GTAW)",
+    "Flux Core Arc Welding (FCAW)",
+    "Pipe Welding",
+    "Industrial / Structural Welding",
+    "Mechatronics",
+    "Heating, Ventilation and Air Conditioning (HVAC) - Levels 1-4 (NCCER)",
+    "NCCER Carpentry",
+    "NCCER Electrical",
+    "NCCER Electrical Levels 1-4",
+    "NCCER HVACR",
+    "NCCER Industrial Maintenance",
+    "NCCER Industrial Maintenance Mechanic Levels 1-4",
+    "NCCER Pipefitting",
+    "NCCER Plumbing",
+    "NCCER Core/Introductory Craft Skills"
+   ],
+   "credentials": "NCCER craft certifications; CDL Class A and B"
+  },
+  {
+   "name": "New River Community College",
+   "type": "community college",
+   "city": "Dublin",
+   "home_url": "https://www.nr.edu/",
+   "trades_url": "https://www.nr.edu/workforce/apprenticeships.php",
+   "programs": [
+    "Advanced Electric (CSC)",
+    "Electrical (CSC)",
+    "Electrical Engineering Technology (AAS)",
+    "Practical Electrical Technician (CSC 1 and 2)",
+    "Applied Mechatronics (CSC)",
+    "Industrial Maintenance (CSC 1 and 2)",
+    "Machine Operations (CSC)",
+    "Mechatronics Fundamentals (CSC)",
+    "Manufacturing (degree)",
+    "Welding (entry, advanced, certificate, WA CSC)",
+    "Fast Forward CDL",
+    "Fast Forward Plumbing",
+    "Fast Forward Solar",
+    "Fast Forward Welding",
+    "Fast Forward Apartment Maintenance"
+   ],
+   "credentials": "CSC and AAS (per URL slugs)"
+  },
+  {
+   "name": "Northern Virginia Community College",
+   "type": "community college",
+   "home_url": "https://www.nvcc.edu/",
+   "trades_url": "https://www.nvcc.edu/academics/programs/construction.html",
+   "programs": [
+    "Construction Management Technology",
+    "Welding",
+    "Automotive Technology (AAS)",
+    "General Motors ASEP (automotive)",
+    "Engineering Technology"
+   ],
+   "credentials": "AAS (automotive)"
+  },
+  {
+   "name": "Paul D. Camp Community College",
+   "type": "community college",
+   "home_url": "https://www.pdc.edu/",
+   "trades_url": "https://www.pdc.edu/workforce-development/skilled-trades",
+   "programs": [
+    "Skilled Trades & Manufacturing",
+    "Manufacturing (overview)",
+    "Isle Maritime Trades Academy"
+   ]
+  },
+  {
+   "name": "Rappahannock Community College",
+   "type": "community college",
+   "home_url": "https://www.rappahannock.edu/",
+   "trades_url": "https://www.rappahannock.edu//explore-programs/programs/by-career-pathway1/adv-manufacturing-skilled-trades.html",
+   "programs": [
+    "Advanced Manufacturing and Skilled Trades (career pathway)"
+   ]
+  },
+  {
+   "name": "Tidewater Community College",
+   "type": "community college",
+   "home_url": "https://www.tcc.edu/",
+   "trades_url": "https://www.tcc.edu/programs/career-pathways/engineering-maritime-skilled-trades/",
+   "programs": [
+    "Maritime and Skilled Trades career pathway",
+    "Manufacturing & Transportation career pathway",
+    "Regional Automotive Center (Chesapeake)",
+    "Skilled Trades Academy (Portsmouth)",
+    "HVAC/R",
+    "Mechatronics",
+    "Marine Maintenance Mechanics",
+    "Computer-Aided Drafting and Design"
+   ]
+  },
+  {
+   "name": "Virginia Highlands Community College",
+   "type": "community college",
+   "home_url": "https://www.vhcc.edu/",
+   "trades_url": "https://www.vhcc.edu/manufacture-your-career",
+   "programs": [
+    "Diesel Technology (CSC day and evening)",
+    "Technical Studies in Diesel (AAS day and evening)",
+    "Electrical Technology (AAS)",
+    "Electrical Technology - Specialization in Energy (AAS)",
+    "Electrical Technology - Specialization in Mechatronics (AAS)",
+    "Electricity (C)",
+    "Practical Electrician (CSC Levels 1-2, Advanced)",
+    "Applied Mechatronics (CSC Levels 1-2)",
+    "Precision Machining (CSC Levels 1-2)",
+    "Computer Numerical Control Machine Operations (AAS)",
+    "Welding (CSC Levels 1-2, day and evening)",
+    "Technical Studies in Welding (AAS, day and evening)",
+    "CDL Truck Driving",
+    "NCCER Carpentry (Level 1 and Level 2)",
+    "NCCER Heavy Equipment Operator (Levels 1 and 2)",
+    "NCCER Plumbing (Levels 1 and 2)",
+    "NCCER Core Craft Skills",
+    "NIMS CNC Machining Certification",
+    "HVAC-R",
+    "Machining",
+    "Mechatronics"
+   ],
+   "credentials": "CSC, AAS, NCCER, NIMS"
+  },
+  {
+   "name": "Virginia Peninsula Community College",
+   "type": "community college",
+   "home_url": "https://www.vpcc.edu/",
+   "trades_url": "https://www.vpcc.edu/workforce-development/apprenticeships/",
+   "programs": [
+    "Automotive Technology (AAS and certificate)",
+    "Carpentry",
+    "Commercial Driver License (CDL) Training",
+    "Electrical Engineering Technology (AAS and career studies certificate)",
+    "Facilities Maintenance Technician",
+    "HVAC Technician",
+    "Technical Studies: Specialization in HVAC-R Technology",
+    "Masonry",
+    "Mechanical Engineering Technology (AAS)",
+    "Mechanical Engineering Technology, Specialization in Mechatronics",
+    "Mechatronics Technology",
+    "Precision Machining CNC Technology - Advanced",
+    "Trades Electrician",
+    "Welding Training",
+    "HR Strong Welding MTT Level 1",
+    "Virtual Machining and Design"
+   ]
+  },
+  {
+   "name": "Virginia Western Community College",
+   "type": "community college",
+   "home_url": "https://virginiawestern.edu/",
+   "trades_url": "https://www.virginiawestern.edu/get-started/cpl/credit-for-credentials/mechatronics-trades/",
+   "programs": [
+    "Mechatronics & Skilled Trades (credit for credentials)",
+    "Automotive (credit for credentials)"
+   ],
+   "credentials": "credit for prior learning"
+  },
+  {
+   "name": "Wytheville Community College",
+   "type": "community college",
+   "home_url": "https://www.wcc.vccs.edu/",
+   "trades_url": "https://www.wcc.vccs.edu/pathways/technical-trades",
+   "programs": [
+    "Technical Trades (career pathway)",
+    "Advanced Manufacturing (career pathway)"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "ABC Virginia",
+   "kind": "contractor association",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://www.abcva.org/about-us/",
+   "description": "Virginia chapter site of Associated Builders and Contractors; the About Us page was fetched (200) but only its title and a heading were captured."
+  },
+  {
+   "name": "Associated General Contractors of Virginia (AGCVA)",
+   "kind": "contractor association",
+   "trades": [
+    "general construction"
+   ],
+   "url": "https://www.agcva.org/",
+   "description": "Associated General Contractors of Virginia home page."
+  },
+  {
+   "name": "IBEW Local 1340",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Newport News",
+   "url": "https://www.ibew1340.com/",
+   "apprenticeship_url": "https://www.ibew1340.com/?zone=/unionactive/view_page.cfm&page=Apprenticeship202620Training",
+   "description": "IBEW Local 1340."
+  },
+  {
+   "name": "IBEW Local 666",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Richmond",
+   "url": "https://www.ibewlocal666.com/",
+   "apprenticeship_url": "https://www.ibewlocal666.com/?zone=/unionactive/view_page.cfm&page=Journeymen20Training",
+   "description": "IBEW Local 666."
+  },
+  {
+   "name": "IBEW Local 80",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Norfolk",
+   "url": "https://www.ibew80.com/",
+   "apprenticeship_url": "https://www.ibew80.com/?zone=/unionactive/view_article.cfm&HomeID=85670&page=Phone20Number20Info",
+   "description": "IBEW Local 80."
+  },
+  {
+   "name": "Richmond Electricians JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Bon Air",
+   "url": "https://www.rjatc.org/",
+   "description": "Richmond Electricians' JATC."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Ashland",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Ashland",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Charles City",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Roxbury Industrial Center Charles City",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 205 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Ashland",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Virginia State Building & Construction Trades Council",
+   "kind": "building trades council",
+   "url": "http://vatrades.org/",
+   "description": "If you like to work with your hands and are willing to learn a trade an apprenticeship is for you."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Virginia Board for Contractors (DPOR)",
+   "trades": [
+    "general contracting",
+    "specialty trade contracting"
+   ],
+   "url": "https://www.dpor.virginia.gov/boards/contractors",
+   "description": "Board for Contractors page of the Virginia Department of Professional and Occupational Regulation (DPOR), which regulates contractor licensing."
+  },
+  {
+   "name": "Virginia Department of Labor and Industry - Boiler and Pressure Vessel Inspection",
+   "trades": [
+    "boiler and pressure vessel inspection"
+   ],
+   "url": "https://doli.virginia.gov/programs/boiler-safety/",
+   "description": "Boiler and Pressure Vessel Inspection Certificate page of the Virginia Department of Labor and Industry (DOLI)."
+  },
+  {
+   "name": "Virginia Department of Motor Vehicles - Businesses",
+   "trades": [
+    "commercial driver's license (CDL)"
+   ],
+   "url": "https://www.dmv.virginia.gov/businesses",
+   "description": "Businesses page of the Virginia Department of Motor Vehicles (DMV). CDL licensing is not confirmed on this page."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Virginia G3 Tuition Assistance",
+   "url": "https://virginiag3.com/",
+   "provider": "Virginia Community College System (VCCS)",
+   "kind": "grant",
+   "provides": "Tuition assistance for certifications and degrees at Virginia community colleges in six in-demand fields.",
+   "eligibility": "Virginia resident who qualifies for in-state financial aid, household income roughly $120,000 or less; training in education, healthcare, hospitality and culinary arts, information technology, public safety, or skilled trades/manufacturing/construction (per page).",
+   "how_to_apply": "Apply to a G3 program and check eligibility through the G3 application (per page).",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "FastForward Job Training Programs",
+   "url": "https://fastforwardva.org/",
+   "provider": "Virginia Community College System (VCCS)",
+   "kind": "other",
+   "provides": "Short-term job training at Virginia community colleges in high-demand fields such as healthcare, IT and skilled trades, leading to certifications.",
+   "audience": "individual",
+   "status": "open"
+  }
+ ]
+}

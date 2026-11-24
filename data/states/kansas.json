@@ -1,0 +1,384 @@
+{
+ "code": "KS",
+ "state": "Kansas",
+ "colleges": [
+  {
+   "name": "Allen Community College",
+   "type": "community college",
+   "home_url": "https://www.allencc.edu/",
+   "trades_url": "https://www.allencc.edu/academics/apprenticeships",
+   "programs": [
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "Butler Community College",
+   "type": "community college",
+   "home_url": "https://www.butlercc.edu/",
+   "trades_url": "https://www.butlercc.edu/skilled-trades",
+   "programs": [
+    "Automotive Technology",
+    "Construction Technology",
+    "Diesel Technology",
+    "Engineering Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Cloud County Community College",
+   "type": "community college",
+   "home_url": "https://www.cloud.edu/",
+   "trades_url": "https://www.cloud.edu/academics/academic-departments/agriculture-industrial-technology/",
+   "programs": [
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Cowley College",
+   "type": "community college",
+   "home_url": "https://www.cowley.edu/",
+   "trades_url": "https://www.cowley.edu/programs-and-degrees/agriculture-manufacturing-and-industry/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Construction Technology",
+    "Electromechanical Maintenance",
+    "Machining and Manufacturing Technology"
+   ]
+  },
+  {
+   "name": "Fort Scott Community College",
+   "type": "community college",
+   "home_url": "https://fortscott.edu/",
+   "trades_url": "https://fortscott.edu/registered-apprenticeship/",
+   "programs": [
+    "Registered Apprenticeship",
+    "CDL"
+   ]
+  },
+  {
+   "name": "Garden City Community College",
+   "type": "community college",
+   "home_url": "https://www.gcccks.edu/",
+   "trades_url": "https://www.gcccks.edu/about/workforce-development/registered-apprenticeships.html",
+   "programs": [
+    "Registered Apprenticeships",
+    "Truck Driving - Entry Level CDL Training"
+   ]
+  },
+  {
+   "name": "Highland Community College",
+   "type": "community college",
+   "home_url": "https://www.highlandcc.edu/",
+   "trades_url": "https://highlandwww.omniweb.cloud/academics/areasofstudy/construction-technology/index.html",
+   "programs": [
+    "Construction Technology"
+   ]
+  },
+  {
+   "name": "Hutchinson Community College",
+   "type": "community college",
+   "home_url": "https://www.hutchcc.edu/",
+   "trades_url": "https://www.hutchcc.edu/apprenticeship",
+   "programs": [
+    "Apprenticeship Programs",
+    "Commercial Drivers License (CDL) Training",
+    "Agricultural Diesel Mechanics - CERT - Degree Pathway",
+    "Automation Engineer Technology - AAS - Degree Pathway"
+   ],
+   "credentials": "CERT, AAS, CCOMP"
+  },
+  {
+   "name": "Independence Community College",
+   "type": "community college",
+   "home_url": "https://www.indycc.edu/",
+   "trades_url": "https://www.indycc.edu/programs/business_cte/welding.html",
+   "programs": [
+    "Welding Technology",
+    "Industrial Machine/Maintenance Technology"
+   ],
+   "credentials": "Welding Technology certificate"
+  },
+  {
+   "name": "Johnson County Community College",
+   "type": "community college",
+   "home_url": "https://www.jccc.edu/",
+   "trades_url": "https://www.jccc.edu/academics/",
+   "programs": [
+    "Industrial Trades & Transportation"
+   ]
+  },
+  {
+   "name": "Labette Community College",
+   "type": "community college",
+   "home_url": "https://www.labette.edu/",
+   "trades_url": "https://www.labette.edu/academics/",
+   "programs": [
+    "Welding Technology",
+    "Electronics Technology"
+   ]
+  },
+  {
+   "name": "Neosho County Community College",
+   "type": "community college",
+   "home_url": "https://www.neosho.edu/",
+   "trades_url": "https://www.neosho.edu/Academics-and-Services/Academic-Programs/Career-and-Technical-Education/Plumbing",
+   "programs": [
+    "Plumbing",
+    "Construction Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Aircraft Sheet Metal Assembly",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Pratt Community College",
+   "type": "community college",
+   "home_url": "https://prattcc.edu/",
+   "trades_url": "https://prattcc.edu/technical-programs/",
+   "programs": [
+    "Automotive Technology - Degree and Certificate",
+    "Commercial Driver's License (CDL) - Certificate",
+    "Electrical Powerline Technology - Degree and Certificate",
+    "Welding"
+   ],
+   "credentials": "Degree, Certificate"
+  },
+  {
+   "name": "Seward County Community College",
+   "type": "community college",
+   "home_url": "https://sccc.edu/",
+   "trades_url": "https://sccc.edu/academics/areas-of-study/industrial-technology/",
+   "programs": [
+    "Automotive Business Management",
+    "Automotive Collision and Refinishing Technology",
+    "Automotive Technology",
+    "Corrosion Technology",
+    "Diesel Technology",
+    "Drafting and Design Technology",
+    "Heating, Ventilation, and Air Conditioning (HVAC)",
+    "Maintenance Technician"
+   ]
+  },
+  {
+   "name": "Salina Area Technical College",
+   "type": "technical college",
+   "home_url": "https://salinatech.edu/",
+   "trades_url": "https://salinatech.edu/programs/",
+   "programs": [
+    "Auto Collision and Refinishing Technology",
+    "Automotive Technology",
+    "Commercial Truck Driving",
+    "Diesel Technology",
+    "Construction Technology",
+    "Electrical Technology",
+    "Heating, Ventilation and Air Conditioning (HVAC)",
+    "Industrial Maintenance and Automation Technology"
+   ]
+  },
+  {
+   "name": "Flint Hills Technical College",
+   "type": "technical college",
+   "city": "Emporia",
+   "home_url": "https://fhtc.edu/",
+   "trades_url": "https://fhtc.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Computerized Machine Tool",
+    "Industrial Engineering Technology",
+    "Power Plant Technology",
+    "Welding Technology",
+    "Commercial Driver's License (CDL) Course"
+   ]
+  },
+  {
+   "name": "Manhattan Area Technical College",
+   "type": "technical college",
+   "city": "Manhattan",
+   "home_url": "https://manhattantech.edu/",
+   "trades_url": "https://manhattantech.edu/",
+   "programs": [
+    "Automotive Technology",
+    "Construction, Energy, & Manufacturing",
+    "Industrial Maintenance Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "WSU Tech (Wichita State University Campus of Applied Sciences and Technology)",
+   "type": "technical college",
+   "city": "Wichita",
+   "home_url": "https://wsutech.edu/",
+   "trades_url": "https://wsutech.edu/",
+   "programs": [
+    "Construction Trades",
+    "Manufacturing",
+    "Apprenticeships for Students"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 304 (Apprenticeship)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew304.org/apprenticeship",
+   "description": "Local website with an apprenticeship section that lists a Southwestern Line JATC link."
+  },
+  {
+   "name": "Kansas Plumbing, Heating, Cooling Contractors Association",
+   "kind": "contractor association",
+   "trades": [
+    "plumbing",
+    "HVAC"
+   ],
+   "url": "https://www.phccks.org/",
+   "description": "An association of plumbing and mechanical contractors that offers continuing education and business improvement, with a Licensing Info section and plumbing and mechanical test prep classes."
+  },
+  {
+   "name": "KANSASWORKS (Registered Apprenticeship and training provider search)",
+   "kind": "apprenticeship program",
+   "url": "https://www.kansasworks.com/",
+   "description": "State workforce system site that lists WIOA-eligible training providers and Registered Apprenticeship sponsors."
+  },
+  {
+   "name": "Hutchinson Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Hutchinson",
+   "url": "https://www.hutchinsonelectricaltrainingacademy.org/",
+   "apprenticeship_url": "https://www.hutchinsonelectricaltrainingacademy.org/",
+   "description": "Training For A CAREER You Can Take Pride In. Find out more information about starting a career path to becoming Journeyman Electrician."
+  },
+  {
+   "name": "IBEW Local 226",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Topeka",
+   "url": "https://ibew226.com/",
+   "apprenticeship_url": "https://ibew226.com/apprenticeship/",
+   "description": "IBEW 226."
+  },
+  {
+   "name": "IBEW Local 271",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Wichita",
+   "url": "https://ibew271.com/",
+   "apprenticeship_url": "https://ibew271.com/training/",
+   "description": "The International Brotherhood of Electrical Workers Local Union 271 in Wichita, Kansas represents workers and electricians in the electrical industry."
+  },
+  {
+   "name": "IBEW Local 304",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Topeka",
+   "url": "https://www.ibew304.org/",
+   "apprenticeship_url": "https://www.ibew304.org/Apprentices/",
+   "description": "The International Brotherhood of Electrical Workers Local 304."
+  },
+  {
+   "name": "IBEW Local 661",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Hutchinson",
+   "url": "http://www.ibew661.com/",
+   "apprenticeship_url": "http://www.ibew661.com/?zone=/unionactive/view_page.cfm&page=Apprentice20Class20Shedule",
+   "description": "UnionActive."
+  },
+  {
+   "name": "Topeka Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Topeka",
+   "url": "https://topekaelectricaljatc.com/",
+   "apprenticeship_url": "https://topekaelectricaljatc.com/current_apprentice_information",
+   "description": "Topeka Electrical JATC Apprenticeship school in Kansas."
+  },
+  {
+   "name": "Wichita Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Wichita",
+   "url": "https://wejatc.org/",
+   "apprenticeship_url": "https://wejatc.org/",
+   "description": "Dynamic prebuilt business website built with Avada, offering customizable layouts, advanced features, and seamless content management for professionals."
+  },
+  {
+   "name": "IUOE Local 101 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Wichita",
+   "url": "https://iuoelocal101.org/",
+   "apprenticeship_url": "https://iuoelocal101.org/journeyman-application/",
+   "description": "Unlock career opportunities with the IUOE 101 union in Kansas City. Join our union for member benefits or explore training &amp; apprenticeship programs."
+  },
+  {
+   "name": "IUOE Local 119 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Haysville",
+   "url": "https://iuoelocal119.com/",
+   "apprenticeship_url": "https://iuoelocal119.com/training/",
+   "description": "{seo_desc}"
+  },
+  {
+   "name": "Greater Kansas City Laborers Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Kansas City",
+   "url": "http://www.gkcltc.org/",
+   "apprenticeship_url": "http://www.gkcltc.org/?zone=/unionactive/private_view_page.cfm&page=Training20Schedule",
+   "description": "Greater KC Laborers' Training Center Greater Kansas City Laborers’ Training Center &#9776; Member Login &times; Username Password Login Register an Account Cancel Forgot Login?"
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice and Training Center Topeka Kansas Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Topeka",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1445 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "N.W. Norris Topeka",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Kansas State Fire Marshal",
+   "trades": [
+    "elevator",
+    "boiler"
+   ],
+   "url": "https://www.firemarshal.ks.gov/",
+   "description": "Official state site with a Licensing and Registration section and elevator and deputy boiler inspector pages. Electrical licensing was not confirmed on the fetched page."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Kansas Micro-Internships",
+   "url": "https://kansasregents.gov/workforce_development/kansas-micro-internships",
+   "provider": "Kansas Board of Regents",
+   "kind": "other",
+   "provides": "Micro-Internships are short-term, paid, professional assignments in business, communications, education, finance, human resources, information technology, marketing, research, and many other areas.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "KANSASWORKS training program search",
+   "url": "https://www.kansasworks.com/",
+   "provider": "KANSASWORKS",
+   "kind": "other",
+   "provides": "Explore the jobs, resumes, or training programs in your area.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

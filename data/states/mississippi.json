@@ -1,0 +1,339 @@
+{
+ "code": "MS",
+ "state": "Mississippi",
+ "colleges": [
+  {
+   "name": "Coahoma Community College",
+   "type": "community college",
+   "home_url": "https://www.coahomacc.edu/",
+   "trades_url": "https://www.coahomacc.edu/programs/career-technical/index.html",
+   "programs": [
+    "Brick, Block & Stone Masonry",
+    "Carpentry",
+    "Electrical Technology",
+    "Heating, Ventilation, Air-Conditioning and Refrigeration Technology",
+    "Welding & Cutting Technology",
+    "Automotive Technology",
+    "Commercial Truck Driving",
+    "Industrial Maintenance Technology"
+   ]
+  },
+  {
+   "name": "Copiah-Lincoln Community College",
+   "type": "community college",
+   "home_url": "https://www.colin.edu/",
+   "trades_url": "https://www.colin.edu/program/career-technical/",
+   "programs": [
+    "Engineering, Construction, & Manufacturing (program group; individual programs not enumerated on this page)"
+   ]
+  },
+  {
+   "name": "East Mississippi Community College",
+   "type": "community college",
+   "home_url": "https://www.eastms.edu/",
+   "trades_url": "https://www.eastms.edu/programs/career-technical",
+   "programs": [
+    "Automotive Technology",
+    "Construction Engineering Technology",
+    "Diesel Mechanics",
+    "Electrical Technology",
+    "Heating, Ventilation, Air Conditioning and Refrigeration Technology",
+    "Industrial Maintenance Technology",
+    "Mechatronics Technology",
+    "Precision Manufacturing and Machining Technology",
+    "Systems Based Automation",
+    "Welding Technology",
+    "Utility Lineworker Technology"
+   ]
+  },
+  {
+   "name": "Hinds Community College",
+   "type": "community college",
+   "home_url": "https://www.hindscc.edu/",
+   "trades_url": "https://www.hindscc.edu/pathways",
+   "programs": [
+    "Automotive Technology",
+    "Carpentry Technology",
+    "Commercial Truck and Bus Driving",
+    "Diesel Equipment Technology",
+    "Electrical Technology",
+    "Electro-Mechanical Technology",
+    "Electronics Technology",
+    "Heating, Ventilation, Air-Conditioning and Refrigeration Technology",
+    "Mechanical Engineering Technology (Mechatronics)",
+    "Plumbing and Construction Technology",
+    "Precision Manufacturing and Machining Technology",
+    "Welding and Cutting Technology",
+    "Engineering, Drafting and Design Technology"
+   ]
+  },
+  {
+   "name": "Holmes Community College",
+   "type": "community college",
+   "home_url": "https://holmescc.edu/",
+   "trades_url": "https://holmescc.edu/career-technical/",
+   "programs": [
+    "Automotive Technology",
+    "Collision Repair Technology",
+    "Heating, Ventilation, AC and Refrigeration",
+    "Industrial Mechanics & Maintenance Technology",
+    "Mechatronics Engineering Technology",
+    "Precision Machining Technology",
+    "Welding and Cutting Technology",
+    "Engineering Technology",
+    "CNC Programming (workforce)",
+    "Electrical Lineman Program (workforce)",
+    "Gas Metal Arc Welding MIG (workforce)",
+    "Heavy Equipment Training (workforce)",
+    "Industrial Electricity I and II (workforce)",
+    "Introduction to Machine Shop (workforce)",
+    "Residential Electrical Wiring (workforce)"
+   ]
+  },
+  {
+   "name": "Itawamba Community College",
+   "type": "community college",
+   "home_url": "https://www.iccms.edu/",
+   "trades_url": "https://www.iccms.edu/careered",
+   "programs": [
+    "Automotive Technology",
+    "Diesel Equipment Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Precision Machining Technology",
+    "Welding and Cutting Technology"
+   ]
+  },
+  {
+   "name": "Jones College",
+   "type": "community college",
+   "home_url": "http://www.jcjc.edu/",
+   "trades_url": "https://www.jcjc.edu/programs/CTE/",
+   "programs": [
+    "Automotive Technology",
+    "Commercial and Residential Maintenance",
+    "Commercial Truck Driving",
+    "Diesel Equipment Technology",
+    "Electrical Technology",
+    "Electro-Mechanical Technology",
+    "Heating and Air Conditioning Technology",
+    "Pipefitting",
+    "Precision Manufacturing and Machining Technology",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Meridian Community College",
+   "type": "community college",
+   "home_url": "https://meridiancc.edu/",
+   "trades_url": "https://meridiancc.edu/programs/career_and_technical_programs/division_of_industrial_technology/index.html",
+   "programs": [
+    "Automotive Technology",
+    "Commercial Truck Driving",
+    "Diesel Mechanic Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technician",
+    "Precision Machining Engineering Technology",
+    "Utility Lineman",
+    "Welding and Cutting Technology"
+   ]
+  },
+  {
+   "name": "Mississippi Delta Community College",
+   "type": "community college",
+   "home_url": "http://www.msdelta.edu/",
+   "trades_url": "https://www.msdelta.edu/programs/index.php",
+   "programs": [
+    "Machining Technology",
+    "Industrial Maintenance Technology",
+    "Automotive Mechanics Technology",
+    "Electrical Technology",
+    "Drafting & Design Technology",
+    "Welding",
+    "Heating, Ventilation, Air Conditioning & Refrigeration Technology",
+    "Construction Equipment Operation"
+   ]
+  },
+  {
+   "name": "Mississippi Gulf Coast Community College",
+   "type": "community college",
+   "city": "Perkinston",
+   "home_url": "https://www.mgccc.edu/",
+   "trades_url": "https://mgccc.edu/programs/schools/manufacturing-maritime-transportation/",
+   "programs": [
+    "Apprentice Electric Lineman",
+    "Auto Collision Repair Technology",
+    "Automotive Technology",
+    "Commercial Truck Driving",
+    "Construction Management Technology",
+    "Drafting and Design Technology",
+    "Electrical Technology",
+    "Electrical Technology (Accelerated)",
+    "Electronics Technology",
+    "Heating, Air Conditioning, and Refrigeration Technology",
+    "Heavy Equipment Maintenance Technology",
+    "Instrumentation and Controls Technology",
+    "Precision Manufacturing and Machining Technology",
+    "Process Operations Technology",
+    "Robotics and Automated Manufacturing",
+    "Welding Technology",
+    "Maritime Multi-Craft Technology",
+    "Welding Workforce Training",
+    "Electric Lineworker (workforce)"
+   ]
+  },
+  {
+   "name": "Northeast Mississippi Community College",
+   "type": "community college",
+   "city": "Booneville",
+   "home_url": "http://www.nemcc.edu/",
+   "trades_url": "https://www.nemcc.edu/business-engineering-technology/program-videos/index.html",
+   "programs": [
+    "Automotive Mechanics and Service Technology",
+    "Civil Engineering Technician",
+    "Construction Engineering Technology",
+    "Drafting",
+    "Northeast Diesel Power Technology",
+    "Heating & Air Conditioning Technology",
+    "Industrial Maintenance",
+    "Industrial Maintenance and Electrical Technology"
+   ]
+  },
+  {
+   "name": "Northwest Mississippi Community College",
+   "type": "community college",
+   "city": "Senatobia",
+   "home_url": "https://www.northwestms.edu/",
+   "trades_url": "https://www.northwestms.edu/programs/programsandpathways",
+   "programs": [
+    "Heating, Air Conditioning and Refrigeration Technology",
+    "Engineering Technology: Mechatronics",
+    "Precision Manufacturing & Machining Technology",
+    "Engineering Technology: Automation Systems",
+    "Welding and Cutting",
+    "Commercial Electrical Technology",
+    "Construction Management Technology",
+    "Automotive Technology",
+    "Aviation Maintenance Technology",
+    "Commercial Truck Driving",
+    "Diesel Technology",
+    "Industrial Automation Controls Engineering Technology",
+    "Industrial Electronics Engineering Technology",
+    "Rangers Work - Apprenticeship Program"
+   ]
+  },
+  {
+   "name": "Pearl River Community College",
+   "type": "community college",
+   "city": "Poplarville",
+   "home_url": "https://prcc.edu/",
+   "trades_url": "https://prcc.edu/academics/career-technical-education/",
+   "programs": [
+    "Advanced Manufacturing Technology (Millwright)",
+    "Automation & Controls Technology",
+    "Automotive Mechanics Technology",
+    "Commercial and Residential Construction",
+    "Construction Equipment Operation",
+    "Drafting & Design Technology",
+    "Electrical Technology",
+    "Electronics Technology",
+    "Heating, Ventilation, Air Conditioning, and Refrigeration Technology",
+    "Precision Manufacturing and Machining",
+    "Utility Lineman Technology",
+    "Welding and Cutting Technology",
+    "Aviation Maintenance Technology"
+   ]
+  },
+  {
+   "name": "Southwest Mississippi Community College",
+   "type": "community college",
+   "city": "Summit",
+   "home_url": "https://www.smcc.edu/",
+   "trades_url": "https://www.smcc.edu/sector/construction-manufacturing/",
+   "programs": [
+    "Heating, Ventilation, Air Conditioning, & Refrigeration",
+    "Automotive Technology",
+    "Diesel Equipment Technology",
+    "Welding & Cutting Technology",
+    "Electrical Technology",
+    "Well Construction Technology",
+    "Energy Operations Processes Technology",
+    "Electrical Lineman",
+    "Residential Carpentry"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local Union 903 - Joint Apprenticeship Training Committee",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrician"
+   ],
+   "city": "Gulfport",
+   "url": "http://lu903.com/apprenticeship-training/",
+   "description": "IBEW Local 903 Joint Apprenticeship Training Committee runs a 4-year electrical apprenticeship program for its electricians.",
+   "how_to_apply": "Applications are picked up at the Gulfport or Hattiesburg offices; the Applying for Apprenticeship page (http://lu903.com/apprenticeship-training/applying-for-apprenticeship/) lists the required documents, including a Mississippi driver's license, Social Security card and birth certificate."
+  },
+  {
+   "name": "IBEW Local 480",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Jackson",
+   "url": "http://www.ibew480.org/",
+   "apprenticeship_url": "http://www.ibew480.org/jatc.html",
+   "description": "IBEW Local 480 (Jackson, MS) is listed in the IBEW Local Union Directory; its website could not be confirmed."
+  },
+  {
+   "name": "IBEW Local 903",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Gulfport",
+   "url": "https://lu903.com/",
+   "apprenticeship_url": "https://lu903.com/apprenticeship-training/",
+   "description": "IBEW LOCAL UNION 903 – POWERING SOUTH MISSISSIPPI SINCE 1935."
+  },
+  {
+   "name": "IBEW Local 917",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Meridian",
+   "url": "https://www.ibew917.net/",
+   "apprenticeship_url": "https://www.ibew917.net/apprenticeship/",
+   "description": "IBEW 917."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Moss Point Carpenter & Millwright Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Moss Point",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Mississippi State Board of Contractors",
+   "trades": [
+    "general contractor",
+    "residential contractor",
+    "commercial contractor",
+    "roofing"
+   ],
+   "url": "https://www.msboc.us/",
+   "description": "State board that licenses commercial and residential contractors and roofers in Mississippi; classification list at https://www.msboc.us/classifications/ (not fetched)."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Mississippi Office of State Financial Aid",
+   "url": "https://www.msfinancialaid.org/",
+   "provider": "Mississippi Office of State Financial Aid",
+   "kind": "other",
+   "provides": "State office page stating Mississippi offers state-funded grants, scholarships and loan repayment programs for students pursuing higher education and professional careers.",
+   "how_to_apply": "Apply through the MAAPP dashboard, per the Students and Parents page.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

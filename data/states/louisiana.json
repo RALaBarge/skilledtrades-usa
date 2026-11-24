@@ -1,0 +1,312 @@
+{
+ "code": "LA",
+ "state": "Louisiana",
+ "colleges": [
+  {
+   "name": "Central Louisiana Technical Community College (CLTCC)",
+   "type": "technical college",
+   "home_url": "https://www.cltcc.edu/",
+   "trades_url": "https://www.cltcc.edu/academics/career-and-technical-education-programs",
+   "programs": [
+    "Welding",
+    "Heavy Equipment Operator",
+    "Industrial Manufacturing Technology",
+    "Air Conditioning & Refrigeration Technician",
+    "Commercial Vehicle Operator",
+    "Power Lineworker (workforce)",
+    "Commercial Driver's License (workforce)"
+   ]
+  },
+  {
+   "name": "Fletcher Technical Community College",
+   "type": "technical college",
+   "home_url": "https://www.fletcher.edu/",
+   "trades_url": "https://www.fletcher.edu/programs/technical-education/index",
+   "programs": [
+    "Automotive Technology",
+    "Aviation Maintenance Technology",
+    "Commercial Vehicle Operations (CDL)",
+    "Drafting & Design Technology",
+    "Electrician",
+    "HVACR",
+    "Heavy Equipment Operations",
+    "Instrumentation Technology",
+    "Line Worker",
+    "Machine Tool Technology",
+    "Marine Diesel Engine Technician",
+    "Motor Vehicle Inspection",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Northwest Louisiana Technical College (NLTCC)",
+   "type": "technical college",
+   "city": "Minden",
+   "home_url": "https://www.nltcc.edu/",
+   "trades_url": "https://www.nltcc.edu/academics/academic-programs",
+   "programs": [
+    "Advanced Manufacturing Technology",
+    "Automotive Technology",
+    "Diesel Powered Equipment Technology",
+    "Heavy Equipment Vehicle Operator",
+    "HVAC Technician",
+    "Industrial Instrumentation and Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Plumbing",
+    "Residential, Commercial & Industrial Electrician",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Delgado Community College",
+   "type": "community college",
+   "home_url": "https://www.dcc.edu/",
+   "trades_url": "https://www.dcc.edu/academics/programs.aspx",
+   "programs": [
+    "Electrician: Commercial",
+    "Electrician: Residential",
+    "Electrician: Small Industrial",
+    "Certified HVAC Technician",
+    "Master HVAC/R Technician",
+    "Welding",
+    "Precision Machining",
+    "Industrial Maintenance Technology",
+    "Instrumentation and Control",
+    "Motor Vehicle Technology",
+    "Residential Construction",
+    "Civil and Construction Applied Engineering Technology"
+   ],
+   "credentials": "C.T.S., A.A.S., T.D. per program listing"
+  },
+  {
+   "name": "SOWELA Technical Community College",
+   "type": "technical college",
+   "home_url": "https://www.sowela.edu/",
+   "trades_url": "https://www.sowela.edu/programs/tat/",
+   "programs": [
+    "Industrial Technology",
+    "Drafting and Design Technology",
+    "Industrial Electrical Technology",
+    "Industrial Instrumentation Technology",
+    "Process Technology",
+    "Aviation Maintenance Technology",
+    "Carpentry",
+    "Electrical Construction",
+    "Industrial Mechanics for Millwrights and Machinists",
+    "Plumbing Construction",
+    "Vehicle Maintenance and Repair Technology",
+    "Welding",
+    "CDL Training",
+    "HVAC Training",
+    "Pipefitting",
+    "Pipeline Technician",
+    "Residential Electrician",
+    "Forklift Training"
+   ]
+  },
+  {
+   "name": "Baton Rouge Community College (BRCC)",
+   "type": "community college",
+   "home_url": "https://mybrcc.edu/",
+   "trades_url": "https://mybrcc.edu/academics/technical-education/",
+   "programs": [
+    "Air Conditioning and Refrigeration",
+    "Aviation Maintenance",
+    "Carpentry",
+    "Commercial Vehicle Operations (CDL)",
+    "Drafting and Design Technology",
+    "Electric Vehicle Supply Equipment (EVSE)",
+    "NCCER Electrical Level 4",
+    "NCCER Instrumentation Level 4",
+    "NCCER Millwright Level 4",
+    "NCCER Pipefitting Level 4",
+    "Vehicle Maintenance and Repair",
+    "Welding",
+    "Process Technology"
+   ]
+  },
+  {
+   "name": "Nunez Community College",
+   "type": "community college",
+   "home_url": "https://www.nunez.edu/",
+   "trades_url": "https://www.nunez.edu/workforce/index",
+   "programs": [
+    "Heavy Equipment Operator",
+    "Machinist"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "ABC Pelican Chapter (Associated Builders and Contractors)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction craft training"
+   ],
+   "city": "Baton Rouge",
+   "url": "https://pathways.nccer.org/abc-pelican-chapter/",
+   "description": "Construction Career Pathways page for the ABC Pelican Chapter, a Baton Rouge-area construction training provider."
+  },
+  {
+   "name": "IBEW Local 130",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "New Orleans",
+   "url": "https://ibewlu130.com/",
+   "apprenticeship_url": "https://ibewlu130.com/apprenticeship/",
+   "description": "IBEW Local 130Training, Representation, and Opportunity for Electricians Excellence in Electrical Work since 1891 For more than a century, the International Brotherhood of Electrical Workers has driven the growth of […]."
+  },
+  {
+   "name": "IBEW Local 194",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Shreveport",
+   "url": "http://www.ibew194.org/",
+   "apprenticeship_url": "http://www.ibew194.org/index.cfm?zone=/unionactive/private_view_page.cfm&page=JATC20Information",
+   "description": "The Ultimate Website Management and Communications Tool for Unions."
+  },
+  {
+   "name": "IBEW Local 995",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Baton Rouge",
+   "url": "https://lu995.com/",
+   "apprenticeship_url": "https://lu995.com/join-the-ibew/apprenticeships/",
+   "description": "Login with Labor Power to pay dues, re-sign the books, bid on call, and get access to documents like current contracts and wage sheet. We welcome you and look forward to meeting you! Get Social Check out the."
+  },
+  {
+   "name": "New Orleans Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Metairie",
+   "url": "https://ibewlu130.com/",
+   "apprenticeship_url": "https://ibewlu130.com/apprenticeship/",
+   "description": "IBEW Local 130Training, Representation, and Opportunity for Electricians Excellence in Electrical Work since 1891 For more than a century, the International Brotherhood of Electrical Workers has driven the growth of […]."
+  },
+  {
+   "name": "IUOE Local 406 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Metairie",
+   "url": "https://iuoelocal406.org/",
+   "apprenticeship_url": "https://iuoelocal406.org/training/",
+   "description": "IUOE Local 406 New Orleans - Baton Rouge - Lafayette / Lake Charles - Shreveport / Monroe The 2025 Training Schedule Has Been Posted! The Operating Engineers Local Union"
+  },
+  {
+   "name": "IUPAT District Council 10",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://dc10iupat.org/",
+   "apprenticeship_url": "https://dc10iupat.org/apprenticeship-programs",
+   "description": "DC 10 DC 10 Sign In My Account About Us DC 10 NEWSLETTER Labor Calls Training Local Unions Resources V.A.C."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters",
+   "union": "Carpenters",
+   "kind": "building trades council",
+   "city": "Metairie",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Regional council page lists its training centers and locals."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Baton Rouge Carpenters & Millwrights Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Baton Rouge",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Metairie Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Metairie",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1098 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Baton Rouge",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1846 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Metairie",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 3101 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Oakdale",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Louisiana State Licensing Board for Contractors (LSLBC)",
+   "trades": [
+    "electrical contractors",
+    "HVAC",
+    "general contractors"
+   ],
+   "url": "https://lslbc.gov/classifications_list/electrical/",
+   "description": "Licenses and regulates commercial and residential contractors, including electrical contractor classifications."
+  },
+  {
+   "name": "State Plumbing Board of Louisiana",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://wwwcfprd.doa.louisiana.gov/boardsandcommissions/viewBoard.cfm?board=28",
+   "description": "Examines and licenses plumbers under R.S. 37:1361 (board page on the state boards directory)."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Workforce Pell",
+   "url": "https://www.laworks.net/WorkforcePell/WFP_Introduction.asp",
+   "provider": "Louisiana Workforce Commission",
+   "kind": "grant",
+   "provides": "Workforce Pell extends the federal Pell Grant, long a cornerstone of college financial aid, to short-term workforce programs for the first time.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Registered Apprenticeship for Job and Skill Seekers",
+   "url": "https://www.laworks.net/Apprenticeship/APP_ForJobSkillSeekers.asp",
+   "provider": "Louisiana Workforce Commission",
+   "kind": "apprenticeship",
+   "provides": "You get paid from the first day you start working, and your pay increases as you learn more skills.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "WORKS Training Fund",
+   "url": "https://www.laworks.net/WorksTraining/",
+   "provider": "Louisiana Workforce Commission",
+   "kind": "grant",
+   "provides": "The WORKS Training Fund provides performance-based reimbursement to Louisiana employers investing in workforce training.",
+   "eligibility": "Louisiana employers; reimbursement tied to measurable results (per page)",
+   "amount": "Up to 80% reimbursement for approved training (per page)",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Incumbent Worker Training Program",
+   "url": "https://www.laworks.net/WorkforceDev/IWTP/IWTP_MainMenu.asp",
+   "provider": "Louisiana Workforce Commission",
+   "kind": "grant",
+   "provides": "The Incumbent Worker Training Program offers Customized Training and Small Business Employee Training (SBET) for employers' workers.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

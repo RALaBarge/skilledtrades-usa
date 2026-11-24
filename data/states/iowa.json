@@ -1,0 +1,614 @@
+{
+ "code": "IA",
+ "state": "Iowa",
+ "colleges": [
+  {
+   "name": "Des Moines Area Community College (DMACC)",
+   "type": "community college",
+   "city": "Ankeny",
+   "home_url": "https://www.dmacc.edu/",
+   "trades_url": "https://www.dmacc.edu/pathways/btt/electrical-trades.html",
+   "programs": [
+    "Electrical Trades",
+    "Welding",
+    "Diesel Technology",
+    "Automotive Mechanics Technology",
+    "Auto Collision Technology",
+    "Construction Management Technology",
+    "Electric Utility Technology",
+    "Advanced Manufacturing Technology",
+    "Industrial Electrical Maintenance (short-term)",
+    "Apprenticeship Program"
+   ],
+   "credentials": "Diploma and certificates (welding); details on each linked program page"
+  },
+  {
+   "name": "Eastern Iowa Community College District (EICC)",
+   "type": "community college",
+   "city": "Davenport",
+   "home_url": "https://eicc.edu/",
+   "trades_url": "https://eicc.edu/classes-programs/pathway/industrial/welding/default.aspx",
+   "programs": [
+    "Welding (Advanced Welding, Fundamental Welding, Welder Diploma)",
+    "CNC Machining",
+    "Additive Manufacturing",
+    "HVAC Academy (diploma)",
+    "Automotive Technology",
+    "Diesel Technology",
+    "Industrial Maintenance Technician",
+    "Construction"
+   ],
+   "credentials": "Certificate, diploma"
+  },
+  {
+   "name": "Hawkeye Community College",
+   "type": "community college",
+   "city": "Waterloo",
+   "home_url": "https://www.hawkeyecollege.edu/",
+   "trades_url": "https://www.hawkeyecollege.edu/programs/index?filter=constructiontrades",
+   "programs": [
+    "Carpentry apprenticeship",
+    "Electrical apprenticeship",
+    "HVAC apprenticeship",
+    "Plumbing apprenticeship",
+    "Welding",
+    "CNC Machining",
+    "HVAC",
+    "Automotive Technology",
+    "Diesel Technology",
+    "Industrial Maintenance",
+    "Class A CDL",
+    "Class B CDL"
+   ],
+   "credentials": "AAS degree, diploma, certificate, apprenticeship"
+  },
+  {
+   "name": "Indian Hills Community College",
+   "type": "community college",
+   "city": "Ottumwa",
+   "home_url": "https://indianhills.edu/",
+   "trades_url": "https://indianhills.edu/academics/tech/construction_trades.php",
+   "programs": [
+    "Welding Technology",
+    "Construction Trades",
+    "Construction Technology",
+    "Automotive Technology",
+    "Diesel Technology",
+    "HVAC/Refrigeration",
+    "Machine Technology",
+    "CDL"
+   ]
+  },
+  {
+   "name": "Iowa Central Community College",
+   "type": "community college",
+   "city": "Fort Dodge",
+   "home_url": "https://www.iowacentral.edu/",
+   "trades_url": "https://www.iowacentral.edu/programs.asp",
+   "programs": [
+    "Automotive Collision Technology (diploma)",
+    "Automotive Technology",
+    "Carpentry",
+    "Diesel Technology",
+    "Electrical Apprenticeship",
+    "Electrical/Mechanical Technician",
+    "Electrical Technologies",
+    "Industrial Machinist (diploma)",
+    "Industrial Mechanics",
+    "Industrial Robotics and Automation",
+    "Plumbing Technology",
+    "Truck Driving",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Iowa Lakes Community College",
+   "type": "community college",
+   "city": "Estherville",
+   "home_url": "https://iowalakes.edu/",
+   "trades_url": "https://iowalakes.edu/academics/skilled-trades-industrial-technology/",
+   "programs": [
+    "Automotive Technology AAS",
+    "Automotive Maintenance Diploma",
+    "Construction Technology Management AAS",
+    "Construction Management Diploma",
+    "Construction Technology Diploma",
+    "Farm Equipment & Diesel Technology AAS",
+    "Welding Technology Diploma",
+    "Welding Technology Certificate"
+   ],
+   "credentials": "AAS, diploma, certificate"
+  },
+  {
+   "name": "Iowa Valley Community College District",
+   "type": "community college",
+   "city": "Marshalltown",
+   "home_url": "https://www.iavalley.edu/",
+   "trades_url": "https://www.iavalley.edu/academics/guided-pathways/manufacturing-skilled-trades.html",
+   "programs": [
+    "Advanced Manufacturing",
+    "Automotive Technology",
+    "Construction",
+    "Machine Tool Technology",
+    "Utility Technician",
+    "Welding"
+   ],
+   "credentials": "Certificate, diploma, AAS (per program pages)"
+  },
+  {
+   "name": "Iowa Western Community College",
+   "type": "community college",
+   "city": "Council Bluffs",
+   "home_url": "https://www.iwcc.edu/",
+   "trades_url": "https://www.iwcc.edu/ce/trades-amp-manufacturing/",
+   "programs": [
+    "Automotive (continuing ed)",
+    "Heavy Equipment Operator",
+    "Welding",
+    "HVAC/R Certified Technician",
+    "HVAC/R Technician",
+    "Residential Electrician",
+    "Foundations of Plumbing",
+    "Electrical Technology Diploma",
+    "Plumbing Technology Diploma",
+    "HVAC-R Technology Diploma",
+    "Welding Technology Diploma",
+    "Automotive Technology AAS",
+    "Diesel Mechanics Diploma",
+    "Construction Management AAS",
+    "CDL program",
+    "Registered Apprenticeship"
+   ],
+   "credentials": "AAS, diploma, certificate, non-credit"
+  },
+  {
+   "name": "Kirkwood Community College",
+   "type": "community college",
+   "city": "Cedar Rapids",
+   "home_url": "https://www.kirkwood.edu/",
+   "trades_url": "https://www.kirkwood.edu/programs/degrees/manufacturing-trades-transportation/",
+   "programs": [
+    "Advanced Welding",
+    "Automotive Collision Repair",
+    "Automotive Technology",
+    "Carpentry",
+    "CNC Machining",
+    "Construction Management",
+    "Diesel Technologies",
+    "HVAC Installer",
+    "Industrial Maintenance",
+    "Plumbing Pre-Apprenticeship"
+   ]
+  },
+  {
+   "name": "North Iowa Area Community College (NIACC)",
+   "type": "community college",
+   "city": "Mason City",
+   "home_url": "https://www.niacc.edu/",
+   "trades_url": "https://www.niacc.edu/skilled-trades/",
+   "programs": [
+    "Advanced Industrial Technician",
+    "Automotive Service Technology",
+    "Building Trades",
+    "Diesel Technology",
+    "Fundamentals of Advanced Manufacturing",
+    "Fundamentals of Welding",
+    "Industrial Automation & Robotics Technology",
+    "Industrial Mechanical Technology",
+    "Industrial Technician",
+    "Precision Machining",
+    "Welding",
+    "Production Welding",
+    "Qualified Wind Technician"
+   ],
+   "credentials": "Degree, diploma, certificate"
+  },
+  {
+   "name": "Northeast Iowa Community College (NICC)",
+   "type": "community college",
+   "city": "Calmar",
+   "home_url": "https://www.nicc.edu/",
+   "trades_url": "https://www.nicc.edu/academics/programs-by-career/construction/",
+   "programs": [
+    "Building Construction",
+    "Cabinet and Trim Carpentry Basics",
+    "Carpentry",
+    "Construction Business Management",
+    "Construction Equipment Operator",
+    "Advanced Manufacturing",
+    "Energy and Utilities"
+   ]
+  },
+  {
+   "name": "Northwest Iowa Community College",
+   "type": "community college",
+   "city": "Sheldon",
+   "home_url": "https://nwicc.edu/",
+   "trades_url": "https://nwicc.edu/department/electrical-construction/",
+   "programs": [
+    "Electrical Technology",
+    "Heavy Equipment Operation & Maintenance",
+    "Industrial and Commercial Wiring",
+    "Industrial Instrumentation & Control",
+    "Production Welding",
+    "Advanced Welding Technology"
+   ]
+  },
+  {
+   "name": "Southeastern Community College",
+   "type": "community college",
+   "city": "West Burlington",
+   "home_url": "https://www.scciowa.edu/",
+   "trades_url": "https://www.scciowa.edu/programs/pathways/applied-technologies/welding/index.aspx",
+   "programs": [
+    "Welding",
+    "Building Construction (certificate, diploma)",
+    "Carpentry AAS",
+    "Precision Machining CNC Technology",
+    "Automotive Technology",
+    "Electrical Maintenance Technology Diploma",
+    "CDL Training (non-credit)"
+   ],
+   "credentials": "AAS, diploma, certificate"
+  },
+  {
+   "name": "Southwestern Community College",
+   "type": "community college",
+   "city": "Creston",
+   "home_url": "https://www.swcciowa.edu/",
+   "trades_url": "https://www.swcciowa.edu/academics/",
+   "programs": [
+    "Auto Collision Repair/Refinish",
+    "Automotive Repair Technology",
+    "Carpentry & Building Trades",
+    "Electrical Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Western Iowa Tech Community College",
+   "type": "community college",
+   "city": "Sioux City",
+   "home_url": "https://www.witcc.edu/",
+   "trades_url": "https://www.witcc.edu/programs/",
+   "programs": [
+    "Auto Collision Repair Technology (AAS)",
+    "Automotive Drive Train (cert)",
+    "Automotive Electrical (cert)",
+    "Automotive Painting (cert)",
+    "Automotive Technology (AAS)",
+    "Aviation Airframe Maintenance Technician (diploma)",
+    "Carpentry (cert)",
+    "Construction (diploma)",
+    "Electrician (diploma)",
+    "Industrial Welding (diploma)",
+    "Manufacturing (diploma)",
+    "Plumbing Systems (diploma)",
+    "Production Welding (cert)",
+    "Qualified Welding (cert)",
+    "Residential Plumbing (cert)",
+    "Truck Driving (cert)",
+    "Welding Technology (AAS)"
+   ],
+   "credentials": "AAS, diploma, certificate"
+  }
+ ],
+ "unions": [
+  {
+   "name": "Associated Builders and Contractors of Iowa (ABC of Iowa)",
+   "kind": "contractor association",
+   "trades": [
+    "construction trades (merit shop)"
+   ],
+   "city": "Grimes",
+   "url": "https://abciowa.org/who-we-are/",
+   "description": "ABC of Iowa is a non-profit construction trade association that fosters the principles of freedom of choice through the merit construction philosophy."
+  },
+  {
+   "name": "ABC of Iowa Trust (apprenticeship program)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction trades"
+   ],
+   "url": "https://abciowatrust.org/become-an-apprentice/",
+   "description": "Guide to starting an Iowa construction apprenticeship, finding an employer, and completing the program."
+  },
+  {
+   "name": "IUOE Local 234 (Iowa Operating Engineers)",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment operator",
+    "stationary engineer"
+   ],
+   "city": "Indianola",
+   "url": "https://local234.com/",
+   "description": "Operating engineers local with a heavy equipment operator apprenticeship and training program.",
+   "how_to_apply": "Fill out the qualification register on the site to be added to the out-of-work list."
+  },
+  {
+   "name": "IBEW Local 405 (Cedar Rapids)",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Cedar Rapids",
+   "url": "https://ibew405.org/",
+   "description": "IBEW Local 405 serves Benton, Iowa, Johnson, Jones, Linn and Poweshiek counties in Iowa."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "nonprofit",
+   "trades": [
+    "construction trades"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Program helping military veterans start construction-trade careers."
+  },
+  {
+   "name": "UI Labor Center Quality Pre-apprenticeship Program",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "construction trades"
+   ],
+   "city": "Iowa City",
+   "url": "https://laborcenter.uiowa.edu/quality-pre-apprenticeship-program",
+   "description": "Pre-apprenticeship program preparing high school seniors and adults for registered apprenticeship placement.",
+   "how_to_apply": "Open to high school seniors and adults; most registered apprenticeships require applicants to be at least 18."
+  },
+  {
+   "name": "Des Moines Electrical Apprenticeship & Training Trust",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Urbandale",
+   "url": "https://www.dmelejatc.org/",
+   "apprenticeship_url": "https://www.dmelejatc.org/?zone=/unionactive/private_view_page.cfm&page=Journeyman20Training",
+   "description": "Des Moines Electrical Apprenticeship."
+  },
+  {
+   "name": "IBEW Local 13",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Burlington",
+   "url": "https://www.ibewlocal13.com/",
+   "description": "At ibe Local 13 we take pride in powering southeast iowa. Our members and contractors are some of iowa."
+  },
+  {
+   "name": "IBEW Local 1379",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Davenport",
+   "url": "https://www.ibew1379.org/",
+   "apprenticeship_url": "https://www.ibew1379.org/2026%20Apprenticeship%20Flyer.pdf",
+   "description": "IBEW Local 1379."
+  },
+  {
+   "name": "IBEW Local 231",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Sioux City",
+   "url": "https://www.ibew231.com/",
+   "description": "Home Page - IBEW 231 | Sioux City, Iowa."
+  },
+  {
+   "name": "IBEW Local 288",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Waterloo",
+   "url": "https://www.ibew288.org/",
+   "apprenticeship_url": "https://www.ibew288.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 288."
+  },
+  {
+   "name": "IBEW Local 347",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Des Moines",
+   "url": "https://www.ibewlu347.org/",
+   "description": "IBEW Local 347."
+  },
+  {
+   "name": "IBEW Local 405",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Cedar Rapids",
+   "url": "https://ibew405.org/",
+   "apprenticeship_url": "https://ibew405.org/members/training/",
+   "description": "The International Brotherhood of Electrical Workers Local 405 serves the counties Benton, Iowa, Johnson, Jones, Linn, & Poweshiek in Iowa."
+  },
+  {
+   "name": "IBEW Local 499",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Des Moines",
+   "url": "https://ibew499.com/",
+   "description": "IBEW Local 499 Members Keep Your Homes and Businesses Running. Their hard work and expertise keep the power grid up and running."
+  },
+  {
+   "name": "IBEW Local 55",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Des Moines",
+   "url": "http://www.ibew55.org/",
+   "apprenticeship_url": "http://www.ibew55.org/apprenticeship/",
+   "description": "IBEW Local 55 - Home Page."
+  },
+  {
+   "name": "IBEW Local 704",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Dubuque",
+   "url": "https://ibew704.com/",
+   "apprenticeship_url": "https://ibew704.com/apprenticeship",
+   "description": "Find the latest IBEW 704 job calls and join our community of electricians in Dubuque, Iowa for better wages and benefits."
+  },
+  {
+   "name": "Missouri Valley Line Constructors JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Indianola",
+   "url": "https://www.movalleyjatc.org/",
+   "apprenticeship_url": "https://www.movalleyjatc.org/",
+   "description": "Explore the electrical construction programs offered by Missouri Valley JATC."
+  },
+  {
+   "name": "Sioux City Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Sergeant Bluff",
+   "url": "https://scjatc.org/",
+   "apprenticeship_url": "https://scjatc.org/about/",
+   "description": "We are a joint electrical apprenticeship training program that provides training for electrical apprentices and also provides CEU training for journey level electricians."
+  },
+  {
+   "name": "IUOE Local 234 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Des Moines",
+   "url": "https://local234.com/",
+   "apprenticeship_url": "https://local234.com/",
+   "description": "We have an Apprenticeship &amp; Training site that offers many different types of safety classes."
+  },
+  {
+   "name": "IUPAT District Council 81",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.iupatdc81.org/",
+   "apprenticeship_url": "https://www.iupatdc81.org/apprenticeship-and-training-calendar"
+  },
+  {
+   "name": "BAC 03 Iowa",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Marshalltown",
+   "url": "https://baclocal3ia.org/",
+   "apprenticeship_url": "https://baclocal3ia.org/career-opportunities/our-apprentice-program",
+   "description": "Flynn BAC/IMI International Training Center&nbsp;in Bowie, Maryland."
+  },
+  {
+   "name": "Laborers Local 43 JATC",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Cedar Rapids",
+   "url": "https://www.local43.org/",
+   "apprenticeship_url": "https://www.local43.org/training/",
+   "description": "Laborers Local 43 --> Local 43 Home How To Apply About Who We Are Political Page Work We Do Dues Training Benefits Forms Health and Welfare Pension My Calendar Contractors Signatory Contractors Contact Us It&#8217;s all about Solidarity Local 43 is an affiliate of LiUNA!"
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Carpenters Training Institute - Des Moines Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "North Altoona",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Carpenters Training Institute - Five Rivers Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Cedar Rapids",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Carpenters Training Institute - Sioux City Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Sioux City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2060 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "N. Altoona",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 308 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Southwest-Suite B Cedar Rapids",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 4 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Davenport",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 106 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "North Altoona",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 678 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Dubuque",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1260 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Iowa City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 948 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Sioux City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Iowa State Building & Construction Trades Council – Statewide umbrella organization for 15 different and separate Craft Unions.",
+   "kind": "building trades council",
+   "url": "https://iowastatebuildingtrades.org/",
+   "description": "Registered apprenticeship and employment opportunities are available now for all experience levels!"
+  },
+  {
+   "name": "Programs",
+   "kind": "pre-apprenticeship",
+   "url": "https://iowastatebuildingtrades.org/programs/",
+   "description": "Pre-Apprenticeship Programs Pre-Apprenticeship and Apprenticeship Readiness Programs Many of our affiliated unions have pre-apprenticeship programs."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Iowa Plumbing and Mechanical Systems Board (Iowa DIAL)",
+   "trades": [
+    "plumbing",
+    "mechanical/HVAC",
+    "refrigeration",
+    "hydronic",
+    "sheet metal"
+   ],
+   "url": "https://dial.iowa.gov/about-dial/boards-and-commissions/pmsb-board",
+   "description": "Licenses and regulates plumbing and mechanical professionals and protects the public."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Iowa Office of Apprenticeship",
+   "url": "https://workforce.iowa.gov/apprenticeship",
+   "provider": "Iowa Workforce Development",
+   "kind": "apprenticeship",
+   "provides": "Registered Apprenticeship (RA) is an industry-driven, high-quality pathway that helps Iowans advance in their careers and employers develop their workforce.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,703 @@
+{
+ "code": "OR",
+ "state": "Oregon",
+ "colleges": [
+  {
+   "name": "Portland Community College",
+   "type": "community college",
+   "city": "Portland",
+   "home_url": "https://www.pcc.edu/",
+   "trades_url": "https://www.pcc.edu/programs/apprenticeship/",
+   "programs": [
+    "Apprenticeship and Trades",
+    "Auto Collision Repair",
+    "Automotive Service",
+    "Building Construction",
+    "Diesel Service Technology",
+    "Machine Manufacturing Technology",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Mt. Hood Community College",
+   "type": "community college",
+   "city": "Gresham",
+   "home_url": "https://www.mhcc.edu/",
+   "trades_url": "https://www.mhcc.edu/education-options/career-technical-programs/career-pathways/apprenticeships/",
+   "programs": [
+    "Apprenticeships (A-Z list incl. electrical, carpenters, ironworkers, sheet metal, roofers, cement masons)",
+    "Automotive Technology",
+    "Accelerated Welding Technology"
+   ],
+   "credentials": "Apprenticeship associate degree option (Earn Your Associate Degree in Addition to Your Journey-level)"
+  },
+  {
+   "name": "Clackamas Community College",
+   "type": "community college",
+   "city": "Oregon City",
+   "home_url": "https://www.clackamas.edu/",
+   "trades_url": "https://www.clackamas.edu/academics/educational-focus-areas-group/industrial-technology-automotive",
+   "programs": [
+    "Apprenticeship Programs",
+    "Auto Collision Repair Career Pathway",
+    "Auto Collision Refinish Career Pathway",
+    "Auto Body/Collision Repair and Refinishing Technology Career Pathway",
+    "CNC Operator Career Pathway Certificate",
+    "Entry Level Welder Career Pathway",
+    "Under Car Technician - Automatic Transmission Career Pathway",
+    "Under Car Technician - Manual Transmission Career Pathway"
+   ],
+   "credentials": "Career pathway certificates"
+  },
+  {
+   "name": "Chemeketa Community College",
+   "type": "community college",
+   "city": "Salem",
+   "home_url": "https://www.chemeketa.edu/",
+   "trades_url": "https://www.chemeketa.edu/programs-classes/program-finder/apprenticeship/",
+   "programs": [
+    "Apprenticeship Trades",
+    "HVAC/R (apprenticeship)",
+    "Inside Wire Electrician (apprenticeship)",
+    "Sheet Metal (apprenticeship)",
+    "Ironworker (apprenticeship)",
+    "Automotive Technology",
+    "Diesel Technology",
+    "Welding",
+    "Truck Driving"
+   ]
+  },
+  {
+   "name": "Linn-Benton Community College",
+   "type": "community college",
+   "city": "Albany",
+   "home_url": "https://www.linnbenton.edu/",
+   "trades_url": "https://www.linnbenton.edu/current-students/apprenticeships/index.php",
+   "programs": [
+    "Apprenticeships",
+    "Automotive Technology",
+    "Heavy Equipment/Diesel Technology",
+    "Machine Tool Technology",
+    "Mechatronics",
+    "Welding",
+    "Commercial Driver License (CDL)"
+   ],
+   "credentials": "One-year certificates and program maps for several trades"
+  },
+  {
+   "name": "Lane Community College",
+   "type": "community college",
+   "city": "Eugene",
+   "home_url": "https://www.lanecc.edu/",
+   "trades_url": "https://www.lanecc.edu/programs-academics/areas-study/industrial-trades-technologies-transportation-and-apprenticeship",
+   "programs": [
+    "Automotive Technology",
+    "Carpenters",
+    "CNC Machining and Inspection",
+    "Construction Technology",
+    "Diesel Technology",
+    "Fabrication and Welding Technology",
+    "Glaziers",
+    "HVAC Technicians & Installers",
+    "Inside Electricians",
+    "Limited Energy Technicians",
+    "Limited Maintenance Electricians",
+    "Manufacturing Plant Electricians",
+    "Millwrights",
+    "Plumbers",
+    "Sheet Metal Workers"
+   ]
+  },
+  {
+   "name": "Umpqua Community College",
+   "type": "community college",
+   "city": "Roseburg",
+   "home_url": "https://umpqua.edu/",
+   "trades_url": "https://umpqua.edu/academics/find-your-path/apprenticeship/",
+   "programs": [
+    "Apprenticeship",
+    "Automotive Service Technology",
+    "Mechatronics",
+    "Welding"
+   ],
+   "credentials": "Welding AAS degree or certificate"
+  },
+  {
+   "name": "Rogue Community College",
+   "type": "community college",
+   "city": "Grants Pass",
+   "home_url": "https://www.roguecc.edu/",
+   "trades_url": "https://www.roguecc.edu/degrees-and-programs/apprenticeships.php",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Specialist",
+    "Boiler Operator Apprenticeship",
+    "Computer Numerical Control - CNC Operator",
+    "Construction Trades General Apprenticeship"
+   ],
+   "credentials": "Construction Trades General Apprenticeship Degree"
+  },
+  {
+   "name": "Central Oregon Community College",
+   "type": "community college",
+   "city": "Bend",
+   "home_url": "https://cocc.edu/",
+   "trades_url": "https://cocc.edu/directory/departments/manufacturing-technology",
+   "programs": [
+    "Apprenticeship",
+    "Manufacturing Technology",
+    "DRCI Welding Program"
+   ]
+  },
+  {
+   "name": "Klamath Community College",
+   "type": "community college",
+   "city": "Klamath Falls",
+   "home_url": "https://www.klamathcc.edu/",
+   "trades_url": "https://www.klamathcc.edu/en-US/academics/academic-programs/transport-industry-engineering-agriculture/apprenticeship-related-training/index.html",
+   "programs": [
+    "Apprenticeships",
+    "Automotive Technology",
+    "Diesel Technology",
+    "Manufacturing Engineering Technology",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Blue Mountain Community College",
+   "type": "community college",
+   "city": "Pendleton",
+   "home_url": "https://bluecc.edu/",
+   "trades_url": "https://bluecc.edu/pathways-programs/agriculture-diesel-welding/",
+   "programs": [
+    "Apprenticeship",
+    "CDL Program",
+    "Diesel Technology",
+    "Agriculture, Diesel and Welding pathway"
+   ]
+  },
+  {
+   "name": "Treasure Valley Community College",
+   "type": "community college",
+   "city": "Ontario",
+   "home_url": "https://www.tvcc.cc/",
+   "trades_url": "https://www.treasurevalleycc.edu/pathways/industrial_trades.cfm",
+   "programs": [
+    "Industrial Trades",
+    "Welding",
+    "Industrial Manufacturing & Control Systems"
+   ]
+  },
+  {
+   "name": "Columbia Gorge Community College",
+   "type": "community college",
+   "city": "The Dalles",
+   "home_url": "https://www.cgcc.edu/",
+   "trades_url": "https://www.cgcc.edu/tech-trade-pathway",
+   "programs": [
+    "Advanced Manufacturing and Fabrication",
+    "Advanced Manufacturing Technology",
+    "Basic Construction",
+    "CNC and Additive Manufacturing",
+    "Construction Technology",
+    "Construction Technology - Building",
+    "Construction Technology - Finishing",
+    "Manufacturing"
+   ],
+   "credentials": "Basic Construction certificate; Construction Technology certificate(s); Manufacturing certificate"
+  },
+  {
+   "name": "Clatsop Community College",
+   "type": "community college",
+   "city": "Astoria",
+   "home_url": "https://www.clatsopcc.edu/",
+   "trades_url": "https://www.clatsopcc.edu/areas/industry-manufacturing/",
+   "programs": [
+    "Welding, AAS",
+    "Welding, AWS One-Year Certificate",
+    "Welding Career Pathways Certificates (CPC)",
+    "Plumbing Apprenticeship (partnership with JATC)",
+    "HVAC Pre-Apprenticeship",
+    "Welding & Fabrication"
+   ],
+   "credentials": "Welding AAS; AWS one-year certificate; Career Pathways Certificates"
+  },
+  {
+   "name": "Oregon Coast Community College",
+   "type": "community college",
+   "city": "Newport",
+   "home_url": "https://oregoncoast.edu/",
+   "trades_url": "https://oregoncoast.edu/academics/programs/trades/",
+   "programs": [
+    "Welding",
+    "Pre-Apprenticeship for the Construction Trades"
+   ]
+  },
+  {
+   "name": "Tillamook Bay Community College",
+   "type": "community college",
+   "city": "Tillamook",
+   "home_url": "https://tillamookbaycc.edu/",
+   "trades_url": "https://tillamookbaycc.edu/apprenticeship/",
+   "programs": [
+    "Apprenticeship Related Training (with OCJATC)",
+    "Commercial Truck Driving (CDL)",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Oregon Institute of Technology",
+   "type": "state college",
+   "city": "Klamath Falls",
+   "home_url": "https://www.oit.edu/",
+   "trades_url": "https://www.oit.edu/academics/degrees/manufacturing-engineering-technology",
+   "programs": [
+    "Manufacturing Engineering Technology B.S.",
+    "Manufacturing Engineering Technology M.S.",
+    "Construction Management B.S."
+   ],
+   "credentials": "Bachelor's and master's degrees"
+  }
+ ],
+ "unions": [
+  {
+   "name": "UA Local 290 (Plumbers and Steamfitters)",
+   "kind": "union local",
+   "trades": [
+    "plumbing",
+    "steamfitting",
+    "pipefitting",
+    "HVAC/R"
+   ],
+   "city": "Tualatin",
+   "url": "https://ua290.org/",
+   "description": "Plumbers and Steamfitters Local 290 site with member, dispatch and apprenticeship information.",
+   "how_to_apply": "Building Trades Exam application and open-call pages are posted on the site."
+  },
+  {
+   "name": "290 Tech (UA Local 290 training center)",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing",
+    "steamfitting",
+    "HVAC/R"
+   ],
+   "url": "https://www.290tech.edu/apprenticeship101",
+   "description": "Training center for UA Local 290 apprenticeships; the About the Program page explains apprenticeship.",
+   "how_to_apply": "Apprentice and contractor pages are linked from the site."
+  },
+  {
+   "name": "IBEW Local 48",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Portland",
+   "url": "https://www.ibew48.com/",
+   "description": "Electrical workers union local serving Portland and Vancouver, Washington, per its homepage."
+  },
+  {
+   "name": "Northwest Line JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "lineworker",
+    "tree trimming"
+   ],
+   "url": "https://nwlinejatc.com/",
+   "description": "IBEW/NECA-affiliated joint apprenticeship for lineman, tree trimmer and VOLTA apprenticeship training."
+  },
+  {
+   "name": "Area I JATC (plumbing apprenticeship)",
+   "kind": "JATC / training center",
+   "trades": [
+    "plumbing"
+   ],
+   "city": "Portland",
+   "url": "https://areaonejatc.com/",
+   "description": "Joint apprenticeship committee for Area I plumbers; the site lists applicant lists and application notices.",
+   "how_to_apply": "Applications are accepted through the site when the program is open; the site notes only one submission per application."
+  },
+  {
+   "name": "Area I JATC (electrical apprenticeship)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Portland",
+   "url": "https://area1jatc.us/program",
+   "description": "Four-year electrical apprenticeship program with classroom instruction and paid on-the-job training, per its program page.",
+   "how_to_apply": "Application page is linked from the program site."
+  },
+  {
+   "name": "Area I JATC (painting apprenticeship)",
+   "kind": "JATC / training center",
+   "trades": [
+    "painting"
+   ],
+   "city": "Portland",
+   "url": "https://area1jatc.net/painters/",
+   "description": "Painters apprenticeship page of the Area I JATC.",
+   "how_to_apply": "Opening announcement PDF is linked from the page."
+  },
+  {
+   "name": "Renewable Energy JATC (solar apprenticeship)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical",
+    "solar electric installation"
+   ],
+   "url": "https://www.solarapprenticeship.org/",
+   "description": "Joint apprenticeship committee for renewable energy electrical work; the site explains the Oregon LRT license route."
+  },
+  {
+   "name": "Oregon Laborers Apprenticeship and Training Trust",
+   "kind": "JATC / training center",
+   "trades": [
+    "construction laborer"
+   ],
+   "url": "https://oregonlaborers.com/",
+   "description": "Laborers apprenticeship and training trust for Oregon, per its homepage."
+  },
+  {
+   "name": "Operating Engineers Local 701",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment operation"
+   ],
+   "url": "https://www.iuoe701.com/",
+   "description": "International Union of Operating Engineers Local 701 website."
+  },
+  {
+   "name": "Ironworkers Local 29",
+   "kind": "union local",
+   "trades": [
+    "ironworking"
+   ],
+   "url": "https://www.ironworkers29.org/en",
+   "description": "Ironworkers Local 29 homepage."
+  },
+  {
+   "name": "Cement Masons Local 555",
+   "kind": "union local",
+   "trades": [
+    "cement masonry",
+    "concrete finishing"
+   ],
+   "url": "https://www.cementmasons555.com/en",
+   "description": "Cement Masons Local 555 homepage."
+  },
+  {
+   "name": "BAC Local 1 (Bricklayers)",
+   "kind": "union local",
+   "trades": [
+    "bricklaying",
+    "masonry"
+   ],
+   "url": "https://bac1or.org/",
+   "description": "Bricklayers and Allied Craftworkers Local 1, covering Oregon, Washington, Idaho and Montana."
+  },
+  {
+   "name": "Oregon and SW Washington Roofers and Waterproofers JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "roofing",
+    "waterproofing"
+   ],
+   "url": "https://www.orswroofersapp.com/",
+   "description": "Application site for the Oregon and Southwest Washington roofers and waterproofers apprenticeship; says apprentices work for union contractors and earn union wages from the first week.",
+   "how_to_apply": "Student portal and application are on the site."
+  },
+  {
+   "name": "Protective Signaling JATC (NWCOC)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "protective signaling (low-voltage)"
+   ],
+   "city": "Portland",
+   "url": "https://nwcoc.com/apprenticeship-at-nwcoc/protective-signaling/",
+   "description": "Protective Signaling Apprenticeship page on the NWCOC site in Portland.",
+   "how_to_apply": "Registration is on the page."
+  },
+  {
+   "name": "Independent Electrical Contractors of Oregon (IEC Oregon)",
+   "kind": "contractor association",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://iecoregon.org/",
+   "description": "Independent Electrical Contractors of Oregon helps independent electrical contractors build skills and runs limited-energy apprenticeship applications.",
+   "how_to_apply": "Limited energy apprenticeship application: https://iecoregon.org/apprenticeship/limited-energy-application/"
+  },
+  {
+   "name": "AGC Oregon-Columbia Chapter",
+   "kind": "contractor association",
+   "trades": [
+    "general construction"
+   ],
+   "url": "https://www.agc-oregon.org/",
+   "description": "Associated General Contractors chapter offering safety training, workforce development and member services.",
+   "how_to_apply": "Membership information is on the site."
+  },
+  {
+   "name": "ABC Pacific Northwest Chapter (apprenticeship)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "multiple construction trades"
+   ],
+   "url": "https://www.abcpnw.org/Apprenticeship/ABC-Apprenticeship",
+   "description": "Associated Builders and Contractors Pacific Northwest apprenticeship page; programs are three or four years and end with a nationally recognized journey-level certificate."
+  },
+  {
+   "name": "Oregon Apprenticeship (statewide information site)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "multiple registered occupations"
+   ],
+   "url": "https://oregonapprenticeship.org/",
+   "description": "Statewide apprenticeship site with occupation explorer, pre-apprenticeship information and a search for program openings.",
+   "how_to_apply": "Search program openings from the site."
+  },
+  {
+   "name": "Constructing Hope Pre-Apprenticeship Program",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "multiple construction trades"
+   ],
+   "city": "Portland",
+   "url": "https://www.constructinghope.org/programs",
+   "description": "Free construction career training for adults and youth in Portland, including hands-on skills, certifications, mentorship and career support.",
+   "how_to_apply": "Enrollment information is on the programs page."
+  },
+  {
+   "name": "Oregon Tradeswomen",
+   "kind": "nonprofit",
+   "trades": [
+    "multiple skilled trades"
+   ],
+   "city": "Portland",
+   "url": "https://oregontradeswomen.org/",
+   "description": "Helps women achieve economic independence through training, career education and advocacy in the skilled trades; runs a Trades and Apprenticeship Career Class.",
+   "how_to_apply": "Pathways enrollment page: https://oregontradeswomen.org/pathways-to-success/enrollment/"
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "nonprofit",
+   "trades": [
+    "multiple union construction trades"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "Joint labor-management nonprofit (national, not Oregon-specific) connecting transitioning service members and veterans to union construction careers.",
+   "how_to_apply": "Sign-up through the careers portal linked from the site."
+  },
+  {
+   "name": "Accessing Union Apprenticeships",
+   "kind": "nonprofit",
+   "trades": [
+    "multiple union building trades"
+   ],
+   "url": "https://www.accessingunionapprenticeships.org/",
+   "description": "Connects Oregon and Washington union building trades with K-12, post-secondary, CTE and STEM programs and workforce investments."
+  },
+  {
+   "name": "IBEW Local 125",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Portland",
+   "url": "https://www.ibew125.com/",
+   "apprenticeship_url": "https://www.ibew125.com/?zone=/unionactive/private_view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 125."
+  },
+  {
+   "name": "IBEW Local 280",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Salem",
+   "url": "https://www.ibew280.org/",
+   "apprenticeship_url": "https://www.ibew280.org/join/apprenticeship",
+   "description": "Organizing electricians since 1891. Building on the foundation our early leaders laid more than 130 years ago."
+  },
+  {
+   "name": "IBEW Local 659",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Medford",
+   "url": "https://www.ibew659.org/",
+   "apprenticeship_url": "https://www.ibew659.org/career/career-resources",
+   "description": "Discover the benefits of IBEW Local 659, including apprenticeship training, workforce development, member resources, and opportunities for electrical workers throughout the region."
+  },
+  {
+   "name": "Pacific Inside Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "North Bend",
+   "url": "https://www.pacificjatc.com/",
+   "description": "Pacific Inside Electrical JATC is an electrical apprenticeship program serving the Oregon Coast, jointly operated by IBEW and NECA."
+  },
+  {
+   "name": "IUOE Local 701 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Gladstone",
+   "url": "https://www.iuoe701.com/",
+   "apprenticeship_url": "https://www.iuoe701.com/?zone=/unionactive/view_article.cfm&HomeID=929061",
+   "description": "OE 701 Apprenticeship Applications is opening February 16th."
+  },
+  {
+   "name": "BAC 01 Oregon/Washington/Idaho/Montana",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Portland",
+   "url": "https://bac1or.org/",
+   "apprenticeship_url": "https://bac1or.org/training-education-safety/code-conduct",
+   "description": "Member Log In Request Member Access"
+  },
+  {
+   "name": "Oregon-Southern Idaho Laborers-Employers Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Portland",
+   "url": "https://oregonlaborers.com/",
+   "apprenticeship_url": "https://oregonlaborers.com/",
+   "description": "Earn While You Learn \"Oregon Laborers Apprenticeship helped me with my training and even helped me find a job in an area with a huge need for construction laborers.\" Learn More Apply Now!"
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Portland Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Portland",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Western States Regional Council of Carpenters - Tangent Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Tangent",
+   "url": "https://map.carpenters.org/?councils=council-4008",
+   "description": "Training center listed on the Western States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Portland Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Portland",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Coast States Regional Council of Carpenters - Tangent Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Tangent",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Training center listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2851 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "LA Grande",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 503 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Portland",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 541 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Eugene",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2949 (North Coast States Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Roseburg",
+   "url": "https://map.carpenters.org/?councils=council-4140",
+   "description": "Local union listed on the North Coast States Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Oregon Building Trades",
+   "kind": "building trades council",
+   "url": "https://www.oregonbuildingtrades.com/",
+   "description": "Learn More Becoming an Apprentice Without a dime of public money, we have developed the best trained, most highly skilled construction workforce in the world, right here in Oregon."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Oregon Construction Contractors Board (CCB)",
+   "trades": [
+    "roofing",
+    "siding",
+    "painting",
+    "carpentry",
+    "floor covering",
+    "concrete",
+    "heating",
+    "air conditioning",
+    "electrical",
+    "plumbing",
+    "tree servicing"
+   ],
+   "url": "https://www.oregon.gov/ccb/Pages/default.aspx",
+   "description": "Licenses residential and commercial construction contractors; its CCB License page lists the work that requires a license, including electrical, plumbing and HVAC (heating and air conditioning)."
+  },
+  {
+   "name": "Oregon Building Codes Division: Electrical and Elevator Board",
+   "trades": [
+    "electrical",
+    "elevator"
+   ],
+   "url": "https://www.oregon.gov/bcd/boards/Pages/index.aspx",
+   "description": "One of seven governor-appointed Building Codes Division boards; covers electrical and elevator licensing."
+  },
+  {
+   "name": "Oregon DMV: Commercial Driver License (CDL)",
+   "trades": [
+    "commercial driving (CDL)"
+   ],
+   "url": "https://www.oregon.gov/odot/dmv/Pages/index.aspx",
+   "description": "Oregon DMV Commercial Drivers section covers how to get or renew a CDL, the skills test and CDL fees."
+  },
+  {
+   "name": "BOLI Apprenticeship and Training Division",
+   "trades": [
+    "all registered apprenticeships"
+   ],
+   "url": "https://www.oregon.gov/boli/apprenticeship/Pages/default.aspx",
+   "description": "Registers and oversees Oregon apprenticeship and pre-apprenticeship programs; the site lists registered programs to find and the Oregon Apprenticeship Tracking System."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Oregon Promise Grant",
+   "url": "https://oregonstudentaid.gov/grants/oregon-promise-grant/",
+   "provider": "Oregon Student Aid (OSAC)",
+   "kind": "grant",
+   "provides": "A state grant that helps cover tuition at any Oregon community college for recent high school and GED graduates.",
+   "eligibility": "Oregon resident for at least 12 months before college attendance; must begin community college no more than six months after high school or GED completion; students with a Student Aid Index of $27,000 or more are not eligible (per the program updates page); applies to students who graduate July 1, 2026 to June 30, 2027 for the current cycle.",
+   "how_to_apply": "Apply in the OSAC Student Portal during senior year or immediately after GED completion; file the FAFSA or ORSAA and list an Oregon community college; deadlines vary by graduation date.",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "Oregon Promise Grant program updates",
+   "url": "https://oregonstudentaid.gov/grants/oregon-promise-grant/program-updates/",
+   "provider": "Oregon Student Aid (OSAC)",
+   "kind": "grant",
+   "provides": "Program update notice stating that students who graduated before June 30, 2026 missed the deadline and that students graduating July 1, 2026 to June 30, 2027 can apply starting in October 2026.",
+   "eligibility": "Students with a Student Aid Index of $27,000 or more are not eligible (per page).",
+   "how_to_apply": "Apply via the OSAC Student Portal; FAFSA or ORSAA required.",
+   "audience": "individual",
+   "status": "open"
+  }
+ ]
+}

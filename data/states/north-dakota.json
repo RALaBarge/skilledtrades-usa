@@ -1,0 +1,303 @@
+{
+ "code": "ND",
+ "state": "North Dakota",
+ "colleges": [
+  {
+   "name": "Bismarck State College",
+   "type": "community college",
+   "city": "Bismarck",
+   "home_url": "https://bismarckstate.edu/",
+   "trades_url": "https://bismarckstate.edu/academics/programs/",
+   "programs": [
+    "Automotive Collision Technology",
+    "Automotive Technology",
+    "Carpentry (Residential)",
+    "Construction Management Technology",
+    "Diesel Technology",
+    "Electrician Technician",
+    "Electric Power Technology",
+    "Electrical Transmission Systems Technology",
+    "Lineworker (Electrical)",
+    "Mechatronics Engineering Technology",
+    "Mechatronics I",
+    "Mechatronics II",
+    "Plumbing",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Lake Region State College",
+   "type": "state college",
+   "city": "Devils Lake",
+   "home_url": "https://www.lrsc.edu/",
+   "trades_url": "https://www.lrsc.edu/programs/automotive-technology",
+   "programs": [
+    "Automotive Technology"
+   ],
+   "credentials": "Certificate, Diploma, AAS (Automotive Technology)"
+  },
+  {
+   "name": "North Dakota State College of Science",
+   "type": "technical college",
+   "city": "Wahpeton",
+   "home_url": "https://ndscs.edu/",
+   "trades_url": "https://ndscs.edu/academics/programs/",
+   "programs": [
+    "Automotive and Diesel Master Technician",
+    "Automotive Electrical & Drivability",
+    "Automotive Engines",
+    "Automotive Powertrains",
+    "Automotive Steering, Suspension, and Alignment",
+    "Automotive Technology",
+    "Building Construction Technology",
+    "Carpentry",
+    "Commercial Construction",
+    "Construction Management Technology",
+    "Diesel Electrical",
+    "Diesel Engines",
+    "Diesel Hydraulics",
+    "Diesel Powertrains",
+    "Diesel Technology",
+    "Electrical Technology - Electrical Construction",
+    "Electrical Technology - Electrical Master Technician",
+    "Electrical Technology - Industrial Electrical",
+    "Industry Welding Technology",
+    "Intermediate Precision Machining Technology",
+    "Introduction to Precision Machining Technology",
+    "Plumbing",
+    "Precision Machining Technology",
+    "RAMT - Mechatronics Engineering Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Williston State College",
+   "type": "state college",
+   "city": "Williston",
+   "home_url": "https://willistonstate.edu/",
+   "trades_url": "https://willistonstate.edu/programs/",
+   "programs": [
+    "Diesel Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "United Tribes Technical College",
+   "type": "technical college",
+   "city": "Bismarck",
+   "home_url": "https://uttc.edu/",
+   "trades_url": "https://uttc.edu/academics/programs/welding/",
+   "programs": [
+    "Automotive Technology",
+    "Commercial Vehicle Operations",
+    "Heavy Equipment Operations",
+    "Welding Technology",
+    "Apprenticeship Program"
+   ],
+   "credentials": "Welding Technology certificate (per program page)"
+  },
+  {
+   "name": "Turtle Mountain Community College",
+   "type": "community college",
+   "city": "Belcourt",
+   "home_url": "https://www.tm.edu/",
+   "trades_url": "https://www.tm.edu/apprenticeship-program-2/",
+   "programs": [
+    "Building Construction Technology",
+    "Electrical Technician",
+    "Commercial Vehicle Operations",
+    "Heavy Equipment Operator",
+    "HVAC/Plumbing Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Cankdeska Cikana Community College",
+   "type": "community college",
+   "city": "Fort Totten",
+   "home_url": "https://www.littlehoop.edu/",
+   "trades_url": "https://www.littlehoop.edu/academics/programs-of-study/",
+   "programs": [
+    "Carpentry",
+    "Professional Driver Training - CDL",
+    "Apprenticeships"
+   ],
+   "credentials": "Carpentry Certificate Program (https://www.littlehoop.edu/academics/carpentry-certificate-program/)"
+  },
+  {
+   "name": "Sitting Bull College",
+   "type": "community college",
+   "city": "Fort Yates",
+   "home_url": "https://www.sittingbull.edu/",
+   "trades_url": "https://www.sittingbull.edu/academics/",
+   "programs": [
+    "Building Trades Diploma",
+    "Electrical Diploma",
+    "Heavy Equipment Operations I & II - Certificate",
+    "Welding Diploma",
+    "Apprenticeship Programs"
+   ],
+   "credentials": "Diplomas and certificates as listed"
+  }
+ ],
+ "unions": [
+  {
+   "name": "Dakotas Electrical Apprenticeship (Dakotas JATC)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://dakotasjatc.org/",
+   "description": "Electrical apprenticeship program for the Dakotas, with an apprentice login on the site."
+  },
+  {
+   "name": "Dakota Prairie Apprenticeship Readiness Program (NHS College with the North Dakota Building Trades)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "carpenter",
+    "millwright",
+    "plumber",
+    "pipefitter",
+    "electrical worker",
+    "elevator constructor",
+    "sheet metal worker"
+   ],
+   "url": "https://nhsc.edu/community/dakota-prairie-apprenticeship-readiness-program/",
+   "description": "Pre-apprenticeship program that places apprentices into North Dakota Building Trades unions."
+  },
+  {
+   "name": "Associated Builders and Contractors Minnesota/North Dakota Chapter",
+   "kind": "contractor association",
+   "trades": [
+    "construction (general)"
+   ],
+   "url": "https://www.mnabc.com/",
+   "description": "Associated Builders and Contractors chapter covering Minnesota and North Dakota, with an Apprenticeship and Craft Training section on its education page."
+  },
+  {
+   "name": "Dakotas Electrial JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Fargo",
+   "url": "https://dakotasjatc.org/",
+   "apprenticeship_url": "https://dakotasjatc.org/",
+   "description": "Welcome to Dakotas Electrical Apprenticeship! Spark your career, gain hands-on training, and get wired for success as a skilled electrician!"
+  },
+  {
+   "name": "IBEW Local 1426",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Grand Forks",
+   "url": "https://www.ibew1426.org/",
+   "description": "IBEW LOCAL 1426."
+  },
+  {
+   "name": "IBEW Local 714",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Minot",
+   "url": "https://www.local714.com/",
+   "apprenticeship_url": "https://www.local714.com/apprenticeship/",
+   "description": "IBEW Local 714."
+  },
+  {
+   "name": "IUOE Local 49 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "West Fargo",
+   "url": "https://local49.org/",
+   "description": "LEARN MORE Training At Local 49’s Training Center we are committed to the best possible educational opportunities for members of IUOE Local 49 VISIT PAGE The road to a healthier you."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - Bismarck Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Center",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Northern Midwest Regional Council of Carpenters - Carpenters Training Institute - Fargo Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "North Fargo",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Training center listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 3104 (Northern Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "North Fargo",
+   "url": "https://map.carpenters.org/?councils=council-4085",
+   "description": "Local union listed on the Northern Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Dakota's Building Trades Unions – Value on display, every day.",
+   "kind": "building trades council",
+   "url": "https://ndbtu.org/",
+   "description": "Skip to content Facebook Instagram Job Opportunites About Us Our Unions Apprenticeship DPARP Safety & Training News Contact We Build North Dakota."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "North Dakota State Electrical Board",
+   "trades": [
+    "electrician",
+    "electrical contractor"
+   ],
+   "url": "https://ndlegis.gov/cencode/t43c09.pdf",
+   "description": "Licenses electricians under North Dakota Century Code Chapter 43-09 (URL is the chapter text; the board's own site was not reached)."
+  },
+  {
+   "name": "North Dakota State Plumbing Board",
+   "trades": [
+    "plumber",
+    "sewer and water installer",
+    "water conditioning installer"
+   ],
+   "url": "https://www.ndplumbingboard.gov/licensing-plumber-licensure",
+   "description": "Licenses plumbers, sewer and water installers, and water conditioning contractors and installers."
+  },
+  {
+   "name": "North Dakota Department of Transportation, Commercial Driver License program",
+   "trades": [
+    "CDL drivers"
+   ],
+   "url": "https://www.dot.nd.gov/",
+   "description": "Handles Commercial Driver License application, renewal and third-party CDL testing; the homepage links to the CDL pages."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Job Service North Dakota: Apprenticeships (job seeker)",
+   "url": "https://www.jobsnd.com/job-seeker/apprenticeships",
+   "provider": "Job Service North Dakota",
+   "kind": "apprenticeship",
+   "provides": "Describes registered apprenticeship as paid on-the-job training combined with technical instruction in a skilled occupation, offering earn-while-you-learn pay.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Job Service North Dakota: Workforce Training Funding",
+   "url": "https://www.jobsnd.com/employer-resources/workforce-training-funding",
+   "provider": "Job Service North Dakota",
+   "kind": "grant",
+   "provides": "WIOA-funded on-the-job training assistance paid as reimbursement to businesses, normally up to 50 percent of the hourly wage during the training period.",
+   "eligibility": "Targeted to WIOA-eligible segments such as dislocated and low-income workers, per the page.",
+   "amount": "Up to 50 percent of the hourly wage paid during training, reimbursed to the business.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "North Dakota Incentives and Funding",
+   "url": "https://www.nd.gov/doing-business-nd/incentives-funding",
+   "provider": "State of North Dakota",
+   "kind": "grant",
+   "provides": "Page listing financial packages and tax incentives for new and expanding businesses, combining federal, state and private resources.",
+   "eligibility": "Businesses starting, expanding or relocating.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

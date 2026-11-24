@@ -1,0 +1,498 @@
+{
+ "code": "NJ",
+ "state": "New Jersey",
+ "colleges": [
+  {
+   "name": "Bergen Community College",
+   "type": "community college",
+   "home_url": "https://bergen.edu/",
+   "trades_url": "https://bergen.edu/construction/",
+   "programs": [
+    "Construction Administration and Licensing/UCC",
+    "Construction Management/ OSHA",
+    "Manufacturing and Industrial Technology"
+   ]
+  },
+  {
+   "name": "Brookdale Community College",
+   "type": "community college",
+   "home_url": "https://www.brookdalecc.edu/",
+   "trades_url": "https://www.brookdalecc.edu/continuinged/trades/",
+   "programs": [
+    "Automotive Technology",
+    "Electric Utility Technology",
+    "Electronics Technology"
+   ]
+  },
+  {
+   "name": "Camden County College",
+   "type": "community college",
+   "home_url": "https://www.camdencc.edu/",
+   "trades_url": "https://www.camdencc.edu/program-tag/manufacturing-trades/",
+   "programs": [
+    "Computer Aided Drafting & Design",
+    "Computer Aided Architectural Drafting and Design",
+    "Computer Aided Manufacturing Technician",
+    "Computer Aided Mechanical Drafting and Design",
+    "Computer Integrated Manufacturing Engineering Technology",
+    "Computer Integrated Manufacturing Engineering Technology: Precision Machining Option",
+    "Engineering Technology: Electrical-Electronic Engineering",
+    "Engineering Technology: Electromechanical Engineering",
+    "Engineering Technology: Mechanical Engineering",
+    "Industrial Controls: Programmable Logic Controller",
+    "Manufacturing Technology",
+    "Precision Machining Technology",
+    "Returning Technical/Trade Professionals - Apprenticeship Programs"
+   ]
+  },
+  {
+   "name": "Cumberland County College (now Rowan College of South Jersey)",
+   "type": "community college",
+   "home_url": "https://www.rcsj.edu/",
+   "trades_url": "https://www.rcsj.edu/degrees-programs/career-technical-ed-cte/career-training/advanced-manufacturing-trades/",
+   "programs": [
+    "Automotive Brake Systems (ASE A5)",
+    "Automotive Electrical Systems (ASE A6)",
+    "Automotive Engine Performance (ASE A8)",
+    "Automotive Engine Repair (ASE A1)",
+    "Automotive Suspension and Steering (ASE A4)",
+    "Automotive Technology (Ford ASSET)",
+    "Carpentry Specialist",
+    "Computer Numerical Control (CNC) Operator",
+    "Electrical Specialist",
+    "Industrial Maintenance Technician: Basic Hydraulics",
+    "Industrial Maintenance Technician: Basic Pneumatic Systems",
+    "Industrial Maintenance Technician: Electrical Systems",
+    "Industrial Maintenance Technician: Maintenance Operations and Shop Basics",
+    "Industrial Maintenance Technician: Welding",
+    "Plumbing Specialist",
+    "Welding",
+    "Welding & Fabrication"
+   ]
+  },
+  {
+   "name": "Essex County College",
+   "type": "community college",
+   "home_url": "https://www.essex.edu/",
+   "trades_url": "https://www.essex.edu/uniform-construction-code/",
+   "programs": [
+    "Uniform Construction Code",
+    "Uniform Construction Code Certificate"
+   ],
+   "credentials": "Certificate"
+  },
+  {
+   "name": "Mercer County Community College",
+   "type": "community college",
+   "city": "West Windsor",
+   "home_url": "https://www.mccc.edu/",
+   "trades_url": "https://www.mccc.edu/workforce/",
+   "programs": [
+    "Manufacturing",
+    "Building and Construction"
+   ]
+  },
+  {
+   "name": "Middlesex County College",
+   "type": "community college",
+   "home_url": "https://middlesexcollege.edu/",
+   "trades_url": "https://middlesexcollege.edu/workforce-development/trade-courses/",
+   "programs": [
+    "Construction Project Management",
+    "Understanding Electricity",
+    "Browse All Construction Courses"
+   ]
+  },
+  {
+   "name": "County College of Morris",
+   "type": "community college",
+   "city": "Randolph",
+   "home_url": "https://www.ccm.edu/",
+   "trades_url": "https://www.ccm.edu/programs/apprenticeships/",
+   "programs": [
+    "Welding",
+    "HVAC/R Training Program",
+    "Advanced Manufacturing Programs",
+    "Apprenticeship Programs at CCM"
+   ],
+   "credentials": "Journeyman certificate (apprenticeships)"
+  },
+  {
+   "name": "Passaic County Community College",
+   "type": "community college",
+   "home_url": "https://pccc.edu/",
+   "trades_url": "https://pccc.edu/programs/trades/",
+   "programs": [
+    "Automotive Technology Associate in Applied Science",
+    "Automotive Technology Career Certificate",
+    "Welding"
+   ],
+   "credentials": "AAS; Career Certificate"
+  },
+  {
+   "name": "Raritan Valley Community College",
+   "type": "community college",
+   "home_url": "https://www.raritanval.edu/",
+   "trades_url": "https://www.raritanval.edu/programs/career-enhancement/advanced-manufacturing-programs/",
+   "programs": [
+    "Machining Technology",
+    "AWS MIG Welding Program"
+   ]
+  },
+  {
+   "name": "Sussex County Community College",
+   "type": "community college",
+   "home_url": "https://www.sussex.edu/",
+   "trades_url": "https://www.sussex.edu/academics/degrees/",
+   "programs": [
+    "Automotive Service Technology",
+    "Building Construction Technology Option",
+    "Diesel Service Technology Option",
+    "Optics Manufacturing Option",
+    "Welding Technology Option"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "New Jersey Building and Construction Trades Council",
+   "kind": "building trades council",
+   "trades": [
+    "multi-trade building and construction unions"
+   ],
+   "url": "https://www.njbctc.org/",
+   "description": "Statewide council of New Jersey building and construction trades unions."
+  },
+  {
+   "name": "IBEW Local 102",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew102.org/",
+   "description": "Since 1900, the International Brotherhood of Electrical Workers Local 102 has powered progress and built a brighter future."
+  },
+  {
+   "name": "IBEW Local 164",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www.ibew164.org/",
+   "description": "The International Brotherhood of Electrical Workers Local 164 (New Jersey local per page contact info, zip 07652)."
+  },
+  {
+   "name": "AGC of New Jersey",
+   "kind": "contractor association",
+   "trades": [
+    "general construction"
+   ],
+   "url": "https://agcnj.org/",
+   "description": "New Jersey chapter of the Associated General Contractors (page header reads 'NJ AGC'). Page text is thin, so the description is from the header only."
+  },
+  {
+   "name": "IBEW Local 1158",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Newark",
+   "url": "https://www.ibew1158.com/",
+   "apprenticeship_url": "https://www.ibew1158.com/errorPage.htm?aspxerrorpath=/training.aspx",
+   "description": "International Brotherhood of Electrical Workers 1158."
+  },
+  {
+   "name": "IBEW Local 210",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Atlantic City",
+   "url": "https://www.ibewlocal210.com/",
+   "description": "Learn about Home from IBEW Local Union 210. Our experienced team is ready to help. Contact us today for a free quote. We look forward to hearing from you."
+  },
+  {
+   "name": "IBEW Local 269",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Trenton",
+   "url": "https://ibew269.com/",
+   "apprenticeship_url": "https://ibew269.com/training/",
+   "description": "Welcome to the website for IBEW Local 269. Chartered in 1912, we are proud members of the Mercer, Burlington, and Bucks County (PA) community. Throughout Central New Jersey and Eastern Pennsylvania we’ve be working on high profile projects. IBEW Local 269 has jurisdiction for."
+  },
+  {
+   "name": "IBEW Local 351",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Folsom",
+   "url": "https://www.ibew351.org/",
+   "apprenticeship_url": "https://www.ibew351.org/training.aspx",
+   "description": "International Brotherhood of Electrical Workers 351."
+  },
+  {
+   "name": "IBEW Local 400",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Asbury Park",
+   "url": "https://www.ibew400.org/",
+   "apprenticeship_url": "https://www.ibew400.org/jatc/home",
+   "description": "IBEW Local 400 proudly represents electrical workers across Monmouth and Ocean Counties, NJ. Explore our training programs, member resources, and community initiatives supporting excellence, safety, and solidarity in the electrical industry."
+  },
+  {
+   "name": "IBEW Local 456",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "New Brunswick",
+   "url": "https://www.ibew456.org/",
+   "apprenticeship_url": "https://www.ibew456.org/training.aspx",
+   "description": "Welcome to IBEW Local 456."
+  },
+  {
+   "name": "IUOE Local 68 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "West Caldwell",
+   "url": "https://local68.org/",
+   "apprenticeship_url": "https://local68.org/apprenticeship/",
+   "description": "JOIN US Expand Apprenticeship Dues Authorization Form How to Organize Why Union?"
+  },
+  {
+   "name": "IUOE Local 825 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Springfield",
+   "url": "https://www.iuoe825.org/",
+   "apprenticeship_url": "https://www.iuoe825.org/home/training/",
+   "description": "With our training, experience and drive, we build value for our contractors."
+  },
+  {
+   "name": "BAC ADC of New Jersey",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Bordentown",
+   "url": "https://www.bacnj.com/",
+   "apprenticeship_url": "https://www.bacnj.com/training-offered",
+   "description": "Through elite apprenticeships and top job placement opportunities, the future has never looked so bright for skilled labor."
+  },
+  {
+   "name": "Construction Craft Laborers’ Training and Apprenticeship Fund of New Jersey and Delaware",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Monroe County",
+   "url": "https://trainliunanjde.org/",
+   "apprenticeship_url": "https://trainliunanjde.org/",
+   "description": "Construction Craft Laborers Training and Apprenticeship Fund of NJ and DE Skip to content Construction Craft Laborers Training and Apprenticeship Fund of NJ and DE Menu Home How to join DE Application NJ Application About Members News E-Local Contact Home A Better..."
+  },
+  {
+   "name": "New Jersey Construction Craft Laborers’ Apprenticeship Program",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Monroe County",
+   "url": "https://www.njlaborers.org/",
+   "apprenticeship_url": "https://www.njlaborers.org/tri-funds/union-apprenticeships-nj"
+  },
+  {
+   "name": "Local #172 Safety, Education, and Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Hammonton",
+   "url": "https://www.njlaborers.org/",
+   "apprenticeship_url": "https://www.njlaborers.org/tri-funds/union-apprenticeships-nj"
+  },
+  {
+   "name": "Safety, Education, and Training Fund Local 472",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Cliffwood",
+   "url": "https://www.njlaborers.org/",
+   "apprenticeship_url": "https://www.njlaborers.org/tri-funds/union-apprenticeships-nj"
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Carpenters Dive Training Center ISC",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Sicklerville",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Edison Branch",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Edison",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Hammonton Branch",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Hammonton",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 252 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Atlantic City",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 255 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Hammonton",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 253 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Edison",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 254 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Edison",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 715 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Cranford",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 251 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Edison",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "North Atlantic States Regional Council - EASCTC - Carpenters Dive Training Center ISC",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Sicklerville",
+   "url": "https://map.carpenters.org/?councils=council-4064",
+   "description": "Training center listed on the North Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "New York City & Vicinity District Council - EASCTC - Carpenters Dive Training Center ISC",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Sicklerville",
+   "url": "https://map.carpenters.org/?councils=council-4112",
+   "description": "Training center listed on the New York City & Vicinity District Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "NJ Helmets to Hardhats (NJ H2H)",
+   "kind": "pre-apprenticeship",
+   "url": "https://www.njbctc.org/nj-h2h/",
+   "description": "NJ Helmets to Hardhats (NJ H2H) – New Jersey Building and Construction Trades Council New Jersey Building & Construction Trades Council Over 115 Years Strong!"
+  },
+  {
+   "name": "How To Get Started",
+   "kind": "pre-apprenticeship",
+   "url": "https://www.njbctc.org/nj-h2h/how-to-get-started/",
+   "description": "Complete our NJ H2H Online Registration or download and send our NJ H2H Registration Form ."
+  },
+  {
+   "name": "Online Registration",
+   "kind": "pre-apprenticeship",
+   "url": "https://www.njbctc.org/nj-h2h/online-registration/",
+   "description": "Pre-apprenticeship program page on the state council website."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "NJ Department of Community Affairs, Division of Codes (code official licensing)",
+   "trades": [
+    "electrical inspector",
+    "plumbing inspector",
+    "construction code official"
+   ],
+   "url": "https://www.nj.gov/dca/codes/official/",
+   "description": "Code Official Information page. Covers licensing of Uniform Construction Code enforcement officials, such as electrical and plumbing inspectors."
+  },
+  {
+   "name": "NJ Motor Vehicle Commission (CDL)",
+   "trades": [
+    "CDL"
+   ],
+   "url": "https://www.nj.gov/mvc/",
+   "description": "Official NJ Motor Vehicle Commission website. The CDL-specific page was not located (guessed URLs returned 404)."
+  }
+ ],
+ "funding": [
+  {
+   "name": "SkillUp NJ: Free online learning",
+   "url": "https://www.nj.gov/labor/career-services/education-training/skillup-nj",
+   "provider": "New Jersey Department of Labor and Workforce Development",
+   "kind": "training voucher",
+   "provides": "Gives New Jersey workers, employed or unemployed, free access to more than 5,000 Skillsoft online courses, including industry-recognized certifications.",
+   "eligibility": "New Jersey workers, whether or not currently unemployed, per the page.",
+   "amount": "Free, per the page.",
+   "how_to_apply": "Access through the SkillUp New Jersey training program.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NJ Apprenticeship: Become an apprentice",
+   "url": "https://www.nj.gov/labor/career-services/apprenticeship/findaprogram.shtml",
+   "provider": "New Jersey Department of Labor and Workforce Development, Office of Apprenticeship",
+   "kind": "apprenticeship",
+   "provides": "Explains that registered apprenticeship combines paid on-the-job learning with classroom instruction so apprentices earn money while building skills.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "NJ Apprenticeship career seekers page",
+   "url": "https://www.nj.gov/labor/career-services/apprenticeship/index.shtml",
+   "provider": "New Jersey Department of Labor and Workforce Development, Office of Apprenticeship",
+   "kind": "apprenticeship",
+   "provides": "NJ Office of Apprenticeship page for career seekers, stating that apprenticeships are available beyond the construction trades.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "NJ Trade Adjustment Assistance (TAA)",
+   "url": "https://www.nj.gov/labor/career-services/education-training/taa",
+   "provider": "New Jersey Department of Labor and Workforce Development",
+   "kind": "other",
+   "provides": "Describes TAA services for adversely affected workers; the page states the federal TAA program expired June 30, 2022, and workers certified and separated on or before that date may still be eligible.",
+   "eligibility": "Workers certified from a petition and separated from their job on or before June 30, 2022.",
+   "audience": "individual",
+   "status": "closed"
+  },
+  {
+   "name": "Upskill NJ Incumbent Worker Training",
+   "url": "https://www.nj.gov/labor/business-services/business-support/programs-incentives/",
+   "provider": "New Jersey Department of Labor and Workforce Development",
+   "kind": "grant",
+   "provides": "Training grants that let New Jersey employers, unions and community organizations upskill existing employees.",
+   "eligibility": "New Jersey employers (labor unions, businesses, community organizations).",
+   "amount": "Up to $2,000 per worker, per the page.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "NJ Apprenticeship Start-Up Tax Credit",
+   "url": "https://www.nj.gov/labor/business-services/apprenticeship-opportunities/tax-credit/index.shtml",
+   "provider": "New Jersey Department of Labor and Workforce Development and Division of Taxation",
+   "kind": "tax credit",
+   "provides": "Tax credit for taxpayers with documented start-up costs for the first year of a registered apprenticeship program, administered through the Apprenticeship Start-Up Grant Program.",
+   "eligibility": "Taxpayers with documented qualified start-up costs for an approved apprenticeship program.",
+   "amount": "$5,000 tax credit, per the page.",
+   "how_to_apply": "Apply to the Department of Labor, which forwards approval to the Division of Taxation.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

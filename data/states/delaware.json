@@ -1,0 +1,137 @@
+{
+ "code": "DE",
+ "state": "Delaware",
+ "colleges": [
+  {
+   "name": "Delaware Technical Community College",
+   "type": "community college",
+   "city": "Dover, Georgetown, Stanton (Newark), Wilmington (campuses)",
+   "home_url": "https://www.dtcc.edu/",
+   "trades_url": "https://www.dtcc.edu/academics/programs-study/",
+   "programs": [
+    "Welding Technician",
+    "Welding Apprenticeship (State of Delaware Registered Apprenticeship)",
+    "Heating, Ventilation, and Air Conditioning (HVAC) certificate",
+    "Commercial Driver's License (CDL) Class A certificate",
+    "Diesel Technology",
+    "Automotive Technology Level I",
+    "General Carpentry (NCCER-based)",
+    "Construction Technology",
+    "Heavy Equipment Operator (Georgetown, Middletown)"
+   ],
+   "credentials": "Certificates and diplomas per program; Welding Apprenticeship is a State of Delaware Registered Apprenticeship; Heavy Equipment Operator uses NCCER curriculum"
+  }
+ ],
+ "unions": [
+  {
+   "name": "Delaware JobLink plumbing training program (provider not named on listing)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://www.joblink.delaware.gov/etp/public/institution_programs/2818",
+   "description": "A 12-week (420 hour) NCCER-based plumbing training course, in person, daytime, that offers a first-year apprenticeship certification and advanced placement into the second year of the Delaware Apprenticeship Program."
+  },
+  {
+   "name": "Delaware Electrical Apprenticeship",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "New Castle",
+   "url": "https://www.ibew313.org/",
+   "apprenticeship_url": "https://www.ibew313.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship20and20Training",
+   "description": "IBEW Local 313."
+  },
+  {
+   "name": "IBEW Local 313",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Wilmington",
+   "url": "https://www.ibew313.org/",
+   "apprenticeship_url": "https://www.ibew313.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship20and20Training",
+   "description": "IBEW Local 313."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Carpenters Apprentice School of Georgetown ISC",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Georgetown",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Eastern Atlantic States Regional Council - EASCTC - Carpenters Apprentice School of New Castle ISC",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "New Castle",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Training center listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 219 (Eastern Atlantic States Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Wilmington",
+   "url": "https://map.carpenters.org/?councils=council-4025",
+   "description": "Local union listed on the Eastern Atlantic States Regional Council locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Delaware Board of Electrical Examiners (Division of Professional Regulation)",
+   "trades": [
+    "electrician"
+   ],
+   "url": "https://dpr.delaware.gov/aboutagency/applyingforlicense/boards/electrician",
+   "description": "Licenses electricians (apprentice, journeyman, master, limited) to protect the public from unsafe practices; regulations in Delaware Code Title 24, Chapter 14."
+  },
+  {
+   "name": "Delaware Board of Plumbing, Heating, Ventilation, Air Conditioning and Refrigeration Examiners (Division of Professional Regulation)",
+   "trades": [
+    "plumber",
+    "HVACR"
+   ],
+   "url": "https://dpr.delaware.gov/boards/plumbers",
+   "description": "Licenses plumbers and HVACR technicians and contractors; Title 24 Chapter 18 rules were updated March 11, 2025, including restricted HVACR licensing."
+  },
+  {
+   "name": "Delaware Business First Steps: HVACR",
+   "trades": [
+    "HVACR"
+   ],
+   "url": "https://firststeps.delaware.gov/hvacr",
+   "description": "State business licensing and registration index page for HVACR businesses."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Delaware APEX Program (expungement and pardon help)",
+   "url": "https://labor.delaware.gov/apex/",
+   "provider": "Delaware Department of Labor",
+   "kind": "supportive services",
+   "provides": "The APEX Program helps individuals with criminal histories through the pardon or expungement process with one-on-one assistance at each step.",
+   "eligibility": "Individuals with criminal histories who are eligible for pardon or expungement",
+   "how_to_apply": "Contact APEX and complete the application listed on the program page",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Delaware Tech financial aid and scholarships",
+   "url": "https://www.dtcc.edu/admissions-financial-aid/financial-aid-scholarships/",
+   "provider": "Delaware Technical Community College",
+   "kind": "grant",
+   "provides": "The Delaware Tech financial aid page lists scholarships, grants, loans and payment options and links to the Delaware Tech scholarship application.",
+   "how_to_apply": "Complete the Delaware Tech scholarship application (page references the 2024-25 application)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Delaware Work Opportunity Tax Credit and employer resources",
+   "url": "https://labor.delaware.gov/divisions/employment-training/",
+   "provider": "Delaware Department of Labor, Division of Employment and Training",
+   "kind": "tax credit",
+   "provides": "The Division of Employment and Training page lists Delaware JobLink, Foreign Labor Certification and the Work Opportunity Tax Credit.",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

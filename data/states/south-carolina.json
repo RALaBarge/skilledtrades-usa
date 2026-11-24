@@ -1,0 +1,340 @@
+{
+ "code": "SC",
+ "state": "South Carolina",
+ "colleges": [
+  {
+   "name": "Aiken Technical College",
+   "type": "technical college",
+   "home_url": "https://www.atc.edu/",
+   "trades_url": "https://www.atc.edu/manufacturing",
+   "programs": [
+    "Basic Welding",
+    "Advanced Welding",
+    "Welding Degree",
+    "HVAC & Refrigeration",
+    "HVAC Degree",
+    "Industrial Maintenance Technology",
+    "Electrical/Maintenance",
+    "Machine Tool Technology",
+    "Production Operator"
+   ],
+   "credentials": "Certificates and degrees; Apprenticeships & Pre-Apprenticeships listed"
+  },
+  {
+   "name": "Central Carolina Technical College",
+   "type": "technical college",
+   "home_url": "https://www.cctech.edu/",
+   "trades_url": "https://www.cctech.edu/degree-category/advanced-manufacturing-and-engineering-technology/",
+   "programs": [
+    "Advanced Certificate in Pipe Welding (AWLD)",
+    "Welding Certificate (WELD)",
+    "Basic Mechatronics Technology Certificate (BMEC)",
+    "Mechatronics Fundamentals Certificate (MFTC)",
+    "Advanced CNC Programming Certificate (ACNC)"
+   ],
+   "credentials": "Certificates with semester hours"
+  },
+  {
+   "name": "Denmark Technical College",
+   "type": "technical college",
+   "home_url": "https://www.denmarktech.edu/",
+   "trades_url": "https://www.denmarktech.edu/irt/",
+   "programs": [
+    "Building and Construction Fundamentals",
+    "Plumbing",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Florence-Darlington Technical College",
+   "type": "technical college",
+   "home_url": "https://www.fdtc.edu/",
+   "trades_url": "https://www.fdtc.edu/academics/programs/",
+   "programs": [
+    "Automotive Technology",
+    "Automotive and Diesel Technology (Diesel Option)",
+    "Basic Automotive"
+   ],
+   "credentials": "Associate in Applied Science and diploma-level entries seen"
+  },
+  {
+   "name": "Greenville Technical College",
+   "type": "technical college",
+   "city": "Greenville",
+   "home_url": "https://www.gvltec.edu/",
+   "trades_url": "https://www.gvltec.edu/academics_learning/advanced-manufacturing-transportation/index.html",
+   "programs": [
+    "Auto Body Repair",
+    "Automotive Technology",
+    "Aircraft Maintenance Technology",
+    "CNC Program",
+    "Diesel Equipment Technology",
+    "Heating Ventilation Air Conditioning & Refrigeration",
+    "Industrial Electricity",
+    "Mechatronics Technology",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Horry-Georgetown Technical College",
+   "type": "technical college",
+   "city": "Conway",
+   "home_url": "https://www.hgtc.edu/",
+   "trades_url": "https://www.hgtc.edu/academics/academic-departments/advanced-manufacturing/index.html",
+   "programs": [
+    "Advanced Welding Technologies",
+    "Automotive Technology",
+    "Commercial Refrigeration & Air Conditioning",
+    "Residential HVAC Service Technician",
+    "Diesel Engine Technology",
+    "Machine Tool Operations",
+    "Mechatronics Technology",
+    "Residential/Commercial Electrical Technician",
+    "Boat Building",
+    "Outboard Marine Technology"
+   ]
+  },
+  {
+   "name": "Midlands Technical College",
+   "type": "technical college",
+   "city": "Columbia",
+   "home_url": "https://www.midlandstech.edu/",
+   "trades_url": "https://www.midlandstech.edu/programs?term_node_tid_depth%5B267%5D=267",
+   "programs": [
+    "Comprehensive Welder",
+    "MIG and Flux Cored Welder",
+    "Stick Welder",
+    "TIG Welder",
+    "Welding Technology",
+    "Welding Fundamentals",
+    "Comprehensive Industrial Mechanical Maintenance Technician",
+    "Electrical Technology",
+    "Hazmat Endorsement CDL",
+    "Entry-Level Plumber",
+    "Heavy Equipment Operator - Construction",
+    "Heavy Equipment Operator - Comprehensive"
+   ],
+   "credentials": "Academic Certificate, Training Certificate, Diploma, Associate in Applied Science"
+  },
+  {
+   "name": "Orangeburg-Calhoun Technical College",
+   "type": "technical college",
+   "city": "Orangeburg",
+   "home_url": "https://www.octech.edu/",
+   "trades_url": "https://www.octech.edu/programs/advanced-manufacturing/",
+   "programs": [
+    "Machine Tool Technology",
+    "Mechatronics Technology",
+    "Welding and Industrial Maintenance",
+    "Electronic Instrumentation Technology",
+    "Automotive Technology",
+    "Engineering Design Technology"
+   ]
+  },
+  {
+   "name": "Piedmont Technical College",
+   "type": "technical college",
+   "city": "Greenwood",
+   "home_url": "https://www.ptc.edu/",
+   "trades_url": "https://www.ptc.edu/continuing-ed/browse-courses/industrial-and-trades",
+   "programs": [
+    "Electrician 1 Training",
+    "Electrician 2 Training",
+    "Electrician 3 Training",
+    "Automotive EV Training",
+    "CDL Registration Inquiry"
+   ],
+   "credentials": "Continuing education (non-credit) training"
+  },
+  {
+   "name": "Spartanburg Community College",
+   "type": "technical college",
+   "city": "Spartanburg",
+   "home_url": "https://www.sccsc.edu/",
+   "trades_url": "https://www.sccsc.edu/academics/industrial-trade/amit/automotive/",
+   "programs": [
+    "Automotive Technology",
+    "Automotive Service Technology Associate Degree",
+    "Diesel Power & Emerging Technologies",
+    "Construction Technology",
+    "CNC Machining Practices",
+    "Heavy Equipment Training",
+    "Mechatronics Technology",
+    "Industrial Electricity Certificate",
+    "Industrial Electricity Associate Degree",
+    "HVAC Certificate",
+    "HVAC Associate Degree",
+    "Welding Certificate",
+    "Welding Associate Degree",
+    "Advanced Welding Certificate",
+    "CDL"
+   ],
+   "credentials": "Certificates and Associate Degrees"
+  },
+  {
+   "name": "Technical College of the Lowcountry",
+   "type": "technical college",
+   "home_url": "https://www.tcl.edu/",
+   "trades_url": "https://www.tcl.edu/heat-up-your-career-hvac/",
+   "programs": [
+    "HVAC Fundamentals: Certificate",
+    "Designing HVAC Systems: Certificate",
+    "Commercial Refrigeration: Certificate"
+   ],
+   "credentials": "Certificates"
+  },
+  {
+   "name": "Tri-County Technical College",
+   "type": "technical college",
+   "city": "Pendleton",
+   "home_url": "https://www.tctc.edu/",
+   "trades_url": "https://www.tctc.edu/construction-at-tctc/",
+   "programs": [
+    "Skilled Trades",
+    "Advanced Manufacturing"
+   ]
+  },
+  {
+   "name": "Trident Technical College",
+   "type": "technical college",
+   "city": "Charleston",
+   "home_url": "https://www.tridenttech.edu/",
+   "trades_url": "https://www.tridenttech.edu/programs/index.html",
+   "programs": [
+    "Engineering and Construction (division)",
+    "Manufacturing and Maintenance (division)",
+    "Apprenticeships and Employer Partnerships"
+   ]
+  },
+  {
+   "name": "Williamsburg Technical College",
+   "type": "technical college",
+   "city": "Kingstree",
+   "home_url": "https://www.wiltech.edu/",
+   "trades_url": "https://www.wiltech.edu/prospective-students/programs-of-study/",
+   "programs": [
+    "Construction Trades Certificate",
+    "Mechatronics Certificate",
+    "Machine Tool Technology Certificate",
+    "Welding Certificate",
+    "HVAC/R Certificate",
+    "Automotive Repair Certificate"
+   ],
+   "credentials": "Certificates"
+  },
+  {
+   "name": "York Technical College",
+   "type": "technical college",
+   "city": "Rock Hill",
+   "home_url": "https://www.yorktech.edu/",
+   "trades_url": "https://www.yorktech.edu/programs-and-classes/building-construction-trades/",
+   "programs": [
+    "HVAC Installer Certificate",
+    "HVAC Service Technician Certificate",
+    "Masonry Certificate",
+    "Residential/Commercial Carpentry Certificate",
+    "Residential/Commercial Plumbing Certificate",
+    "Building Construction Management, AAS"
+   ],
+   "credentials": "Certificates and AAS"
+  }
+ ],
+ "unions": [
+  {
+   "name": "ABC Carolinas",
+   "kind": "contractor association",
+   "trades": [
+    "construction (general and trade contracting)"
+   ],
+   "url": "https://abccarolinas.org/",
+   "description": "ABC Carolinas is an Associated Builders and Contractors chapter serving the Carolinas, with a chapter locator and training information on its site."
+  },
+  {
+   "name": "ABC Carolinas Chapter Upstate Electrical Apprenticeship",
+   "kind": "apprenticeship program",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Greenville",
+   "url": "https://www.gvltec.edu/academics_learning/exp_learning/upstate-electrical-apprenticeship.html",
+   "description": "Electrical apprenticeship run with the ABC Carolinas chapter, Upstate Electrical Contractors and Greenville Technical College, per the Greenville Technical College page."
+  },
+  {
+   "name": "South Carolina State Building Trades Council (NABTU directory listing)",
+   "kind": "building trades council",
+   "trades": [
+    "building trades (multiple unions)"
+   ],
+   "url": "https://nabtu.org/councils/south-carolina/",
+   "description": "NABTU's directory includes a South Carolina state building trades council; the listing page does not name member unions or contacts."
+  },
+  {
+   "name": "Charleston Area Elec. JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "North Charleston",
+   "url": "https://ceta776.org/",
+   "apprenticeship_url": "https://ceta776.org/apprenticeship/",
+   "description": "CETA’s goal is to provide Charleston’s electrical industry with the most highly trained and skilled workforce possible. Call us today 843-990-9984."
+  },
+  {
+   "name": "IBEW Local 776",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Charleston",
+   "url": "https://ibewlocal776.org/",
+   "apprenticeship_url": "https://ibewlocal776.org/apprenticeship/",
+   "description": "Join our union to access training, representation, and resources. We champion the rights and success of electrical pros."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "SC Contractor's Licensing Board (SC LLR)",
+   "trades": [
+    "contractors (mechanical and general)",
+    "boilers"
+   ],
+   "url": "https://llr.sc.gov/clb/",
+   "description": "SC Department of Labor, Licensing and Regulation board page for contractor licensing; the page references mechanical contracting and boilers."
+  },
+  {
+   "name": "SC Residential Builders Commission (SC LLR)",
+   "trades": [
+    "residential construction",
+    "HVAC (referenced)"
+   ],
+   "url": "https://llr.sc.gov/res/",
+   "description": "SC LLR commission that licenses residential builders; the page references residential contractors and HVAC."
+  },
+  {
+   "name": "SC LLR Boiler Safety Program",
+   "trades": [
+    "boilers"
+   ],
+   "url": "https://llr.sc.gov/boil/",
+   "description": "SC LLR program that regulates boiler safety."
+  },
+  {
+   "name": "SC LLR Office of Elevators and Amusement Rides",
+   "trades": [
+    "elevators"
+   ],
+   "url": "https://llr.sc.gov/elevators/",
+   "description": "SC LLR office that regulates elevators and amusement rides."
+  }
+ ],
+ "funding": [
+  {
+   "name": "SC WINS (SC Workforce Industry Needs Scholarship)",
+   "url": "https://sctechsystem.edu/sc-wins",
+   "provider": "South Carolina Technical College System",
+   "kind": "scholarship",
+   "provides": "A statewide technical college scholarship that covers remaining tuition, fees and course-related expenses after all other scholarships or grants are applied.",
+   "eligibility": "South Carolina resident enrolled in an eligible program; meet one of: be employed, take a financial literacy course offered at the technical college, or complete 100 hours of voluntary time contributing to a nonprofit or public service organization. Not all programs eligible (for example, University Transfer AA/AS at York Tech).",
+   "amount": "Up to $5,000 per academic year after applying all other scholarships or grants (per the SC Technical College System page)",
+   "how_to_apply": "Complete the FAFSA and the SC WINS requirements at your technical college; forms vary by college.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

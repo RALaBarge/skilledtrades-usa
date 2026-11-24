@@ -1,0 +1,442 @@
+{
+ "code": "KY",
+ "state": "Kentucky",
+ "colleges": [
+  {
+   "name": "Ashland Community and Technical College",
+   "type": "community college",
+   "city": "Ashland",
+   "home_url": "https://ashland.kctcs.edu/index.aspx",
+   "trades_url": "https://ashland.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Computerized Manufacturing and Machining",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Big Sandy Community and Technical College",
+   "type": "community college",
+   "city": "Prestonsburg",
+   "home_url": "https://bigsandy.kctcs.edu/index.aspx",
+   "trades_url": "https://bigsandy.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Accelerated Welding",
+    "Air Conditioning Technology",
+    "Apprenticeship Program",
+    "Automotive Technology",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Bluegrass Community and Technical College",
+   "type": "community college",
+   "home_url": "https://bluegrass.kctcs.edu/index.aspx",
+   "trades_url": "https://bluegrass.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Advanced Manufacturing Technology",
+    "Air Conditioning Technology",
+    "Apprenticeship Studies",
+    "Automotive Technology"
+   ]
+  },
+  {
+   "name": "Elizabethtown Community and Technical College",
+   "type": "community college",
+   "city": "Elizabethtown",
+   "home_url": "https://elizabethtown.kctcs.edu/index.aspx",
+   "trades_url": "https://elizabethtown.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Apprenticeship Studies",
+    "Automation, Industrial, and Robotics Technology",
+    "Automotive Technology",
+    "Computerized Manufacturing and Machining",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Gateway Community and Technical College",
+   "type": "community college",
+   "city": "Florence",
+   "home_url": "https://gateway.kctcs.edu/index.aspx",
+   "trades_url": "https://gateway.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Apprenticeship Studies",
+    "Electrical Technology",
+    "Energy Technologies - Lineworker",
+    "Industrial Maintenance Technology",
+    "Manufacturing Engineering Technology",
+    "Plumbing Technology",
+    "Transportation Construction Certificate Program",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Hazard Community and Technical College",
+   "type": "community college",
+   "city": "Hazard",
+   "home_url": "https://hazard.kctcs.edu/index.aspx",
+   "trades_url": "https://hazard.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Computer Manufacturing and Machining",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Heavy Equipment Operation",
+    "Manufacturing Engineering Technology",
+    "Truck Driver Training (CDL)"
+   ]
+  },
+  {
+   "name": "Henderson Community College",
+   "type": "community college",
+   "city": "Henderson",
+   "home_url": "https://henderson.kctcs.edu/index.aspx",
+   "trades_url": "https://henderson.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Hopkinsville Community College",
+   "type": "community college",
+   "city": "Hopkinsville",
+   "home_url": "https://hopkinsville.kctcs.edu/index.aspx",
+   "trades_url": "https://hopkinsville.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Computerized Manufacturing and Machining Technology",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Industrial Maintenance and Mechatronics",
+    "Truck Driver Training (CDL)",
+    "Welding",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Jefferson Community and Technical College",
+   "type": "community college",
+   "city": "Louisville",
+   "home_url": "https://jefferson.kctcs.edu/index.aspx",
+   "trades_url": "https://jefferson.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Construction Technology",
+    "Heating & Air Conditioning Technology",
+    "Industrial Maintenance Technology",
+    "Plumbing Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Madisonville Community College",
+   "type": "community college",
+   "city": "Madisonville",
+   "home_url": "https://madisonville.kctcs.edu/index.aspx",
+   "trades_url": "https://madisonville.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automation and Industrial Technology",
+    "Aviation Maintenance Technology",
+    "Computerized Manufacturing and Machining Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Maysville Community and Technical College",
+   "type": "community college",
+   "city": "Maysville",
+   "home_url": "https://maysville.kctcs.edu/index.aspx",
+   "trades_url": "https://maysville.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Aviation Maintenance Technology",
+    "Computerized Manufacturing and Machining Technology",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Lineman Training",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Owensboro Community and Technical College",
+   "type": "community college",
+   "city": "Owensboro",
+   "home_url": "https://owensboro.kctcs.edu/index.aspx",
+   "trades_url": "https://owensboro.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Computerized Manufacturing and Machining Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Somerset Community College",
+   "type": "community college",
+   "city": "Somerset",
+   "home_url": "https://somerset.kctcs.edu/index.aspx",
+   "trades_url": "https://somerset.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Aviation Maintenance Technology",
+    "Computerized Manufacturing and Machining",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Heavy Equipment Operation",
+    "Industrial Maintenance Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "South Central Kentucky Community and Technical College",
+   "type": "community college",
+   "city": "Bowling Green",
+   "home_url": "https://southcentral.kctcs.edu/index.aspx",
+   "trades_url": "https://southcentral.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "CDL",
+    "CDL Program",
+    "Computerized Manufacturing and Machining Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "Southeast Kentucky Community and Technical College",
+   "type": "community college",
+   "city": "Cumberland",
+   "home_url": "https://southeast.kctcs.edu/index.aspx",
+   "trades_url": "https://southeast.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "CDL Training",
+    "Computerized Manufacturing & Machining",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Plumbing Technology",
+    "Welding Technologyhnology"
+   ]
+  },
+  {
+   "name": "West Kentucky Community and Technical College",
+   "type": "community college",
+   "city": "Paducah",
+   "home_url": "https://westkentucky.kctcs.edu/index.aspx",
+   "trades_url": "https://westkentucky.kctcs.edu/education-training/program-finder/index.aspx",
+   "programs": [
+    "Air Conditioning Technology",
+    "Apprenticeship Studies",
+    "Automotive Technology",
+    "Aviation Maintenance Technology",
+    "Commercial Driver's License (CDL)",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Welding Technologyhnology"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "Louisville Electrical JATC (IBEW Local 369 / NECA Louisville)",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrical",
+    "low-voltage / BICSI cabling"
+   ],
+   "city": "Louisville",
+   "url": "https://www.loujatc.com/",
+   "description": "Joint apprenticeship and training committee for electrical apprentices and journey-level workers, offering apprenticeship, continuing education and an associate degree path.",
+   "how_to_apply": "Applications open on set windows; the page showed applications closed at time of fetch. Check the Applications page for the next window."
+  },
+  {
+   "name": "Kentucky Laborers Training Fund (Construction Craft Laborers Apprenticeship)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction laborer"
+   ],
+   "url": "https://kltf.org/apprenticeship/",
+   "description": "Accredited construction craft laborers apprenticeship program run through the Kentucky Laborers Training Fund, with a Kentucky Laborers' Training Center and course list."
+  },
+  {
+   "name": "Tri-State Building Trades Unions (Eastern Kentucky hiring and training, via SOAR)",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "boilermakers",
+    "carpenters and millwrights",
+    "cement masons",
+    "electrical workers",
+    "painters",
+    "operating engineers",
+    "laborers",
+    "bricklayers",
+    "plumbing, pipefitting and HVAC",
+    "roofers",
+    "sheet metal workers",
+    "teamsters",
+    "ironworkers"
+   ],
+   "city": "Eastern Kentucky",
+   "url": "https://soar-ky.org/eastern-kentucky-talent-network/tristate-building-trades-unions-hiring-event/",
+   "description": "Tri-State Building Trades Unions offer career-focused training and apprenticeship pathways in Eastern Kentucky, working with regional community and technical colleges; SOAR connects interested people to the Building Trades.",
+   "how_to_apply": "Submit interest through the SOAR Eastern Kentucky Talent Network form; the network follows up and connects you with the Building Trades."
+  },
+  {
+   "name": "IBEW Local 369",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Louisville",
+   "url": "https://www.ibewlocal369.com/",
+   "apprenticeship_url": "https://www.ibewlocal369.com/additionaltraining/",
+   "description": "IBEW 369."
+  },
+  {
+   "name": "IBEW Local 816",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Paducah",
+   "url": "https://ibewlocal816.org/",
+   "description": "Welcome to IBEW Local 816 the highest qualityin electrical work Apply As Journeyman Apprenticeship Existing Members Can Re-sign Here IBEW Local 816 Hire uni ..."
+  },
+  {
+   "name": "Louisville Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Louisville",
+   "url": "https://www.loujatc.com/",
+   "apprenticeship_url": "https://www.loujatc.com/",
+   "description": "Louisville Electric – JATC."
+  },
+  {
+   "name": "Paducah JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Paducah",
+   "url": "https://padjatc.org/",
+   "apprenticeship_url": "https://padjatc.org/",
+   "description": "Paducah Electrical JATC – Paducah, KY."
+  },
+  {
+   "name": "IUOE Local 181 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Henderson",
+   "url": "https://www.iuoelocal181.org/",
+   "apprenticeship_url": "https://www.iuoelocal181.org/about-us/training-centers",
+   "description": "IUOE Local 181 supports skilled trades across KY &amp; Southern IN with elite training, job security, fair wages, and union benefits. Build your future with us."
+  },
+  {
+   "name": "Kentucky Laborers’ Joint Apprenticeship and Training Trust Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Lawrenceburg",
+   "url": "https://kltf.org/",
+   "apprenticeship_url": "https://kltf.org/about-us/",
+   "description": "Kentucky Laborers Training Fund HOME ABOUT US KENTUCKY LABORERS' TRAINING CENTER APPRENTICESHIP HISTORY OF LIUNA!"
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Grayson Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Grayson",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Louisville Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Louisville",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 472 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Grayson",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 357 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Paducah",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1650 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lexington",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2501 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Louisville",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 175 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Louisville",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Kentucky DHBC Electrical Division",
+   "trades": [
+    "electrical",
+    "electricians",
+    "electrical contractors"
+   ],
+   "url": "https://dhbc.ky.gov/div_directory.aspx?menuid=88",
+   "description": "Division of the Department of Housing, Buildings and Construction that licenses and handles renewals and continuing education for electricians. Phone (502) 573-1797, elec@ky.gov."
+  }
+ ],
+ "funding": []
+}

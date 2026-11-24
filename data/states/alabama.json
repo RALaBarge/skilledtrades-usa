@@ -1,0 +1,620 @@
+{
+ "code": "AL",
+ "state": "Alabama",
+ "colleges": [
+  {
+   "name": "Bevill State Community College",
+   "type": "community college",
+   "home_url": "https://www.bscc.edu/",
+   "trades_url": "https://www.bscc.edu/programs/career-tech/welding-technology",
+   "programs": [
+    "Air Conditioning and Refrigeration",
+    "Apprenticeship Program",
+    "Automated Manufacturing Technology",
+    "Machine Tool Technology",
+    "Welding Technology",
+    "Industrial Maintenance Technician Online Refresher Training",
+    "Manufactured Home Installation Training"
+   ]
+  },
+  {
+   "name": "Bishop State Community College",
+   "type": "community college",
+   "home_url": "https://www.bishop.edu/",
+   "trades_url": "https://www.bishop.edu/workforce-development-1/apprenticeships",
+   "programs": [
+    "Apprenticeships",
+    "ALDOT Heavy Highway Construction",
+    "Construction Industry Craft Training",
+    "A/C & Refrigeration Technology",
+    "Automotive Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Machine Tool Technology",
+    "Welding Technology",
+    "Marine Electrical",
+    "HVAC Fast Track",
+    "NABTU Apprenticeship Readiness Program"
+   ]
+  },
+  {
+   "name": "Calhoun Community College",
+   "type": "community college",
+   "home_url": "https://calhoun.edu/",
+   "trades_url": "https://calhoun.edu/programs-training/explore-academic-programs/technologies/",
+   "programs": [
+    "Advanced Manufacturing Technology",
+    "Air Conditioning & Refrigeration",
+    "Automotive Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Machine Tool Technology",
+    "Industrial Controls in Automation, Robotics and Instrumentation",
+    "Industrial Maintenance",
+    "Welding",
+    "Alliance for Machining Professionals (AMP)",
+    "Engineering Design Technology",
+    "Process Technology",
+    "Industrial Training",
+    "Construction Training",
+    "CDL & Logistics Training",
+    "Pre-Apprentice Lineworker School"
+   ]
+  },
+  {
+   "name": "Central Alabama Community College",
+   "type": "community college",
+   "home_url": "https://www.cacc.edu/",
+   "trades_url": "https://www.cacc.edu/programs/welding",
+   "programs": [
+    "Automotive Manufacturing Technology",
+    "Machine Shop",
+    "Welding",
+    "Welding Training",
+    "Manufacturing Skills Standards Council Certified Production Technician",
+    "Carpentry Helper",
+    "Electrical Helper",
+    "Manufactured Home Installer Helper"
+   ]
+  },
+  {
+   "name": "Chattahoochee Valley Community College",
+   "type": "community college",
+   "home_url": "https://www.cv.edu/",
+   "trades_url": "https://www.cv.edu/programs/applied-technology/hvac/",
+   "programs": [
+    "Electrical Technology",
+    "Electrical Equipment Installation and Repair (Semiconductor)",
+    "Automotive Manufacturing",
+    "HVAC",
+    "Industrial Maintenance",
+    "Welding (AWS SMAW/GMAW, MSSC, forklift)"
+   ]
+  },
+  {
+   "name": "Coastal Alabama Community College",
+   "type": "community college",
+   "home_url": "https://www.coastalalabama.edu/",
+   "trades_url": "https://www.coastalalabama.edu/industry-manufacturing-construction/electrical-and-instrumentation-technology-aas-eit",
+   "programs": [
+    "Electrical and Instrumentation Technology (AAS-EIT)",
+    "Marine Industry Technology (STC-MIT)"
+   ]
+  },
+  {
+   "name": "Drake State Community and Technical College",
+   "type": "community college",
+   "home_url": "https://drakestate.edu/",
+   "trades_url": "https://drakestate.edu/career-pathways-programs/advanced-manufacturing/",
+   "programs": [
+    "Advanced Manufacturing",
+    "Automotive Service",
+    "Machine Tool",
+    "Mechatronics",
+    "Electrical Technology",
+    "Welding",
+    "Building Construction Technology",
+    "Commercial Construction Training"
+   ]
+  },
+  {
+   "name": "Enterprise State Community College",
+   "type": "community college",
+   "home_url": "https://escc.edu/",
+   "trades_url": "https://escc.edu/programs/advanced-manufacturing/",
+   "programs": [
+    "Welding (certificate)",
+    "Automotive Technology (certificate)",
+    "Mechatronics",
+    "Carpentry Helper",
+    "Commercial Driver License (CDL)"
+   ]
+  },
+  {
+   "name": "Gadsden State Community College",
+   "type": "community college",
+   "home_url": "https://www.gadsdenstate.edu/",
+   "trades_url": "https://www.gadsdenstate.edu/programs-of-study/technical-programs",
+   "programs": [
+    "Automotive Service Technology",
+    "Construction Technology",
+    "Mechatronics, Robotics and Automation",
+    "Welding Technology",
+    "Truck Driving (skills training)",
+    "Advanced Automation"
+   ]
+  },
+  {
+   "name": "J.F. Ingram State Technical College",
+   "type": "technical college",
+   "home_url": "https://www.istc.edu/",
+   "trades_url": "https://www.istc.edu/page/welding/",
+   "programs": [
+    "Carpentry",
+    "Electrical Technology",
+    "HVAC",
+    "Plumbing",
+    "Automotive Body Repair",
+    "Automotive Mechanics",
+    "CDL",
+    "Diesel Mechanics",
+    "Industrial Maintenance",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Jefferson State Community College",
+   "type": "community college",
+   "home_url": "https://www.jeffersonstate.edu/",
+   "trades_url": "https://www.jeffersonstate.edu/academics/programs/welding-technology/",
+   "programs": [
+    "Construction and Building Science Technology",
+    "Welding Technology",
+    "Manufacturing Technology",
+    "Mechatronics",
+    "Lineworker (Industrial Training Academy)",
+    "Truck Driver Training/CDL",
+    "Heavy Equipment Operator",
+    "Welding (Industrial Training Academy)",
+    "Electrical (Industrial Training Academy)",
+    "HVAC (Industrial Training Academy)",
+    "Certified Production Technician (Manufacturing Training Academy)"
+   ]
+  },
+  {
+   "name": "Lawson State Community College",
+   "type": "community college",
+   "home_url": "https://www.lawsonstate.edu/",
+   "trades_url": "https://www.lawsonstate.edu/learn_at_lawson/programs_and_divisions/career_technical_education_programs/electrical.aspx",
+   "programs": [
+    "Automotive Mechanics",
+    "Building Construction",
+    "Electrical",
+    "Industrial Maintenance",
+    "Machine Tool Technology",
+    "Manufacturing Technology",
+    "Mechatronics",
+    "Plumbing",
+    "Welding Technology",
+    "Aerospace Electrical (workforce)"
+   ]
+  },
+  {
+   "name": "Lurleen B. Wallace Community College",
+   "type": "community college",
+   "home_url": "https://www.lbwcc.edu/",
+   "trades_url": "https://www.lbwcc.edu/programs/career-technical-programs/",
+   "programs": [
+    "Automotive Mechanics",
+    "Welding",
+    "Diesel Technology",
+    "Building Construction",
+    "Industrial Electronics"
+   ]
+  },
+  {
+   "name": "Northeast Alabama Community College",
+   "type": "community college",
+   "home_url": "https://www.nacc.edu/",
+   "trades_url": "https://www.nacc.edu/programs-of-study/tech-programs/building-construction",
+   "programs": [
+    "CDL Truck Driving",
+    "Advanced Design and Manufacturing",
+    "Building Construction",
+    "Machine Tool Technology"
+   ]
+  },
+  {
+   "name": "Northwest-Shoals Community College",
+   "type": "community college",
+   "home_url": "https://nwscc.edu/",
+   "trades_url": "https://nwscc.edu/explore-programs/career-technical/welding/",
+   "programs": [
+    "Welding",
+    "AC / Refrigeration (HVAC)",
+    "Automotive Service Technology",
+    "Electrical",
+    "Machine Shop",
+    "Power5 HVAC Apprenticeship Program",
+    "FAME Program",
+    "Machinist Apprenticeship Program (workforce)",
+    "Heavy Equipment Training (workforce)",
+    "CDL Class A and Class B training"
+   ]
+  },
+  {
+   "name": "Reid State Technical College",
+   "type": "technical college",
+   "home_url": "https://www.reidstate.edu/",
+   "trades_url": "https://www.reidstate.edu/weldingtechnology",
+   "programs": [
+    "Diesel Technology",
+    "Industrial Electricity/Electronics",
+    "Industrial Maintenance",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Shelton State Community College",
+   "type": "community college",
+   "home_url": "https://www.sheltonstate.edu/",
+   "trades_url": "https://www.sheltonstate.edu/instruction-workforce-development/technical-programs/welding/",
+   "programs": [
+    "Air Conditioning and Refrigeration Technology",
+    "Automotive Services Technology",
+    "Diesel Mechanics",
+    "Electrical Technology",
+    "Advanced Manufacturing Technology",
+    "Machine Tool and Die Technology",
+    "Welding Technology",
+    "Carpentry Helper (Skills for Success)",
+    "Electrical Helper (Skills for Success)",
+    "Electrical Vehicle Training",
+    "Heavy Equipment (Skills for Success)"
+   ]
+  },
+  {
+   "name": "Snead State Community College",
+   "type": "community college",
+   "home_url": "https://www.snead.edu/",
+   "trades_url": "https://www.snead.edu/career-technical-education/welding-technology/",
+   "programs": [
+    "Machine Tool Technology",
+    "HVAC-R",
+    "Additive Manufacturing",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Southern Union State Community College",
+   "type": "community college",
+   "home_url": "https://www.suscc.edu/",
+   "trades_url": "https://www.suscc.edu/programs/manufacturing-tech-career",
+   "programs": [
+    "Automotive Service Technology",
+    "Advanced Manufacturing (career outlook page)"
+   ]
+  },
+  {
+   "name": "Trenholm State Community College",
+   "type": "community college",
+   "home_url": "https://www.trenholmstate.edu/",
+   "trades_url": "https://www.trenholmstate.edu/welding/",
+   "programs": [
+    "Electricians Assistant",
+    "Robotics/Mechatronics",
+    "Automotive Service",
+    "Ford TRAC Program",
+    "CDL / Truck Driving",
+    "Welding",
+    "Diesel Mechanics",
+    "Heavy Equipment Operator Training",
+    "Air Conditioning & Refrigeration Technology",
+    "Electrical"
+   ]
+  },
+  {
+   "name": "Wallace Community College Dothan",
+   "type": "community college",
+   "home_url": "https://wallace.edu/",
+   "trades_url": "https://wallace.edu/programs-training/career-technical-programs/welding-technology/",
+   "programs": [
+    "Air Conditioning and Refrigeration",
+    "Automotive Technology",
+    "Electrical Technology",
+    "Welding Technology",
+    "Heavy Equipment Operator",
+    "Pre-apprentice Electrical Lineworker",
+    "CDL Training and Endorsements",
+    "Masonry Technology",
+    "Wiregrass FAME"
+   ]
+  },
+  {
+   "name": "Wallace State Community College (Hanceville)",
+   "type": "community college",
+   "home_url": "https://www.wallacestate.edu/",
+   "trades_url": "https://www.wallacestate.edu/programs/technical-division/index.html",
+   "programs": [
+    "Advanced Automotive Technology",
+    "Construction Management Technology",
+    "Diesel Technology",
+    "HVAC & Refrigeration",
+    "Machine Tool Technology/CNC",
+    "Welding",
+    "Electrical Technology",
+    "Robotics and Automation Technology"
+   ]
+  },
+  {
+   "name": "Wallace Community College Selma",
+   "type": "community college",
+   "home_url": "https://www.wccs.edu/",
+   "trades_url": "https://www.wccs.edu/programs/technical-divisions/welding",
+   "programs": [
+    "Commercial Truck Driver (CDL), Selma",
+    "Electrical Technology",
+    "Industrial Maintenance Technology",
+    "Masonry, Building & Trades",
+    "Welding",
+    "Air Conditioning and Refrigeration Technology (Demopolis)",
+    "Commercial Truck Driver (CDL), Demopolis",
+    "Industrial Maintenance Technology (Demopolis)",
+    "Welding (Demopolis)",
+    "Carpentry Helper",
+    "Electrical Helper",
+    "Heavy Equipment Courses",
+    "Plumbing Assistant"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 136 (Birmingham)",
+   "kind": "union local",
+   "trades": [
+    "electrician",
+    "lineworker"
+   ],
+   "city": "Birmingham",
+   "url": "https://ibew136.org/",
+   "description": "Union of electricians serving Birmingham and central Alabama; the home page says it provides training at no cost."
+  },
+  {
+   "name": "IBEW Local 443 and Montgomery Electrical JATC",
+   "kind": "JATC / training center",
+   "trades": [
+    "electrician",
+    "lineworker"
+   ],
+   "city": "Montgomery",
+   "url": "https://ibew443.org/",
+   "description": "IBEW local for electricians and linemen in Montgomery; the home page advertises a journeyman electrician and lineman apprenticeship."
+  },
+  {
+   "name": "Alabama AGC (Associated General Contractors)",
+   "kind": "contractor association",
+   "trades": [
+    "construction (general)"
+   ],
+   "url": "https://alagc.org/",
+   "description": "Statewide contractor association offering free training such as OSHA 10/30, First Aid/CPR and Fall Protection."
+  },
+  {
+   "name": "ABC of Alabama (Associated Builders and Contractors)",
+   "kind": "contractor association",
+   "trades": [
+    "construction (merit shop)"
+   ],
+   "url": "https://www.abc-alabama.org/",
+   "description": "Alabama chapter of Associated Builders and Contractors; the home page links to a Training and Education section."
+  },
+  {
+   "name": "Alabama Workforce Training Center (AIDT)",
+   "kind": "nonprofit",
+   "trades": [
+    "industrial and manufacturing skills"
+   ],
+   "city": "Birmingham",
+   "url": "https://awtc.aidt.edu/publictraining/",
+   "description": "Workforce training center run by AIDT, a state workforce development agency; the public training page lists classes open to the general public.",
+   "how_to_apply": "Public training classes are listed on the page; registration details not checked."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "plumbers and pipefitters",
+    "sheet metal",
+    "roofers",
+    "teamsters",
+    "carpenters and other building trades"
+   ],
+   "url": "https://helmetstohardhats.org/",
+   "description": "National program that connects military service members and veterans to apprenticeships in the construction trades; the page lists trade categories."
+  },
+  {
+   "name": "IBEW Local 136",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Birmingham",
+   "url": "https://ibew136.org/",
+   "apprenticeship_url": "https://ibew136.org/",
+   "description": "Skilled, safety-trained electricians serving Birmingham & Central Alabama. Join a union offering great wages, benefits, and lifelong careers."
+  },
+  {
+   "name": "IBEW Local 443",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Montgomery",
+   "url": "https://ibew443.org/",
+   "apprenticeship_url": "https://ibew443.org/wireman-apprenticeship",
+   "description": "Union for Electricians and Lineman in Montgomery, Alabama. Journeyman Electrician and Lineman Apprenticeship."
+  },
+  {
+   "name": "IBEW Local 505",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Mobile",
+   "url": "https://www.ibew505.org/",
+   "description": "IBEW 505."
+  },
+  {
+   "name": "IBEW Local 558",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Sheffield",
+   "url": "https://ibew558.org/",
+   "description": "For 108 years, skilled union electricians have powered North Alabama and the Tennessee Valley. Learn about membership and union contractors today."
+  },
+  {
+   "name": "IBEW Local 765",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Sheffield",
+   "url": "http://www.ibew765.org/",
+   "description": "IBEW Local 765."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Central Alabama Carpenters and Millwrights Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Pelham",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - North Alabama Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Florence",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 318 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pelham",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1192 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "North Birmingham",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1209 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Florence",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Sheet Metal Local 48",
+   "union": "SMART",
+   "kind": "union local",
+   "url": "https://www.smart-union.org/sm-local-48/about-local-48/",
+   "apprenticeship_url": "https://www.smart-union.org/sm-local-48/about-local-48/",
+   "description": "Apprentices attend class four to six times per month and spend the rest of their time learning on the job alongside skilled journey workers, with pay raises every six months ."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Alabama Board of Electrical Contractors",
+   "trades": [
+    "electrical contractor",
+    "journeyman electrician"
+   ],
+   "url": "https://aecb.alabama.gov/",
+   "description": "State board that licenses and regulates electrical contractors; the home page says online renewals are available for contractors and journeyman electricians."
+  },
+  {
+   "name": "Alabama Board of Heating, Air Conditioning and Refrigeration Contractors",
+   "trades": [
+    "HVAC",
+    "refrigeration"
+   ],
+   "url": "https://hacr.alabama.gov/",
+   "description": "State board that licenses heating, air conditioning and refrigeration contractors; its How to Get Licensed page describes the application and exam steps."
+  },
+  {
+   "name": "Alabama Plumbers and Gas Fitters Examining Board",
+   "trades": [
+    "plumbing",
+    "gas fitting",
+    "medical gas piping"
+   ],
+   "url": "https://pgfb.alabama.gov/about/",
+   "description": "State board that certifies and regulates plumbers and gas fitters; its How Do I Become Licensed page covers certification."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Alabama Career Essentials (ACE)",
+   "url": "https://www.accs.edu/ace/",
+   "provider": "Alabama Community College System",
+   "kind": "tuition-free program",
+   "provides": "Alabama Career Essentials is a free training course from the Alabama Community College System that leads to a Certified Employee certificate, a National Career Readiness Certificate and one free college course.",
+   "amount": "One free college course (up to 4 credit hours)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "ACCS Technical Training (short certificate programs)",
+   "url": "https://www.accs.edu/career-training/technical-training/",
+   "provider": "Alabama Community College System",
+   "kind": "tuition-free program",
+   "provides": "Alabama community college technical training page states that for some programs no tuition is due, free childcare and job placement assistance are offered, and a $500 stipend is provided for required welding equipment.",
+   "amount": "$500 stipend for required welding equipment (welding program)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "ACCS Workforce Pathways Grant",
+   "url": "https://www.accs.edu/workforcegrants/",
+   "provider": "Alabama Community College System",
+   "kind": "grant",
+   "provides": "Workforce Pathways Grant funds short-term, high-quality workforce training (credit or non-credit) that meets federal Workforce Pell eligibility and leads to employment.",
+   "eligibility": "Training must meet federal Workforce Pell eligibility requirements, per the grant guidelines page",
+   "how_to_apply": "Complete the Application for Workforce Pathways Grant, project budget, itemized equipment list, signature page and curriculum outline; grant applications for FY27 were announced to open 4/1/26",
+   "audience": "school",
+   "status": "unknown"
+  },
+  {
+   "name": "AIDT workforce training for new and expanding companies",
+   "url": "https://www.aidt.edu/",
+   "provider": "Alabama Industrial Development Training (AIDT)",
+   "kind": "training voucher",
+   "provides": "AIDT provides workforce development for Alabama new and expanding businesses and reports more than 47,000 Alabama citizens trained for a new career in 2025.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Alabama state student grants and scholarships (ACHE)",
+   "url": "https://ache.edu/",
+   "provider": "Alabama Commission on Higher Education",
+   "kind": "grant",
+   "provides": "The Alabama Commission on Higher Education administers several state-sponsored student grants and scholarships.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Alabama Jobs Act tax credits (Jobs Credit and Investment Credit)",
+   "url": "https://www.madeinalabama.com/why-alabama/taxes-incentives/",
+   "provider": "Alabama Department of Commerce (Made in Alabama)",
+   "kind": "tax credit",
+   "provides": "The Alabama Jobs Act established the Jobs Credit and the Investment Credit to promote job creation and capital investment for qualifying projects.",
+   "eligibility": "Qualifying projects under sections 40-18-370 through 40-18-383 of the Code of Alabama 1975",
+   "how_to_apply": "Contact a Made in Alabama project manager",
+   "audience": "employer",
+   "status": "unknown"
+  }
+ ]
+}

@@ -1,0 +1,537 @@
+{
+ "code": "IN",
+ "state": "Indiana",
+ "colleges": [
+  {
+   "name": "Ivy Tech Community College (statewide system, 40+ campuses)",
+   "type": "community college",
+   "home_url": "https://www.ivytech.edu/",
+   "trades_url": "https://www.ivytech.edu/programs/all-academic-programs/",
+   "programs": [
+    "Advanced Automation Robotics Technology",
+    "Automotive Technology",
+    "Aviation Maintenance Technology",
+    "Building Construction Management",
+    "Building Construction Technology",
+    "Diesel Technology",
+    "Electrical Engineering Technology",
+    "Energy Technology",
+    "Heating Ventilation Air Conditioning Technology (HVAC)",
+    "Industrial Technology",
+    "Machine Tool Technology",
+    "Manufacturing Production Operations",
+    "Mechanical Engineering Technology",
+    "Precision Agriculture Equipment Technology",
+    "Smart Manufacturing Digital Integration",
+    "Engineering Technology"
+   ]
+  },
+  {
+   "name": "Vincennes University",
+   "type": "state college",
+   "city": "Vincennes",
+   "home_url": "https://www.vinu.edu/",
+   "trades_url": "https://www.vinu.edu/college-of-technology/index.html",
+   "programs": [
+    "Automation Technology",
+    "Automotive Technology",
+    "Collision Repair and Refinishing",
+    "Diesel Technology",
+    "Electronics Technology",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Purdue Polytechnic (Purdue University)",
+   "type": "state college",
+   "home_url": "https://polytechnic.purdue.edu/",
+   "trades_url": "https://polytechnic.purdue.edu/",
+   "programs": [
+    "Construction Management",
+    "Design and Construction Integration",
+    "Electrical Engineering Technology",
+    "Mechanical Engineering Technology",
+    "Mechatronics Engineering Technology",
+    "Industrial Engineering Technology"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 481",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://ibew481.org/",
+   "description": "Represents more than 4,500 union members across Central Indiana, mostly electrical workers, and runs an apprenticeship program."
+  },
+  {
+   "name": "Built to Succeed Indiana (SMART cross-trade apprenticeship recruiting)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "sheet metal",
+    "electrical",
+    "construction building trades"
+   ],
+   "url": "https://www.smart-union.org/built-succeed-indiana/",
+   "description": "Cross-trade apprenticeship recruiting in Indiana: one application goes to participating building trades.",
+   "how_to_apply": "One application is submitted and routed to participating trades (per the page's description)."
+  },
+  {
+   "name": "Vincennes University and Associated Builders and Contractors (ABC) Indiana construction apprenticeships",
+   "kind": "apprenticeship program",
+   "trades": [
+    "construction"
+   ],
+   "url": "https://www.vinu.edu/workforce-development/construction-abc.html",
+   "description": "Vincennes University partnership with Associated Builders and Contractors for Indiana construction apprenticeships, running for nearly two decades."
+  },
+  {
+   "name": "Evansville Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Evansville",
+   "url": "https://evvjatc.org/",
+   "apprenticeship_url": "https://evvjatc.org/",
+   "description": "NECA/IBEW Electrical JATC | Joint Apprenticeship and Training Center."
+  },
+  {
+   "name": "Fort Wayne Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Ft. Wayne",
+   "url": "https://fortwayneelectricaljatc.org/",
+   "apprenticeship_url": "https://fortwayneelectricaljatc.org/",
+   "description": "Fort Wayne Electrical JATC."
+  },
+  {
+   "name": "IBEW Local 1393",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Indianapolis",
+   "url": "https://www.ibewlocal1393.com/",
+   "apprenticeship_url": "https://www.ibewlocal1393.com/Apprenticeship/",
+   "description": "The International Brotherhood of Electrical Workers Local 1393."
+  },
+  {
+   "name": "IBEW Local 153",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "South Bend",
+   "url": "https://www.ibew153.com/",
+   "description": "IBEW Local 153."
+  },
+  {
+   "name": "IBEW Local 16",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Evansville",
+   "url": "https://www.ibewlocal16.com/",
+   "description": "IBEW Local 16."
+  },
+  {
+   "name": "IBEW Local 305",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Fort Wayne",
+   "url": "https://www.ibew305.org/",
+   "apprenticeship_url": "https://www.ibew305.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 305."
+  },
+  {
+   "name": "IBEW Local 531",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "LaPorte",
+   "url": "https://www.ibewlocal531.org/",
+   "apprenticeship_url": "https://www.ibewlocal531.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 531."
+  },
+  {
+   "name": "IBEW Local 668",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Lafayette",
+   "url": "https://www.ibew668.org/",
+   "description": "IBEW 668."
+  },
+  {
+   "name": "IBEW Local 697",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Gary and Hammond",
+   "url": "https://www.ibew697.org/",
+   "apprenticeship_url": "https://www.ibew697.org/?zone=/unionactive/view_article.cfm&HomeID=927643",
+   "description": "IBEW Local 697."
+  },
+  {
+   "name": "IBEW Local 725",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Terre Haute",
+   "url": "https://www.ibew725.org/",
+   "description": "IBEW 725."
+  },
+  {
+   "name": "IBEW Local 855",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Muncie",
+   "url": "https://www.ibew855.com/",
+   "apprenticeship_url": "https://www.ibew855.com/apprenticeship/",
+   "description": "IBEW 855."
+  },
+  {
+   "name": "IBEW Local 873",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Kokomo",
+   "url": "https://www.ibew873.com/",
+   "apprenticeship_url": "https://www.ibew873.com/?zone=/unionactive/view_page.cfm&page=APPRENTICESHIP",
+   "description": "IBEW Local 873."
+  },
+  {
+   "name": "Indianapolis Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Indianapolis",
+   "url": "https://eti-indy.org/",
+   "description": "Start your journey today Learn More When considering a career path, attending an electrical apprenticeship program is a choice that offers an array of…."
+  },
+  {
+   "name": "Lafayette Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Lafayette",
+   "url": "https://www.lejatc.com/",
+   "apprenticeship_url": "https://application.lejatc.com/Application_step_1",
+   "description": "Your Future Starts Now The finest electrical workers in the country receive their training through the National Joint Apprenticeship and Training Committee of National Electrical Contractors Association (NECA) and International…."
+  },
+  {
+   "name": "IUOE Local 103 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Indianapolis",
+   "url": "https://www.iuoe103.com/",
+   "description": "I.U.O.E. Local 103 covers 33 counties in Indiana, with three district offices located in Indianapolis, Fort Wayne, and Kokomo."
+  },
+  {
+   "name": "IUOE Local 112 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Anderson",
+   "url": "https://iuoe112.org/",
+   "apprenticeship_url": "https://iuoe112.org/member-login/",
+   "description": "IUOE Local 112 represents skilled NDT professionals who support pipeline integrity, safety, and productivity on projects across the United States."
+  },
+  {
+   "name": "IUOE Local 150 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Lakeville",
+   "url": "https://www.asiplocal150.org/Forms/Page.aspx?P=Home",
+   "apprenticeship_url": "https://www.asiplocal150.org/Forms/Page.aspx?S=ContactUs",
+   "description": "ASIP: Local 150 --> Welcome Guest &nbsp;&nbsp; Login FAQ Contact Us Home Program Information Training Site Links Apprenticeship Operating Engineer Hvy."
+  },
+  {
+   "name": "IUOE Local 181 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Evansville",
+   "url": "https://www.iuoelocal181.org/",
+   "apprenticeship_url": "https://www.iuoelocal181.org/about-us/training-centers",
+   "description": "IUOE Local 181 supports skilled trades across KY &amp; Southern IN with elite training, job security, fair wages, and union benefits. Build your future with us."
+  },
+  {
+   "name": "IUOE Local 841 (Hoisting & Portable)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Terre Haute",
+   "url": "https://iuoelocal841.com/",
+   "apprenticeship_url": "https://iuoelocal841.com/careers/apprenticeship/"
+  },
+  {
+   "name": "IUPAT District Council 91",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://iupatdc91.com/",
+   "apprenticeship_url": "https://iupatdc91.com/dc91-training/",
+   "description": "Looking for job opportunities in the Union? Here is where we list all the posting we get from all over the country for union jobs. Please check this section"
+  },
+  {
+   "name": "BAC 04 Indiana/Kentucky",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Indianapolis",
+   "url": "https://www.baclocal4.org/",
+   "apprenticeship_url": "https://www.baclocal4.org/training/",
+   "description": "Serving Members, Building Communities"
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - IKORCC JATF - Terre Haute Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Terre Haute",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Indianapolis Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Greenwood",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Lafayette IKORCC JATF",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Lafayette",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Merrillville Campus IKORCC JATF",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Merrillville",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Muncie Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Muncie",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Newburgh Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Newburgh",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Central Midwest Regional Council of Carpenters - Warsaw Campus IKORCC JATF",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Warsaw",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Training center listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 232 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Fort Wayne",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 364 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Indianapolis",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2013 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Greenwood",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 215 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Lafayette",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 2950 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Merrillville",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 224 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Newburgh",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 301 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Indianapolis",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1076 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Greenwood",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1016 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Muncie",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 615 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Kokomo",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 413 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "South Bend",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 133 (Central Midwest Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Terre Haute",
+   "url": "https://map.carpenters.org/?councils=council-4014",
+   "description": "Local union listed on the Central Midwest Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Indiana Professional Licensing Agency - Plumbing",
+   "trades": [
+    "plumbing"
+   ],
+   "url": "https://www.in.gov/pla/professions/plumbing-home/",
+   "description": "State agency page for plumbing licensing under the Indiana Professional Licensing Agency."
+  },
+  {
+   "name": "Indiana Department of Homeland Security - State Fire Marshal, Boilers and Pressure Vessels",
+   "trades": [
+    "boiler"
+   ],
+   "url": "https://www.in.gov/dhs/fire-and-building-safety/boilers-and-pressure-vessels",
+   "description": "State Fire Marshal program for boilers and pressure vessels."
+  },
+  {
+   "name": "Indiana Department of Homeland Security - State Fire Marshal, Elevators and Amusement Rides",
+   "trades": [
+    "elevator"
+   ],
+   "url": "https://www.in.gov/dhs/fire-and-building-safety/elevators-and-amusement-rides/",
+   "description": "State Fire Marshal program for elevators and amusement rides."
+  },
+  {
+   "name": "Indiana Bureau of Motor Vehicles (CDL)",
+   "trades": [
+    "CDL"
+   ],
+   "url": "https://www.in.gov/bmv/",
+   "description": "State BMV site for driver licensing, including commercial driver licenses."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Workforce Ready Grant",
+   "url": "https://www.in.gov/dwd/job-seekers/education-training",
+   "provider": "Indiana Department of Workforce Development",
+   "kind": "tuition-free program",
+   "provides": "The Workforce Ready Grant provides tuition-free training in high-paying, in-demand industries.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Indiana Early-College Promise (21st Century Scholars)",
+   "url": "https://www.in.gov/che/",
+   "provider": "Indiana Commission for Higher Education",
+   "kind": "scholarship",
+   "provides": "Indiana's Early-College Promise Program offers up to four years of 100% tuition coverage at an eligible Indiana college for students enrolled in the 21st Century Scholars program.",
+   "eligibility": "Enroll in the 21st Century Scholars program by June 30 of 8th-grade year (per page)",
+   "amount": "Up to four years of 100% tuition coverage at an eligible Indiana college (per page)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Indiana State Financial Aid",
+   "url": "https://www.in.gov/che/state-financial-aid/",
+   "provider": "Indiana Commission for Higher Education",
+   "kind": "other",
+   "provides": "The Commission's state financial aid page covers scholarships, grants and FAFSA information.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Employer Training Grant",
+   "url": "https://www.in.gov/dwd/business-services/etg",
+   "provider": "Indiana Department of Workforce Development",
+   "kind": "grant",
+   "provides": "This grant helps Hoosier employers meet workforce demands and elevate their businesses while reimbursing costs for training, hiring and retaining new or current employees in high-demand positions.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Power Up Indiana",
+   "url": "https://www.in.gov/dwd/power-up/",
+   "provider": "Indiana Department of Workforce Development",
+   "kind": "other",
+   "provides": "Indiana's new incentive program rewards employers to grow wages, build stronger teams, and turn talent development into a long-term business advantage.",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Work-Based Learning and Apprenticeship (OWBLA)",
+   "url": "https://www.in.gov/dwd/owbla/",
+   "provider": "Indiana Department of Workforce Development",
+   "kind": "apprenticeship",
+   "provides": "The Indiana Work-Based Learning and Apprenticeship office lists more than 619 Registered Apprenticeships.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Trade Adjustment Assistance (TAA)",
+   "url": "https://www.in.gov/dwd/taa/",
+   "provider": "Indiana Department of Workforce Development",
+   "kind": "supportive services",
+   "provides": "If you have received notification that you are eligible for the TAA program benefits and services, please reach out to your local WorkOne office to verify your eligibility and current status of the TAA program.",
+   "eligibility": "Workers who have received notification of eligibility for TAA benefits and services (per page)",
+   "how_to_apply": "Contact your local WorkOne office",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Indiana Adult Education",
+   "url": "https://www.in.gov/dwd/career-training-adult-ed/adult-ed/",
+   "provider": "Indiana Department of Workforce Development",
+   "kind": "other",
+   "provides": "Locate an adult education program to schedule an appointment and enroll today.",
+   "how_to_apply": "Locate an adult education program and schedule an appointment",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

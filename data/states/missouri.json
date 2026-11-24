@@ -1,0 +1,664 @@
+{
+ "code": "MO",
+ "state": "Missouri",
+ "colleges": [
+  {
+   "name": "Crowder College",
+   "type": "community college",
+   "home_url": "https://www.crowder.edu/",
+   "trades_url": "https://www.crowder.edu/academics/departments/career-technical-education/",
+   "programs": [
+    "Career & Technical Education",
+    "Apprenticeships"
+   ]
+  },
+  {
+   "name": "East Central College",
+   "type": "community college",
+   "city": "Union",
+   "home_url": "https://www.eastcentral.edu/",
+   "trades_url": "https://www.eastcentral.edu/career-technical-education/",
+   "programs": [
+    "Automotive Technology",
+    "Building Construction",
+    "HVAC-R",
+    "Precision Machining Technology",
+    "Welding",
+    "Industrial Engineering Technology"
+   ]
+  },
+  {
+   "name": "Jefferson College",
+   "type": "community college",
+   "city": "Hillsboro",
+   "home_url": "https://www.jeffco.edu/",
+   "trades_url": "https://www.jeffco.edu/wes/technical-training/",
+   "programs": [
+    "Technical Training",
+    "Industrial Maintenance Course",
+    "ATS HVAC",
+    "Welding Technology",
+    "Automotive Technology",
+    "Residential Carpentry"
+   ]
+  },
+  {
+   "name": "Mineral Area College",
+   "type": "community college",
+   "city": "Park Hills",
+   "home_url": "https://mineralarea.edu/",
+   "trades_url": "https://mineralarea.edu/welding",
+   "programs": [
+    "Welding Technology",
+    "CNC Machine Tool",
+    "HVAC",
+    "Industrial Maintenance",
+    "Automotive",
+    "Construction",
+    "Electrical Electronics",
+    "Engineering Design Drafting",
+    "Engineering Manufacturing"
+   ]
+  },
+  {
+   "name": "Moberly Area Community College",
+   "type": "community college",
+   "city": "Moberly",
+   "home_url": "https://www.macc.edu/",
+   "trades_url": "https://www.macc.edu/welding/",
+   "programs": [
+    "Welding",
+    "Professional Truck Driving",
+    "Mechatronics Certificate",
+    "Advanced Manufacturing Technology Certificate"
+   ]
+  },
+  {
+   "name": "St. Charles Community College",
+   "type": "community college",
+   "home_url": "https://www.stchas.edu/",
+   "trades_url": "https://www.stchas.edu/programs-courses/programs/skilled-trades.php",
+   "programs": [
+    "Regional Workforce Innovation Center (skilled trades)",
+    "Computer-Aided Drafting",
+    "Manufacturing Technology",
+    "Mechatronics",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Three Rivers College",
+   "type": "community college",
+   "city": "Poplar Bluff",
+   "home_url": "https://trcc.edu/",
+   "trades_url": "https://trcc.edu/academics/degrees-programs/welding-technology/",
+   "programs": [
+    "Welding Technology",
+    "Diesel Technology",
+    "Electrical Technology",
+    "Heating, Ventilation, Air Conditioning & Refrigeration",
+    "Plumbing Technology",
+    "Construction Technology",
+    "Manufacturing Technology",
+    "Maintenance Welding"
+   ],
+   "credentials": "Associate of Applied Science (welding technology)"
+  },
+  {
+   "name": "State Technical College of Missouri",
+   "type": "technical college",
+   "city": "Linn",
+   "home_url": "https://statetechmo.edu/",
+   "trades_url": "https://statetechmo.edu/program-segment/construction/",
+   "programs": [
+    "Welding Technology",
+    "Electrical Distribution Systems",
+    "Construction",
+    "Commercial Construction",
+    "Heavy Equipment Operations",
+    "Medium-Heavy Truck Technology",
+    "Automotive Technology",
+    "Diesel Technology",
+    "HVAC",
+    "Precision Machining Technology",
+    "Drafting and Design Engineering Technology"
+   ]
+  },
+  {
+   "name": "State Fair Community College",
+   "type": "community college",
+   "city": "Sedalia",
+   "home_url": "https://www.sfccmo.edu/",
+   "trades_url": "https://www.sfccmo.edu/academics-programs/ind-man-eng-tech/welding/index.php",
+   "programs": [
+    "Welding",
+    "HVAC-R & Controls Technology",
+    "Machining",
+    "Commercial Driving Academy",
+    "Construction Management",
+    "Industrial Technology"
+   ]
+  },
+  {
+   "name": "Ozarks Technical Community College",
+   "type": "community college",
+   "city": "Springfield",
+   "home_url": "https://ozarkstech.edu/",
+   "trades_url": "https://ozarkstech.edu/programs/construction-transportation/",
+   "programs": [
+    "Apprenticeship Skilled Trades",
+    "Auto Collision Repair Technology",
+    "Automotive Technology",
+    "Construction Technology",
+    "Diesel Technology",
+    "Electrical Distribution Systems",
+    "Electrical Technician",
+    "Heating, Refrigeration and Air Conditioning",
+    "Plumbing Technology",
+    "Welding Technology",
+    "Automation and Robotics",
+    "Drafting and Design Technology",
+    "Manufacturing Technology",
+    "Mechatronics",
+    "Precision Machining Technology",
+    "Plumbing (short-term training)"
+   ]
+  },
+  {
+   "name": "St. Louis Community College",
+   "type": "community college",
+   "city": "St. Louis",
+   "home_url": "https://stlcc.edu/",
+   "trades_url": "https://stlcc.edu/pathways/industrial/skilled-trades/index.aspx",
+   "programs": [
+    "Skilled Trades Industrial Occupations Technology",
+    "Welding Technology Programs",
+    "HVAC Tech",
+    "Diesel Technology",
+    "Precision Machining Technology",
+    "Solar Installer",
+    "Truck Driving",
+    "Automotive Technology"
+   ],
+   "credentials": "Certificate of specialization (welding)"
+  },
+  {
+   "name": "Metropolitan Community College (Kansas City; includes Longview campus)",
+   "type": "community college",
+   "city": "Kansas City",
+   "home_url": "https://www.mcckc.edu/",
+   "trades_url": "https://mcckc.edu/programs/welding/index.aspx",
+   "programs": [
+    "Welding Technology",
+    "Heating, Ventilation and Air Conditioning (HVAC)",
+    "Industrial Electrical",
+    "Apprenticeship Training Program",
+    "Automotive Institute at MCC-Longview",
+    "Computer Integrated Machining",
+    "Industrial Maintenance",
+    "Millwright",
+    "Medium-Heavy Duty Diesel",
+    "Collision Repair"
+   ],
+   "credentials": "A.A.S. degree and certificates (welding, industrial electrical)"
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 124",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Kansas City",
+   "url": "https://www.ibew124.org/en",
+   "description": "Home page of IBEW Local 124, an electrical union local (page fetched; body text not extracted)."
+  },
+  {
+   "name": "IUOE Local 513",
+   "kind": "union local",
+   "trades": [
+    "heavy equipment operation"
+   ],
+   "url": "https://www.iuoe513.org/en",
+   "description": "Home page of IUOE Local 513, an operating engineers union local (page fetched; body text not extracted)."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Kansas City training campus",
+   "kind": "JATC / training center",
+   "trades": [
+    "carpenters",
+    "floor coverers",
+    "millwrights"
+   ],
+   "city": "Kansas City",
+   "url": "https://mactc.org/find-your-campus/kansas-city/",
+   "description": "Kansas City campus page of the Mid-America Carpenters Regional Council, listing its apprentice crafts and skill advancement classes."
+  },
+  {
+   "name": "ABC Heart of America (Associated Builders and Contractors)",
+   "kind": "contractor association",
+   "trades": [
+    "construction training",
+    "electrical",
+    "plumbing",
+    "pipefitting",
+    "carpentry"
+   ],
+   "city": "Kansas City",
+   "url": "https://www.abcksmo.org/",
+   "description": "The ABC Heart of America chapter aligns with Associated Builders and Contractors' mission of providing training for newcomers to the construction trades."
+  },
+  {
+   "name": "Builders Association Training Center",
+   "kind": "apprenticeship program",
+   "trades": [
+    "bricklayers",
+    "cement finishers",
+    "glaziers",
+    "ironworkers",
+    "painters",
+    "plasterers",
+    "pointers and caulkers"
+   ],
+   "city": "North Kansas City",
+   "url": "https://www.thebuildersagc.com/WCM/WCM/_Education/Apprenticeship_Programs.aspx",
+   "description": "The Builders Association Training Center in North Kansas City hosts eight apprenticeship training programs."
+  },
+  {
+   "name": "Missouri Apprentice Connect",
+   "kind": "apprenticeship program",
+   "trades": [
+    "registered apprenticeships (all trades)"
+   ],
+   "url": "https://www.moapprenticeconnect.com/",
+   "description": "Missouri Apprentice Connect site with apprentice information and FAQs."
+  },
+  {
+   "name": "Missouri Apprenticeship (DHEWD)",
+   "kind": "apprenticeship program",
+   "trades": [
+    "registered apprenticeships (all trades)"
+   ],
+   "url": "https://dhewd.mo.gov/workforce-development/apprenticeship-mo",
+   "description": "State Department of Higher Education and Workforce Development page on Missouri apprenticeship, with pages for employers, partners and providers."
+  },
+  {
+   "name": "IBEW Local 1",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "St. Louis",
+   "url": "https://ibewlocal1.org/",
+   "description": "Welcome to Local One, the flagship local union of the International Brotherhood of Electrical Workers, the largest union of electrical workers in the world."
+  },
+  {
+   "name": "IBEW Local 2",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "St. Louis",
+   "url": "http://www.ibew2.org/",
+   "apprenticeship_url": "http://www.ibew2.org/?zone=/unionactive/view_article.cfm&HomeID=935137",
+   "description": "IBEW Local 2."
+  },
+  {
+   "name": "IBEW Local 257",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Jefferson City",
+   "url": "https://www.ibew257.org/en",
+   "description": "IBEW 257 | Home."
+  },
+  {
+   "name": "IBEW Local 4",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "St. Louis",
+   "url": "https://www.ibewlocal4.com/",
+   "description": "IBEW Local 4 represents skilled broadcast video and audio professionals. Hire certified union crew for your next production."
+  },
+  {
+   "name": "IBEW Local 453",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Springfield",
+   "url": "https://www.ibew453.com/",
+   "apprenticeship_url": "https://www.ibew453.com/?zone=/unionactive/view_article.cfm&HomeID=276077&page=Important20Labor20News",
+   "description": "IBEW local 453."
+  },
+  {
+   "name": "IBEW Local 53",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Kansas City",
+   "url": "https://www.ibewlocal53.org/",
+   "apprenticeship_url": "https://www.ibewlocal53.org/training",
+   "description": "IBEW Local 53 | International Brotherhood of Electrical Workers | Kansas City."
+  },
+  {
+   "name": "IBEW Local 545",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "St. Joseph",
+   "url": "https://www.ibewlocal545.net/",
+   "apprenticeship_url": "https://www.ibewlocal545.net/index.cfm?zone=/unionactive/form_page.cfm&formID=105706",
+   "description": "IBEW Local 545."
+  },
+  {
+   "name": "IBEW Local 753",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Springfield",
+   "url": "https://www.ibew753.org/",
+   "description": "HOME | Ibew 753."
+  },
+  {
+   "name": "IBEW Local 95",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Joplin",
+   "url": "https://www.ibewlocal95.com/",
+   "description": "IBEW Local 95."
+  },
+  {
+   "name": "IUOE Local 101 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Kansas City",
+   "url": "https://iuoelocal101.org/",
+   "apprenticeship_url": "https://iuoelocal101.org/journeyman-application/",
+   "description": "Unlock career opportunities with the IUOE 101 union in Kansas City. Join our union for member benefits or explore training &amp; apprenticeship programs."
+  },
+  {
+   "name": "IUOE Local 148 (Stationary)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "St. Louis",
+   "url": "https://local148.com/",
+   "description": "SKILLED LABOR We pride ourselves in the talent we offer, through training partnerships we developed."
+  },
+  {
+   "name": "IUPAT District Council 3",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://iupatdc3.com/",
+   "apprenticeship_url": "https://iupatdc3.com/members/training",
+   "description": "We are IUPAT District Council 3. We represent men and women in Western Missouri and Kansas who work in what are called the Finishing Trades - commercial and industrial painting, drywall finishing, floor covering, glazing, convention display and signs."
+  },
+  {
+   "name": "BAC ADC OF EASTERN MISSOURI",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Fenton",
+   "url": "https://bacstl.com/",
+   "apprenticeship_url": "https://bacstl.com/training-education-safety"
+  },
+  {
+   "name": "BAC 15 Missouri/Kansas/Nebraska",
+   "union": "BAC",
+   "kind": "union local",
+   "city": "Kansas City",
+   "url": "https://baclocal15.org/",
+   "apprenticeship_url": "https://baclocal15.org/training-education-safety-cisap"
+  },
+  {
+   "name": "AGC-Eastern Missouri Laborers’ Joint Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Jonesburg",
+   "url": "https://lctcmo.org/",
+   "apprenticeship_url": "https://lctcmo.org/?id=1",
+   "description": "LABORERS-AGC Training Center"
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice and Training Center Central Missouri Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "West Jefferson City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice and Training Center Kansas City Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kansas City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice and Training Center Southeast Missouri Bruce L. Bird Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Cape Girardeau",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice and Training Center Springfield Missouri Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Springfield",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Mid-America Carpenters Regional Council - Mid-America Carpenters Regional Council Apprentice and Training Center St. Louis Nelson Mulligan Campus",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Affton",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Training center listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1770 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Cape Girardeau",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 57 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Louis",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 32 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Wentzville",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 945 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "West Jefferson City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1529 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Terr Kansas City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 315 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Terr Kansas City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1127 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Terr Kansas City",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1596 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Louis",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 92 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Louis",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1310 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Louis",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 97 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Louis",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1839 (Mid-America Carpenters Regional Council)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Pacific",
+   "url": "https://map.carpenters.org/?councils=council-4275",
+   "description": "Local union listed on the Mid-America Carpenters Regional Council locator page at map.carpenters.org."
+  },
+  {
+   "name": "Missouri State Building and Construction Trades Council",
+   "kind": "building trades council",
+   "url": "https://www.buildmo.org/",
+   "description": "Missouri State Building & Construction Trades What We Do Our purpose is to create more work opportunities, achieve family-sustaining wages and protect labor, training, safety, retirement and benefit standards, not just for our members, but for all construction workers."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Missouri Department of Revenue - Commercial Drivers (CDL)",
+   "trades": [
+    "commercial driving (CDL)"
+   ],
+   "url": "https://dor.mo.gov/driver-license/issuance/commercial",
+   "description": "Missouri Department of Revenue page on issuing commercial driver licenses."
+  }
+ ],
+ "funding": [
+  {
+   "name": "College Reconnect (Missouri)",
+   "url": "https://dhewd.mo.gov/college-reconnect",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "other",
+   "provides": "Statewide effort to identify adults with some college experience but no credential and support their return to higher education.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Fast Track Workforce Incentive Grant (Missouri)",
+   "url": "https://dhewd.mo.gov/initiatives/fast-track-workforce-incentive-grant",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "grant",
+   "provides": "Financial aid program that encourages adults to pursue a certificate, degree or industry-recognized credential in an area designated as high need.",
+   "how_to_apply": "Application is available electronically in the State Financial Aid Portal.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "A+ Scholarship Program (Missouri)",
+   "url": "https://dhewd.mo.gov/ppc/grants-scholarships/a-plus",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "scholarship",
+   "provides": "Merit-based scholarship for eligible graduates of A+ designated high schools who attend participating public community colleges or vocational/technical schools, or certain private two-year vocational schools.",
+   "eligibility": "Eligible graduates of A+ designated high schools; page information is for the 2026-2027 academic year.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Access Missouri Financial Assistance Program",
+   "url": "https://dhewd.mo.gov/ppc/grants-scholarships/access-mo",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "grant",
+   "provides": "Need-based program with predictable awards based on the Student Aid Index from the FAFSA, for use at participating Missouri schools.",
+   "eligibility": "U.S. citizen or permanent resident and Missouri resident; undergraduate enrolled full time at a participating Missouri school (initial students, per the page).",
+   "how_to_apply": "Complete the FAFSA.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Bright Flight Scholarship (Missouri)",
+   "url": "https://dhewd.mo.gov/ppc/grants-scholarships/bright-flight",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "scholarship",
+   "provides": "Merit-based scholarship for top-ranked high school seniors who attend approved Missouri postsecondary schools.",
+   "eligibility": "Missouri resident and U.S. citizen or permanent resident; ACT or SAT composite within the top five percent of Missouri test takers.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Kids' Chance Scholarship Program (Missouri)",
+   "url": "https://dhewd.mo.gov/ppc/grants-scholarships/kids-chance",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "scholarship",
+   "provides": "Scholarship for children of workers seriously injured or killed in a work-related accident covered by workers' compensation.",
+   "eligibility": "Children of workers seriously injured or killed in a compensated work-related accident, verified with the Division of Workers' Compensation.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Apprenticeship Missouri",
+   "url": "https://dhewd.mo.gov/workforce-development/apprenticeship-mo",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "apprenticeship",
+   "provides": "Works with employers, providers and partners to build a skilled workforce through registered apprenticeship and work-based learning.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Missouri Apprentice Connect",
+   "url": "https://www.moapprenticeconnect.com/",
+   "provider": "Missouri Department of Higher Education and Workforce Development",
+   "kind": "apprenticeship",
+   "provides": "Missouri site for potential apprentices, training providers, employers and the business community to connect on registered apprenticeships.",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Missouri Registered Apprenticeships (JobsMoGov)",
+   "url": "https://jobs.mo.gov/moapprenticeships",
+   "provider": "Missouri Department of Higher Education and Workforce Development (JobsMoGov)",
+   "kind": "apprenticeship",
+   "provides": "Describes registered apprenticeships as paid jobs with occupation-related instruction, where apprentices receive higher wages as they build skills.",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Trade Adjustment Assistance (Missouri)",
+   "url": "https://jobs.mo.gov/trade-adjustment-assistance",
+   "provider": "Missouri Department of Higher Education and Workforce Development (JobsMoGov)",
+   "kind": "other",
+   "provides": "Federal Trade Act program in Missouri; the page says the TAA program expired July 1, 2022 and only workers certified on or before June 30, 2022 and separated by that date may continue to receive benefits.",
+   "eligibility": "Workers covered by petitions certified on or before June 30, 2022 and separated from employment on or before June 30, 2022.",
+   "audience": "individual",
+   "status": "closed"
+  }
+ ]
+}

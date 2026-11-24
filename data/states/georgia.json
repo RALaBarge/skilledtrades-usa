@@ -1,0 +1,509 @@
+{
+ "code": "GA",
+ "state": "Georgia",
+ "colleges": [
+  {
+   "name": "Athens Technical College",
+   "type": "technical college",
+   "city": "Athens",
+   "home_url": "https://athenstech.edu/",
+   "trades_url": "https://athenstech.edu/department_cat/automotive-technology",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Collision Repair",
+    "Automotive Technology",
+    "Commercial Truck Driving",
+    "Diesel Equipment Technology",
+    "Precision Machining (Rivian partnership page)"
+   ]
+  },
+  {
+   "name": "Central Georgia Technical College",
+   "type": "technical college",
+   "city": "Macon",
+   "home_url": "https://www.centralgatech.edu/",
+   "trades_url": "https://www.centralgatech.edu/academics/registered-apprenticeship",
+   "programs": [
+    "HVAC (VECTR Center)",
+    "Welding",
+    "Diesel",
+    "Robotic Manufacturing (studio)"
+   ]
+  },
+  {
+   "name": "Chattahoochee Technical College",
+   "type": "technical college",
+   "city": "Marietta",
+   "home_url": "https://www.chattahoocheetech.edu/",
+   "trades_url": "https://www.chattahoocheetech.edu/technical-studies/airconditioning.html",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Building and Manufacturing Technologies",
+    "Carpentry Technology",
+    "Commercial Truck Driving"
+   ]
+  },
+  {
+   "name": "Columbus Technical College",
+   "type": "technical college",
+   "city": "Columbus",
+   "home_url": "https://www.columbustech.edu/",
+   "trades_url": "https://www.columbustech.edu/commercial-driving-class-a",
+   "programs": [
+    "Commercial Driving Class A"
+   ]
+  },
+  {
+   "name": "Coastal Pines Technical College",
+   "type": "technical college",
+   "city": "Waycross",
+   "home_url": "https://coastalpines.edu/",
+   "trades_url": "https://coastalpines.edu/programs/technical-industrial",
+   "programs": [
+    "Technical and Industrial programs (category page, no individual names extracted)"
+   ]
+  },
+  {
+   "name": "Georgia Northwestern Technical College",
+   "type": "technical college",
+   "city": "Rome",
+   "home_url": "https://www.gntc.edu/",
+   "trades_url": "https://www.gntc.edu/052126-welding",
+   "programs": [
+    "Electrical Lineworker",
+    "Welding",
+    "Automotive Technology",
+    "Manufacturing",
+    "Construction (Habitat work)"
+   ]
+  },
+  {
+   "name": "Georgia Piedmont Technical College",
+   "type": "technical college",
+   "city": "Clarkston",
+   "home_url": "https://www.gptc.edu/",
+   "trades_url": "https://www.gptc.edu/economic-development/advanced-manufacturing-center/apprenticeship-program",
+   "programs": [
+    "Advanced manufacturing apprenticeships"
+   ]
+  },
+  {
+   "name": "Gwinnett Technical College",
+   "type": "technical college",
+   "city": "Lawrenceville",
+   "home_url": "https://gwinnetttech.edu/",
+   "trades_url": "https://gwinnetttech.edu/ecmd-division/air-conditioning-technology",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Basic Electrician Assistant",
+    "Commercial Construction Management",
+    "Electric Vehicle Charging Station Technician",
+    "Electrical Systems Technology",
+    "Heavy Diesel Technician",
+    "Hybrid/Electric Vehicle Service Technician",
+    "Mechatronics",
+    "Mercedes-Benz College Automotive Program",
+    "Residential Carpentry",
+    "Welding & Joining Technology",
+    "HVAC/R Technician"
+   ]
+  },
+  {
+   "name": "Oconee Fall Line Technical College",
+   "type": "technical college",
+   "city": "Sandersville",
+   "home_url": "https://oftc.edu/",
+   "trades_url": "https://oftc.edu/departments/machine-tool-technology",
+   "programs": [
+    "Machine Tool Technology",
+    "Commercial Truck Driving",
+    "Automotive Technology"
+   ]
+  },
+  {
+   "name": "Ogeechee Technical College",
+   "type": "technical college",
+   "city": "Statesboro",
+   "home_url": "https://www.ogeecheetech.edu/",
+   "trades_url": "https://www.ogeecheetech.edu/academics/academic-programs",
+   "programs": [
+    "Air Conditioning Technology",
+    "Automotive Technology",
+    "Commercial Truck Driving & Diesel Technology",
+    "Commercial Truck Driving",
+    "Construction",
+    "Diesel Technology",
+    "Electrical & Construction Technology",
+    "Electrical & Industrial Systems Technology",
+    "Welding & Joining Technology"
+   ]
+  },
+  {
+   "name": "Savannah Technical College",
+   "type": "technical college",
+   "city": "Savannah",
+   "home_url": "https://www.savannahtech.edu/",
+   "trades_url": "https://www.savannahtech.edu/all-programs/air-conditioning-hvac",
+   "programs": [
+    "Air Conditioning (HVAC)",
+    "Automotive Technology",
+    "Commercial Truck Driving",
+    "Construction Management",
+    "Diesel Equipment Technology",
+    "Electrical & Computer Engineering Technology",
+    "Electrical Technology",
+    "Precision Machining & Manufacturing"
+   ]
+  },
+  {
+   "name": "Southern Crescent Technical College",
+   "type": "technical college",
+   "city": "Griffin",
+   "home_url": "https://www.sctech.edu/",
+   "trades_url": "https://www.sctech.edu/programs/cdl-program-application",
+   "programs": [
+    "CDL (Commercial Driving)",
+    "Trucking for Vets",
+    "Manufacturing Ready (industrial maintenance)"
+   ]
+  },
+  {
+   "name": "South Georgia Technical College",
+   "type": "technical college",
+   "city": "Americus",
+   "home_url": "https://www.southgatech.edu/",
+   "trades_url": "https://www.southgatech.edu/college-catalog/current/colleges/academic-and-career-programs/utilities-lineman",
+   "programs": [
+    "Electrical Lineworker",
+    "Heavy Equipment Dealer Service Technician (CAT)"
+   ]
+  },
+  {
+   "name": "West Georgia Technical College",
+   "type": "technical college",
+   "city": "Waco",
+   "home_url": "https://www.westgatech.edu/",
+   "trades_url": "https://www.westgatech.edu/program-explorer/industrial-trades-automation-construction",
+   "programs": [
+    "Air Conditioning Technology",
+    "Commercial Construction Management",
+    "Engineering and Commercial Construction",
+    "Industrial Trades, Automation and Construction",
+    "Electrical Construction and Maintenance",
+    "Engineering Technology",
+    "Critical Environments & Data Center Operations",
+    "Welding In The Workplace",
+    "Industrial Maintenance Education Center"
+   ]
+  },
+  {
+   "name": "Wiregrass Georgia Technical College",
+   "type": "technical college",
+   "city": "Valdosta",
+   "home_url": "https://www.wiregrass.edu/",
+   "trades_url": "https://www.wiregrass.edu/course-catalog/current/programs"
+  },
+  {
+   "name": "Southern Regional Technical College",
+   "type": "technical college",
+   "city": "Thomasville",
+   "home_url": "http://southernregional.edu/",
+   "trades_url": "http://southernregional.edu/apprenticeships",
+   "programs": [
+    "Advanced Manufacturing (mobile lab)"
+   ]
+  },
+  {
+   "name": "Albany Technical College",
+   "type": "technical college",
+   "city": "Albany",
+   "home_url": "https://www.albanytech.edu/",
+   "trades_url": "https://www.albanytech.edu/continuing-education/cdl-refresher-and-cdl-haz-mat",
+   "programs": [
+    "CDL Refresher",
+    "CDL HazMat"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 613",
+   "kind": "union local",
+   "trades": [
+    "Electrical"
+   ],
+   "city": "Atlanta",
+   "url": "https://www.ibew613.org/",
+   "description": "IBEW Local 613 works to promote the electrical industry in Atlanta and parts of Alabama."
+  },
+  {
+   "name": "IBEW Local Union 1579",
+   "kind": "union local",
+   "trades": [
+    "Electrical"
+   ],
+   "city": "Augusta",
+   "url": "https://ibew1579.org/",
+   "description": "IBEW Local 1579 represents 1000+ skilled electricians in Augusta, GA, offering free training, fair wages, and career opportunities in the trade."
+  },
+  {
+   "name": "UA Local Union 72",
+   "kind": "union local",
+   "trades": [
+    "Plumbing",
+    "Pipefitting"
+   ],
+   "url": "https://ua72.org/",
+   "description": "Hire highly trained, safety-focused union plumbers and pipefitters backed by 130 years of experience and top-tier apprenticeship training in Georgia."
+  },
+  {
+   "name": "Associated General Contractors of Georgia (AGC Georgia)",
+   "kind": "contractor association",
+   "trades": [
+    "General construction"
+   ],
+   "url": "https://www.agcga.org/",
+   "description": "Welcome to Associated General Contractors of Georgia."
+  },
+  {
+   "name": "Atlanta Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Norcross",
+   "url": "https://sites.google.com/aejatc.org/etc",
+   "apprenticeship_url": "https://sites.google.com/aejatc.org/etc/home",
+   "description": "Atlanta Electrical JATC."
+  },
+  {
+   "name": "CSRA Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Martinez",
+   "url": "https://ibew1579.org/",
+   "apprenticeship_url": "https://ibew1579.org/apprenticeship-info",
+   "description": "IBEW Local 1579 represents 1000+ skilled electricians in Augusta, GA, offering free training, fair wages, and career opportunities in the trade."
+  },
+  {
+   "name": "IBEW Local 1316",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Macon",
+   "url": "https://ibew1316.org/",
+   "apprenticeship_url": "https://ibew1316.org/apprenticeship",
+   "description": "Discover the unparalleled expertise of IBEW Local 1316, where skilled electricians illuminate Middle Georgia. Our members are dedicated to excellence, ensuring safety and quality in every project. From hospitals to solar farms, we power the region."
+  },
+  {
+   "name": "IBEW Local 1579",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Augusta",
+   "url": "https://ibew1579.org/",
+   "apprenticeship_url": "https://ibew1579.org/apprenticeship-info",
+   "description": "IBEW Local 1579 represents 1000+ skilled electricians in Augusta, GA, offering free training, fair wages, and career opportunities in the trade."
+  },
+  {
+   "name": "IBEW Local 1997",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Atlanta",
+   "url": "https://ibew1997.org/",
+   "description": "IBEW 1997 – AGL Workers Union."
+  },
+  {
+   "name": "IBEW Local 508",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Savannah",
+   "url": "https://ibewlocal508.org/",
+   "description": "IBEW Local Union 508 – International Brotherhood of Electrical Workers | Savannah, GA."
+  },
+  {
+   "name": "IBEW Local 84",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Atlanta",
+   "url": "https://www.ibewlocal84.org/",
+   "apprenticeship_url": "https://www.ibewlocal84.org/?zone=/unionactive/private_view_page.cfm&page=Become20a20Lineman",
+   "description": "IBEW Local 84."
+  },
+  {
+   "name": "SELCAT",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Newnan",
+   "url": "https://selcat.com/",
+   "apprenticeship_url": "https://selcat.com/training-calendar/",
+   "description": "SELCAT."
+  },
+  {
+   "name": "Savannah Electrical Training Alliance",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Savannah",
+   "url": "http://www.sav-electricaltrainingalliance.com/",
+   "description": "Savannah Electrical Training Alliance."
+  },
+  {
+   "name": "IUOE Local 926 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Rex",
+   "url": "https://iuoe926.org/",
+   "apprenticeship_url": "https://iuoe926.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship"
+  },
+  {
+   "name": "IUPAT District Council 77",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://www.iupatdc77.org/"
+  },
+  {
+   "name": "Laborers’ Southeast Training Fund",
+   "union": "LIUNA",
+   "kind": "JATC / training center",
+   "city": "Stone Mountain",
+   "url": "https://selaborer.com/",
+   "apprenticeship_url": "https://selaborer.com/",
+   "description": "Providing Construction and Environmental Training Courses"
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Atlanta Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Atlanta",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Augusta Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Augusta",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Kennesaw Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Kennesaw",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Savannah Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Savannah",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 225 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Atlanta",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1263 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Kennesaw",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 283 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Augusta",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 256 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Savannah",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Georgia State Board of Electrical Contractors (Secretary of State)",
+   "trades": [
+    "Electrical"
+   ],
+   "url": "https://sos.ga.gov/page/about-georgia-state-board-electrical-contractors",
+   "description": "Find Georgia electrical contractor licensing information, including application steps, exam dates and deadlines, and ongoing education requirements."
+  },
+  {
+   "name": "Georgia Division of Master and Journeyman Plumbers (Secretary of State)",
+   "trades": [
+    "Plumbing"
+   ],
+   "url": "https://sos.ga.gov/page/division-master-and-journeyman-plumbers-faq",
+   "description": "Frequently Asked Questions about the Georgia Division of Master and Journeyman Plumbers."
+  },
+  {
+   "name": "Georgia Board of Conditioned Air Contractors (Secretary of State)",
+   "trades": [
+    "HVAC"
+   ],
+   "url": "https://sos.ga.gov/page/about-board-conditioned-air-contractors",
+   "description": "Access Georgia conditioned air contractor resources, including application status, frequently asked questions, licensing information, and the latest updates."
+  }
+ ],
+ "funding": [
+  {
+   "name": "HOPE Scholarship (Georgia)",
+   "url": "https://gsfc.georgia.gov/programs-and-regulations/hope-programs",
+   "provider": "Georgia Student Finance Commission (GSFC)",
+   "kind": "scholarship",
+   "provides": "The HOPE Scholarship provides tuition assistance to students pursuing an undergraduate degree at a HOPE-eligible Georgia college or university.",
+   "eligibility": "Graduate from high school with a minimum 3.00 GPA as calculated by GSFC, and maintain a minimum 3.00 cumulative postsecondary GPA; ten-year limit for students first receiving HOPE in summer 2019 or later",
+   "how_to_apply": "Program applications and award details are on GAfutures.org",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Georgia Student Finance Commission scholarship, grant and loan programs",
+   "url": "https://gsfc.georgia.gov/",
+   "provider": "Georgia Student Finance Commission (GSFC)",
+   "kind": "grant",
+   "provides": "GSFC administers numerous scholarship, grant and student loan programs and provides outreach and education services statewide.",
+   "how_to_apply": "Program details are on GAfutures.org",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Georgia free college application month (application fee waivers)",
+   "url": "https://gsfc.georgia.gov/press-releases/2026-10-27/college-application-fees-waived-nov",
+   "provider": "Georgia Student Finance Commission (GSFC)",
+   "kind": "other",
+   "provides": "Georgia high school seniors can apply to participating University System, Technical College System and private colleges for free throughout November through application fee waivers, with no limit on the number of schools.",
+   "eligibility": "High school seniors in Georgia",
+   "amount": "Application fees waived",
+   "how_to_apply": "Apply to participating colleges during November using the fee waivers",
+   "audience": "individual",
+   "status": "open"
+  },
+  {
+   "name": "HOPE Career Grant (tuition-free technical college programs)",
+   "url": "https://www.tcsg.edu/",
+   "provider": "Technical College System of Georgia (TCSG)",
+   "kind": "tuition-free program",
+   "provides": "18 TCSG programs are tuition free for qualified students through the HOPE Career Grant.",
+   "eligibility": "Qualified students, per TCSG",
+   "amount": "Tuition free for 18 programs",
+   "how_to_apply": "Apply through TCSG admissions (Apply Now on the TCSG site)",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}

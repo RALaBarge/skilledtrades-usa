@@ -1,0 +1,759 @@
+{
+ "code": "FL",
+ "state": "Florida",
+ "colleges": [
+  {
+   "name": "Chipola College",
+   "type": "state college",
+   "city": "Marianna",
+   "home_url": "https://www.chipola.edu/",
+   "trades_url": "https://www.chipola.edu/academics/academic-departments/workforce-development/",
+   "programs": [
+    "Automotive Service Technology",
+    "Electricity",
+    "HVAC/R",
+    "Plumbing",
+    "Welding Technology"
+   ]
+  },
+  {
+   "name": "Seminole State College of Florida",
+   "type": "state college",
+   "city": "Sanford",
+   "home_url": "https://www.seminolestate.edu/",
+   "trades_url": "https://www.seminolestate.edu/adult-workforce",
+   "programs": [
+    "Automotive Technician",
+    "Automotive Maintenance & Light Repair Technician",
+    "Fire Sprinkler System Technology Apprenticeship",
+    "Building Controls Installation Apprenticeship",
+    "Electricity (Commercial) Career Certificate Apprenticeship",
+    "HVAC/R Technology I",
+    "Plumbing Technologies",
+    "Welding Technologies",
+    "Automotive Engineering Technology"
+   ]
+  },
+  {
+   "name": "South Florida State College",
+   "type": "state college",
+   "city": "Avon Park",
+   "home_url": "https://www.southflorida.edu/",
+   "trades_url": "https://www.southflorida.edu/future-students/dual-enrollment/programs",
+   "programs": [
+    "Automotive Collision Repair",
+    "Automotive Service Technology",
+    "Electrical Lineworker",
+    "Electricity",
+    "HVAC/R",
+    "Mechatronics",
+    "Technical and Industrial Education"
+   ]
+  },
+  {
+   "name": "Tallahassee State College",
+   "type": "state college",
+   "city": "Tallahassee",
+   "home_url": "https://www.tsc.fl.edu/",
+   "trades_url": "https://www.tsc.fl.edu/academics/programs/",
+   "programs": [
+    "Construction, Manufacturing & Engineering",
+    "Manufacturing, Construction and Trucking"
+   ]
+  },
+  {
+   "name": "College of Central Florida",
+   "type": "state college",
+   "city": "Ocala",
+   "home_url": "https://www.cf.edu/",
+   "trades_url": "https://www.cf.edu/academics/areas-of-study/business-and-technology/engineering-technology/advanced-manufacturing-specialization/",
+   "programs": [
+    "Engineering Technology – Advanced Manufacturing Specialization",
+    "Mechanical Designer and Programmer",
+    "Mechatronics",
+    "Pneumatics, Hydraulics and Motors for Manufacturing",
+    "Welding Technology",
+    "Welding Technology – Advanced",
+    "CDL Training"
+   ]
+  },
+  {
+   "name": "Daytona State College",
+   "type": "state college",
+   "city": "Daytona Beach",
+   "home_url": "https://www.daytonastate.edu/",
+   "trades_url": "https://www.daytonastate.edu/academic-departments/college-of-business-engineering-and-technology/school-of-building-and-architectural-technology/architectural-building-technology.html",
+   "programs": [
+    "Architectural & Building Technology, A.S.",
+    "Drafting & Design Technology, Certificate",
+    "Computer-Aided Design & Drafting, A.S. Certificate",
+    "FAME Advanced Manufacturing Technician (Limited Access Program), A.S."
+   ]
+  },
+  {
+   "name": "Eastern Florida State College",
+   "type": "state college",
+   "city": "Cocoa / Palm Bay",
+   "home_url": "https://www.easternflorida.edu/",
+   "trades_url": "https://www.easternflorida.edu/academics/academic-communities/manufacturing-construction/index.php",
+   "programs": [
+    "Industry/Manufacturing & Construction Program Pathways",
+    "Aviation Maintenance Administration - Associate Degree",
+    "Aviation Maintenance Technology - Certificate Programs",
+    "CNC Machinist Certificate Program",
+    "Drafting Design - Certificate Program",
+    "HVAC/Refrigeration - Certificate Program",
+    "Mechatronics - Certificate Program",
+    "Welding Technology",
+    "Non-Credit Welding Course",
+    "Aerospace Technology Grads Set Sights on Mars",
+    "First aviation maintenance technician graduating class receives certificates",
+    "Eastern Florida HVAC Program Benefits from Equipment Donation",
+    "EFSC Receives Major Grant to Train Aerospace, High-Tech Workers",
+    "EFSC Foundation Receives $3,000 Grant for High-Tech Lab",
+    "EFSC Helping Satellite Makers Take Flight at Cape Canaveral",
+    "EFSC Wins Chancellor s Award for High-Tech Apprenticeship Program",
+    "EFSC Training Apprentices in New Advanced Machinist Program",
+    "New EFSC Apprenticeship Students Attend Official Signing Ceremony",
+    "EFSC to Offer Non-Credit Welding Class",
+    "EFSC Adds New Composites Center Designation to Support Pentagon, High-Tech Innovation",
+    "EFSC Offering 8-Week, Non-Credit Welding Course",
+    "New EFSC Apprenticeship Students Launch Their Futures"
+   ]
+  },
+  {
+   "name": "Gulf Coast State College",
+   "type": "state college",
+   "city": "Panama City",
+   "home_url": "https://www.gulfcoast.edu/",
+   "trades_url": "https://www.gulfcoast.edu/academics/degrees-programs/program-by-pathway/business-technology-manufacturing/alternative-energy-systems-certificate/index.html",
+   "programs": [
+    "CNC Machinist, Certificate",
+    "Alternative Energy Systems Specialist, Certificate",
+    "Architectural Design Construction Technology, A.S.",
+    "Composite Fabrication and Testing, C.C.C."
+   ]
+  },
+  {
+   "name": "Hillsborough Community College",
+   "type": "state college",
+   "city": "Tampa",
+   "home_url": "https://www.hcfl.edu/",
+   "trades_url": "https://www.hcfl.edu/academics/associate-science/apprenticeships",
+   "programs": [
+    "Apprenticeships",
+    "Carpentry Apprenticeship",
+    "Commercial Electrician Apprenticeship",
+    "Fire Sprinkler Fitter Apprenticeship",
+    "HVACR Technician Apprenticeship",
+    "Pipefitter Apprenticeship",
+    "Plumber Apprenticeship",
+    "Roofer Apprenticeship",
+    "Sheet Metal Fabricator Apprenticeship",
+    "Architecture and Building Trades",
+    "Architectural Design and Construction Technology",
+    "Architecture AA Pathway",
+    "AutoCAD Foundations",
+    "Building Construction AA Pathway",
+    "Drafting",
+    "Home Staging Specialist",
+    "Industrial Management Technology",
+    "Lean Manufacturing",
+    "Sustainable Design",
+    "Welding Technology PSAV",
+    "Diesel Systems Technician - PSAV",
+    "CNC Machinist",
+    "Mechatronics",
+    "Pneumatics, Hydraulics and Motors for Manufacturing",
+    "Automotive Collision Technology Technician PSAV",
+    "Automotive Service Technology Fees",
+    "Automotive Service Technology PSAV",
+    "Welding Technology - Advanced"
+   ]
+  },
+  {
+   "name": "Indian River State College",
+   "type": "state college",
+   "city": "Fort Pierce",
+   "home_url": "https://irsc.edu/",
+   "trades_url": "https://irsc.edu/admissions/apply/career-training-apprenticeships-2/",
+   "programs": [
+    "ADVANCED MANUFACTURING",
+    "AIR CONDITIONING",
+    "APPRENTICESHIPS",
+    "AUTOMOTIVE",
+    "BUILDING CONSTRUCTION TECHNOLOGY",
+    "Carpentry",
+    "Commercial Vehicle Driving",
+    "Electrical Power Technology",
+    "Welding",
+    "Automotive Service Technology I",
+    "HYBRID AND ELECTRIC"
+   ]
+  },
+  {
+   "name": "Lake-Sumter State College",
+   "type": "state college",
+   "city": "Leesburg",
+   "home_url": "https://www.lssc.edu/",
+   "trades_url": "https://www.lssc.edu/construction-management/",
+   "programs": [
+    "Associate in Science                    Construction Management",
+    "Advanced Manufacturing (Mechatronics)",
+    "Workforce Career Training / Non-Credit                    CDL CLASS A & B",
+    "Specialized Associate in Arts Transfer (SAAT)                    Electrical Engineering",
+    "Workforce Career Training / Non-Credit                    Lineworker Boot Camp",
+    "Lineworker Showcase",
+    "Mechatronics"
+   ]
+  },
+  {
+   "name": "Miami Dade College",
+   "type": "state college",
+   "city": "Miami",
+   "home_url": "https://www.mdc.edu/",
+   "trades_url": "https://www.mdc.edu/apprenticeships/",
+   "programs": [
+    "Registered Apprenticeship Program"
+   ]
+  },
+  {
+   "name": "North Florida College",
+   "type": "state college",
+   "city": "Madison",
+   "home_url": "https://www.nfc.edu/",
+   "trades_url": "https://www.nfc.edu/academics/career-and-workforce/Welding/",
+   "programs": [
+    "Welding",
+    "",
+    "Commercial Vehicle Driving",
+    "Industrial Machinery",
+    "FGC and NFC Offer Affordable Path to High-Demand Careers",
+    "HVAC/R and Other Career and Workforce Programs at NFC Open House",
+    "High School Students Are Industrial Machinists During Summer Camps at North Florida\n                     College",
+    "NFC Students Earn Production Technician Certificates in Industrial Machinery Maintenance\n                     Program",
+    "New Welding Program Opens at NFC"
+   ]
+  },
+  {
+   "name": "Northwest Florida State College",
+   "type": "state college",
+   "city": "Niceville",
+   "home_url": "https://www.nwfsc.edu/",
+   "trades_url": "https://www.nwfsc.edu/academics/certificate-programs/building-construction-specialist/",
+   "programs": [
+    "Building Construction Specialist",
+    "Architectural Design & Construction Technology",
+    "Welding Technology",
+    "Apprenticeships at NWFSC",
+    "Automotive Tech",
+    "Aviation Airframe Mechanics",
+    "Aviation Powerplant Mechanics",
+    "Welding, CNC, and Construction",
+    "Commercial Vehicle Driving (CDL)",
+    "Aviation Airframe Mechanic",
+    "Carpentry",
+    "Manufacturing Skills Standard Council (MSSC)",
+    "Welding Technology (CCP)",
+    "Welding"
+   ]
+  },
+  {
+   "name": "Pasco-Hernando State College",
+   "type": "state college",
+   "city": "Dade City / New Port Richey",
+   "home_url": "https://phsc.edu/",
+   "trades_url": "https://phsc.edu/academics/job-training/apprenticeships",
+   "programs": [
+    "Apprenticeships",
+    "Engineering, Manufacturing, and Welding",
+    "Mechatronics",
+    "Welding Technology",
+    "Welding Technology Advanced",
+    "Aviation Maintenance Administration"
+   ]
+  },
+  {
+   "name": "Pensacola State College",
+   "type": "state college",
+   "city": "Pensacola",
+   "home_url": "https://pensacolastate.edu/",
+   "trades_url": "https://pensacolastate.edu/academic-programs/aweld-vc/",
+   "programs": [
+    "Advanced Welding Technology",
+    "CNC Machinist / Fabricator",
+    "CNC Machinist Operator/Programmer",
+    "CNC Composite Fabricator / Programmer",
+    "Diesel Systems Technician",
+    "Heating, Ventilation & Air Conditioning",
+    "Plumbing",
+    "Welding Technology",
+    "HVAC instructor retiring after bringing decades of experience to PSC classrooms",
+    "‘Machinal’ auditions set for Jan. 21",
+    "New (and awesome) STEM facility in final construction stretch",
+    "Pensacola State receives $4.41 million grant for new Aviation Airframe and Powerplant Mechanics Program",
+    "Pensacola State College’s Building Trade programs offer fast-track to construction world",
+    "PSC breaks ground for new Diesel and Marine Mechanics Facility in Milton",
+    "PSC breaks ground on Aviation Airframe and Powerplant Mechanics Program facility",
+    "PSC Carpentry program helps students design and build next-generation homes",
+    "PSC partners with Escambia County, CareerSource ESCAROSA to teach construction skills",
+    "PSC proposes new testing fees for Advanced Manufacturing programs",
+    "PSC receives $15,000 SkillsUSA/Lowe’s grant to enhance carpentry, construction technology programs",
+    "PSC receives $2.49M grant to help train construction trade craftsmen",
+    "PSC, ST Engineering explore launching Aviation Maintenance Training Academy"
+   ]
+  },
+  {
+   "name": "Polk State College",
+   "type": "state college",
+   "city": "Winter Haven",
+   "home_url": "https://www.polk.edu/",
+   "trades_url": "https://www.polk.edu/corporate-college/construction-institute/",
+   "programs": [
+    "Construction Institute (corporate college)",
+    "Advanced Manufacturing (corporate college)",
+    "Machining Summer Bootcamp",
+    "Associates in Science in Aviation Maintenance Administration"
+   ]
+  },
+  {
+   "name": "Santa Fe College",
+   "type": "state college",
+   "city": "Gainesville",
+   "home_url": "https://www.sfcollege.edu/",
+   "trades_url": "https://www.sfcollege.edu/academics/cte/construction/_nav.ounav",
+   "programs": [
+    "",
+    "Dates and Deadlines",
+    "How To Apply",
+    "Advising",
+    "Contact",
+    "Current Students",
+    "Faculty",
+    "Construction and Technical Programs",
+    "Summary Report of Achievement",
+    "Construction",
+    "Electrical Safety"
+   ]
+  },
+  {
+   "name": "State College of Florida, Manatee-Sarasota",
+   "type": "state college",
+   "city": "Bradenton",
+   "home_url": "https://www.scf.edu/",
+   "trades_url": "https://www.scf.edu/academics/academic-departments/industry-manufacturing-and-construction/",
+   "programs": [
+    "Advanced Lean Manufacturing",
+    "Construction Management Technology"
+   ]
+  },
+  {
+   "name": "Valencia College",
+   "type": "state college",
+   "city": "Orlando",
+   "home_url": "https://valenciacollege.edu/",
+   "trades_url": "https://valenciacollege.edu/academics/accelerated-skills-training/advanced-manufacturing.php",
+   "programs": [
+    "Accelerated Skills Training",
+    "Engineering, Technology, and Advanced Manufacturing",
+    "Degree Pathways"
+   ]
+  },
+  {
+   "name": "St. Petersburg College",
+   "type": "state college",
+   "city": "St. Petersburg",
+   "home_url": "https://www.spcollege.edu/",
+   "trades_url": "https://www.spcollege.edu/future-students/degrees-training/engineering-manufacturing-and-building-arts",
+   "programs": [
+    "Engineering, Manufacturing, and Building Arts",
+    "Building Arts",
+    "Building Design and Construction Management A.S. Degree",
+    "Construction Technology B.A.S. Degree",
+    "Sustainable Construction Technology",
+    "Engineering and Manufacturing",
+    "Applied Engineering Technology A.S. Degree",
+    "Electronics Aide",
+    "Engineering Technology Support",
+    "Lean Six Sigma Green Belt",
+    "Mechatronics",
+    "Rapid Prototyping and Design",
+    "Semiconductor Cleanroom Operator",
+    "Marcel Maslowski",
+    "Bachelor’s Degree in Construction Technology Launches in Fall 2026",
+    "SPC to Host 2026 Construction EXPO to Connect Students and Industry Leaders",
+    "Duke Energy, SPC Strengthen Workforce Pipeline for Future Lineworkers",
+    "Expo Highlighted Growing Labor Demand in Construction",
+    "Lineworker Program Graduates Seventh Class"
+   ]
+  }
+ ],
+ "unions": [
+  {
+   "name": "IBEW Local 222",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Florida (see site)",
+   "url": "https://www.ibew222.org/",
+   "description": "IBEW Local 222 website, which has a Training/Apprenticeship section."
+  },
+  {
+   "name": "IBEW Local 915",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Tampa",
+   "url": "https://www.ibew915.org/",
+   "description": "IBEW Local 915 website; the page lists its office at 5621 Harney Road, Tampa."
+  },
+  {
+   "name": "IBEW Local 606",
+   "kind": "union local",
+   "trades": [
+    "electrical"
+   ],
+   "city": "Melbourne (per site)",
+   "url": "https://www.ibew606.org/",
+   "description": "IBEW Local 606 website for a Florida local."
+  },
+  {
+   "name": "Helmets to Hardhats",
+   "kind": "pre-apprenticeship",
+   "trades": [
+    "boilermaker",
+    "bricklayer",
+    "carpentry",
+    "construction trades (national list on site)"
+   ],
+   "city": "National (serves Florida veterans)",
+   "url": "https://helmetstohardhats.org/",
+   "description": "Helmets to Hardhats connects military veterans with construction apprenticeship careers."
+  },
+  {
+   "name": "ABC FL Gulf Coast Chapter",
+   "kind": "contractor association",
+   "trades": [
+    "construction (merit shop)"
+   ],
+   "city": "Tampa / Fort Myers",
+   "url": "https://abcflgulf.org/",
+   "description": "ABC FL Gulf Coast is a trade association that advances and defends the principles of the merit shop in the construction industry."
+  },
+  {
+   "name": "ABC Central Florida Chapter",
+   "kind": "contractor association",
+   "trades": [
+    "construction (commercial contractors)"
+   ],
+   "city": "Orlando",
+   "url": "https://abccentralflorida.com/",
+   "description": "Associated Builders and Contractors Central Florida Chapter, a community of commercial contractors offering education and advocacy."
+  },
+  {
+   "name": "NEFBA (Northeast Florida Builders Association)",
+   "kind": "contractor association",
+   "trades": [
+    "residential construction"
+   ],
+   "city": "Jacksonville",
+   "url": "https://nefba.com/",
+   "description": "NEFBA supports builders and remodelers in Northeast Florida through advocacy, education, and industry resources."
+  },
+  {
+   "name": "Florida Home Builders Association (FHBA)",
+   "kind": "contractor association",
+   "trades": [
+    "residential construction"
+   ],
+   "city": "Statewide",
+   "url": "https://fhba.com/",
+   "description": "FHBA is the state home builders association; its site has a Find Your Local HBA page."
+  },
+  {
+   "name": "IBEW Local 1055",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Pensacola",
+   "url": "http://www.ibew1055.org/",
+   "apprenticeship_url": "http://www.ibew1055.org/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/view_article.cfm&homeID=919839",
+   "description": "IBEW LOCAL 1055."
+  },
+  {
+   "name": "IBEW Local 1191",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "West Palm Beach",
+   "url": "https://www.scu4ibew.org/",
+   "apprenticeship_url": "https://www.scu4ibew.org/?zone=/unionactive/private_view_page.cfm&page=Apprentice20Program",
+   "description": "UnionActive."
+  },
+  {
+   "name": "IBEW Local 1205",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Gainesville",
+   "url": "https://www.ibew1205.org/",
+   "apprenticeship_url": "https://www.ibew1205.org/?zone=/unionactive/view_page.cfm&page=Apprenticeship",
+   "description": "IBEW Local 1205."
+  },
+  {
+   "name": "IBEW Local 177",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Jacksonville",
+   "url": "https://www.ibew177.org/",
+   "apprenticeship_url": "https://www.ibew177.org/upcoming-training",
+   "description": "The Jacksonville Electricians."
+  },
+  {
+   "name": "IBEW Local 349",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Miami",
+   "url": "https://www.ibew349.net/",
+   "apprenticeship_url": "https://www.ibew349.net/apprentice.html",
+   "description": "​Looking for a rewarding career ​with the IBEW."
+  },
+  {
+   "name": "IBEW Local 433",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Inglis",
+   "url": "http://www.ibew433.org/",
+   "description": "IBEW Local 433."
+  },
+  {
+   "name": "IBEW Local 676",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Pensacola",
+   "url": "https://ibewlocal676.com/",
+   "apprenticeship_url": "https://ibewlocal676.com/apprenticeship",
+   "description": "ibew."
+  },
+  {
+   "name": "IBEW Local 728",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Ft. Lauderdale",
+   "url": "https://www.ibew728.org/",
+   "apprenticeship_url": "https://www.ibew728.org/?zone=/unionactive/view_article.cfm&HomeID=854992&page=Tool20List20",
+   "description": "IBEW Local 728."
+  },
+  {
+   "name": "IBEW Local 756",
+   "union": "IBEW",
+   "kind": "union local",
+   "city": "Daytona Beach",
+   "url": "https://www.ibew756.org/",
+   "description": "IBEW Local 756."
+  },
+  {
+   "name": "Jacksonville Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Jacksonville",
+   "url": "https://www.etajax.org/",
+   "apprenticeship_url": "https://www.etajax.org/apprentices",
+   "description": "Electrical Apprenticeship | Electrical Training Alliance of Jacksonville."
+  },
+  {
+   "name": "Tampa Area Electrical JATC",
+   "union": "IBEW",
+   "kind": "JATC / training center",
+   "city": "Tampa",
+   "url": "http://www.tampajatc.org/",
+   "description": "HOME."
+  },
+  {
+   "name": "IUOE Local 487 (Mixed)",
+   "union": "IUOE",
+   "kind": "union local",
+   "city": "Miami",
+   "url": "https://www.iuoe487.org/",
+   "apprenticeship_url": "https://www.iuoe487.org/index.cfm?zone=/unionactive/user_signup.cfm&authorize=noentry&area=/unionactive/private_view_page.cfm&page=Apprentice202620Training202D20Policies20and20Procedures&CFID=127393595&CFTOKEN=56116b3a79324ec8-8EDF909E-155D-E2F6-00ACC97213359E41"
+  },
+  {
+   "name": "IUPAT District Council 78",
+   "union": "IUPAT",
+   "kind": "union local",
+   "url": "https://dc78.org/",
+   "apprenticeship_url": "https://dc78.org/apprenticeship-%26-training",
+   "description": "IUPAT District Council 78 &quot;Painters Union&quot; for State of &quot;Florida&quot; Labor Organization for Painters, Glaziers, Drywall Finishers, Tradeshow, Hydro Blasting"
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Jacksonville Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Jacksonville",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Millwrights Statewide Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "East Tampa",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Orlando Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Orlando",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - South Florida Carpenters and Pile Drivers Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "Fort Lauderdale",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Southern Regional Council of Carpenters - Tampa Carpenters Training Center",
+   "union": "Carpenters",
+   "kind": "JATC / training center",
+   "city": "North Tampa",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Training center listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1809 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Oakland Park",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 702 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Jacksonville",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1905 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Orlando",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1820 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Winter Garden",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Local 1000 (Southern Regional Council of Carpenters)",
+   "union": "Carpenters",
+   "kind": "union local",
+   "city": "Tampa",
+   "url": "https://map.carpenters.org/?councils=council-4035",
+   "description": "Local union listed on the Southern Regional Council of Carpenters locator page at map.carpenters.org."
+  },
+  {
+   "name": "Sheet Metal Local 435",
+   "union": "SMART",
+   "kind": "union local",
+   "url": "https://www.smart-union.org/sm-local-435/",
+   "apprenticeship_url": "https://www.smart-union.org/sm-local-435/",
+   "description": "Whether you’re looking to start your apprenticeship or you’re an experienced journeyperson hoping to further your career, join us today."
+  }
+ ],
+ "licensing": [
+  {
+   "name": "Florida DBPR Construction Industry Licensing Board",
+   "trades": [
+    "electrical",
+    "plumbing",
+    "HVAC / air conditioning",
+    "general and specialty contracting"
+   ],
+   "url": "https://www2.myfloridalicense.com/construction-industry/",
+   "description": "Board that licenses and regulates construction contractors, including air-conditioning, plumbing, and electrical contractors (MyFloridaLicense.com)."
+  },
+  {
+   "name": "Florida DBPR Electrical Contractors licensing",
+   "trades": [
+    "electrical"
+   ],
+   "url": "https://www2.myfloridalicense.com/electrical-contractors/",
+   "description": "DBPR page on electrical and alarm contractor license classes, including elevator and utility line specialist classes."
+  },
+  {
+   "name": "Florida DHSMV Commercial Driver License (CDL)",
+   "trades": [
+    "commercial truck driving (CDL)"
+   ],
+   "url": "https://www.flhsmv.gov/driver-licenses-id-cards/commercial-motor-vehicle-drivers/commercial-driver-license/",
+   "description": "Florida Highway Safety and Motor Vehicles page on Commercial Driver License requirements and issuance."
+  }
+ ],
+ "funding": [
+  {
+   "name": "Florida Law Enforcement Recruitment Bonus Payment Program",
+   "url": "https://floridajobs.org/workforce-resources/law-enforcement-recruitment-bonus-payment-program",
+   "provider": "Florida Commerce (FloridaCommerce)",
+   "kind": "other",
+   "provides": "The program pays a one-time bonus to each eligible newly employed law enforcement officer in the state.",
+   "eligibility": "Person who gains or is appointed to full-time employment as a certified law enforcement officer with a Florida agency; the agency determines eligible employees with FloridaCommerce",
+   "amount": "$5,000 after taxes (gross $6,694 including $1,694 for taxes)",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Florida Job Growth Grant Fund",
+   "url": "https://floridajobs.org/business-growth/florida-job-growth-grant-fund",
+   "provider": "Florida Commerce (FloridaCommerce)",
+   "kind": "grant",
+   "provides": "The Florida Job Growth Grant Fund supports workforce or infrastructure needs in communities, with proposals reviewed by FloridaCommerce and chosen by the Governor.",
+   "how_to_apply": "Submit a proposal for review by FloridaCommerce",
+   "audience": "mixed",
+   "status": "unknown"
+  },
+  {
+   "name": "Shipbuilding and Defense Industrial Base Apprenticeship Incentive Fund",
+   "url": "https://floridajobs.org/workforce-resources/ApprenticeshipIncentiveFund",
+   "provider": "Florida Commerce (FloridaCommerce)",
+   "kind": "grant",
+   "provides": "The fund supports sponsors of Registered Apprenticeship programs in shipbuilding, maritime, defense, aerospace, advanced manufacturing and related industries, for approved occupations such as welders, electricians and aircraft mechanics.",
+   "eligibility": "Sponsors (employers, industry organizations or other entities) running Registered Apprenticeship programs in qualifying industries and approved occupations",
+   "how_to_apply": "Submit an application through the online portal",
+   "audience": "employer",
+   "status": "unknown"
+  },
+  {
+   "name": "Florida Military Family Employment Advocacy Program",
+   "url": "https://floridajobs.org/workforce-resources/workforce-programs/military-family-employment-advocacy-program",
+   "provider": "Florida Commerce (FloridaCommerce)",
+   "kind": "supportive services",
+   "provides": "The Military Family Employment Advocacy Program connects military spouses, dependents and activated Florida National Guard members with employment advocates.",
+   "eligibility": "Military spouses and dependents, active duty military personnel and activated Florida National Guard members (per program overview)",
+   "how_to_apply": "Contact a Florida Employment Advocate listed on the program page",
+   "audience": "individual",
+   "status": "unknown"
+  },
+  {
+   "name": "Florida State Grants and Scholarships (OSFA)",
+   "url": "https://www.floridastudentfinancialaid.org/",
+   "provider": "Florida Office of Student Financial Assistance (OSFA)",
+   "kind": "grant",
+   "provides": "The OSFA site lists state grants, scholarships and applications for Florida students.",
+   "audience": "individual",
+   "status": "unknown"
+  }
+ ]
+}
