@@ -15,7 +15,9 @@ const code = (s) => { if (!s) return null; const t = String(s).trim(); if (STATE
 const slug = (n) => n.toLowerCase().replace(/[^a-z0-9]+/g, '-');
 const read = (f) => (existsSync(join(horde, f)) ? JSON.parse(readFileSync(join(horde, f), 'utf8')) : null);
 const isHttp = (u) => typeof u === 'string' && /^https?:\/\//i.test(u);
-const aggregator = (u) => /(linemancentral|unionlocator|unionfacts|electriciandb|americanautoworker|zoominfo|yelp|facebook|indeed|glassdoor|mapquest|yellowpages|manta|bbb|labor411|helmetstohardhats|allevents|apprentice|unionlabel|sparkshift|trampherebro|clevelandtradeschools|ziprecruiter|linkedin|instagram|youtube|nlrb|dol)./i.test(u);
+// URLs reviewed by hand and rejected (login pages and the like)
+const rejected = (u) => /pipeline.ualocal52.org/i.test(u);
+const aggregator = (u) => rejected(u) || /(linemancentral|unionlocator|unionfacts|electriciandb|americanautoworker|zoominfo|yelp|facebook|indeed|glassdoor|mapquest|yellowpages|manta|bbb|labor411|helmetstohardhats|allevents|apprentice|unionlabel|sparkshift|trampherebro|clevelandtradeschools|ziprecruiter|linkedin|instagram|youtube|nlrb|dol)./i.test(u);
 const searchy = (u) => /[?&](s|q|query|search|keys?|keyword)=|\/search/i.test(u);
 const clean = (o, drop = []) => Object.fromEntries(Object.entries(o).filter(([k, v]) => v != null && v !== '' && !(Array.isArray(v) && !v.length) && !drop.includes(k)));
 
