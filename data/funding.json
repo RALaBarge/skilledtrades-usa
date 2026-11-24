@@ -1,0 +1,80 @@
+{
+ "federal": [
+  {
+   "name": "Job Corps",
+   "url": "https://www.jobcorps.gov/",
+   "provides": "Free residential and nonresidential training, including trade programs, with housing, meals, and a job placement focus."
+  },
+  {
+   "name": "Registered Apprenticeship (DOL ETA Apprenticeship section)",
+   "url": "https://www.dol.gov/agencies/eta/apprenticeship",
+   "provides": "DOL overview of the Registered Apprenticeship system; points to Apprenticeship.gov as the one-stop source for finding and starting apprenticeships."
+  },
+  {
+   "name": "Workforce Innovation and Opportunity Act (WIOA) overview",
+   "url": "https://www.dol.gov/agencies/eta/wioa",
+   "provides": "DOL overview of WIOA, which funds adult and dislocated worker training, including Individual Training Accounts (ITAs) through American Job Centers. The fetched text did not describe ITAs in detail; follow linked pages."
+  },
+  {
+   "name": "Reentry Employment Opportunities (REO)",
+   "url": "https://www.dol.gov/agencies/eta/reentry",
+   "provides": "DOL grant-funded programs helping justice-involved youth, young adults, and formerly incarcerated adults get workforce training and jobs."
+  },
+  {
+   "name": "VA GI Bill benefits",
+   "url": "https://www.va.gov/education/about-gi-bill-benefits/",
+   "provides": "GI Bill education benefits that can pay for on-the-job training, apprenticeships, and non-college degree programs."
+  },
+  {
+   "name": "Veteran Readiness and Employment (VR&E, Chapter 31)",
+   "url": "https://www.va.gov/careers-employment/vocational-rehabilitation/",
+   "provides": "Vocational rehabilitation that can pay for training at vocational/technical schools, on-the-job training, and apprenticeships."
+  },
+  {
+   "name": "Federal Pell Grant",
+   "url": "https://studentaid.gov/understand-aid/types/grants/pell",
+   "provides": "Need-based federal grant for postsecondary education and training."
+  },
+  {
+   "name": "Workforce Pell",
+   "url": "https://www.ed.gov/about/news/press-release/us-department-of-education-issues-final-rule-create-new-workforce-pell-grant-program",
+   "provides": "Pell Grant funding for short-term workforce programs (8 to under 15 weeks, 150-599 clock hours), with governor and Department of Education approval and 70% completion and placement benchmarks, per search-result summaries of ED and FSA Partners materials."
+  },
+  {
+   "name": "FAFSA",
+   "url": "https://fafsa.gov/",
+   "provides": "Free Application for Federal Student Aid; required for Pell Grants, federal loans and many state and school grants."
+  },
+  {
+   "name": "CareerOneStop (funding and training finder; Apprenticeship finder)",
+   "url": "https://www.careeronestop.org/",
+   "provides": "DOL-run training and funding search tools, including Training Finder and links to American Job Center locations."
+  },
+  {
+   "name": "Apprenticeship.gov (Apprenticeship Finder)",
+   "url": "https://www.apprenticeship.gov/",
+   "provides": "DOL site to search open Registered Apprenticeship job listings by keyword and location and to find programs taking new apprentices."
+  },
+  {
+   "name": "American Job Centers (find a center)",
+   "url": "https://www.careeronestop.org/LocalHelp/AmericanJobCenters/find-american-job-centers.aspx",
+   "provides": "Locator for local American Job Centers that provide WIOA training assistance and career services."
+  },
+  {
+   "name": "YouthBuild",
+   "url": "https://www.dol.gov/agencies/eta/youth/youthbuild",
+   "provides": "DOL-funded program combining construction-trade training with education for young people."
+  },
+  {
+   "name": "SNAP Employment and Training (SNAP E&T)",
+   "url": "https://www.fns.usda.gov/snap/et",
+   "provides": "USDA program that can pay for training, tuition, and supportive services for SNAP participants."
+  },
+  {
+   "name": "Perkins V Career and Technical Education",
+   "url": "https://cte.ed.gov/",
+   "provides": "Federal funding to state and local CTE programs, including trade and technical training at high schools and community colleges."
+  }
+ ],
+ "states": {}
+}

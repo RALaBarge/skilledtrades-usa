@@ -54,11 +54,12 @@ const colleges = JSON.parse(readFileSync(join(root, 'data', 'colleges.json'), 'u
   .map((c) => Object.fromEntries(Object.entries(c).filter(([k, v]) => v != null && v !== '' && k !== 'notes' && k !== 'verified')));
 const occ = JSON.parse(readFileSync(join(root, 'data', 'national', 'occupations.json'), 'utf8'));
 const stateOews = JSON.parse(readFileSync(join(root, 'data', 'national', 'state-oews.json'), 'utf8'));
+const funding = JSON.parse(readFileSync(join(root, 'data', 'funding.json'), 'utf8'));
 const safe = (v) => JSON.stringify(v).replace(/<\//g, '<\\/');
 const js = (f) => readFileSync(join(root, 'src', f), 'utf8').replace(/<\/script/gi, '<\\/script');
 const fill = {
   __RETRO_SNIPPET__: retroSnippet, __PAGE_STYLE__: pageStyle, __HOME_CSS__: readFileSync(join(root, 'src', 'home.css'), 'utf8'),
-  __RETRO_SWITCH__: retroSwitch, __COLLEGES__: safe(colleges), __OCC__: safe(occ), __STATE_OEWS__: safe(stateOews), __QUIZ_JS__: js('quiz.js'), __HOME_JS__: js('home.js'),
+  __RETRO_SWITCH__: retroSwitch, __COLLEGES__: safe(colleges), __OCC__: safe(occ), __STATE_OEWS__: safe(stateOews), __FUNDING__: safe(funding), __QUIZ_JS__: js('quiz.js'), __HOME_JS__: js('home.js'),
 };
 let home = readFileSync(join(root, 'src', 'home.html'), 'utf8');
 for (const [k, v] of Object.entries(fill)) home = home.split(k).join(v);

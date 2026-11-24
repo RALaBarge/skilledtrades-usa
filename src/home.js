@@ -70,6 +70,13 @@
     kids.push(el('div', { 'class': 'actions' }, acts));
     kids.push(el('p', { 'class': 'note', text: 'One college to start from. Others in ' + s.state + ' may offer more, and many trades also train through paid apprenticeships.' }));
     card.appendChild(el('div', { 'class': 'card' }, kids));
+    var sf = (window.FUNDING && window.FUNDING.states && window.FUNDING.states[s.state]) || [];
+    if (sf.length) {
+      card.appendChild(el('h3', { text: 'Help getting started in ' + s.state }));
+      card.appendChild(el('ul', { 'class': 'cards' }, sf.map(function (f) {
+        return el('li', {}, [el('h3', { text: f.name }), el('p', { text: f.provides }), el('p', {}, [link('Official page', f.url, 'btn alt')])]);
+      })));
+    }
     var tbl = stateTable(s.state);
     if (tbl) {
       card.appendChild(el('h3', { text: 'Trades in ' + s.state }));
@@ -136,6 +143,13 @@
     document.getElementById('results-h').focus();
   }
   startQuiz();
+
+  /* ---------- pay for training ---------- */
+  var FUND = window.FUNDING || { federal: [], states: {} };
+  var fed = document.getElementById('fed');
+  FUND.federal.forEach(function (f) {
+    fed.appendChild(el('li', {}, [el('h3', { text: f.name }), el('p', { text: f.provides }), el('p', {}, [link('Visit the official page', f.url, 'btn alt')])]));
+  });
 
   /* ---------- browse careers ---------- */
   var q = document.getElementById('q'), fam = document.getElementById('fam'), pth = document.getElementById('path'), set = document.getElementById('set');
