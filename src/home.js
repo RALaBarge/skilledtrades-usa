@@ -34,8 +34,7 @@
   }
   function concentration(lq) {
     if (lq == null) return '';
-    if (lq >= 1.25) return lq.toFixed(1) + '× the national share';
-    if (lq <= 0.75) return lq.toFixed(1) + '× the national share';
+    if (lq >= 1.25 || lq <= 0.75) return lq.toFixed(1) + '× average';
     return 'average';
   }
   function stateTable(name) {
