@@ -115,12 +115,19 @@
  },
  {
   "state": "Connecticut",
-  "college": "Connecticut State Community College (unresolved)",
+  "college": "CT State Community College (12 campuses)",
   "college_home_url": "https://ctstate.edu/",
-  "trades_page_url": "https://ctstate.edu/programs/welding",
-  "programs": [],
-  "credentials": "Non-credit certificates (welding, 100-130 hrs); credit AS degree and certificate in Welding and Fabrication Technologies (Asnuntuck, AWS accredited test facility)",
-  "city": "Waterbury",
+  "trades_page_url": "https://ctstate.edu/academics/programs",
+  "programs": [
+   "Welding",
+   "CNC machining",
+   "Manufacturing",
+   "Eversource lineworker",
+   "Automotive",
+   "Construction management"
+  ],
+  "credentials": "Certificates and associate degrees",
+  "city": "Statewide",
   "state_workforce_url": "https://portal.ct.gov/DOL",
   "notes": "UNRESOLVED. No CT State page fetched lists a broad trades set. The Find a Program page (ctstate.edu/academics/programs, page 1 of about 24) lists only Architecture: Construction Technology Certificate and Automotive Technology Certificate options. The Manufacturing page lists only generic Advanced Manufacturing. The Eversource Lineworker Program (ctstate.edu/programs/lineworker, CT State Capital) is verified but is a single-trade page. Welding at Naugatuck Valley (ctstate.edu/programs/welding) was seen only in search results, not fetched. Electrical, HVAC and plumbing programs at CT State were not found on any fetched page. The catalog PDF and catalog program index returned 403. Quinebaug Valley (qvcc.ctstate.edu) returned a certificate-expired error. The CT Dept. of Labor page loaded and is verified.",
   "verified": false
@@ -394,18 +401,17 @@
  },
  {
   "state": "Massachusetts",
-  "college": "Quinsigamond Community College (QCC)",
-  "college_home_url": "https://www.qcc.edu/",
-  "trades_page_url": "https://www.qcc.edu/installation-maintenance-and-repair-technologies",
+  "college": "Holyoke Community College",
+  "college_home_url": "https://www.hcc.edu/",
+  "trades_page_url": "https://www.hcc.edu/courses-and-programs/workforce-development/free-job-training-programs/clean-energy-and-skilled-trades-training",
   "programs": [
-   "HVAC/R (Heating Ventilation Air Conditioning) Certificate",
-   "Automotive Technology (AAS)",
-   "Advanced Automotive Certificate",
-   "Automotive Technology - Ford Maintenance and Light Repair Certificate",
-   "Utility Technology Certificate (utility line/meter work)"
+   "Electrical pre-apprenticeship (solar installer)",
+   "Construction electricity",
+   "Weatherization",
+   "Manufacturing and clean energy"
   ],
-  "credentials": "Associate in Applied Science (AAS); Certificates",
-  "city": "Worcester, MA",
+  "credentials": "Free short job-training programs",
+  "city": "Holyoke",
   "state_workforce_url": "https://www.mass.gov/orgs/executive-office-of-labor-and-workforce-development (not fetched: returned 403)",
   "notes": "Public community college, Worcester campus at 670 West Boylston Street. The trades page loaded and lists HVAC/R and automotive programs plus a utility technology certificate. It does not list welding, electrical (building), plumbing, carpentry or machining; the utility certificate is the closest electrical match. Page is the Installation, Maintenance and Repair Technologies category. Fallback if a building-electrical or welding page is needed: none verified yet at QCC.",
   "verified": true
@@ -516,17 +522,18 @@
  },
  {
   "state": "New Hampshire",
-  "college": "Lakes Region Community College (Laconia, NH; part of the Community College System of New Hampshire)",
-  "college_home_url": "https://www.lrcc.edu/",
-  "trades_page_url": "https://www.lrcc.edu/programs/",
+  "college": "Manchester Community College",
+  "college_home_url": "https://www.ccsnh.edu/colleges-and-programs/manchester-community-college/",
+  "trades_page_url": "https://mccnh.edu/programs/",
   "programs": [
-   "Electrical Power and Control Technologies (Associate Degree and Certificate)",
-   "Electrical Systems Installation and Maintenance (Associate Degree and Certificate)",
-   "Automotive - General Motors ASEP (Associate Degree)",
-   "Automotive - Toyota/Lexus T-TEN (Associate Degree and Certificate)"
+   "HVAC",
+   "Electrical technology",
+   "Electrical lineworker",
+   "Automotive",
+   "Automated manufacturing"
   ],
-  "credentials": "Associate Degree; Certificate",
-  "city": "Laconia, NH",
+  "credentials": "AAS, AS and certificate programs",
+  "city": "Manchester",
   "state_workforce_url": "https://www.nh.gov/ (not fetched: returned 403); NH Employment Security is the state workforce agency",
   "notes": "Public community college. The programs page loaded and lists two electrical programs and two automotive programs. The page is titled 'Programs Archive' and does not list welding, HVAC, plumbing, carpentry or lineworker programs. Workforce training page (https://www.lrcc.edu/workforce-development/) was linked from the homepage but not fetched. NHTI (Concord) was not chosen because its programs page (https://www.nhti.edu/programs/) showed only engineering programs on page 1 of 4, and its trades page (careertraining.nhti.edu) returned 403.",
   "verified": true
@@ -664,19 +671,19 @@
  },
  {
   "state": "Oklahoma",
-  "college": "Oklahoma City Community College (OCCC)",
-  "college_home_url": "https://www.occc.edu/",
-  "trades_page_url": "https://www.occc.edu/academics/areas-of-study/auto-tech/index.html",
+  "college": "Redlands Community College",
+  "college_home_url": "https://www.redlandscc.edu",
+  "trades_page_url": "https://www.redlandscc.edu/academics/careertech/index.php",
   "programs": [
-   "Automotive Technology (program page; loads, title 'Automotive Technology')",
-   "Automotive Technology - Vehicle Service Advisor",
-   "Automotive Service Educational Program (ASEP)",
-   "Automotive Technology Internship Program (ATIP)",
-   "Maintenance and Light Vehicle Repair Program (MLRP)",
-   "Alt Fuels (auto-related course/offering)"
+   "Auto Collision",
+   "Auto Service",
+   "Diesel Technology",
+   "Electrical Trades",
+   "HVACR Technology",
+   "Industrial Automation and Robotics Technology"
   ],
-  "credentials": "Certificates (Automotive Technology; Automotive Technology - Vehicle Service Advisor). No AAS named on the page.",
-  "city": "Oklahoma City, OK",
+  "credentials": "Career-tech programs listed under 'Associate in Applied Science Options' on the trades page. Electrical and Diesel detail pages describe the program as 'Applied Technology, Industrial Power Transportation Option' (61 credit hours) and the Diesel page says students can 'complete an associate degree'. The page does not state explicitly for each program whether the award is a certificate or AAS, so treat the exact credential as unconfirmed.",
+  "city": "El Reno",
   "state_workforce_url": "https://oklahoma.gov/careertech.html",
   "notes": "Only auto trades found on OCCC's Areas of Study index (https://www.occc.edu/academics/areas-of-study/index.html). Index has no welding, electrical, HVAC, plumbing, construction, or machining programs. Auto is an accepted trade per brief. Campus address on program page: 7777 S. May Ave., Oklahoma City, OK 73159. Homepage at https://www.occc.edu/ loads; program page loads. Other OK candidates checked, none gave a multi-trade listing (see attempted).",
   "verified": true
@@ -863,15 +870,18 @@
  },
  {
   "state": "Vermont",
-  "college": "River Valley Technical Center (Springfield, VT) - no public community college in Vermont lists trades programs; this is a regional technical center",
-  "college_home_url": "https://rvtc.org/",
-  "trades_page_url": "https://rvtc.org/day-time-programs",
+  "college": "Vermont Adult Career & Technical Education (statewide network of training centers)",
+  "college_home_url": "https://vtadultcte.org/",
+  "trades_page_url": "https://vtadultcte.org/",
   "programs": [
-   "Carpentry (construction; students build a shed, then a full-size house in year 2)",
-   "Advanced Manufacturing / Engineering (CNC machining and manual precision machining)"
+   "Welding",
+   "Electrical",
+   "Automotive",
+   "Industrial maintenance",
+   "Commercial driver license (CDL)"
   ],
-  "credentials": "Not stated on the page (high school day programs; check for adult/certificate options)",
-  "city": "Springfield, VT",
+  "credentials": "Adult classes and certifications at regional career centers",
+  "city": "Statewide (e.g. Stafford Technical Center, Rutland)",
   "state_workforce_url": "https://labor.vermont.gov/ (not fetched: returned 403)",
   "notes": "Vermont does not have a public community college that lists trades programs: Community College of Vermont homepage has no trades programs and Vermont Technical College now redirects into Vermont State University, a four-year system. The chosen page is a regional technical center (not a community college) and lists carpentry/construction and machining; it does NOT list welding, electrical, HVAC or plumbing. Those appear at other centers per a 2025 legislative reference (Stafford Technical Center electrical; Hartford Area CTC welding; Green Mountain Technology and Career Center HVAC) but the Stafford and Hartford URLs did not resolve or were not fetched. Essex Center for Technology's Building Systems page loaded but its content was truncated (no program list captured). Verify before relying on it for weld or electrical. Vermont State University homepage has no trades named on the homepage.",
   "verified": true
